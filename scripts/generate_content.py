@@ -235,6 +235,312 @@ The city center provides easy access to attractions and services. Historic areas
 5. **Day Trips**: Many organized tours available for solo travelers
 '''
 
+ITINERARY_TEMPLATE = '''---
+title: "{duration} in {name}"
+description: "Perfect {duration} solo travel itinerary for {name}. Day-by-day guide with activities, accommodation tips, and budget breakdown."
+country: "{country_slug}"
+countryName: "{name}"
+duration: "{duration}"
+days: {days}
+heroImage: "https://source.unsplash.com/1600x900/?{image_query}"
+
+quickInfo:
+  duration: "{duration}"
+  budget: "${budget_total}"
+  bestFor: "{best_for}"
+  difficulty: "{difficulty}"
+
+highlights:
+{highlights_yaml}
+
+budget:
+  accommodation: "${accommodation}"
+  food: "${food}"
+  transport: "${transport}"
+  activities: "${activities}"
+  total: "${budget_total}"
+
+faqs:
+  - question: "Is {duration} enough time in {name}?"
+    answer: "{time_answer}"
+  - question: "What's the best season for this itinerary?"
+    answer: "The ideal time to visit {name} is {best_time}. However, this itinerary works year-round with minor adjustments."
+---
+
+## {duration} Solo Travel Itinerary for {name}
+
+{intro}
+
+## Day-by-Day Breakdown
+
+{daily_breakdown}
+
+## Budget Breakdown
+
+This itinerary is designed for {budget_style} travelers. Total estimated cost: ${budget_total}.
+
+## Solo Travel Tips for This Itinerary
+
+1. **Book accommodations in advance** during peak season
+2. **Join group tours** for activities to meet other travelers
+3. **Stay flexible** - the best experiences often come from spontaneous detours
+4. **Connect locally** - use apps and hostels to meet fellow solo travelers
+5. **Document your journey** - you'll want to remember these experiences
+
+## What to Pack
+
+- Comfortable walking shoes
+- Layers for varying weather
+- Universal power adapter
+- Portable charger
+- Copies of important documents
+'''
+
+BUDGET_GUIDE_TEMPLATE = '''---
+title: "{name} on a Budget"
+description: "Complete budget travel guide to {name} for solo travelers. Money-saving tips, cheap accommodation, affordable food, and free activities."
+country: "{country_slug}"
+countryName: "{name}"
+heroImage: "https://source.unsplash.com/1600x900/?{image_query}"
+
+budgetOverview:
+  dailyBudget: "${daily_budget}"
+  cheapestMonth: "{cheapest_month}"
+  currency: "{currency}"
+  costLevel: "{cost_level}"
+
+accommodation:
+  hostelDorm: "${hostel}"
+  budgetHotel: "${budget_hotel}"
+  airbnb: "${airbnb}"
+  tips:
+    - "Book hostels with kitchens to save on food"
+    - "Consider Couchsurfing for free stays and local connections"
+    - "Stay outside city centers for lower prices"
+
+food:
+  streetFood: "${street_food}"
+  localRestaurant: "${local_restaurant}"
+  grocery: "${grocery}"
+  tips:
+    - "Eat where locals eat for authentic and affordable meals"
+    - "Markets offer fresh produce at low prices"
+    - "Lunch specials are often cheaper than dinner"
+
+transport:
+  publicTransit: "${transit}"
+  intercityBus: "${bus}"
+  tips:
+    - "Get transit passes for multi-day savings"
+    - "Walk when possible - it's free and you see more"
+    - "Night buses save on accommodation costs"
+
+freeActivities:
+{free_activities_yaml}
+
+faqs:
+  - question: "How much money do I need per day in {name}?"
+    answer: "Budget travelers can manage on ${daily_budget}/day including basic accommodation, local food, and public transport."
+  - question: "Is {name} expensive for tourists?"
+    answer: "{expense_answer}"
+---
+
+## Budget Solo Travel in {name}
+
+{intro}
+
+## Daily Budget Breakdown
+
+Living on ${daily_budget}/day in {name} is {feasibility}. Here's how to make it work:
+
+### Accommodation (${hostel}-${budget_hotel}/night)
+{accommodation_text}
+
+### Food (${street_food}-${local_restaurant}/day)
+{food_text}
+
+### Transportation (${transit}/day)
+{transport_text}
+
+## Money-Saving Tips
+
+1. **Travel in shoulder season** - Lower prices and fewer crowds
+2. **Cook some meals** - Hostel kitchens save significant money
+3. **Free walking tours** - Tip-based tours in most cities
+4. **Student/youth discounts** - Bring valid ID for discounts
+5. **Happy hour specials** - Enjoy nightlife affordably
+
+## Free Things to Do
+
+{free_activities_text}
+
+## Budget Accommodation Tips
+
+{budget_accommodation_tips}
+
+## Eating Cheap in {name}
+
+{eating_cheap_text}
+'''
+
+SOLO_FEMALE_TEMPLATE = '''---
+title: "Solo Female Travel in {name}"
+description: "Complete solo female travel guide to {name}. Safety tips, best areas, cultural advice, and practical information for women traveling alone."
+country: "{country_slug}"
+countryName: "{name}"
+heroImage: "https://source.unsplash.com/1600x900/?{image_query}"
+
+safetyRating: "{safety_rating}"
+overallRating: "{overall_rating}"
+
+safetyFactors:
+  streetHarassment: "{harassment_level}"
+  nightSafety: "{night_safety}"
+  soloFriendly: "{solo_friendly}"
+  dresscode: "{dresscode}"
+
+bestAreas:
+{best_areas_yaml}
+
+tips:
+  cultural:
+    - "{cultural_tip_1}"
+    - "{cultural_tip_2}"
+    - "{cultural_tip_3}"
+  safety:
+    - "Share your itinerary with someone back home"
+    - "Trust your instincts - if something feels wrong, leave"
+    - "Keep emergency numbers saved in your phone"
+  practical:
+    - "{practical_tip_1}"
+    - "{practical_tip_2}"
+    - "{practical_tip_3}"
+
+faqs:
+  - question: "Is {name} safe for solo female travelers?"
+    answer: "{safety_answer}"
+  - question: "What should women wear in {name}?"
+    answer: "{dress_answer}"
+  - question: "Can women go out alone at night in {name}?"
+    answer: "{night_answer}"
+---
+
+## Solo Female Travel Guide to {name}
+
+{intro}
+
+## Is {name} Safe for Women Traveling Alone?
+
+{safety_overview}
+
+## Cultural Considerations
+
+{cultural_section}
+
+## Best Areas for Solo Female Travelers
+
+{best_areas_text}
+
+## What to Wear
+
+{dress_section}
+
+## Night Safety
+
+{night_section}
+
+## Meeting Other Travelers
+
+{social_section}
+
+## Top Tips from Female Travelers
+
+1. {top_tip_1}
+2. {top_tip_2}
+3. {top_tip_3}
+4. {top_tip_4}
+5. {top_tip_5}
+
+## Emergency Resources
+
+- Tourist police: Check locally
+- Embassy: Register before travel
+- Local women's organizations: Research before arrival
+'''
+
+ACTIVITY_TEMPLATE = '''---
+title: "{activity} in {name}"
+description: "Complete guide to {activity} in {name} for solo travelers. Best spots, tours, costs, and tips for {activity_lower} alone."
+country: "{country_slug}"
+countryName: "{name}"
+activity: "{activity}"
+heroImage: "https://source.unsplash.com/1600x900/?{image_query}"
+
+activityInfo:
+  difficulty: "{difficulty}"
+  cost: "${cost}"
+  bestSeason: "{best_season}"
+  soloFriendly: "{solo_friendly}"
+
+topSpots:
+{spots_yaml}
+
+tours:
+  groupTour: "${group_tour}"
+  privateTour: "${private_tour}"
+  selfGuided: "{self_guided}"
+
+gear:
+{gear_yaml}
+
+faqs:
+  - question: "Can I do {activity_lower} solo in {name}?"
+    answer: "{solo_answer}"
+  - question: "What's the best time for {activity_lower} in {name}?"
+    answer: "The ideal season for {activity_lower} in {name} is {best_season}."
+  - question: "How much does {activity_lower} cost in {name}?"
+    answer: "Expect to spend ${cost} for a typical {activity_lower} experience including equipment and guides."
+---
+
+## {activity} in {name} for Solo Travelers
+
+{intro}
+
+## Best Spots for {activity}
+
+{spots_text}
+
+## Solo {activity} Tips
+
+{solo_tips}
+
+## Tours vs Self-Guided
+
+{tours_text}
+
+## What to Bring
+
+{gear_text}
+
+## Safety Considerations
+
+{safety_text}
+
+## Meeting Other {activity} Enthusiasts
+
+{social_text}
+
+## Budget Breakdown
+
+- Group tours: ${group_tour}
+- Equipment rental: ${rental}
+- Solo/self-guided: {self_guided_cost}
+
+## Best Season
+
+{season_text}
+'''
+
 SAFETY_TEMPLATE = '''---
 title: "{name}"
 description: "{name} safety guide for solo travelers. Travel advisories, emergency contacts, scam alerts, and safety tips."
@@ -626,6 +932,307 @@ def generate_safety_content(country: dict) -> str:
     return content
 
 
+# Activity definitions for each region
+REGION_ACTIVITIES = {
+    "Asia": ["Hiking", "Temples", "Street Food Tours", "Meditation Retreats", "Cooking Classes"],
+    "Europe": ["Hiking", "Museums", "Food Tours", "Wine Tasting", "Architecture Tours"],
+    "Americas": ["Hiking", "Beach Activities", "Wildlife Tours", "Adventure Sports", "Food Tours"],
+    "Africa": ["Safari", "Hiking", "Cultural Tours", "Wildlife Photography", "Desert Tours"],
+    "Oceania": ["Hiking", "Diving", "Beach Activities", "Wildlife Tours", "Adventure Sports"],
+}
+
+DEFAULT_ACTIVITIES = ["Hiking", "Food Tours", "Cultural Tours", "Photography", "Walking Tours"]
+
+
+def generate_itinerary_content(country: dict, duration: str, days: int) -> str:
+    """Generate itinerary page content for a country."""
+    name = country["name"]
+    slug = country["slug"]
+    region = country.get("region", "")
+
+    # Budget calculations
+    budget = country.get("budget_per_day", {"budget": "50-80"})
+    if isinstance(budget, dict):
+        daily = int(budget.get("budget", "50-80").split("-")[0])
+    else:
+        daily = 50
+
+    budget_total = daily * days
+
+    # Generate highlights
+    highlights = [
+        f"Explore the capital and major cities",
+        f"Experience local cuisine and culture",
+        f"Visit iconic landmarks and attractions",
+        f"Connect with fellow travelers"
+    ]
+    highlights_yaml = "\n".join([f'  - "{h}"' for h in highlights])
+
+    # Generate daily breakdown
+    daily_breakdown = ""
+    for d in range(1, days + 1):
+        if d == 1:
+            daily_breakdown += f"### Day {d}: Arrival & Orientation\nArrive, settle into your accommodation, and explore your immediate neighborhood. Get your bearings and recover from travel.\n\n"
+        elif d == days:
+            daily_breakdown += f"### Day {d}: Final Explorations & Departure\nLast-minute shopping, revisit favorite spots, and prepare for departure.\n\n"
+        elif d <= days // 3:
+            daily_breakdown += f"### Day {d}: City Exploration\nDeep dive into the main city - museums, landmarks, and local neighborhoods.\n\n"
+        elif d <= (days * 2) // 3:
+            daily_breakdown += f"### Day {d}: Day Trip or New City\nVenture outside the main city or travel to your next destination.\n\n"
+        else:
+            daily_breakdown += f"### Day {d}: Cultural Immersion\nCooking class, local market visit, or cultural experience.\n\n"
+
+    content = ITINERARY_TEMPLATE.format(
+        name=name,
+        country_slug=slug,
+        duration=duration,
+        days=days,
+        image_query=f"{name.lower().replace(' ', '+')}+travel+itinerary",
+        budget_total=budget_total,
+        best_for="First-time visitors" if days <= 7 else "In-depth explorers",
+        difficulty="Easy" if days <= 7 else "Moderate",
+        highlights_yaml=highlights_yaml,
+        accommodation=int(budget_total * 0.35),
+        food=int(budget_total * 0.25),
+        transport=int(budget_total * 0.20),
+        activities=int(budget_total * 0.20),
+        time_answer=f"{'Yes, ' + duration + ' gives you a solid introduction to ' + name + '.' if days <= 7 else duration + ' allows for an in-depth exploration of ' + name + '.'}",
+        best_time=country.get("best_time_to_visit", "Year-round"),
+        intro=f"This {duration} itinerary covers the highlights of {name}, perfect for solo travelers looking to maximize their experience.",
+        daily_breakdown=daily_breakdown,
+        budget_style="budget to mid-range"
+    )
+
+    return content
+
+
+def generate_budget_guide_content(country: dict) -> str:
+    """Generate budget travel guide content for a country."""
+    name = country["name"]
+    slug = country["slug"]
+
+    # Budget calculations
+    budget = country.get("budget_per_day", {"budget": "50-80"})
+    if isinstance(budget, dict):
+        daily = int(budget.get("budget", "50-80").split("-")[0])
+    else:
+        daily = 50
+
+    # Determine cost level
+    if daily < 30:
+        cost_level = "Very Budget-Friendly"
+        feasibility = "very achievable"
+    elif daily < 50:
+        cost_level = "Budget-Friendly"
+        feasibility = "comfortable"
+    elif daily < 80:
+        cost_level = "Moderate"
+        feasibility = "manageable with planning"
+    else:
+        cost_level = "Higher Cost"
+        feasibility = "challenging but possible"
+
+    # Free activities
+    free_activities = [
+        "Walking tours of historic areas",
+        "Public parks and gardens",
+        "Free museum days",
+        "Local markets (window shopping)",
+        "Beach or nature areas"
+    ]
+    free_activities_yaml = "\n".join([f'  - "{a}"' for a in free_activities])
+
+    content = BUDGET_GUIDE_TEMPLATE.format(
+        name=name,
+        country_slug=slug,
+        image_query=f"{name.lower().replace(' ', '+')}+budget+travel",
+        daily_budget=daily,
+        cheapest_month="Shoulder season months",
+        currency=country.get("currency", "Local currency"),
+        cost_level=cost_level,
+        hostel=int(daily * 0.25),
+        budget_hotel=int(daily * 0.45),
+        airbnb=int(daily * 0.35),
+        street_food=int(daily * 0.10),
+        local_restaurant=int(daily * 0.20),
+        grocery=int(daily * 0.08),
+        transit=int(daily * 0.10),
+        bus=int(daily * 0.15),
+        free_activities_yaml=free_activities_yaml,
+        expense_answer=f"{name} is {cost_level.lower()} for tourists. Budget travelers can manage on ${daily}/day with careful planning.",
+        intro=f"Traveling {name} on a budget is {feasibility}. This guide shows you how to maximize experiences while minimizing costs.",
+        feasibility=feasibility,
+        accommodation_text=f"Hostels offer the best value, with dorm beds starting around ${int(daily * 0.25)}. Budget hotels run ${int(daily * 0.45)}+ for private rooms.",
+        food_text=f"Street food and local eateries offer meals for ${int(daily * 0.10)}-{int(daily * 0.15)}. Cooking in hostel kitchens saves more.",
+        transport_text=f"Public transit averages ${int(daily * 0.10)}/day. Walking is free and the best way to explore.",
+        free_activities_text="Many cities offer free walking tours, public parks, and free museum days. Nature areas and beaches are typically free.",
+        budget_accommodation_tips="Book hostels with kitchens to save on food costs. Look for weekly discounts for longer stays.",
+        eating_cheap_text="Follow the locals - street vendors and small family restaurants offer the best value and authenticity."
+    )
+
+    return content
+
+
+def generate_solo_female_content(country: dict) -> str:
+    """Generate solo female travel guide content for a country."""
+    name = country["name"]
+    slug = country["slug"]
+    safety_level = country.get("safety_level", "caution")
+
+    # Determine ratings based on safety level
+    if safety_level == "safe":
+        safety_rating = "High"
+        overall_rating = "Excellent"
+        harassment_level = "Low"
+        night_safety = "Generally Safe"
+        solo_friendly = "Very Friendly"
+    elif safety_level == "caution":
+        safety_rating = "Moderate-High"
+        overall_rating = "Good"
+        harassment_level = "Low-Moderate"
+        night_safety = "Use Caution"
+        solo_friendly = "Friendly"
+    else:
+        safety_rating = "Moderate"
+        overall_rating = "Requires Preparation"
+        harassment_level = "Moderate"
+        night_safety = "Caution Advised"
+        solo_friendly = "With Research"
+
+    best_areas = [
+        {"name": "Tourist Districts", "safety": "High", "notes": "Well-patrolled, many travelers"},
+        {"name": "City Centers", "safety": "High", "notes": "Busy during day, use caution at night"},
+        {"name": "Upscale Neighborhoods", "safety": "High", "notes": "Safer but pricier accommodation"}
+    ]
+    best_areas_yaml = ""
+    for area in best_areas:
+        best_areas_yaml += f'''  - name: "{area['name']}"
+    safety: "{area['safety']}"
+    notes: "{area['notes']}"
+'''
+
+    content = SOLO_FEMALE_TEMPLATE.format(
+        name=name,
+        country_slug=slug,
+        image_query=f"{name.lower().replace(' ', '+')}+solo+female+travel",
+        safety_rating=safety_rating,
+        overall_rating=overall_rating,
+        harassment_level=harassment_level,
+        night_safety=night_safety,
+        solo_friendly=solo_friendly,
+        dresscode="Varies by area - research local customs",
+        best_areas_yaml=best_areas_yaml,
+        cultural_tip_1="Research local customs before visiting religious sites",
+        cultural_tip_2="Learn basic phrases in the local language",
+        cultural_tip_3="Observe how local women dress and behave",
+        practical_tip_1="Download offline maps and translation apps",
+        practical_tip_2="Keep emergency contacts easily accessible",
+        practical_tip_3="Book accommodations with good reviews from solo female travelers",
+        safety_answer=f"{name} is {overall_rating.lower()} for solo female travelers. Most women report positive experiences with standard precautions.",
+        dress_answer=f"Dress codes in {name} vary by region. Research specific areas you'll visit and pack versatile, modest options.",
+        night_answer=f"Night safety in {name}: {night_safety}. Stick to well-lit, busy areas and use trusted transportation.",
+        intro=f"Solo female travel in {name} is {overall_rating.lower()}. This guide covers everything women need to know for a safe, enjoyable trip.",
+        safety_overview=f"Women traveling alone in {name} generally report {('very positive' if safety_level == 'safe' else 'positive')} experiences. Standard precautions ensure smooth travels.",
+        cultural_section=f"Understanding local culture enhances your experience in {name}. Observe local women for cues on dress and behavior.",
+        best_areas_text="Tourist districts and city centers offer the safest environments for solo female travelers, with good infrastructure and other travelers nearby.",
+        dress_section=f"Pack versatile clothing appropriate for {name}'s climate and culture. Layers and modest options work well.",
+        night_section=f"{night_safety}. Use reputable transportation apps, stay in well-lit areas, and trust your instincts.",
+        social_section="Hostels, tours, and travel apps help connect with other solo travelers. Many women find travel companions along the way.",
+        top_tip_1="Trust your instincts - they're your best safety tool",
+        top_tip_2="Share your itinerary with someone back home",
+        top_tip_3="Book first nights in advance for peace of mind",
+        top_tip_4="Join women's travel groups for destination-specific advice",
+        top_tip_5="Carry a doorstop or portable lock for extra security"
+    )
+
+    return content
+
+
+def generate_activity_content(country: dict, activity: str) -> str:
+    """Generate activity page content for a country."""
+    name = country["name"]
+    slug = country["slug"]
+    region = country.get("region", "")
+
+    # Activity-specific details
+    activity_details = {
+        "Hiking": {"difficulty": "Moderate", "cost": "20-100", "season": "Spring/Fall", "gear": ["Hiking boots", "Daypack", "Water bottle", "Sunscreen"]},
+        "Temples": {"difficulty": "Easy", "cost": "5-20", "season": "Year-round", "gear": ["Modest clothing", "Comfortable shoes", "Camera"]},
+        "Street Food Tours": {"difficulty": "Easy", "cost": "15-50", "season": "Year-round", "gear": ["Empty stomach", "Cash", "Camera"]},
+        "Meditation Retreats": {"difficulty": "Easy", "cost": "50-200", "season": "Year-round", "gear": ["Comfortable clothes", "Open mind", "Journal"]},
+        "Cooking Classes": {"difficulty": "Easy", "cost": "30-80", "season": "Year-round", "gear": ["Appetite", "Camera", "Notebook"]},
+        "Museums": {"difficulty": "Easy", "cost": "10-25", "season": "Year-round", "gear": ["Comfortable shoes", "Camera", "Notebook"]},
+        "Food Tours": {"difficulty": "Easy", "cost": "40-100", "season": "Year-round", "gear": ["Appetite", "Comfortable shoes", "Cash for extras"]},
+        "Wine Tasting": {"difficulty": "Easy", "cost": "30-100", "season": "Harvest season", "gear": ["ID", "Designated transport", "Notebook"]},
+        "Architecture Tours": {"difficulty": "Easy", "cost": "15-40", "season": "Year-round", "gear": ["Camera", "Comfortable shoes", "Guide book"]},
+        "Beach Activities": {"difficulty": "Easy-Moderate", "cost": "20-80", "season": "Summer", "gear": ["Swimsuit", "Sunscreen", "Towel"]},
+        "Wildlife Tours": {"difficulty": "Moderate", "cost": "50-200", "season": "Varies", "gear": ["Binoculars", "Camera", "Neutral clothing"]},
+        "Adventure Sports": {"difficulty": "Challenging", "cost": "50-200", "season": "Varies", "gear": ["Athletic wear", "Insurance", "Camera"]},
+        "Safari": {"difficulty": "Easy", "cost": "150-500", "season": "Dry season", "gear": ["Binoculars", "Camera", "Neutral clothing", "Hat"]},
+        "Cultural Tours": {"difficulty": "Easy", "cost": "20-60", "season": "Year-round", "gear": ["Camera", "Comfortable shoes", "Respect"]},
+        "Wildlife Photography": {"difficulty": "Moderate", "cost": "100-300", "season": "Varies", "gear": ["Camera with zoom", "Tripod", "Patience"]},
+        "Desert Tours": {"difficulty": "Moderate", "cost": "80-250", "season": "Cooler months", "gear": ["Sun protection", "Layers", "Water"]},
+        "Diving": {"difficulty": "Moderate-Challenging", "cost": "80-200", "season": "Varies", "gear": ["Certification", "Swimsuit", "Underwater camera"]},
+        "Photography": {"difficulty": "Easy", "cost": "Free-50", "season": "Year-round", "gear": ["Camera", "Extra batteries", "Memory cards"]},
+        "Walking Tours": {"difficulty": "Easy", "cost": "Free-30", "season": "Year-round", "gear": ["Comfortable shoes", "Water", "Camera"]},
+    }
+
+    details = activity_details.get(activity, {"difficulty": "Easy", "cost": "30-80", "season": "Year-round", "gear": ["Comfortable clothes", "Camera"]})
+
+    # Parse cost
+    cost_str = details["cost"]
+    if "-" in str(cost_str):
+        cost_low = cost_str.split("-")[0]
+    else:
+        cost_low = str(cost_str)
+
+    # Format gear list
+    gear_yaml = "\n".join([f'  - "{g}"' for g in details["gear"]])
+
+    # Format spots
+    spots = [
+        {"name": "Popular destination 1", "rating": "Excellent", "notes": "Top-rated spot"},
+        {"name": "Hidden gem 2", "rating": "Great", "notes": "Less crowded alternative"},
+        {"name": "Local favorite 3", "rating": "Authentic", "notes": "Off the beaten path"}
+    ]
+    spots_yaml = ""
+    for spot in spots:
+        spots_yaml += f'''  - name: "{spot['name']}"
+    rating: "{spot['rating']}"
+    notes: "{spot['notes']}"
+'''
+
+    content = ACTIVITY_TEMPLATE.format(
+        activity=activity,
+        activity_lower=activity.lower(),
+        name=name,
+        country_slug=slug,
+        image_query=f"{name.lower().replace(' ', '+')}+{activity.lower().replace(' ', '+')}",
+        difficulty=details["difficulty"],
+        cost=cost_low,
+        best_season=details["season"],
+        solo_friendly="Yes",
+        spots_yaml=spots_yaml,
+        group_tour=int(int(cost_low) * 1.5) if cost_low.isdigit() else 50,
+        private_tour=int(int(cost_low) * 3) if cost_low.isdigit() else 100,
+        self_guided="Possible" if activity not in ["Safari", "Diving"] else "Not recommended",
+        gear_yaml=gear_yaml,
+        solo_answer=f"Absolutely! {activity} in {name} is very solo-friendly. Group tours make it easy to join others.",
+        intro=f"{activity} in {name} offers incredible experiences for solo travelers. Whether joining a group or exploring independently, you'll find plenty of options.",
+        spots_text=f"The best spots for {activity.lower()} in {name} range from popular tourist favorites to hidden local gems.",
+        solo_tips=f"Join group tours to meet other travelers. Many {activity.lower()} experiences are designed for mixed groups, making solo participation easy.",
+        tours_text=f"Group tours (${int(int(cost_low) * 1.5) if cost_low.isdigit() else 50}) offer convenience and social opportunities. Self-guided options work well for independent travelers.",
+        gear_text="Pack light but prepared. Most gear can be rented locally if needed.",
+        safety_text=f"Follow guide instructions and stay within designated areas. Travel insurance covering {activity.lower()} is recommended.",
+        social_text=f"Tours and organized activities are great for meeting fellow {activity.lower()} enthusiasts. Hostels often organize group trips.",
+        rental=int(int(cost_low) * 0.3) if cost_low.isdigit() else 15,
+        self_guided_cost="Free to minimal" if activity not in ["Safari", "Diving"] else "Not recommended without guides",
+        season_text=f"The ideal time for {activity.lower()} in {name} is {details['season']}."
+    )
+
+    return content
+
+
 def save_content(content: str, filepath: Path):
     """Save content to file."""
     filepath.parent.mkdir(parents=True, exist_ok=True)
@@ -692,9 +1299,90 @@ def generate_all_content():
     print(f"Generated {city_safety_count} city safety pages")
 
     total_safety = len(countries) + city_safety_count
-    print(f"\nTotal safety pages: {total_safety}")
-    print("\nContent generation complete!")
-    print(f"Total pages: {len(countries) + city_count + total_safety}")
+
+    # Generate itinerary pages (1 week, 2 weeks, 3 weeks for each country)
+    itinerary_count = 0
+    itinerary_durations = [("1 Week", 7), ("2 Weeks", 14), ("3 Weeks", 21)]
+    for country in countries:
+        slug = country["slug"]
+        if not slug or "/" in slug:
+            continue
+
+        for duration, days in itinerary_durations:
+            content = generate_itinerary_content(country, duration, days)
+            duration_slug = duration.lower().replace(" ", "-")
+            filepath = CONTENT_DIR / "itineraries" / slug / duration_slug / "_index.md"
+            save_content(content, filepath)
+            itinerary_count += 1
+
+    print(f"Generated {itinerary_count} itinerary pages")
+
+    # Generate budget guides
+    budget_count = 0
+    for country in countries:
+        slug = country["slug"]
+        if not slug or "/" in slug:
+            continue
+
+        content = generate_budget_guide_content(country)
+        filepath = CONTENT_DIR / "budget" / slug / "_index.md"
+        save_content(content, filepath)
+        budget_count += 1
+
+    print(f"Generated {budget_count} budget guide pages")
+
+    # Generate solo female travel guides
+    female_count = 0
+    for country in countries:
+        slug = country["slug"]
+        if not slug or "/" in slug:
+            continue
+
+        content = generate_solo_female_content(country)
+        filepath = CONTENT_DIR / "solo-female" / slug / "_index.md"
+        save_content(content, filepath)
+        female_count += 1
+
+    print(f"Generated {female_count} solo female travel pages")
+
+    # Generate activity pages
+    activity_count = 0
+    for country in countries:
+        slug = country["slug"]
+        region = country.get("region", "")
+        if not slug or "/" in slug:
+            continue
+
+        # Get activities for this region
+        activities = REGION_ACTIVITIES.get(region, DEFAULT_ACTIVITIES)
+
+        for activity in activities:
+            content = generate_activity_content(country, activity)
+            activity_slug = activity.lower().replace(" ", "-")
+            filepath = CONTENT_DIR / "activities" / slug / activity_slug / "_index.md"
+            save_content(content, filepath)
+            activity_count += 1
+
+    print(f"Generated {activity_count} activity pages")
+
+    # Calculate totals
+    base_pages = len(countries) + city_count
+    guide_pages = total_safety + itinerary_count + budget_count + female_count + activity_count
+    total_pages = base_pages + guide_pages
+
+    print(f"\n{'='*50}")
+    print("Content Generation Summary")
+    print(f"{'='*50}")
+    print(f"Country pages:       {len(countries)}")
+    print(f"City pages:          {city_count}")
+    print(f"Safety pages:        {total_safety}")
+    print(f"Itinerary pages:     {itinerary_count}")
+    print(f"Budget guides:       {budget_count}")
+    print(f"Solo female guides:  {female_count}")
+    print(f"Activity pages:      {activity_count}")
+    print(f"{'='*50}")
+    print(f"TOTAL PAGES:         {total_pages}")
+    print(f"{'='*50}")
 
 
 if __name__ == "__main__":
