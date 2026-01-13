@@ -1,0 +1,122 @@
+[
+  {
+    "name": "Calgary",
+    "slug": "calgary",
+    "country": "Canada",
+    "country_slug": "canada",
+    "region": "Americas",
+    "lat": 51.0447,
+    "lng": -114.0719,
+    "population": 1239220,
+    "safety_level": "safe",
+    "budget_per_day": "90-150",
+    "highlights": [
+      "stampede",
+      "rockies",
+      "outdoors"
+    ],
+    "best_time_to_visit": "Jun-Sep",
+    "airport_code": "YYC",
+    "image_search": "Calgary Canada travel"
+  },
+  {
+    "name": "Montreal",
+    "slug": "montreal",
+    "country": "Canada",
+    "country_slug": "canada",
+    "region": "Americas",
+    "lat": 45.5017,
+    "lng": -73.5673,
+    "population": 1780000,
+    "safety_level": "safe",
+    "budget_per_day": "90-150",
+    "highlights": [
+      "french culture",
+      "festivals",
+      "food"
+    ],
+    "best_time_to_visit": "May-Oct",
+    "airport_code": "YUL",
+    "image_search": "Montreal Canada travel"
+  },
+  {
+    "name": "Quebec City",
+    "slug": "quebec-city",
+    "country": "Canada",
+    "country_slug": "canada",
+    "region": "Americas",
+    "lat": 46.8139,
+    "lng": -71.208,
+    "population": 542298,
+    "safety_level": "safe",
+    "budget_per_day": "90-150",
+    "highlights": [
+      "old town",
+      "history",
+      "french culture"
+    ],
+    "best_time_to_visit": "May-Oct",
+    "airport_code": "YQB",
+    "image_search": "Quebec City Canada travel"
+  },
+  {
+    "name": "Toronto",
+    "slug": "toronto",
+    "country": "Canada",
+    "country_slug": "canada",
+    "region": "Americas",
+    "lat": 43.6532,
+    "lng": -79.3832,
+    "population": 2794356,
+    "safety_level": "safe",
+    "budget_per_day": "100-170",
+    "highlights": [
+      "multicultural",
+      "food",
+      "arts"
+    ],
+    "best_time_to_visit": "May-Oct",
+    "airport_code": "YYZ",
+    "image_search": "Toronto Canada travel"
+  },
+  {
+    "name": "Vancouver",
+    "slug": "vancouver",
+    "country": "Canada",
+    "country_slug": "canada",
+    "region": "Americas",
+    "lat": 49.2827,
+    "lng": -123.1207,
+    "population": 675218,
+    "safety_level": "safe",
+    "budget_per_day": "100-170",
+    "highlights": [
+      "nature",
+      "food",
+      "outdoors"
+    ],
+    "best_time_to_visit": "Jun-Sep",
+    "airport_code": "YVR",
+    "image_search": "Vancouver Canada travel"
+  },
+  {
+    "name": "Victoria",
+    "slug": "victoria",
+    "country": "Canada",
+    "country_slug": "canada",
+    "region": "Americas",
+    "lat": 48.4284,
+    "lng": -123.3656,
+    "population": 92141,
+    "safety_level": "safe",
+    "budget_per_day": "100-160",
+    "highlights": [
+      "gardens",
+      "british charm",
+      "whale watching"
+    ],
+    "best_time_to_visit": "Jun-Sep",
+    "airport_code": "YYJ",
+    "image_search": "Victoria Canada travel"
+  }
+]

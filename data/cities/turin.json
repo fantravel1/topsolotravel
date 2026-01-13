@@ -1,0 +1,20 @@
+{
+  "name": "Turin",
+  "slug": "turin",
+  "country": "Italy",
+  "country_slug": "italy",
+  "region": "Europe",
+  "lat": 45.0703,
+  "lng": 7.6869,
+  "population": 875698,
+  "safety_level": "safe",
+  "budget_per_day": "60-110",
+  "highlights": [
+    "chocolate",
+    "shroud",
+    "cars"
+  ],
+  "best_time_to_visit": "Apr-Jun, Sep-Oct",
+  "airport_code": "TRN",
+  "image_search": "Turin Italy travel"
+}

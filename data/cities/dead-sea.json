@@ -1,0 +1,20 @@
+{
+  "name": "Dead Sea",
+  "slug": "dead-sea",
+  "country": "Jordan",
+  "country_slug": "jordan",
+  "region": "Asia",
+  "lat": 31.5,
+  "lng": 35.5,
+  "population": 10000,
+  "safety_level": "safe",
+  "budget_per_day": "60-120",
+  "highlights": [
+    "floating",
+    "mud",
+    "lowest point"
+  ],
+  "best_time_to_visit": "Mar-May, Sep-Nov",
+  "airport_code": "AMM",
+  "image_search": "Dead Sea Jordan travel"
+}

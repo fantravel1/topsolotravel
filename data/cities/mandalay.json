@@ -1,0 +1,20 @@
+{
+  "name": "Mandalay",
+  "slug": "mandalay",
+  "country": "Myanmar",
+  "country_slug": "myanmar",
+  "region": "Asia",
+  "lat": 21.9588,
+  "lng": 96.0891,
+  "population": 1225553,
+  "safety_level": "warning",
+  "budget_per_day": "30-55",
+  "highlights": [
+    "temples",
+    "palace",
+    "hill"
+  ],
+  "best_time_to_visit": "Nov-Feb",
+  "airport_code": "MDL",
+  "image_search": "Mandalay Myanmar travel"
+}

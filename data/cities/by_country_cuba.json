@@ -1,0 +1,82 @@
+[
+  {
+    "name": "Cienfuegos",
+    "slug": "cienfuegos",
+    "country": "Cuba",
+    "country_slug": "cuba",
+    "region": "Americas",
+    "lat": 22.146,
+    "lng": -80.4364,
+    "population": 150000,
+    "safety_level": "safe",
+    "budget_per_day": "40-75",
+    "highlights": [
+      "french influence",
+      "bay",
+      "architecture"
+    ],
+    "best_time_to_visit": "Nov-Apr",
+    "airport_code": "CFG",
+    "image_search": "Cienfuegos Cuba travel"
+  },
+  {
+    "name": "Havana",
+    "slug": "havana",
+    "country": "Cuba",
+    "country_slug": "cuba",
+    "region": "Americas",
+    "lat": 23.1136,
+    "lng": -82.3666,
+    "population": 2130517,
+    "safety_level": "safe",
+    "budget_per_day": "50-100",
+    "highlights": [
+      "old town",
+      "vintage cars",
+      "music"
+    ],
+    "best_time_to_visit": "Nov-Apr",
+    "airport_code": "HAV",
+    "image_search": "Havana Cuba travel"
+  },
+  {
+    "name": "Trinidad",
+    "slug": "trinidad",
+    "country": "Cuba",
+    "country_slug": "cuba",
+    "region": "Americas",
+    "lat": 21.8033,
+    "lng": -79.9894,
+    "population": 75574,
+    "safety_level": "safe",
+    "budget_per_day": "40-80",
+    "highlights": [
+      "colonial",
+      "cobblestones",
+      "music"
+    ],
+    "best_time_to_visit": "Nov-Apr",
+    "airport_code": "SNU",
+    "image_search": "Trinidad Cuba travel"
+  },
+  {
+    "name": "Vinales",
+    "slug": "vinales",
+    "country": "Cuba",
+    "country_slug": "cuba",
+    "region": "Americas",
+    "lat": 22.6167,
+    "lng": -83.7167,
+    "population": 27029,
+    "safety_level": "safe",
+    "budget_per_day": "35-70",
+    "highlights": [
+      "tobacco",
+      "mogotes",
+      "horseback"
+    ],
+    "best_time_to_visit": "Nov-Apr",
+    "airport_code": "HAV",
+    "image_search": "Vinales Cuba travel"
+  }
+]

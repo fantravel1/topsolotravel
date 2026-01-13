@@ -1,0 +1,20 @@
+{
+  "name": "Darwin",
+  "slug": "darwin",
+  "country": "Australia",
+  "country_slug": "australia",
+  "region": "Oceania",
+  "lat": -12.4634,
+  "lng": 130.8456,
+  "population": 147255,
+  "safety_level": "safe",
+  "budget_per_day": "85-150",
+  "highlights": [
+    "crocodiles",
+    "kakadu",
+    "outback"
+  ],
+  "best_time_to_visit": "May-Oct",
+  "airport_code": "DRW",
+  "image_search": "Darwin Australia travel"
+}

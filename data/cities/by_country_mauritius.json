@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Port Louis",
+    "slug": "port-louis",
+    "country": "Mauritius",
+    "country_slug": "mauritius",
+    "region": "Africa",
+    "lat": -20.1609,
+    "lng": 57.5012,
+    "population": 147066,
+    "safety_level": "safe",
+    "budget_per_day": "60-120",
+    "highlights": [
+      "beaches",
+      "nature",
+      "food"
+    ],
+    "best_time_to_visit": "May-Dec",
+    "airport_code": "MRU",
+    "image_search": "Port Louis Mauritius travel"
+  }
+]

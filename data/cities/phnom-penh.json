@@ -1,0 +1,20 @@
+{
+  "name": "Phnom Penh",
+  "slug": "phnom-penh",
+  "country": "Cambodia",
+  "country_slug": "cambodia",
+  "region": "Asia",
+  "lat": 11.5564,
+  "lng": 104.9282,
+  "population": 2281951,
+  "safety_level": "caution",
+  "budget_per_day": "25-50",
+  "highlights": [
+    "palace",
+    "history",
+    "riverside"
+  ],
+  "best_time_to_visit": "Nov-Apr",
+  "airport_code": "PNH",
+  "image_search": "Phnom Penh Cambodia travel"
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Manuel Antonio",
+  "slug": "manuel-antonio",
+  "country": "Costa Rica",
+  "country_slug": "costa-rica",
+  "region": "Americas",
+  "lat": 9.3928,
+  "lng": -84.1363,
+  "population": 7000,
+  "safety_level": "safe",
+  "budget_per_day": "60-110",
+  "highlights": [
+    "national park",
+    "beaches",
+    "wildlife"
+  ],
+  "best_time_to_visit": "Dec-Apr",
+  "airport_code": "SJO",
+  "image_search": "Manuel Antonio Costa Rica travel"
+}

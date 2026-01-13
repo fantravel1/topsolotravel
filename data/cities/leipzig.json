@@ -1,0 +1,20 @@
+{
+  "name": "Leipzig",
+  "slug": "leipzig",
+  "country": "Germany",
+  "country_slug": "germany",
+  "region": "Europe",
+  "lat": 51.3397,
+  "lng": 12.3731,
+  "population": 587857,
+  "safety_level": "safe",
+  "budget_per_day": "50-100",
+  "highlights": [
+    "music",
+    "arts",
+    "nightlife"
+  ],
+  "best_time_to_visit": "May-Sep",
+  "airport_code": "LEJ",
+  "image_search": "Leipzig Germany travel"
+}

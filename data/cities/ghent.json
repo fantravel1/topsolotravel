@@ -1,0 +1,20 @@
+{
+  "name": "Ghent",
+  "slug": "ghent",
+  "country": "Belgium",
+  "country_slug": "belgium",
+  "region": "Europe",
+  "lat": 51.0543,
+  "lng": 3.7174,
+  "population": 262219,
+  "safety_level": "safe",
+  "budget_per_day": "60-110",
+  "highlights": [
+    "canals",
+    "cathedral",
+    "students"
+  ],
+  "best_time_to_visit": "Apr-Oct",
+  "airport_code": "BRU",
+  "image_search": "Ghent Belgium travel"
+}

@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Helsinki",
+    "slug": "helsinki",
+    "country": "Finland",
+    "country_slug": "finland",
+    "region": "Europe",
+    "lat": 60.1699,
+    "lng": 24.9384,
+    "population": 656920,
+    "safety_level": "safe",
+    "budget_per_day": "110-170",
+    "highlights": [
+      "design",
+      "saunas",
+      "islands"
+    ],
+    "best_time_to_visit": "May-Sep",
+    "airport_code": "HEL",
+    "image_search": "Helsinki Finland travel"
+  },
+  {
+    "name": "Rovaniemi",
+    "slug": "rovaniemi",
+    "country": "Finland",
+    "country_slug": "finland",
+    "region": "Europe",
+    "lat": 66.5039,
+    "lng": 25.7294,
+    "population": 63258,
+    "safety_level": "safe",
+    "budget_per_day": "100-160",
+    "highlights": [
+      "santa claus",
+      "northern lights",
+      "arctic"
+    ],
+    "best_time_to_visit": "Dec-Mar",
+    "airport_code": "RVN",
+    "image_search": "Rovaniemi Finland travel"
+  }
+]

@@ -1,0 +1,20 @@
+{
+  "name": "Sokcho",
+  "slug": "sokcho",
+  "country": "South Korea",
+  "country_slug": "south-korea",
+  "region": "Asia",
+  "lat": 38.2069,
+  "lng": 128.591,
+  "population": 82491,
+  "safety_level": "safe",
+  "budget_per_day": "50-90",
+  "highlights": [
+    "seoraksan",
+    "seafood",
+    "beaches"
+  ],
+  "best_time_to_visit": "Apr-Jun, Sep-Nov",
+  "airport_code": "YNY",
+  "image_search": "Sokcho South Korea travel"
+}

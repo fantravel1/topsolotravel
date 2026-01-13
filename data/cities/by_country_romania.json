@@ -1,0 +1,82 @@
+[
+  {
+    "name": "Brasov",
+    "slug": "brasov",
+    "country": "Romania",
+    "country_slug": "romania",
+    "region": "Europe",
+    "lat": 45.6427,
+    "lng": 25.5887,
+    "population": 253200,
+    "safety_level": "safe",
+    "budget_per_day": "35-65",
+    "highlights": [
+      "old town",
+      "dracula",
+      "mountains"
+    ],
+    "best_time_to_visit": "May-Sep",
+    "airport_code": "OTP",
+    "image_search": "Brasov Romania travel"
+  },
+  {
+    "name": "Bucharest",
+    "slug": "bucharest",
+    "country": "Romania",
+    "country_slug": "romania",
+    "region": "Europe",
+    "lat": 44.4268,
+    "lng": 26.1025,
+    "population": 1883425,
+    "safety_level": "safe",
+    "budget_per_day": "40-75",
+    "highlights": [
+      "palace",
+      "old town",
+      "nightlife"
+    ],
+    "best_time_to_visit": "May-Sep",
+    "airport_code": "OTP",
+    "image_search": "Bucharest Romania travel"
+  },
+  {
+    "name": "Cluj-Napoca",
+    "slug": "cluj-napoca",
+    "country": "Romania",
+    "country_slug": "romania",
+    "region": "Europe",
+    "lat": 46.7712,
+    "lng": 23.6236,
+    "population": 324576,
+    "safety_level": "safe",
+    "budget_per_day": "35-65",
+    "highlights": [
+      "nightlife",
+      "students",
+      "tech"
+    ],
+    "best_time_to_visit": "May-Sep",
+    "airport_code": "CLJ",
+    "image_search": "Cluj-Napoca Romania travel"
+  },
+  {
+    "name": "Sibiu",
+    "slug": "sibiu",
+    "country": "Romania",
+    "country_slug": "romania",
+    "region": "Europe",
+    "lat": 45.7983,
+    "lng": 24.1256,
+    "population": 147245,
+    "safety_level": "safe",
+    "budget_per_day": "35-65",
+    "highlights": [
+      "old town",
+      "transylvania",
+      "eyes"
+    ],
+    "best_time_to_visit": "May-Sep",
+    "airport_code": "SBZ",
+    "image_search": "Sibiu Romania travel"
+  }
+]

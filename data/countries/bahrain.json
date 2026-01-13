@@ -1,0 +1,50 @@
+{
+  "name": "Bahrain",
+  "slug": "bahrain",
+  "official_name": "Bahrain",
+  "cca2": "",
+  "cca3": "",
+  "region": "Asia",
+  "subregion": "Western Asia",
+  "region_slug": "asia",
+  "capital": "Manama",
+  "population": 1700000,
+  "area": 0,
+  "currency": "Bahraini Dinar (BHD)",
+  "languages": [
+    "Arabic"
+  ],
+  "language": "Arabic",
+  "timezone": "UTC+3",
+  "timezones": [
+    "UTC+3"
+  ],
+  "flag_emoji": "",
+  "flag_svg": "",
+  "flag_png": "",
+  "coat_of_arms": "",
+  "maps_google": "",
+  "maps_osm": "",
+  "landlocked": false,
+  "borders": [],
+  "driving_side": "right",
+  "calling_code": "",
+  "safety_level": "safe",
+  "budget_per_day": {
+    "budget": "80-110",
+    "midrange": "140-210",
+    "luxury": "380+"
+  },
+  "best_time_to_visit": "Nov-Mar",
+  "latlng": [
+    0,
+    0
+  ],
+  "capital_latlng": [
+    0,
+    0
+  ],
+  "un_member": true,
+  "independent": true,
+  "featured": false
+}

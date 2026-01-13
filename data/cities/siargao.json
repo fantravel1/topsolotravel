@@ -1,0 +1,20 @@
+{
+  "name": "Siargao",
+  "slug": "siargao",
+  "country": "Philippines",
+  "country_slug": "philippines",
+  "region": "Asia",
+  "lat": 9.85,
+  "lng": 126.0427,
+  "population": 28400,
+  "safety_level": "safe",
+  "budget_per_day": "35-65",
+  "highlights": [
+    "surfing",
+    "islands",
+    "lagoons"
+  ],
+  "best_time_to_visit": "Mar-Oct",
+  "airport_code": "IAO",
+  "image_search": "Siargao Philippines travel"
+}

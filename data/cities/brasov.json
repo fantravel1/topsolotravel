@@ -1,0 +1,20 @@
+{
+  "name": "Brasov",
+  "slug": "brasov",
+  "country": "Romania",
+  "country_slug": "romania",
+  "region": "Europe",
+  "lat": 45.6427,
+  "lng": 25.5887,
+  "population": 253200,
+  "safety_level": "safe",
+  "budget_per_day": "35-65",
+  "highlights": [
+    "old town",
+    "dracula",
+    "mountains"
+  ],
+  "best_time_to_visit": "May-Sep",
+  "airport_code": "OTP",
+  "image_search": "Brasov Romania travel"
+}

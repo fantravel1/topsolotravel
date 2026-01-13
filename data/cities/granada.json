@@ -1,0 +1,20 @@
+{
+  "name": "Granada",
+  "slug": "granada",
+  "country": "Nicaragua",
+  "country_slug": "nicaragua",
+  "region": "Americas",
+  "lat": 11.9344,
+  "lng": -85.956,
+  "population": 123697,
+  "safety_level": "caution",
+  "budget_per_day": "30-60",
+  "highlights": [
+    "colonial",
+    "lake",
+    "islets"
+  ],
+  "best_time_to_visit": "Nov-Apr",
+  "airport_code": "MGA",
+  "image_search": "Granada Nicaragua travel"
+}

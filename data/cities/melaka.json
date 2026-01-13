@@ -1,0 +1,20 @@
+{
+  "name": "Melaka",
+  "slug": "melaka",
+  "country": "Malaysia",
+  "country_slug": "malaysia",
+  "region": "Asia",
+  "lat": 2.1896,
+  "lng": 102.2501,
+  "population": 579000,
+  "safety_level": "safe",
+  "budget_per_day": "30-55",
+  "highlights": [
+    "history",
+    "jonker street",
+    "food"
+  ],
+  "best_time_to_visit": "Mar-Oct",
+  "airport_code": "KUL",
+  "image_search": "Melaka Malaysia travel"
+}

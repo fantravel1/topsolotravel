@@ -1,0 +1,20 @@
+{
+  "name": "Lucerne",
+  "slug": "lucerne",
+  "country": "Switzerland",
+  "country_slug": "switzerland",
+  "region": "Europe",
+  "lat": 47.0502,
+  "lng": 8.3093,
+  "population": 81592,
+  "safety_level": "safe",
+  "budget_per_day": "130-200",
+  "highlights": [
+    "lake",
+    "bridge",
+    "alps"
+  ],
+  "best_time_to_visit": "Jun-Sep",
+  "airport_code": "ZRH",
+  "image_search": "Lucerne Switzerland travel"
+}

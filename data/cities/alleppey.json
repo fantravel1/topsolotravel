@@ -1,0 +1,20 @@
+{
+  "name": "Alleppey",
+  "slug": "alleppey",
+  "country": "India",
+  "country_slug": "india",
+  "region": "Asia",
+  "lat": 9.4981,
+  "lng": 76.3388,
+  "population": 174164,
+  "safety_level": "safe",
+  "budget_per_day": "30-60",
+  "highlights": [
+    "houseboats",
+    "backwaters",
+    "canals"
+  ],
+  "best_time_to_visit": "Sep-Mar",
+  "airport_code": "COK",
+  "image_search": "Alleppey India travel"
+}

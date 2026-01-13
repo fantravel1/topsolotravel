@@ -1,0 +1,20 @@
+{
+  "name": "Antalya",
+  "slug": "antalya",
+  "country": "Turkey",
+  "country_slug": "turkey",
+  "region": "Europe",
+  "lat": 36.8969,
+  "lng": 30.7133,
+  "population": 1203994,
+  "safety_level": "caution",
+  "budget_per_day": "35-70",
+  "highlights": [
+    "beaches",
+    "old town",
+    "ruins"
+  ],
+  "best_time_to_visit": "Apr-Jun, Sep-Oct",
+  "airport_code": "AYT",
+  "image_search": "Antalya Turkey travel"
+}

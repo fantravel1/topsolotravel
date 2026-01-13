@@ -1,0 +1,20 @@
+{
+  "name": "Beijing",
+  "slug": "beijing",
+  "country": "China",
+  "country_slug": "china",
+  "region": "Asia",
+  "lat": 39.9042,
+  "lng": 116.4074,
+  "population": 21540000,
+  "safety_level": "safe",
+  "budget_per_day": "50-100",
+  "highlights": [
+    "great wall",
+    "forbidden city",
+    "temples"
+  ],
+  "best_time_to_visit": "Apr-May, Sep-Oct",
+  "airport_code": "PEK",
+  "image_search": "Beijing China travel"
+}

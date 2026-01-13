@@ -1,0 +1,82 @@
+[
+  {
+    "name": "Abu Dhabi",
+    "slug": "abu-dhabi",
+    "country": "United Arab Emirates",
+    "country_slug": "united-arab-emirates",
+    "region": "Asia",
+    "lat": 24.4539,
+    "lng": 54.3773,
+    "population": 1483000,
+    "safety_level": "safe",
+    "budget_per_day": "90-180",
+    "highlights": [
+      "mosque",
+      "louvre",
+      "islands"
+    ],
+    "best_time_to_visit": "Nov-Mar",
+    "airport_code": "AUH",
+    "image_search": "Abu Dhabi United Arab Emirates travel"
+  },
+  {
+    "name": "Dubai",
+    "slug": "dubai",
+    "country": "United Arab Emirates",
+    "country_slug": "united-arab-emirates",
+    "region": "Asia",
+    "lat": 25.2048,
+    "lng": 55.2708,
+    "population": 3331420,
+    "safety_level": "safe",
+    "budget_per_day": "100-200",
+    "highlights": [
+      "skyscrapers",
+      "shopping",
+      "luxury"
+    ],
+    "best_time_to_visit": "Nov-Mar",
+    "airport_code": "DXB",
+    "image_search": "Dubai United Arab Emirates travel"
+  },
+  {
+    "name": "Ras Al Khaimah",
+    "slug": "ras-al-khaimah",
+    "country": "United Arab Emirates",
+    "country_slug": "united-arab-emirates",
+    "region": "Asia",
+    "lat": 25.7953,
+    "lng": 55.9432,
+    "population": 345000,
+    "safety_level": "safe",
+    "budget_per_day": "80-150",
+    "highlights": [
+      "adventure",
+      "mountains",
+      "beaches"
+    ],
+    "best_time_to_visit": "Nov-Mar",
+    "airport_code": "RKT",
+    "image_search": "Ras Al Khaimah United Arab Emirates travel"
+  },
+  {
+    "name": "Sharjah",
+    "slug": "sharjah",
+    "country": "United Arab Emirates",
+    "country_slug": "united-arab-emirates",
+    "region": "Asia",
+    "lat": 25.3463,
+    "lng": 55.4209,
+    "population": 1405000,
+    "safety_level": "safe",
+    "budget_per_day": "70-130",
+    "highlights": [
+      "museums",
+      "souks",
+      "culture"
+    ],
+    "best_time_to_visit": "Nov-Mar",
+    "airport_code": "SHJ",
+    "image_search": "Sharjah United Arab Emirates travel"
+  }
+]

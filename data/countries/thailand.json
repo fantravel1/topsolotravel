@@ -1,0 +1,50 @@
+{
+  "name": "Thailand",
+  "slug": "thailand",
+  "official_name": "Thailand",
+  "cca2": "",
+  "cca3": "",
+  "region": "Asia",
+  "subregion": "South-Eastern Asia",
+  "region_slug": "asia",
+  "capital": "Bangkok",
+  "population": 69800000,
+  "area": 0,
+  "currency": "Thai Baht (THB)",
+  "languages": [
+    "Thai"
+  ],
+  "language": "Thai",
+  "timezone": "UTC+7",
+  "timezones": [
+    "UTC+7"
+  ],
+  "flag_emoji": "",
+  "flag_svg": "",
+  "flag_png": "",
+  "coat_of_arms": "",
+  "maps_google": "",
+  "maps_osm": "",
+  "landlocked": false,
+  "borders": [],
+  "driving_side": "right",
+  "calling_code": "",
+  "safety_level": "caution",
+  "budget_per_day": {
+    "budget": "30-45",
+    "midrange": "60-100",
+    "luxury": "200+"
+  },
+  "best_time_to_visit": "Nov-Feb",
+  "latlng": [
+    0,
+    0
+  ],
+  "capital_latlng": [
+    0,
+    0
+  ],
+  "un_member": true,
+  "independent": true,
+  "featured": true
+}

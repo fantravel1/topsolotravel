@@ -1,0 +1,20 @@
+{
+  "name": "Quito",
+  "slug": "quito",
+  "country": "Ecuador",
+  "country_slug": "ecuador",
+  "region": "Americas",
+  "lat": -0.1807,
+  "lng": -78.4678,
+  "population": 1978376,
+  "safety_level": "caution",
+  "budget_per_day": "35-65",
+  "highlights": [
+    "old town",
+    "equator",
+    "altitude"
+  ],
+  "best_time_to_visit": "Jun-Sep",
+  "airport_code": "UIO",
+  "image_search": "Quito Ecuador travel"
+}

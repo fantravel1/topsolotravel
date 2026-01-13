@@ -1,0 +1,20 @@
+{
+  "name": "Perhentian Islands",
+  "slug": "perhentian-islands",
+  "country": "Malaysia",
+  "country_slug": "malaysia",
+  "region": "Asia",
+  "lat": 5.9167,
+  "lng": 102.7333,
+  "population": 2000,
+  "safety_level": "safe",
+  "budget_per_day": "35-70",
+  "highlights": [
+    "diving",
+    "turtles",
+    "beaches"
+  ],
+  "best_time_to_visit": "Mar-Oct",
+  "airport_code": "KBR",
+  "image_search": "Perhentian Islands Malaysia travel"
+}

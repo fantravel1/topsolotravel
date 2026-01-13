@@ -1,0 +1,20 @@
+{
+  "name": "Cancun",
+  "slug": "cancun",
+  "country": "Mexico",
+  "country_slug": "mexico",
+  "region": "Americas",
+  "lat": 21.1619,
+  "lng": -86.8515,
+  "population": 888797,
+  "safety_level": "caution",
+  "budget_per_day": "60-120",
+  "highlights": [
+    "beaches",
+    "ruins",
+    "nightlife"
+  ],
+  "best_time_to_visit": "Dec-Apr",
+  "airport_code": "CUN",
+  "image_search": "Cancun Mexico travel"
+}

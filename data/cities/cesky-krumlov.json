@@ -1,0 +1,20 @@
+{
+  "name": "Cesky Krumlov",
+  "slug": "cesky-krumlov",
+  "country": "Czech Republic",
+  "country_slug": "czech-republic",
+  "region": "Europe",
+  "lat": 48.8127,
+  "lng": 14.3175,
+  "population": 13100,
+  "safety_level": "safe",
+  "budget_per_day": "50-90",
+  "highlights": [
+    "castle",
+    "medieval",
+    "rafting"
+  ],
+  "best_time_to_visit": "May-Sep",
+  "airport_code": "PRG",
+  "image_search": "Cesky Krumlov Czech Republic travel"
+}

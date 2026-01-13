@@ -1,0 +1,20 @@
+{
+  "name": "Nusa Penida",
+  "slug": "nusa-penida",
+  "country": "Indonesia",
+  "country_slug": "indonesia",
+  "region": "Asia",
+  "lat": -8.7275,
+  "lng": 115.5443,
+  "population": 45458,
+  "safety_level": "safe",
+  "budget_per_day": "35-70",
+  "highlights": [
+    "cliffs",
+    "manta rays",
+    "instagram"
+  ],
+  "best_time_to_visit": "Apr-Oct",
+  "airport_code": "DPS",
+  "image_search": "Nusa Penida Indonesia travel"
+}

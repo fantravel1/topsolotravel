@@ -1,0 +1,20 @@
+{
+  "name": "Hakone",
+  "slug": "hakone",
+  "country": "Japan",
+  "country_slug": "japan",
+  "region": "Asia",
+  "lat": 35.2322,
+  "lng": 139.107,
+  "population": 11700,
+  "safety_level": "safe",
+  "budget_per_day": "80-150",
+  "highlights": [
+    "onsen",
+    "fuji views",
+    "museums"
+  ],
+  "best_time_to_visit": "Mar-May, Sep-Nov",
+  "airport_code": "HND",
+  "image_search": "Hakone Japan travel"
+}

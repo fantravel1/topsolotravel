@@ -1,0 +1,20 @@
+{
+  "name": "Galway",
+  "slug": "galway",
+  "country": "Ireland",
+  "country_slug": "ireland",
+  "region": "Europe",
+  "lat": 53.2707,
+  "lng": -9.0568,
+  "population": 79934,
+  "safety_level": "safe",
+  "budget_per_day": "80-140",
+  "highlights": [
+    "culture",
+    "music",
+    "coastal"
+  ],
+  "best_time_to_visit": "May-Sep",
+  "airport_code": "GWY",
+  "image_search": "Galway Ireland travel"
+}

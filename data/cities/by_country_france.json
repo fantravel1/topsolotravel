@@ -1,0 +1,262 @@
+[
+  {
+    "name": "Avignon",
+    "slug": "avignon",
+    "country": "France",
+    "country_slug": "france",
+    "region": "Europe",
+    "lat": 43.9493,
+    "lng": 4.8055,
+    "population": 91921,
+    "safety_level": "safe",
+    "budget_per_day": "70-120",
+    "highlights": [
+      "papal palace",
+      "bridges",
+      "provence"
+    ],
+    "best_time_to_visit": "Apr-Oct",
+    "airport_code": "AVN",
+    "image_search": "Avignon France travel"
+  },
+  {
+    "name": "Bordeaux",
+    "slug": "bordeaux",
+    "country": "France",
+    "country_slug": "france",
+    "region": "Europe",
+    "lat": 44.8378,
+    "lng": -0.5792,
+    "population": 257068,
+    "safety_level": "safe",
+    "budget_per_day": "70-130",
+    "highlights": [
+      "wine",
+      "architecture",
+      "food"
+    ],
+    "best_time_to_visit": "May-Oct",
+    "airport_code": "BOD",
+    "image_search": "Bordeaux France travel"
+  },
+  {
+    "name": "Cannes",
+    "slug": "cannes",
+    "country": "France",
+    "country_slug": "france",
+    "region": "Europe",
+    "lat": 43.5528,
+    "lng": 7.0174,
+    "population": 74152,
+    "safety_level": "safe",
+    "budget_per_day": "100-180",
+    "highlights": [
+      "film festival",
+      "beaches",
+      "luxury"
+    ],
+    "best_time_to_visit": "May-Sep",
+    "airport_code": "NCE",
+    "image_search": "Cannes France travel"
+  },
+  {
+    "name": "Lyon",
+    "slug": "lyon",
+    "country": "France",
+    "country_slug": "france",
+    "region": "Europe",
+    "lat": 45.764,
+    "lng": 4.8357,
+    "population": 513275,
+    "safety_level": "safe",
+    "budget_per_day": "70-120",
+    "highlights": [
+      "gastronomy",
+      "old town",
+      "traboules"
+    ],
+    "best_time_to_visit": "Apr-Oct",
+    "airport_code": "LYS",
+    "image_search": "Lyon France travel"
+  },
+  {
+    "name": "Lyon",
+    "slug": "lyon",
+    "country": "France",
+    "country_slug": "france",
+    "region": "Europe",
+    "lat": 45.764,
+    "lng": 4.8357,
+    "population": 516092,
+    "safety_level": "safe",
+    "budget_per_day": "70-130",
+    "highlights": [
+      "gastronomy",
+      "traboules",
+      "history"
+    ],
+    "best_time_to_visit": "Apr-Oct",
+    "airport_code": "LYS",
+    "image_search": "Lyon France travel"
+  },
+  {
+    "name": "Marseille",
+    "slug": "marseille",
+    "country": "France",
+    "country_slug": "france",
+    "region": "Europe",
+    "lat": 43.2965,
+    "lng": 5.3698,
+    "population": 861635,
+    "safety_level": "caution",
+    "budget_per_day": "70-130",
+    "highlights": [
+      "harbour",
+      "bouillabaisse",
+      "calanques"
+    ],
+    "best_time_to_visit": "Apr-Oct",
+    "airport_code": "MRS",
+    "image_search": "Marseille France travel"
+  },
+  {
+    "name": "Montpellier",
+    "slug": "montpellier",
+    "country": "France",
+    "country_slug": "france",
+    "region": "Europe",
+    "lat": 43.6108,
+    "lng": 3.8767,
+    "population": 285121,
+    "safety_level": "safe",
+    "budget_per_day": "60-110",
+    "highlights": [
+      "old town",
+      "beaches",
+      "students"
+    ],
+    "best_time_to_visit": "Apr-Oct",
+    "airport_code": "MPL",
+    "image_search": "Montpellier France travel"
+  },
+  {
+    "name": "Nantes",
+    "slug": "nantes",
+    "country": "France",
+    "country_slug": "france",
+    "region": "Europe",
+    "lat": 47.2184,
+    "lng": -1.5536,
+    "population": 309346,
+    "safety_level": "safe",
+    "budget_per_day": "60-110",
+    "highlights": [
+      "machines",
+      "art",
+      "loire"
+    ],
+    "best_time_to_visit": "May-Sep",
+    "airport_code": "NTE",
+    "image_search": "Nantes France travel"
+  },
+  {
+    "name": "Nice",
+    "slug": "nice",
+    "country": "France",
+    "country_slug": "france",
+    "region": "Europe",
+    "lat": 43.7102,
+    "lng": 7.262,
+    "population": 342522,
+    "safety_level": "safe",
+    "budget_per_day": "80-140",
+    "highlights": [
+      "beaches",
+      "old town",
+      "riviera"
+    ],
+    "best_time_to_visit": "May-Sep",
+    "airport_code": "NCE",
+    "image_search": "Nice France travel"
+  },
+  {
+    "name": "Nice",
+    "slug": "nice",
+    "country": "France",
+    "country_slug": "france",
+    "region": "Europe",
+    "lat": 43.7102,
+    "lng": 7.262,
+    "population": 342522,
+    "safety_level": "safe",
+    "budget_per_day": "80-150",
+    "highlights": [
+      "promenade",
+      "beaches",
+      "riviera"
+    ],
+    "best_time_to_visit": "May-Sep",
+    "airport_code": "NCE",
+    "image_search": "Nice France travel"
+  },
+  {
+    "name": "Paris",
+    "slug": "paris",
+    "country": "France",
+    "country_slug": "france",
+    "region": "Europe",
+    "lat": 48.8566,
+    "lng": 2.3522,
+    "population": 2161000,
+    "safety_level": "caution",
+    "budget_per_day": "90-160",
+    "highlights": [
+      "eiffel tower",
+      "louvre",
+      "cafes"
+    ],
+    "best_time_to_visit": "Apr-Jun, Sep-Oct",
+    "airport_code": "CDG",
+    "image_search": "Paris France travel"
+  },
+  {
+    "name": "Strasbourg",
+    "slug": "strasbourg",
+    "country": "France",
+    "country_slug": "france",
+    "region": "Europe",
+    "lat": 48.5734,
+    "lng": 7.7521,
+    "population": 280966,
+    "safety_level": "safe",
+    "budget_per_day": "70-120",
+    "highlights": [
+      "christmas market",
+      "alsatian",
+      "cathedral"
+    ],
+    "best_time_to_visit": "Apr-Oct, Dec",
+    "airport_code": "SXB",
+    "image_search": "Strasbourg France travel"
+  },
+  {
+    "name": "Toulouse",
+    "slug": "toulouse",
+    "country": "France",
+    "country_slug": "france",
+    "region": "Europe",
+    "lat": 43.6047,
+    "lng": 1.4442,
+    "population": 479553,
+    "safety_level": "safe",
+    "budget_per_day": "60-110",
+    "highlights": [
+      "pink city",
+      "space",
+      "food"
+    ],
+    "best_time_to_visit": "Apr-Oct",
+    "airport_code": "TLS",
+    "image_search": "Toulouse France travel"
+  }
+]

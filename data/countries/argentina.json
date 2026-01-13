@@ -1,0 +1,50 @@
+{
+  "name": "Argentina",
+  "slug": "argentina",
+  "official_name": "Argentina",
+  "cca2": "",
+  "cca3": "",
+  "region": "Americas",
+  "subregion": "South America",
+  "region_slug": "americas",
+  "capital": "Buenos Aires",
+  "population": 45200000,
+  "area": 0,
+  "currency": "Argentine Peso (ARS)",
+  "languages": [
+    "Spanish"
+  ],
+  "language": "Spanish",
+  "timezone": "UTC-3",
+  "timezones": [
+    "UTC-3"
+  ],
+  "flag_emoji": "",
+  "flag_svg": "",
+  "flag_png": "",
+  "coat_of_arms": "",
+  "maps_google": "",
+  "maps_osm": "",
+  "landlocked": false,
+  "borders": [],
+  "driving_side": "right",
+  "calling_code": "",
+  "safety_level": "caution",
+  "budget_per_day": {
+    "budget": "40-60",
+    "midrange": "70-120",
+    "luxury": "200+"
+  },
+  "best_time_to_visit": "Oct-Apr",
+  "latlng": [
+    0,
+    0
+  ],
+  "capital_latlng": [
+    0,
+    0
+  ],
+  "un_member": true,
+  "independent": true,
+  "featured": true
+}

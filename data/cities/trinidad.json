@@ -1,0 +1,20 @@
+{
+  "name": "Trinidad",
+  "slug": "trinidad",
+  "country": "Cuba",
+  "country_slug": "cuba",
+  "region": "Americas",
+  "lat": 21.8033,
+  "lng": -79.9894,
+  "population": 75574,
+  "safety_level": "safe",
+  "budget_per_day": "40-80",
+  "highlights": [
+    "colonial",
+    "cobblestones",
+    "music"
+  ],
+  "best_time_to_visit": "Nov-Apr",
+  "airport_code": "SNU",
+  "image_search": "Trinidad Cuba travel"
+}

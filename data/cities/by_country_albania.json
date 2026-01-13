@@ -1,0 +1,82 @@
+[
+  {
+    "name": "Berat",
+    "slug": "berat",
+    "country": "Albania",
+    "country_slug": "albania",
+    "region": "Europe",
+    "lat": 40.7058,
+    "lng": 19.9522,
+    "population": 36496,
+    "safety_level": "safe",
+    "budget_per_day": "25-45",
+    "highlights": [
+      "thousand windows",
+      "castle",
+      "unesco"
+    ],
+    "best_time_to_visit": "May-Oct",
+    "airport_code": "TIA",
+    "image_search": "Berat Albania travel"
+  },
+  {
+    "name": "Gjirokaster",
+    "slug": "gjirokaster",
+    "country": "Albania",
+    "country_slug": "albania",
+    "region": "Europe",
+    "lat": 40.0756,
+    "lng": 20.1389,
+    "population": 19836,
+    "safety_level": "safe",
+    "budget_per_day": "25-45",
+    "highlights": [
+      "stone town",
+      "castle",
+      "ottoman"
+    ],
+    "best_time_to_visit": "May-Oct",
+    "airport_code": "TIA",
+    "image_search": "Gjirokaster Albania travel"
+  },
+  {
+    "name": "Shkoder",
+    "slug": "shkoder",
+    "country": "Albania",
+    "country_slug": "albania",
+    "region": "Europe",
+    "lat": 42.0693,
+    "lng": 19.5033,
+    "population": 135612,
+    "safety_level": "caution",
+    "budget_per_day": "25-50",
+    "highlights": [
+      "castle",
+      "lake",
+      "alps"
+    ],
+    "best_time_to_visit": "May-Sep",
+    "airport_code": "TIA",
+    "image_search": "Shkoder Albania travel"
+  },
+  {
+    "name": "Tirana",
+    "slug": "tirana",
+    "country": "Albania",
+    "country_slug": "albania",
+    "region": "Europe",
+    "lat": 41.3275,
+    "lng": 19.8187,
+    "population": 418495,
+    "safety_level": "caution",
+    "budget_per_day": "30-55",
+    "highlights": [
+      "colorful",
+      "history",
+      "bunkers"
+    ],
+    "best_time_to_visit": "May-Sep",
+    "airport_code": "TIA",
+    "image_search": "Tirana Albania travel"
+  }
+]

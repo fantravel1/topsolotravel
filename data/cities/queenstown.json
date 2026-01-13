@@ -1,0 +1,20 @@
+{
+  "name": "Queenstown",
+  "slug": "queenstown",
+  "country": "New Zealand",
+  "country_slug": "new-zealand",
+  "region": "Oceania",
+  "lat": -45.0312,
+  "lng": 168.6626,
+  "population": 15850,
+  "safety_level": "safe",
+  "budget_per_day": "100-180",
+  "highlights": [
+    "adventure sports",
+    "scenery",
+    "skiing"
+  ],
+  "best_time_to_visit": "Dec-Mar (summer), Jun-Aug (ski)",
+  "airport_code": "ZQN",
+  "image_search": "Queenstown New Zealand travel"
+}

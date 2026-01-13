@@ -1,0 +1,20 @@
+{
+  "name": "Punakha",
+  "slug": "punakha",
+  "country": "Bhutan",
+  "country_slug": "bhutan",
+  "region": "Asia",
+  "lat": 27.5833,
+  "lng": 89.8667,
+  "population": 21500,
+  "safety_level": "safe",
+  "budget_per_day": "200-300",
+  "highlights": [
+    "dzong",
+    "rice fields",
+    "rivers"
+  ],
+  "best_time_to_visit": "Mar-May, Sep-Nov",
+  "airport_code": "PBH",
+  "image_search": "Punakha Bhutan travel"
+}

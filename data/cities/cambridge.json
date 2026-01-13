@@ -1,0 +1,20 @@
+{
+  "name": "Cambridge",
+  "slug": "cambridge",
+  "country": "United Kingdom",
+  "country_slug": "united-kingdom",
+  "region": "Europe",
+  "lat": 52.2053,
+  "lng": 0.1218,
+  "population": 145700,
+  "safety_level": "safe",
+  "budget_per_day": "80-140",
+  "highlights": [
+    "university",
+    "punting",
+    "history"
+  ],
+  "best_time_to_visit": "Apr-Oct",
+  "airport_code": "STN",
+  "image_search": "Cambridge United Kingdom travel"
+}

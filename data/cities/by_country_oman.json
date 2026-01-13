@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Muscat",
+    "slug": "muscat",
+    "country": "Oman",
+    "country_slug": "oman",
+    "region": "Asia",
+    "lat": 23.588,
+    "lng": 58.3829,
+    "population": 1421409,
+    "safety_level": "safe",
+    "budget_per_day": "70-130",
+    "highlights": [
+      "souqs",
+      "mosques",
+      "beaches"
+    ],
+    "best_time_to_visit": "Oct-Mar",
+    "airport_code": "MCT",
+    "image_search": "Muscat Oman travel"
+  },
+  {
+    "name": "Nizwa",
+    "slug": "nizwa",
+    "country": "Oman",
+    "country_slug": "oman",
+    "region": "Asia",
+    "lat": 22.9333,
+    "lng": 57.5333,
+    "population": 72076,
+    "safety_level": "safe",
+    "budget_per_day": "50-90",
+    "highlights": [
+      "fort",
+      "souq",
+      "mountains"
+    ],
+    "best_time_to_visit": "Oct-Mar",
+    "airport_code": "MCT",
+    "image_search": "Nizwa Oman travel"
+  },
+  {
+    "name": "Salalah",
+    "slug": "salalah",
+    "country": "Oman",
+    "country_slug": "oman",
+    "region": "Asia",
+    "lat": 17.0151,
+    "lng": 54.0924,
+    "population": 293642,
+    "safety_level": "safe",
+    "budget_per_day": "60-110",
+    "highlights": [
+      "monsoon",
+      "frankincense",
+      "beaches"
+    ],
+    "best_time_to_visit": "Jun-Sep (khareef), Oct-Mar",
+    "airport_code": "SLL",
+    "image_search": "Salalah Oman travel"
+  }
+]

@@ -1,0 +1,20 @@
+{
+  "name": "Hue",
+  "slug": "hue",
+  "country": "Vietnam",
+  "country_slug": "vietnam",
+  "region": "Asia",
+  "lat": 16.4637,
+  "lng": 107.5909,
+  "population": 455230,
+  "safety_level": "safe",
+  "budget_per_day": "20-40",
+  "highlights": [
+    "imperial city",
+    "tombs",
+    "food"
+  ],
+  "best_time_to_visit": "Feb-May",
+  "airport_code": "HUI",
+  "image_search": "Hue Vietnam travel"
+}

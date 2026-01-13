@@ -1,0 +1,20 @@
+{
+  "name": "Cebu",
+  "slug": "cebu",
+  "country": "Philippines",
+  "country_slug": "philippines",
+  "region": "Asia",
+  "lat": 10.3157,
+  "lng": 123.8854,
+  "population": 964169,
+  "safety_level": "caution",
+  "budget_per_day": "30-55",
+  "highlights": [
+    "diving",
+    "beaches",
+    "lechon"
+  ],
+  "best_time_to_visit": "Dec-May",
+  "airport_code": "CEB",
+  "image_search": "Cebu Philippines travel"
+}

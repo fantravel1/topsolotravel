@@ -1,0 +1,20 @@
+{
+  "name": "Budapest",
+  "slug": "budapest",
+  "country": "Hungary",
+  "country_slug": "hungary",
+  "region": "Europe",
+  "lat": 47.4979,
+  "lng": 19.0402,
+  "population": 1756000,
+  "safety_level": "safe",
+  "budget_per_day": "50-90",
+  "highlights": [
+    "baths",
+    "ruin bars",
+    "parliament"
+  ],
+  "best_time_to_visit": "Apr-Jun, Sep-Oct",
+  "airport_code": "BUD",
+  "image_search": "Budapest Hungary travel"
+}

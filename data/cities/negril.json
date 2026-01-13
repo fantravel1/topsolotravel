@@ -1,0 +1,20 @@
+{
+  "name": "Negril",
+  "slug": "negril",
+  "country": "Jamaica",
+  "country_slug": "jamaica",
+  "region": "Americas",
+  "lat": 18.2667,
+  "lng": -78.35,
+  "population": 3000,
+  "safety_level": "caution",
+  "budget_per_day": "60-120",
+  "highlights": [
+    "seven mile beach",
+    "cliffs",
+    "reggae"
+  ],
+  "best_time_to_visit": "Dec-Apr",
+  "airport_code": "MBJ",
+  "image_search": "Negril Jamaica travel"
+}

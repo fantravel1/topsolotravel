@@ -1,0 +1,20 @@
+{
+  "name": "Punta Cana",
+  "slug": "punta-cana",
+  "country": "Dominican Republic",
+  "country_slug": "dominican-republic",
+  "region": "Americas",
+  "lat": 18.5601,
+  "lng": -68.3725,
+  "population": 100000,
+  "safety_level": "caution",
+  "budget_per_day": "70-150",
+  "highlights": [
+    "beaches",
+    "resorts",
+    "golf"
+  ],
+  "best_time_to_visit": "Dec-Apr",
+  "airport_code": "PUJ",
+  "image_search": "Punta Cana Dominican Republic travel"
+}

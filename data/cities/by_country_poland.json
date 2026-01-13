@@ -1,0 +1,102 @@
+[
+  {
+    "name": "Gdansk",
+    "slug": "gdansk",
+    "country": "Poland",
+    "country_slug": "poland",
+    "region": "Europe",
+    "lat": 54.352,
+    "lng": 18.6466,
+    "population": 470907,
+    "safety_level": "safe",
+    "budget_per_day": "40-75",
+    "highlights": [
+      "old town",
+      "amber",
+      "beaches"
+    ],
+    "best_time_to_visit": "May-Sep",
+    "airport_code": "GDN",
+    "image_search": "Gdansk Poland travel"
+  },
+  {
+    "name": "Krakow",
+    "slug": "krakow",
+    "country": "Poland",
+    "country_slug": "poland",
+    "region": "Europe",
+    "lat": 50.0647,
+    "lng": 19.945,
+    "population": 779115,
+    "safety_level": "safe",
+    "budget_per_day": "40-80",
+    "highlights": [
+      "old town",
+      "auschwitz",
+      "salt mines"
+    ],
+    "best_time_to_visit": "May-Sep",
+    "airport_code": "KRK",
+    "image_search": "Krakow Poland travel"
+  },
+  {
+    "name": "Warsaw",
+    "slug": "warsaw",
+    "country": "Poland",
+    "country_slug": "poland",
+    "region": "Europe",
+    "lat": 52.2297,
+    "lng": 21.0122,
+    "population": 1790658,
+    "safety_level": "safe",
+    "budget_per_day": "45-85",
+    "highlights": [
+      "history",
+      "old town",
+      "nightlife"
+    ],
+    "best_time_to_visit": "May-Sep",
+    "airport_code": "WAW",
+    "image_search": "Warsaw Poland travel"
+  },
+  {
+    "name": "Wroclaw",
+    "slug": "wroclaw",
+    "country": "Poland",
+    "country_slug": "poland",
+    "region": "Europe",
+    "lat": 51.1079,
+    "lng": 17.0385,
+    "population": 641928,
+    "safety_level": "safe",
+    "budget_per_day": "35-70",
+    "highlights": [
+      "dwarfs",
+      "bridges",
+      "market"
+    ],
+    "best_time_to_visit": "May-Sep",
+    "airport_code": "WRO",
+    "image_search": "Wroclaw Poland travel"
+  },
+  {
+    "name": "Zakopane",
+    "slug": "zakopane",
+    "country": "Poland",
+    "country_slug": "poland",
+    "region": "Europe",
+    "lat": 49.2992,
+    "lng": 19.9496,
+    "population": 27266,
+    "safety_level": "safe",
+    "budget_per_day": "35-70",
+    "highlights": [
+      "tatras",
+      "skiing",
+      "hiking"
+    ],
+    "best_time_to_visit": "Dec-Mar, Jun-Sep",
+    "airport_code": "KRK",
+    "image_search": "Zakopane Poland travel"
+  }
+]

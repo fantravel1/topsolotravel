@@ -1,0 +1,142 @@
+[
+  {
+    "name": "Colombo",
+    "slug": "colombo",
+    "country": "Sri Lanka",
+    "country_slug": "sri-lanka",
+    "region": "Asia",
+    "lat": 6.9271,
+    "lng": 79.8612,
+    "population": 752993,
+    "safety_level": "safe",
+    "budget_per_day": "25-50",
+    "highlights": [
+      "temples",
+      "food",
+      "markets"
+    ],
+    "best_time_to_visit": "Dec-Mar",
+    "airport_code": "CMB",
+    "image_search": "Colombo Sri Lanka travel"
+  },
+  {
+    "name": "Ella",
+    "slug": "ella",
+    "country": "Sri Lanka",
+    "country_slug": "sri-lanka",
+    "region": "Asia",
+    "lat": 6.8667,
+    "lng": 81.05,
+    "population": 5000,
+    "safety_level": "safe",
+    "budget_per_day": "25-45",
+    "highlights": [
+      "nine arch bridge",
+      "hiking",
+      "tea"
+    ],
+    "best_time_to_visit": "Dec-Mar",
+    "airport_code": "CMB",
+    "image_search": "Ella Sri Lanka travel"
+  },
+  {
+    "name": "Galle",
+    "slug": "galle",
+    "country": "Sri Lanka",
+    "country_slug": "sri-lanka",
+    "region": "Asia",
+    "lat": 6.0535,
+    "lng": 80.221,
+    "population": 93118,
+    "safety_level": "safe",
+    "budget_per_day": "30-55",
+    "highlights": [
+      "fort",
+      "colonial",
+      "beaches"
+    ],
+    "best_time_to_visit": "Dec-Mar",
+    "airport_code": "CMB",
+    "image_search": "Galle Sri Lanka travel"
+  },
+  {
+    "name": "Kandy",
+    "slug": "kandy",
+    "country": "Sri Lanka",
+    "country_slug": "sri-lanka",
+    "region": "Asia",
+    "lat": 7.2906,
+    "lng": 80.6337,
+    "population": 125400,
+    "safety_level": "safe",
+    "budget_per_day": "25-45",
+    "highlights": [
+      "temple of tooth",
+      "tea",
+      "culture"
+    ],
+    "best_time_to_visit": "Dec-Mar",
+    "airport_code": "CMB",
+    "image_search": "Kandy Sri Lanka travel"
+  },
+  {
+    "name": "Mirissa",
+    "slug": "mirissa",
+    "country": "Sri Lanka",
+    "country_slug": "sri-lanka",
+    "region": "Asia",
+    "lat": 5.9485,
+    "lng": 80.4718,
+    "population": 5000,
+    "safety_level": "safe",
+    "budget_per_day": "30-55",
+    "highlights": [
+      "whale watching",
+      "beaches",
+      "surfing"
+    ],
+    "best_time_to_visit": "Nov-Apr",
+    "airport_code": "CMB",
+    "image_search": "Mirissa Sri Lanka travel"
+  },
+  {
+    "name": "Sigiriya",
+    "slug": "sigiriya",
+    "country": "Sri Lanka",
+    "country_slug": "sri-lanka",
+    "region": "Asia",
+    "lat": 7.957,
+    "lng": 80.7603,
+    "population": 5000,
+    "safety_level": "safe",
+    "budget_per_day": "30-55",
+    "highlights": [
+      "lion rock",
+      "frescoes",
+      "gardens"
+    ],
+    "best_time_to_visit": "Dec-Mar",
+    "airport_code": "CMB",
+    "image_search": "Sigiriya Sri Lanka travel"
+  },
+  {
+    "name": "Trincomalee",
+    "slug": "trincomalee",
+    "country": "Sri Lanka",
+    "country_slug": "sri-lanka",
+    "region": "Asia",
+    "lat": 8.5778,
+    "lng": 81.2333,
+    "population": 99135,
+    "safety_level": "safe",
+    "budget_per_day": "25-50",
+    "highlights": [
+      "beaches",
+      "diving",
+      "temples"
+    ],
+    "best_time_to_visit": "Apr-Sep",
+    "airport_code": "CMB",
+    "image_search": "Trincomalee Sri Lanka travel"
+  }
+]

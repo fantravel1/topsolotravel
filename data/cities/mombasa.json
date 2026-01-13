@@ -1,0 +1,20 @@
+{
+  "name": "Mombasa",
+  "slug": "mombasa",
+  "country": "Kenya",
+  "country_slug": "kenya",
+  "region": "Africa",
+  "lat": -4.0435,
+  "lng": 39.6682,
+  "population": 1208333,
+  "safety_level": "caution",
+  "budget_per_day": "40-80",
+  "highlights": [
+    "beaches",
+    "old town",
+    "fort jesus"
+  ],
+  "best_time_to_visit": "Dec-Mar",
+  "airport_code": "MBA",
+  "image_search": "Mombasa Kenya travel"
+}

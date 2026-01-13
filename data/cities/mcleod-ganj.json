@@ -1,0 +1,20 @@
+{
+  "name": "McLeod Ganj",
+  "slug": "mcleod-ganj",
+  "country": "India",
+  "country_slug": "india",
+  "region": "Asia",
+  "lat": 32.2426,
+  "lng": 76.3213,
+  "population": 11000,
+  "safety_level": "safe",
+  "budget_per_day": "20-40",
+  "highlights": [
+    "dalai lama",
+    "momos",
+    "meditation"
+  ],
+  "best_time_to_visit": "Mar-Jun, Sep-Nov",
+  "airport_code": "DHM",
+  "image_search": "McLeod Ganj India travel"
+}

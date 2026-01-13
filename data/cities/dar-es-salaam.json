@@ -1,0 +1,20 @@
+{
+  "name": "Dar es Salaam",
+  "slug": "dar-es-salaam",
+  "country": "Tanzania",
+  "country_slug": "tanzania",
+  "region": "Africa",
+  "lat": -6.7924,
+  "lng": 39.2083,
+  "population": 4364541,
+  "safety_level": "caution",
+  "budget_per_day": "40-80",
+  "highlights": [
+    "beach",
+    "food",
+    "culture"
+  ],
+  "best_time_to_visit": "Jun-Oct",
+  "airport_code": "DAR",
+  "image_search": "Dar es Salaam Tanzania travel"
+}

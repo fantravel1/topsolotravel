@@ -1,0 +1,20 @@
+{
+  "name": "Amalfi",
+  "slug": "amalfi",
+  "country": "Italy",
+  "country_slug": "italy",
+  "region": "Europe",
+  "lat": 40.634,
+  "lng": 14.6027,
+  "population": 5145,
+  "safety_level": "safe",
+  "budget_per_day": "100-180",
+  "highlights": [
+    "coast",
+    "lemons",
+    "beaches"
+  ],
+  "best_time_to_visit": "Apr-Jun, Sep-Oct",
+  "airport_code": "NAP",
+  "image_search": "Amalfi Italy travel"
+}

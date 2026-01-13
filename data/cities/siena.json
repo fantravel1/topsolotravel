@@ -1,0 +1,20 @@
+{
+  "name": "Siena",
+  "slug": "siena",
+  "country": "Italy",
+  "country_slug": "italy",
+  "region": "Europe",
+  "lat": 43.3188,
+  "lng": 11.3308,
+  "population": 53903,
+  "safety_level": "safe",
+  "budget_per_day": "70-120",
+  "highlights": [
+    "piazza",
+    "palio",
+    "medieval"
+  ],
+  "best_time_to_visit": "Apr-Jun, Sep-Oct",
+  "airport_code": "FLR",
+  "image_search": "Siena Italy travel"
+}

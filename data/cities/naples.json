@@ -1,0 +1,20 @@
+{
+  "name": "Naples",
+  "slug": "naples",
+  "country": "Italy",
+  "country_slug": "italy",
+  "region": "Europe",
+  "lat": 40.8518,
+  "lng": 14.2681,
+  "population": 967069,
+  "safety_level": "caution",
+  "budget_per_day": "50-100",
+  "highlights": [
+    "pizza",
+    "pompeii",
+    "coast"
+  ],
+  "best_time_to_visit": "Apr-Jun, Sep-Oct",
+  "airport_code": "NAP",
+  "image_search": "Naples Italy travel"
+}

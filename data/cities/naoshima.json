@@ -1,0 +1,20 @@
+{
+  "name": "Naoshima",
+  "slug": "naoshima",
+  "country": "Japan",
+  "country_slug": "japan",
+  "region": "Asia",
+  "lat": 34.4597,
+  "lng": 133.995,
+  "population": 3100,
+  "safety_level": "safe",
+  "budget_per_day": "80-140",
+  "highlights": [
+    "art island",
+    "museums",
+    "pumpkin"
+  ],
+  "best_time_to_visit": "Mar-May, Sep-Nov",
+  "airport_code": "TAK",
+  "image_search": "Naoshima Japan travel"
+}

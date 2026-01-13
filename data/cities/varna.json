@@ -1,0 +1,20 @@
+{
+  "name": "Varna",
+  "slug": "varna",
+  "country": "Bulgaria",
+  "country_slug": "bulgaria",
+  "region": "Europe",
+  "lat": 43.2141,
+  "lng": 27.9147,
+  "population": 336505,
+  "safety_level": "safe",
+  "budget_per_day": "35-65",
+  "highlights": [
+    "black sea",
+    "beaches",
+    "roman"
+  ],
+  "best_time_to_visit": "Jun-Sep",
+  "airport_code": "VAR",
+  "image_search": "Varna Bulgaria travel"
+}

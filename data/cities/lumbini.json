@@ -1,0 +1,20 @@
+{
+  "name": "Lumbini",
+  "slug": "lumbini",
+  "country": "Nepal",
+  "country_slug": "nepal",
+  "region": "Asia",
+  "lat": 27.4833,
+  "lng": 83.2833,
+  "population": 9801,
+  "safety_level": "safe",
+  "budget_per_day": "20-40",
+  "highlights": [
+    "buddha birthplace",
+    "temples",
+    "pilgrimage"
+  ],
+  "best_time_to_visit": "Oct-Mar",
+  "airport_code": "BWA",
+  "image_search": "Lumbini Nepal travel"
+}

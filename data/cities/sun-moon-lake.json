@@ -1,0 +1,20 @@
+{
+  "name": "Sun Moon Lake",
+  "slug": "sun-moon-lake",
+  "country": "Taiwan",
+  "country_slug": "taiwan",
+  "region": "Asia",
+  "lat": 23.8651,
+  "lng": 120.9196,
+  "population": 5000,
+  "safety_level": "safe",
+  "budget_per_day": "50-90",
+  "highlights": [
+    "lake",
+    "cycling",
+    "temples"
+  ],
+  "best_time_to_visit": "Sep-Apr",
+  "airport_code": "RMQ",
+  "image_search": "Sun Moon Lake Taiwan travel"
+}

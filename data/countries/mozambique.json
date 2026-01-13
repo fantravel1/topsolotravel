@@ -1,0 +1,50 @@
+{
+  "name": "Mozambique",
+  "slug": "mozambique",
+  "official_name": "Mozambique",
+  "cca2": "",
+  "cca3": "",
+  "region": "Africa",
+  "subregion": "Eastern Africa",
+  "region_slug": "africa",
+  "capital": "Maputo",
+  "population": 31260000,
+  "area": 0,
+  "currency": "Mozambican Metical (MZN)",
+  "languages": [
+    "Portuguese"
+  ],
+  "language": "Portuguese",
+  "timezone": "UTC+2",
+  "timezones": [
+    "UTC+2"
+  ],
+  "flag_emoji": "",
+  "flag_svg": "",
+  "flag_png": "",
+  "coat_of_arms": "",
+  "maps_google": "",
+  "maps_osm": "",
+  "landlocked": false,
+  "borders": [],
+  "driving_side": "right",
+  "calling_code": "",
+  "safety_level": "caution",
+  "budget_per_day": {
+    "budget": "35-55",
+    "midrange": "70-120",
+    "luxury": "200+"
+  },
+  "best_time_to_visit": "May-Nov",
+  "latlng": [
+    0,
+    0
+  ],
+  "capital_latlng": [
+    0,
+    0
+  ],
+  "un_member": true,
+  "independent": true,
+  "featured": false
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Ho Chi Minh City",
+  "slug": "ho-chi-minh-city",
+  "country": "Vietnam",
+  "country_slug": "vietnam",
+  "region": "Asia",
+  "lat": 10.8231,
+  "lng": 106.6297,
+  "population": 8993000,
+  "safety_level": "caution",
+  "budget_per_day": "25-50",
+  "highlights": [
+    "cu chi tunnels",
+    "street food",
+    "nightlife"
+  ],
+  "best_time_to_visit": "Dec-Apr",
+  "airport_code": "SGN",
+  "image_search": "Ho Chi Minh City Vietnam travel"
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Lyon",
+  "slug": "lyon",
+  "country": "France",
+  "country_slug": "france",
+  "region": "Europe",
+  "lat": 45.764,
+  "lng": 4.8357,
+  "population": 516092,
+  "safety_level": "safe",
+  "budget_per_day": "70-130",
+  "highlights": [
+    "gastronomy",
+    "traboules",
+    "history"
+  ],
+  "best_time_to_visit": "Apr-Oct",
+  "airport_code": "LYS",
+  "image_search": "Lyon France travel"
+}

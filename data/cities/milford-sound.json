@@ -1,0 +1,20 @@
+{
+  "name": "Milford Sound",
+  "slug": "milford-sound",
+  "country": "New Zealand",
+  "country_slug": "new-zealand",
+  "region": "Oceania",
+  "lat": -44.6414,
+  "lng": 167.8972,
+  "population": 120,
+  "safety_level": "safe",
+  "budget_per_day": "100-180",
+  "highlights": [
+    "fjord",
+    "cruises",
+    "scenery"
+  ],
+  "best_time_to_visit": "Dec-Mar",
+  "airport_code": "ZQN",
+  "image_search": "Milford Sound New Zealand travel"
+}

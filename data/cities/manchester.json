@@ -1,0 +1,20 @@
+{
+  "name": "Manchester",
+  "slug": "manchester",
+  "country": "United Kingdom",
+  "country_slug": "united-kingdom",
+  "region": "Europe",
+  "lat": 53.4808,
+  "lng": -2.2426,
+  "population": 547627,
+  "safety_level": "safe",
+  "budget_per_day": "70-130",
+  "highlights": [
+    "music",
+    "football",
+    "nightlife"
+  ],
+  "best_time_to_visit": "May-Sep",
+  "airport_code": "MAN",
+  "image_search": "Manchester United Kingdom travel"
+}

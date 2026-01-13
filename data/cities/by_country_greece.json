@@ -1,0 +1,142 @@
+[
+  {
+    "name": "Athens",
+    "slug": "athens",
+    "country": "Greece",
+    "country_slug": "greece",
+    "region": "Europe",
+    "lat": 37.9838,
+    "lng": 23.7275,
+    "population": 664046,
+    "safety_level": "safe",
+    "budget_per_day": "55-100",
+    "highlights": [
+      "acropolis",
+      "history",
+      "islands"
+    ],
+    "best_time_to_visit": "Apr-Jun, Sep-Oct",
+    "airport_code": "ATH",
+    "image_search": "Athens Greece travel"
+  },
+  {
+    "name": "Corfu",
+    "slug": "corfu",
+    "country": "Greece",
+    "country_slug": "greece",
+    "region": "Europe",
+    "lat": 39.6243,
+    "lng": 19.9217,
+    "population": 30854,
+    "safety_level": "safe",
+    "budget_per_day": "55-95",
+    "highlights": [
+      "old town",
+      "beaches",
+      "venetian"
+    ],
+    "best_time_to_visit": "May-Oct",
+    "airport_code": "CFU",
+    "image_search": "Corfu Greece travel"
+  },
+  {
+    "name": "Crete",
+    "slug": "crete",
+    "country": "Greece",
+    "country_slug": "greece",
+    "region": "Europe",
+    "lat": 35.2401,
+    "lng": 24.8093,
+    "population": 623065,
+    "safety_level": "safe",
+    "budget_per_day": "55-100",
+    "highlights": [
+      "beaches",
+      "history",
+      "food"
+    ],
+    "best_time_to_visit": "May-Oct",
+    "airport_code": "HER",
+    "image_search": "Crete Greece travel"
+  },
+  {
+    "name": "Mykonos",
+    "slug": "mykonos",
+    "country": "Greece",
+    "country_slug": "greece",
+    "region": "Europe",
+    "lat": 37.4467,
+    "lng": 25.3289,
+    "population": 10134,
+    "safety_level": "safe",
+    "budget_per_day": "100-180",
+    "highlights": [
+      "nightlife",
+      "beaches",
+      "windmills"
+    ],
+    "best_time_to_visit": "May-Oct",
+    "airport_code": "JMK",
+    "image_search": "Mykonos Greece travel"
+  },
+  {
+    "name": "Rhodes",
+    "slug": "rhodes",
+    "country": "Greece",
+    "country_slug": "greece",
+    "region": "Europe",
+    "lat": 36.4346,
+    "lng": 28.2176,
+    "population": 50636,
+    "safety_level": "safe",
+    "budget_per_day": "55-95",
+    "highlights": [
+      "old town",
+      "beaches",
+      "history"
+    ],
+    "best_time_to_visit": "May-Oct",
+    "airport_code": "RHO",
+    "image_search": "Rhodes Greece travel"
+  },
+  {
+    "name": "Santorini",
+    "slug": "santorini",
+    "country": "Greece",
+    "country_slug": "greece",
+    "region": "Europe",
+    "lat": 36.3932,
+    "lng": 25.4615,
+    "population": 15550,
+    "safety_level": "safe",
+    "budget_per_day": "80-160",
+    "highlights": [
+      "sunsets",
+      "views",
+      "wine"
+    ],
+    "best_time_to_visit": "Apr-Oct",
+    "airport_code": "JTR",
+    "image_search": "Santorini Greece travel"
+  },
+  {
+    "name": "Thessaloniki",
+    "slug": "thessaloniki",
+    "country": "Greece",
+    "country_slug": "greece",
+    "region": "Europe",
+    "lat": 40.6401,
+    "lng": 22.9444,
+    "population": 315196,
+    "safety_level": "safe",
+    "budget_per_day": "50-90",
+    "highlights": [
+      "food",
+      "nightlife",
+      "history"
+    ],
+    "best_time_to_visit": "Apr-Jun, Sep-Oct",
+    "airport_code": "SKG",
+    "image_search": "Thessaloniki Greece travel"
+  }
+]

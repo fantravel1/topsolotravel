@@ -1,0 +1,20 @@
+{
+  "name": "Takayama",
+  "slug": "takayama",
+  "country": "Japan",
+  "country_slug": "japan",
+  "region": "Asia",
+  "lat": 36.1408,
+  "lng": 137.2519,
+  "population": 85854,
+  "safety_level": "safe",
+  "budget_per_day": "70-130",
+  "highlights": [
+    "old town",
+    "sake",
+    "alps"
+  ],
+  "best_time_to_visit": "Apr-May, Sep-Nov",
+  "airport_code": "NGO",
+  "image_search": "Takayama Japan travel"
+}

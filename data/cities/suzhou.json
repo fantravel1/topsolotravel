@@ -1,0 +1,20 @@
+{
+  "name": "Suzhou",
+  "slug": "suzhou",
+  "country": "China",
+  "country_slug": "china",
+  "region": "Asia",
+  "lat": 31.2989,
+  "lng": 120.5853,
+  "population": 10721700,
+  "safety_level": "safe",
+  "budget_per_day": "45-85",
+  "highlights": [
+    "gardens",
+    "canals",
+    "silk"
+  ],
+  "best_time_to_visit": "Apr-May, Sep-Oct",
+  "airport_code": "WUX",
+  "image_search": "Suzhou China travel"
+}

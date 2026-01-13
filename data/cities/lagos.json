@@ -1,0 +1,20 @@
+{
+  "name": "Lagos",
+  "slug": "lagos",
+  "country": "Portugal",
+  "country_slug": "portugal",
+  "region": "Europe",
+  "lat": 37.1028,
+  "lng": -8.6732,
+  "population": 31049,
+  "safety_level": "safe",
+  "budget_per_day": "45-85",
+  "highlights": [
+    "beaches",
+    "cliffs",
+    "surfing"
+  ],
+  "best_time_to_visit": "May-Oct",
+  "airport_code": "FAO",
+  "image_search": "Lagos Portugal travel"
+}

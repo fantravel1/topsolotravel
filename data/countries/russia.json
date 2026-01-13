@@ -1,0 +1,50 @@
+{
+  "name": "Russia",
+  "slug": "russia",
+  "official_name": "Russia",
+  "cca2": "",
+  "cca3": "",
+  "region": "Europe",
+  "subregion": "Eastern Europe",
+  "region_slug": "europe",
+  "capital": "Moscow",
+  "population": 145900000,
+  "area": 0,
+  "currency": "Russian Ruble (RUB)",
+  "languages": [
+    "Russian"
+  ],
+  "language": "Russian",
+  "timezone": "UTC+3 to +12",
+  "timezones": [
+    "UTC+3 to +12"
+  ],
+  "flag_emoji": "",
+  "flag_svg": "",
+  "flag_png": "",
+  "coat_of_arms": "",
+  "maps_google": "",
+  "maps_osm": "",
+  "landlocked": false,
+  "borders": [],
+  "driving_side": "right",
+  "calling_code": "",
+  "safety_level": "caution",
+  "budget_per_day": {
+    "budget": "50-70",
+    "midrange": "90-140",
+    "luxury": "280+"
+  },
+  "best_time_to_visit": "May-Sep",
+  "latlng": [
+    0,
+    0
+  ],
+  "capital_latlng": [
+    0,
+    0
+  ],
+  "un_member": true,
+  "independent": true,
+  "featured": false
+}

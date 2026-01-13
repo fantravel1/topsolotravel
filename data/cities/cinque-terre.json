@@ -1,0 +1,20 @@
+{
+  "name": "Cinque Terre",
+  "slug": "cinque-terre",
+  "country": "Italy",
+  "country_slug": "italy",
+  "region": "Europe",
+  "lat": 44.127,
+  "lng": 9.71,
+  "population": 4000,
+  "safety_level": "safe",
+  "budget_per_day": "80-150",
+  "highlights": [
+    "colorful villages",
+    "hiking",
+    "sea"
+  ],
+  "best_time_to_visit": "Apr-Jun, Sep-Oct",
+  "airport_code": "GOA",
+  "image_search": "Cinque Terre Italy travel"
+}

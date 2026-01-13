@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Brno",
+    "slug": "brno",
+    "country": "Czech Republic",
+    "country_slug": "czech-republic",
+    "region": "Europe",
+    "lat": 49.1951,
+    "lng": 16.6068,
+    "population": 381346,
+    "safety_level": "safe",
+    "budget_per_day": "40-80",
+    "highlights": [
+      "nightlife",
+      "architecture",
+      "students"
+    ],
+    "best_time_to_visit": "May-Sep",
+    "airport_code": "BRQ",
+    "image_search": "Brno Czech Republic travel"
+  },
+  {
+    "name": "Cesky Krumlov",
+    "slug": "cesky-krumlov",
+    "country": "Czech Republic",
+    "country_slug": "czech-republic",
+    "region": "Europe",
+    "lat": 48.8127,
+    "lng": 14.3175,
+    "population": 13100,
+    "safety_level": "safe",
+    "budget_per_day": "50-90",
+    "highlights": [
+      "castle",
+      "medieval",
+      "rafting"
+    ],
+    "best_time_to_visit": "May-Sep",
+    "airport_code": "PRG",
+    "image_search": "Cesky Krumlov Czech Republic travel"
+  },
+  {
+    "name": "Prague",
+    "slug": "prague",
+    "country": "Czech Republic",
+    "country_slug": "czech-republic",
+    "region": "Europe",
+    "lat": 50.0755,
+    "lng": 14.4378,
+    "population": 1309000,
+    "safety_level": "safe",
+    "budget_per_day": "50-90",
+    "highlights": [
+      "old town",
+      "beer",
+      "architecture"
+    ],
+    "best_time_to_visit": "Apr-Jun, Sep-Oct",
+    "airport_code": "PRG",
+    "image_search": "Prague Czech Republic travel"
+  }
+]

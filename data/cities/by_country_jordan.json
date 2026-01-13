@@ -1,0 +1,102 @@
+[
+  {
+    "name": "Amman",
+    "slug": "amman",
+    "country": "Jordan",
+    "country_slug": "jordan",
+    "region": "Asia",
+    "lat": 31.9454,
+    "lng": 35.9284,
+    "population": 1812436,
+    "safety_level": "safe",
+    "budget_per_day": "45-80",
+    "highlights": [
+      "citadel",
+      "roman ruins",
+      "food"
+    ],
+    "best_time_to_visit": "Mar-May, Sep-Nov",
+    "airport_code": "AMM",
+    "image_search": "Amman Jordan travel"
+  },
+  {
+    "name": "Aqaba",
+    "slug": "aqaba",
+    "country": "Jordan",
+    "country_slug": "jordan",
+    "region": "Asia",
+    "lat": 29.5266,
+    "lng": 35.0078,
+    "population": 148398,
+    "safety_level": "safe",
+    "budget_per_day": "50-100",
+    "highlights": [
+      "red sea",
+      "diving",
+      "beaches"
+    ],
+    "best_time_to_visit": "Year-round",
+    "airport_code": "AQJ",
+    "image_search": "Aqaba Jordan travel"
+  },
+  {
+    "name": "Dead Sea",
+    "slug": "dead-sea",
+    "country": "Jordan",
+    "country_slug": "jordan",
+    "region": "Asia",
+    "lat": 31.5,
+    "lng": 35.5,
+    "population": 10000,
+    "safety_level": "safe",
+    "budget_per_day": "60-120",
+    "highlights": [
+      "floating",
+      "mud",
+      "lowest point"
+    ],
+    "best_time_to_visit": "Mar-May, Sep-Nov",
+    "airport_code": "AMM",
+    "image_search": "Dead Sea Jordan travel"
+  },
+  {
+    "name": "Petra",
+    "slug": "petra",
+    "country": "Jordan",
+    "country_slug": "jordan",
+    "region": "Asia",
+    "lat": 30.3285,
+    "lng": 35.4444,
+    "population": 35000,
+    "safety_level": "safe",
+    "budget_per_day": "50-90",
+    "highlights": [
+      "treasury",
+      "tombs",
+      "hiking"
+    ],
+    "best_time_to_visit": "Mar-May, Sep-Nov",
+    "airport_code": "AQJ",
+    "image_search": "Petra Jordan travel"
+  },
+  {
+    "name": "Wadi Rum",
+    "slug": "wadi-rum",
+    "country": "Jordan",
+    "country_slug": "jordan",
+    "region": "Asia",
+    "lat": 29.5722,
+    "lng": 35.4194,
+    "population": 5000,
+    "safety_level": "safe",
+    "budget_per_day": "40-80",
+    "highlights": [
+      "desert",
+      "bedouin",
+      "mars landscape"
+    ],
+    "best_time_to_visit": "Mar-May, Sep-Nov",
+    "airport_code": "AQJ",
+    "image_search": "Wadi Rum Jordan travel"
+  }
+]

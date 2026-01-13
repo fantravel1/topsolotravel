@@ -1,0 +1,20 @@
+{
+  "name": "Kuala Lumpur",
+  "slug": "kuala-lumpur",
+  "country": "Malaysia",
+  "country_slug": "malaysia",
+  "region": "Asia",
+  "lat": 3.139,
+  "lng": 101.6869,
+  "population": 1808000,
+  "safety_level": "safe",
+  "budget_per_day": "35-70",
+  "highlights": [
+    "towers",
+    "food",
+    "shopping"
+  ],
+  "best_time_to_visit": "May-Jul, Dec-Feb",
+  "airport_code": "KUL",
+  "image_search": "Kuala Lumpur Malaysia travel"
+}

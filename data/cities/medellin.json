@@ -1,0 +1,20 @@
+{
+  "name": "Medellin",
+  "slug": "medellin",
+  "country": "Colombia",
+  "country_slug": "colombia",
+  "region": "Americas",
+  "lat": 6.2476,
+  "lng": -75.5658,
+  "population": 2529403,
+  "safety_level": "caution",
+  "budget_per_day": "35-70",
+  "highlights": [
+    "transformation",
+    "weather",
+    "nomads"
+  ],
+  "best_time_to_visit": "Dec-Mar",
+  "airport_code": "MDE",
+  "image_search": "Medellin Colombia travel"
+}

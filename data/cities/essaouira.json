@@ -1,0 +1,20 @@
+{
+  "name": "Essaouira",
+  "slug": "essaouira",
+  "country": "Morocco",
+  "country_slug": "morocco",
+  "region": "Africa",
+  "lat": 31.5085,
+  "lng": -9.7595,
+  "population": 77966,
+  "safety_level": "safe",
+  "budget_per_day": "35-65",
+  "highlights": [
+    "beach",
+    "medina",
+    "windsurfing"
+  ],
+  "best_time_to_visit": "Apr-Nov",
+  "airport_code": "ESU",
+  "image_search": "Essaouira Morocco travel"
+}

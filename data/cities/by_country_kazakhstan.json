@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Almaty",
+    "slug": "almaty",
+    "country": "Kazakhstan",
+    "country_slug": "kazakhstan",
+    "region": "Asia",
+    "lat": 43.222,
+    "lng": 76.8512,
+    "population": 1916822,
+    "safety_level": "safe",
+    "budget_per_day": "40-75",
+    "highlights": [
+      "mountains",
+      "bazaars",
+      "apples"
+    ],
+    "best_time_to_visit": "Apr-Jun, Sep-Oct",
+    "airport_code": "ALA",
+    "image_search": "Almaty Kazakhstan travel"
+  },
+  {
+    "name": "Astana",
+    "slug": "astana",
+    "country": "Kazakhstan",
+    "country_slug": "kazakhstan",
+    "region": "Asia",
+    "lat": 51.1694,
+    "lng": 71.4491,
+    "population": 1078362,
+    "safety_level": "safe",
+    "budget_per_day": "50-90",
+    "highlights": [
+      "futuristic",
+      "bayterek",
+      "architecture"
+    ],
+    "best_time_to_visit": "May-Sep",
+    "airport_code": "NQZ",
+    "image_search": "Astana Kazakhstan travel"
+  }
+]

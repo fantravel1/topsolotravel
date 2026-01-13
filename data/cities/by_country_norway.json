@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Bergen",
+    "slug": "bergen",
+    "country": "Norway",
+    "country_slug": "norway",
+    "region": "Europe",
+    "lat": 60.3913,
+    "lng": 5.3221,
+    "population": 283929,
+    "safety_level": "safe",
+    "budget_per_day": "120-190",
+    "highlights": [
+      "fjords",
+      "bryggen",
+      "nature"
+    ],
+    "best_time_to_visit": "May-Sep",
+    "airport_code": "BGO",
+    "image_search": "Bergen Norway travel"
+  },
+  {
+    "name": "Oslo",
+    "slug": "oslo",
+    "country": "Norway",
+    "country_slug": "norway",
+    "region": "Europe",
+    "lat": 59.9139,
+    "lng": 10.7522,
+    "population": 693494,
+    "safety_level": "safe",
+    "budget_per_day": "120-200",
+    "highlights": [
+      "fjords",
+      "museums",
+      "outdoors"
+    ],
+    "best_time_to_visit": "May-Sep",
+    "airport_code": "OSL",
+    "image_search": "Oslo Norway travel"
+  },
+  {
+    "name": "Tromso",
+    "slug": "tromso",
+    "country": "Norway",
+    "country_slug": "norway",
+    "region": "Europe",
+    "lat": 69.6496,
+    "lng": 18.956,
+    "population": 77095,
+    "safety_level": "safe",
+    "budget_per_day": "130-200",
+    "highlights": [
+      "northern lights",
+      "arctic",
+      "nature"
+    ],
+    "best_time_to_visit": "Sep-Mar",
+    "airport_code": "TOS",
+    "image_search": "Tromso Norway travel"
+  }
+]

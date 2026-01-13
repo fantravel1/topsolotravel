@@ -1,0 +1,20 @@
+{
+  "name": "Kochi",
+  "slug": "kochi",
+  "country": "India",
+  "country_slug": "india",
+  "region": "Asia",
+  "lat": 9.9312,
+  "lng": 76.2673,
+  "population": 602046,
+  "safety_level": "safe",
+  "budget_per_day": "25-50",
+  "highlights": [
+    "fort kochi",
+    "chinese nets",
+    "backwaters"
+  ],
+  "best_time_to_visit": "Sep-Mar",
+  "airport_code": "COK",
+  "image_search": "Kochi India travel"
+}

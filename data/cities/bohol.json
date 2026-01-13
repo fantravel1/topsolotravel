@@ -1,0 +1,20 @@
+{
+  "name": "Bohol",
+  "slug": "bohol",
+  "country": "Philippines",
+  "country_slug": "philippines",
+  "region": "Asia",
+  "lat": 9.85,
+  "lng": 124.0,
+  "population": 1313560,
+  "safety_level": "safe",
+  "budget_per_day": "30-60",
+  "highlights": [
+    "chocolate hills",
+    "tarsiers",
+    "beaches"
+  ],
+  "best_time_to_visit": "Dec-May",
+  "airport_code": "TAG",
+  "image_search": "Bohol Philippines travel"
+}

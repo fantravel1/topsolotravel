@@ -1,0 +1,20 @@
+{
+  "name": "Leh",
+  "slug": "leh",
+  "country": "India",
+  "country_slug": "india",
+  "region": "Asia",
+  "lat": 34.1526,
+  "lng": 77.5771,
+  "population": 30870,
+  "safety_level": "safe",
+  "budget_per_day": "35-70",
+  "highlights": [
+    "ladakh",
+    "monasteries",
+    "mountains"
+  ],
+  "best_time_to_visit": "May-Sep",
+  "airport_code": "IXL",
+  "image_search": "Leh India travel"
+}

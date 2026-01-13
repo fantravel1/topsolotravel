@@ -1,0 +1,20 @@
+{
+  "name": "Bariloche",
+  "slug": "bariloche",
+  "country": "Argentina",
+  "country_slug": "argentina",
+  "region": "Americas",
+  "lat": -41.1335,
+  "lng": -71.3103,
+  "population": 133500,
+  "safety_level": "safe",
+  "budget_per_day": "50-100",
+  "highlights": [
+    "lakes",
+    "chocolate",
+    "skiing"
+  ],
+  "best_time_to_visit": "Dec-Mar, Jun-Sep",
+  "airport_code": "BRC",
+  "image_search": "Bariloche Argentina travel"
+}

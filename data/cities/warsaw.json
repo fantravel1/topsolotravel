@@ -1,0 +1,20 @@
+{
+  "name": "Warsaw",
+  "slug": "warsaw",
+  "country": "Poland",
+  "country_slug": "poland",
+  "region": "Europe",
+  "lat": 52.2297,
+  "lng": 21.0122,
+  "population": 1790658,
+  "safety_level": "safe",
+  "budget_per_day": "45-85",
+  "highlights": [
+    "history",
+    "old town",
+    "nightlife"
+  ],
+  "best_time_to_visit": "May-Sep",
+  "airport_code": "WAW",
+  "image_search": "Warsaw Poland travel"
+}

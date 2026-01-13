@@ -1,0 +1,50 @@
+{
+  "name": "Cape Verde",
+  "slug": "cape-verde",
+  "official_name": "Cape Verde",
+  "cca2": "",
+  "cca3": "",
+  "region": "Africa",
+  "subregion": "Western Africa",
+  "region_slug": "africa",
+  "capital": "Praia",
+  "population": 556000,
+  "area": 0,
+  "currency": "Cape Verdean Escudo (CVE)",
+  "languages": [
+    "Portuguese"
+  ],
+  "language": "Portuguese",
+  "timezone": "UTC-1",
+  "timezones": [
+    "UTC-1"
+  ],
+  "flag_emoji": "",
+  "flag_svg": "",
+  "flag_png": "",
+  "coat_of_arms": "",
+  "maps_google": "",
+  "maps_osm": "",
+  "landlocked": false,
+  "borders": [],
+  "driving_side": "right",
+  "calling_code": "",
+  "safety_level": "safe",
+  "budget_per_day": {
+    "budget": "50-70",
+    "midrange": "90-140",
+    "luxury": "240+"
+  },
+  "best_time_to_visit": "Nov-Jun",
+  "latlng": [
+    0,
+    0
+  ],
+  "capital_latlng": [
+    0,
+    0
+  ],
+  "un_member": true,
+  "independent": true,
+  "featured": false
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Nikko",
+  "slug": "nikko",
+  "country": "Japan",
+  "country_slug": "japan",
+  "region": "Asia",
+  "lat": 36.7197,
+  "lng": 139.6982,
+  "population": 82000,
+  "safety_level": "safe",
+  "budget_per_day": "70-130",
+  "highlights": [
+    "shrines",
+    "nature",
+    "waterfalls"
+  ],
+  "best_time_to_visit": "Apr-May, Oct-Nov",
+  "airport_code": "HND",
+  "image_search": "Nikko Japan travel"
+}

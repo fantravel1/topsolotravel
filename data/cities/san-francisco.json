@@ -1,0 +1,20 @@
+{
+  "name": "San Francisco",
+  "slug": "san-francisco",
+  "country": "United States",
+  "country_slug": "united-states",
+  "region": "Americas",
+  "lat": 37.7749,
+  "lng": -122.4194,
+  "population": 883305,
+  "safety_level": "caution",
+  "budget_per_day": "120-200",
+  "highlights": [
+    "golden gate",
+    "tech",
+    "food"
+  ],
+  "best_time_to_visit": "Sep-Nov",
+  "airport_code": "SFO",
+  "image_search": "San Francisco United States travel"
+}

@@ -1,0 +1,50 @@
+{
+  "name": "Tonga",
+  "slug": "tonga",
+  "official_name": "Tonga",
+  "cca2": "",
+  "cca3": "",
+  "region": "Oceania",
+  "subregion": "Polynesia",
+  "region_slug": "oceania",
+  "capital": "Nukualofa",
+  "population": 105697,
+  "area": 0,
+  "currency": "Tongan Paanga (TOP)",
+  "languages": [
+    "Tongan"
+  ],
+  "language": "Tongan",
+  "timezone": "UTC+13",
+  "timezones": [
+    "UTC+13"
+  ],
+  "flag_emoji": "",
+  "flag_svg": "",
+  "flag_png": "",
+  "coat_of_arms": "",
+  "maps_google": "",
+  "maps_osm": "",
+  "landlocked": false,
+  "borders": [],
+  "driving_side": "right",
+  "calling_code": "",
+  "safety_level": "safe",
+  "budget_per_day": {
+    "budget": "70-100",
+    "midrange": "130-190",
+    "luxury": "300+"
+  },
+  "best_time_to_visit": "May-Oct",
+  "latlng": [
+    0,
+    0
+  ],
+  "capital_latlng": [
+    0,
+    0
+  ],
+  "un_member": true,
+  "independent": true,
+  "featured": false
+}

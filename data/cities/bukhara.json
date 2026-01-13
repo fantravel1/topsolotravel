@@ -1,0 +1,20 @@
+{
+  "name": "Bukhara",
+  "slug": "bukhara",
+  "country": "Uzbekistan",
+  "country_slug": "uzbekistan",
+  "region": "Asia",
+  "lat": 39.768,
+  "lng": 64.4556,
+  "population": 280187,
+  "safety_level": "safe",
+  "budget_per_day": "25-45",
+  "highlights": [
+    "old town",
+    "silk road",
+    "madrasas"
+  ],
+  "best_time_to_visit": "Apr-Jun, Sep-Oct",
+  "airport_code": "BHK",
+  "image_search": "Bukhara Uzbekistan travel"
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Foz do Iguacu",
+  "slug": "foz-do-iguacu",
+  "country": "Brazil",
+  "country_slug": "brazil",
+  "region": "Americas",
+  "lat": -25.5163,
+  "lng": -54.5854,
+  "population": 256088,
+  "safety_level": "safe",
+  "budget_per_day": "45-85",
+  "highlights": [
+    "waterfalls",
+    "bird park",
+    "border"
+  ],
+  "best_time_to_visit": "Mar-Nov",
+  "airport_code": "IGU",
+  "image_search": "Foz do Iguacu Brazil travel"
+}

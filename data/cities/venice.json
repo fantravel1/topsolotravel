@@ -1,0 +1,20 @@
+{
+  "name": "Venice",
+  "slug": "venice",
+  "country": "Italy",
+  "country_slug": "italy",
+  "region": "Europe",
+  "lat": 45.4408,
+  "lng": 12.3155,
+  "population": 261905,
+  "safety_level": "safe",
+  "budget_per_day": "80-150",
+  "highlights": [
+    "canals",
+    "architecture",
+    "islands"
+  ],
+  "best_time_to_visit": "Apr-Jun, Sep-Oct",
+  "airport_code": "VCE",
+  "image_search": "Venice Italy travel"
+}

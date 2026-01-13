@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Riga",
+    "slug": "riga",
+    "country": "Latvia",
+    "country_slug": "latvia",
+    "region": "Europe",
+    "lat": 56.9496,
+    "lng": 24.1052,
+    "population": 632614,
+    "safety_level": "safe",
+    "budget_per_day": "45-80",
+    "highlights": [
+      "art nouveau",
+      "old town",
+      "nightlife"
+    ],
+    "best_time_to_visit": "May-Sep",
+    "airport_code": "RIX",
+    "image_search": "Riga Latvia travel"
+  }
+]

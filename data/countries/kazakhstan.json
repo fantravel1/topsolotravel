@@ -1,0 +1,50 @@
+{
+  "name": "Kazakhstan",
+  "slug": "kazakhstan",
+  "official_name": "Kazakhstan",
+  "cca2": "",
+  "cca3": "",
+  "region": "Asia",
+  "subregion": "Central Asia",
+  "region_slug": "asia",
+  "capital": "Astana",
+  "population": 18750000,
+  "area": 0,
+  "currency": "Kazakhstani Tenge (KZT)",
+  "languages": [
+    "Kazakh"
+  ],
+  "language": "Kazakh",
+  "timezone": "UTC+5/+6",
+  "timezones": [
+    "UTC+5/+6"
+  ],
+  "flag_emoji": "",
+  "flag_svg": "",
+  "flag_png": "",
+  "coat_of_arms": "",
+  "maps_google": "",
+  "maps_osm": "",
+  "landlocked": false,
+  "borders": [],
+  "driving_side": "right",
+  "calling_code": "",
+  "safety_level": "caution",
+  "budget_per_day": {
+    "budget": "40-60",
+    "midrange": "80-130",
+    "luxury": "220+"
+  },
+  "best_time_to_visit": "Apr-Jun, Sep-Oct",
+  "latlng": [
+    0,
+    0
+  ],
+  "capital_latlng": [
+    0,
+    0
+  ],
+  "un_member": true,
+  "independent": true,
+  "featured": false
+}

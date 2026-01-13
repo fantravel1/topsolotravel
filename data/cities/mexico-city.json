@@ -1,0 +1,20 @@
+{
+  "name": "Mexico City",
+  "slug": "mexico-city",
+  "country": "Mexico",
+  "country_slug": "mexico",
+  "region": "Americas",
+  "lat": 19.4326,
+  "lng": -99.1332,
+  "population": 21782000,
+  "safety_level": "caution",
+  "budget_per_day": "45-85",
+  "highlights": [
+    "museums",
+    "food",
+    "history"
+  ],
+  "best_time_to_visit": "Mar-May",
+  "airport_code": "MEX",
+  "image_search": "Mexico City Mexico travel"
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Cameron Highlands",
+  "slug": "cameron-highlands",
+  "country": "Malaysia",
+  "country_slug": "malaysia",
+  "region": "Asia",
+  "lat": 4.4718,
+  "lng": 101.3767,
+  "population": 38000,
+  "safety_level": "safe",
+  "budget_per_day": "30-60",
+  "highlights": [
+    "tea",
+    "strawberries",
+    "cool weather"
+  ],
+  "best_time_to_visit": "Year-round",
+  "airport_code": "SZB",
+  "image_search": "Cameron Highlands Malaysia travel"
+}

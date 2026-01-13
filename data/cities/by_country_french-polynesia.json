@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Bora Bora",
+    "slug": "bora-bora",
+    "country": "French Polynesia",
+    "country_slug": "french-polynesia",
+    "region": "Oceania",
+    "lat": -16.5004,
+    "lng": -151.7415,
+    "population": 10605,
+    "safety_level": "safe",
+    "budget_per_day": "200-500",
+    "highlights": [
+      "overwater bungalows",
+      "lagoon",
+      "luxury"
+    ],
+    "best_time_to_visit": "May-Oct",
+    "airport_code": "BOB",
+    "image_search": "Bora Bora French Polynesia travel"
+  },
+  {
+    "name": "Papeete",
+    "slug": "papeete",
+    "country": "French Polynesia",
+    "country_slug": "french-polynesia",
+    "region": "Oceania",
+    "lat": -17.5516,
+    "lng": -149.5585,
+    "population": 26926,
+    "safety_level": "safe",
+    "budget_per_day": "100-180",
+    "highlights": [
+      "market",
+      "tahiti",
+      "gateway"
+    ],
+    "best_time_to_visit": "May-Oct",
+    "airport_code": "PPT",
+    "image_search": "Papeete French Polynesia travel"
+  }
+]

@@ -1,0 +1,50 @@
+{
+  "name": "Cyprus",
+  "slug": "cyprus",
+  "official_name": "Cyprus",
+  "cca2": "",
+  "cca3": "",
+  "region": "Europe",
+  "subregion": "Eastern Europe",
+  "region_slug": "europe",
+  "capital": "Nicosia",
+  "population": 1210000,
+  "area": 0,
+  "currency": "Euro (EUR)",
+  "languages": [
+    "Greek"
+  ],
+  "language": "Greek",
+  "timezone": "UTC+2",
+  "timezones": [
+    "UTC+2"
+  ],
+  "flag_emoji": "",
+  "flag_svg": "",
+  "flag_png": "",
+  "coat_of_arms": "",
+  "maps_google": "",
+  "maps_osm": "",
+  "landlocked": false,
+  "borders": [],
+  "driving_side": "right",
+  "calling_code": "",
+  "safety_level": "safe",
+  "budget_per_day": {
+    "budget": "55-75",
+    "midrange": "100-150",
+    "luxury": "280+"
+  },
+  "best_time_to_visit": "Apr-Jun, Sep-Nov",
+  "latlng": [
+    0,
+    0
+  ],
+  "capital_latlng": [
+    0,
+    0
+  ],
+  "un_member": true,
+  "independent": true,
+  "featured": false
+}

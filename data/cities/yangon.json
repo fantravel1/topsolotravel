@@ -1,0 +1,20 @@
+{
+  "name": "Yangon",
+  "slug": "yangon",
+  "country": "Myanmar",
+  "country_slug": "myanmar",
+  "region": "Asia",
+  "lat": 16.8661,
+  "lng": 96.1951,
+  "population": 5209541,
+  "safety_level": "warning",
+  "budget_per_day": "30-60",
+  "highlights": [
+    "shwedagon",
+    "colonial",
+    "food"
+  ],
+  "best_time_to_visit": "Nov-Feb",
+  "airport_code": "RGN",
+  "image_search": "Yangon Myanmar travel"
+}

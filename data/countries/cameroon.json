@@ -1,0 +1,50 @@
+{
+  "name": "Cameroon",
+  "slug": "cameroon",
+  "official_name": "Cameroon",
+  "cca2": "",
+  "cca3": "",
+  "region": "Africa",
+  "subregion": "Middle Africa",
+  "region_slug": "africa",
+  "capital": "Yaounde",
+  "population": 26540000,
+  "area": 0,
+  "currency": "Central African CFA Franc (XAF)",
+  "languages": [
+    "French"
+  ],
+  "language": "French",
+  "timezone": "UTC+1",
+  "timezones": [
+    "UTC+1"
+  ],
+  "flag_emoji": "",
+  "flag_svg": "",
+  "flag_png": "",
+  "coat_of_arms": "",
+  "maps_google": "",
+  "maps_osm": "",
+  "landlocked": false,
+  "borders": [],
+  "driving_side": "right",
+  "calling_code": "",
+  "safety_level": "warning",
+  "budget_per_day": {
+    "budget": "35-55",
+    "midrange": "70-110",
+    "luxury": "190+"
+  },
+  "best_time_to_visit": "Nov-Feb",
+  "latlng": [
+    0,
+    0
+  ],
+  "capital_latlng": [
+    0,
+    0
+  ],
+  "un_member": true,
+  "independent": true,
+  "featured": false
+}

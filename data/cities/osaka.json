@@ -1,0 +1,20 @@
+{
+  "name": "Osaka",
+  "slug": "osaka",
+  "country": "Japan",
+  "country_slug": "japan",
+  "region": "Asia",
+  "lat": 34.6937,
+  "lng": 135.5023,
+  "population": 2750000,
+  "safety_level": "safe",
+  "budget_per_day": "65-120",
+  "highlights": [
+    "street food",
+    "nightlife",
+    "castle"
+  ],
+  "best_time_to_visit": "Mar-May, Oct-Nov",
+  "airport_code": "KIX",
+  "image_search": "Osaka Japan travel"
+}

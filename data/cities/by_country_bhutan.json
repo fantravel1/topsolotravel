@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Paro",
+    "slug": "paro",
+    "country": "Bhutan",
+    "country_slug": "bhutan",
+    "region": "Asia",
+    "lat": 27.4286,
+    "lng": 89.4169,
+    "population": 10000,
+    "safety_level": "safe",
+    "budget_per_day": "200-300",
+    "highlights": [
+      "tigers nest",
+      "dzong",
+      "festivals"
+    ],
+    "best_time_to_visit": "Mar-May, Sep-Nov",
+    "airport_code": "PBH",
+    "image_search": "Paro Bhutan travel"
+  },
+  {
+    "name": "Punakha",
+    "slug": "punakha",
+    "country": "Bhutan",
+    "country_slug": "bhutan",
+    "region": "Asia",
+    "lat": 27.5833,
+    "lng": 89.8667,
+    "population": 21500,
+    "safety_level": "safe",
+    "budget_per_day": "200-300",
+    "highlights": [
+      "dzong",
+      "rice fields",
+      "rivers"
+    ],
+    "best_time_to_visit": "Mar-May, Sep-Nov",
+    "airport_code": "PBH",
+    "image_search": "Punakha Bhutan travel"
+  },
+  {
+    "name": "Thimphu",
+    "slug": "thimphu",
+    "country": "Bhutan",
+    "country_slug": "bhutan",
+    "region": "Asia",
+    "lat": 27.4716,
+    "lng": 89.6386,
+    "population": 114551,
+    "safety_level": "safe",
+    "budget_per_day": "200-300",
+    "highlights": [
+      "capital",
+      "dzong",
+      "buddha point"
+    ],
+    "best_time_to_visit": "Mar-May, Sep-Nov",
+    "airport_code": "PBH",
+    "image_search": "Thimphu Bhutan travel"
+  }
+]

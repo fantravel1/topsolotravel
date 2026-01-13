@@ -1,0 +1,20 @@
+{
+  "name": "Stone Town",
+  "slug": "stone-town",
+  "country": "Tanzania",
+  "country_slug": "tanzania",
+  "region": "Africa",
+  "lat": -6.1622,
+  "lng": 39.1921,
+  "population": 400000,
+  "safety_level": "caution",
+  "budget_per_day": "45-90",
+  "highlights": [
+    "unesco",
+    "spices",
+    "doors"
+  ],
+  "best_time_to_visit": "Jun-Oct",
+  "airport_code": "ZNZ",
+  "image_search": "Stone Town Tanzania travel"
+}

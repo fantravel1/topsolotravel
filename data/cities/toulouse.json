@@ -1,0 +1,20 @@
+{
+  "name": "Toulouse",
+  "slug": "toulouse",
+  "country": "France",
+  "country_slug": "france",
+  "region": "Europe",
+  "lat": 43.6047,
+  "lng": 1.4442,
+  "population": 479553,
+  "safety_level": "safe",
+  "budget_per_day": "60-110",
+  "highlights": [
+    "pink city",
+    "space",
+    "food"
+  ],
+  "best_time_to_visit": "Apr-Oct",
+  "airport_code": "TLS",
+  "image_search": "Toulouse France travel"
+}

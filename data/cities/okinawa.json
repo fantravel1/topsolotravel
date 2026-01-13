@@ -1,0 +1,20 @@
+{
+  "name": "Okinawa",
+  "slug": "okinawa",
+  "country": "Japan",
+  "country_slug": "japan",
+  "region": "Asia",
+  "lat": 26.2124,
+  "lng": 127.6809,
+  "population": 318828,
+  "safety_level": "safe",
+  "budget_per_day": "70-130",
+  "highlights": [
+    "beaches",
+    "diving",
+    "culture"
+  ],
+  "best_time_to_visit": "Apr-May, Oct-Nov",
+  "airport_code": "OKA",
+  "image_search": "Okinawa Japan travel"
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Cusco",
+  "slug": "cusco",
+  "country": "Peru",
+  "country_slug": "peru",
+  "region": "Americas",
+  "lat": -13.5319,
+  "lng": -71.9675,
+  "population": 428450,
+  "safety_level": "caution",
+  "budget_per_day": "35-70",
+  "highlights": [
+    "machu picchu",
+    "inca history",
+    "altitude"
+  ],
+  "best_time_to_visit": "May-Sep",
+  "airport_code": "CUZ",
+  "image_search": "Cusco Peru travel"
+}

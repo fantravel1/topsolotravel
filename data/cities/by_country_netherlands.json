@@ -1,0 +1,82 @@
+[
+  {
+    "name": "Amsterdam",
+    "slug": "amsterdam",
+    "country": "Netherlands",
+    "country_slug": "netherlands",
+    "region": "Europe",
+    "lat": 52.3676,
+    "lng": 4.9041,
+    "population": 872680,
+    "safety_level": "caution",
+    "budget_per_day": "90-150",
+    "highlights": [
+      "canals",
+      "museums",
+      "bikes"
+    ],
+    "best_time_to_visit": "Apr-Sep",
+    "airport_code": "AMS",
+    "image_search": "Amsterdam Netherlands travel"
+  },
+  {
+    "name": "Rotterdam",
+    "slug": "rotterdam",
+    "country": "Netherlands",
+    "country_slug": "netherlands",
+    "region": "Europe",
+    "lat": 51.9244,
+    "lng": 4.4777,
+    "population": 644618,
+    "safety_level": "safe",
+    "budget_per_day": "70-130",
+    "highlights": [
+      "architecture",
+      "port",
+      "museums"
+    ],
+    "best_time_to_visit": "Apr-Sep",
+    "airport_code": "RTM",
+    "image_search": "Rotterdam Netherlands travel"
+  },
+  {
+    "name": "The Hague",
+    "slug": "the-hague",
+    "country": "Netherlands",
+    "country_slug": "netherlands",
+    "region": "Europe",
+    "lat": 52.0705,
+    "lng": 4.3007,
+    "population": 537833,
+    "safety_level": "safe",
+    "budget_per_day": "80-140",
+    "highlights": [
+      "politics",
+      "beach",
+      "museums"
+    ],
+    "best_time_to_visit": "Apr-Sep",
+    "airport_code": "RTM",
+    "image_search": "The Hague Netherlands travel"
+  },
+  {
+    "name": "Utrecht",
+    "slug": "utrecht",
+    "country": "Netherlands",
+    "country_slug": "netherlands",
+    "region": "Europe",
+    "lat": 52.0893,
+    "lng": 5.1101,
+    "population": 357597,
+    "safety_level": "safe",
+    "budget_per_day": "70-120",
+    "highlights": [
+      "canals",
+      "university",
+      "cafes"
+    ],
+    "best_time_to_visit": "Apr-Sep",
+    "airport_code": "AMS",
+    "image_search": "Utrecht Netherlands travel"
+  }
+]

@@ -1,0 +1,50 @@
+{
+  "name": "Panama",
+  "slug": "panama",
+  "official_name": "Panama",
+  "cca2": "",
+  "cca3": "",
+  "region": "Americas",
+  "subregion": "Central America",
+  "region_slug": "americas",
+  "capital": "Panama City",
+  "population": 4310000,
+  "area": 0,
+  "currency": "US Dollar (USD)",
+  "languages": [
+    "Spanish"
+  ],
+  "language": "Spanish",
+  "timezone": "UTC-5",
+  "timezones": [
+    "UTC-5"
+  ],
+  "flag_emoji": "",
+  "flag_svg": "",
+  "flag_png": "",
+  "coat_of_arms": "",
+  "maps_google": "",
+  "maps_osm": "",
+  "landlocked": false,
+  "borders": [],
+  "driving_side": "right",
+  "calling_code": "",
+  "safety_level": "caution",
+  "budget_per_day": {
+    "budget": "45-60",
+    "midrange": "80-130",
+    "luxury": "200+"
+  },
+  "best_time_to_visit": "Dec-Apr",
+  "latlng": [
+    0,
+    0
+  ],
+  "capital_latlng": [
+    0,
+    0
+  ],
+  "un_member": true,
+  "independent": true,
+  "featured": false
+}

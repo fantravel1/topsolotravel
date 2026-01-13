@@ -1,0 +1,202 @@
+[
+  {
+    "name": "Berlin",
+    "slug": "berlin",
+    "country": "Germany",
+    "country_slug": "germany",
+    "region": "Europe",
+    "lat": 52.52,
+    "lng": 13.405,
+    "population": 3645000,
+    "safety_level": "safe",
+    "budget_per_day": "60-110",
+    "highlights": [
+      "history",
+      "nightlife",
+      "art"
+    ],
+    "best_time_to_visit": "May-Sep",
+    "airport_code": "BER",
+    "image_search": "Berlin Germany travel"
+  },
+  {
+    "name": "Cologne",
+    "slug": "cologne",
+    "country": "Germany",
+    "country_slug": "germany",
+    "region": "Europe",
+    "lat": 50.9375,
+    "lng": 6.9603,
+    "population": 1085664,
+    "safety_level": "safe",
+    "budget_per_day": "60-120",
+    "highlights": [
+      "cathedral",
+      "beer",
+      "carnival"
+    ],
+    "best_time_to_visit": "May-Sep",
+    "airport_code": "CGN",
+    "image_search": "Cologne Germany travel"
+  },
+  {
+    "name": "Dresden",
+    "slug": "dresden",
+    "country": "Germany",
+    "country_slug": "germany",
+    "region": "Europe",
+    "lat": 51.0504,
+    "lng": 13.7373,
+    "population": 556780,
+    "safety_level": "safe",
+    "budget_per_day": "50-100",
+    "highlights": [
+      "baroque",
+      "art",
+      "history"
+    ],
+    "best_time_to_visit": "May-Sep",
+    "airport_code": "DRS",
+    "image_search": "Dresden Germany travel"
+  },
+  {
+    "name": "Dusseldorf",
+    "slug": "dusseldorf",
+    "country": "Germany",
+    "country_slug": "germany",
+    "region": "Europe",
+    "lat": 51.2277,
+    "lng": 6.7735,
+    "population": 619294,
+    "safety_level": "safe",
+    "budget_per_day": "70-120",
+    "highlights": [
+      "fashion",
+      "beer",
+      "old town"
+    ],
+    "best_time_to_visit": "May-Sep",
+    "airport_code": "DUS",
+    "image_search": "Dusseldorf Germany travel"
+  },
+  {
+    "name": "Frankfurt",
+    "slug": "frankfurt",
+    "country": "Germany",
+    "country_slug": "germany",
+    "region": "Europe",
+    "lat": 50.1109,
+    "lng": 8.6821,
+    "population": 753056,
+    "safety_level": "safe",
+    "budget_per_day": "80-140",
+    "highlights": [
+      "finance",
+      "museums",
+      "apfelwein"
+    ],
+    "best_time_to_visit": "May-Sep",
+    "airport_code": "FRA",
+    "image_search": "Frankfurt Germany travel"
+  },
+  {
+    "name": "Hamburg",
+    "slug": "hamburg",
+    "country": "Germany",
+    "country_slug": "germany",
+    "region": "Europe",
+    "lat": 53.5511,
+    "lng": 9.9937,
+    "population": 1841179,
+    "safety_level": "safe",
+    "budget_per_day": "70-130",
+    "highlights": [
+      "harbour",
+      "nightlife",
+      "architecture"
+    ],
+    "best_time_to_visit": "May-Sep",
+    "airport_code": "HAM",
+    "image_search": "Hamburg Germany travel"
+  },
+  {
+    "name": "Leipzig",
+    "slug": "leipzig",
+    "country": "Germany",
+    "country_slug": "germany",
+    "region": "Europe",
+    "lat": 51.3397,
+    "lng": 12.3731,
+    "population": 587857,
+    "safety_level": "safe",
+    "budget_per_day": "50-100",
+    "highlights": [
+      "music",
+      "arts",
+      "nightlife"
+    ],
+    "best_time_to_visit": "May-Sep",
+    "airport_code": "LEJ",
+    "image_search": "Leipzig Germany travel"
+  },
+  {
+    "name": "Munich",
+    "slug": "munich",
+    "country": "Germany",
+    "country_slug": "germany",
+    "region": "Europe",
+    "lat": 48.1351,
+    "lng": 11.582,
+    "population": 1472000,
+    "safety_level": "safe",
+    "budget_per_day": "70-130",
+    "highlights": [
+      "beer gardens",
+      "oktoberfest",
+      "alps"
+    ],
+    "best_time_to_visit": "May-Sep",
+    "airport_code": "MUC",
+    "image_search": "Munich Germany travel"
+  },
+  {
+    "name": "Nuremberg",
+    "slug": "nuremberg",
+    "country": "Germany",
+    "country_slug": "germany",
+    "region": "Europe",
+    "lat": 49.4521,
+    "lng": 11.0767,
+    "population": 518370,
+    "safety_level": "safe",
+    "budget_per_day": "60-110",
+    "highlights": [
+      "history",
+      "christmas market",
+      "beer"
+    ],
+    "best_time_to_visit": "May-Sep, Dec",
+    "airport_code": "NUE",
+    "image_search": "Nuremberg Germany travel"
+  },
+  {
+    "name": "Stuttgart",
+    "slug": "stuttgart",
+    "country": "Germany",
+    "country_slug": "germany",
+    "region": "Europe",
+    "lat": 48.7758,
+    "lng": 9.1829,
+    "population": 634830,
+    "safety_level": "safe",
+    "budget_per_day": "70-120",
+    "highlights": [
+      "cars",
+      "wine",
+      "culture"
+    ],
+    "best_time_to_visit": "May-Sep",
+    "airport_code": "STR",
+    "image_search": "Stuttgart Germany travel"
+  }
+]

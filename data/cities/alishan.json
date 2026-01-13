@@ -1,0 +1,20 @@
+{
+  "name": "Alishan",
+  "slug": "alishan",
+  "country": "Taiwan",
+  "country_slug": "taiwan",
+  "region": "Asia",
+  "lat": 23.5109,
+  "lng": 120.8,
+  "population": 5000,
+  "safety_level": "safe",
+  "budget_per_day": "50-90",
+  "highlights": [
+    "sunrise",
+    "trains",
+    "forests"
+  ],
+  "best_time_to_visit": "Mar-May, Sep-Nov",
+  "airport_code": "RMQ",
+  "image_search": "Alishan Taiwan travel"
+}

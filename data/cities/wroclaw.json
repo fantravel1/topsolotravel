@@ -1,0 +1,20 @@
+{
+  "name": "Wroclaw",
+  "slug": "wroclaw",
+  "country": "Poland",
+  "country_slug": "poland",
+  "region": "Europe",
+  "lat": 51.1079,
+  "lng": 17.0385,
+  "population": 641928,
+  "safety_level": "safe",
+  "budget_per_day": "35-70",
+  "highlights": [
+    "dwarfs",
+    "bridges",
+    "market"
+  ],
+  "best_time_to_visit": "May-Sep",
+  "airport_code": "WRO",
+  "image_search": "Wroclaw Poland travel"
+}

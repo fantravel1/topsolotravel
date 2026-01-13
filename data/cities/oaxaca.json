@@ -1,0 +1,20 @@
+{
+  "name": "Oaxaca",
+  "slug": "oaxaca",
+  "country": "Mexico",
+  "country_slug": "mexico",
+  "region": "Americas",
+  "lat": 17.0732,
+  "lng": -96.7266,
+  "population": 300050,
+  "safety_level": "safe",
+  "budget_per_day": "35-70",
+  "highlights": [
+    "food",
+    "crafts",
+    "mezcal"
+  ],
+  "best_time_to_visit": "Oct-May",
+  "airport_code": "OAX",
+  "image_search": "Oaxaca Mexico travel"
+}

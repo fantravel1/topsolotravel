@@ -1,0 +1,20 @@
+{
+  "name": "Diani Beach",
+  "slug": "diani-beach",
+  "country": "Kenya",
+  "country_slug": "kenya",
+  "region": "Africa",
+  "lat": -4.3167,
+  "lng": 39.5667,
+  "population": 100000,
+  "safety_level": "caution",
+  "budget_per_day": "60-120",
+  "highlights": [
+    "beaches",
+    "diving",
+    "kitesurfing"
+  ],
+  "best_time_to_visit": "Dec-Mar, Jul-Oct",
+  "airport_code": "MBA",
+  "image_search": "Diani Beach Kenya travel"
+}

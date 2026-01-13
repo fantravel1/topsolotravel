@@ -1,0 +1,20 @@
+{
+  "name": "Dusseldorf",
+  "slug": "dusseldorf",
+  "country": "Germany",
+  "country_slug": "germany",
+  "region": "Europe",
+  "lat": 51.2277,
+  "lng": 6.7735,
+  "population": 619294,
+  "safety_level": "safe",
+  "budget_per_day": "70-120",
+  "highlights": [
+    "fashion",
+    "beer",
+    "old town"
+  ],
+  "best_time_to_visit": "May-Sep",
+  "airport_code": "DUS",
+  "image_search": "Dusseldorf Germany travel"
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Uyuni",
+  "slug": "uyuni",
+  "country": "Bolivia",
+  "country_slug": "bolivia",
+  "region": "Americas",
+  "lat": -20.4637,
+  "lng": -66.8253,
+  "population": 29672,
+  "safety_level": "safe",
+  "budget_per_day": "30-60",
+  "highlights": [
+    "salt flats",
+    "desert",
+    "photography"
+  ],
+  "best_time_to_visit": "May-Oct",
+  "airport_code": "UYU",
+  "image_search": "Uyuni Bolivia travel"
+}

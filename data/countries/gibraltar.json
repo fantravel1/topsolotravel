@@ -1,0 +1,50 @@
+{
+  "name": "Gibraltar",
+  "slug": "gibraltar",
+  "official_name": "Gibraltar",
+  "cca2": "",
+  "cca3": "",
+  "region": "Europe",
+  "subregion": "Southern Europe",
+  "region_slug": "europe",
+  "capital": "Gibraltar",
+  "population": 33691,
+  "area": 0,
+  "currency": "Gibraltar Pound (GIP)",
+  "languages": [
+    "English"
+  ],
+  "language": "English",
+  "timezone": "UTC+1",
+  "timezones": [
+    "UTC+1"
+  ],
+  "flag_emoji": "",
+  "flag_svg": "",
+  "flag_png": "",
+  "coat_of_arms": "",
+  "maps_google": "",
+  "maps_osm": "",
+  "landlocked": false,
+  "borders": [],
+  "driving_side": "right",
+  "calling_code": "",
+  "safety_level": "safe",
+  "budget_per_day": {
+    "budget": "80-110",
+    "midrange": "140-210",
+    "luxury": "350+"
+  },
+  "best_time_to_visit": "Apr-Oct",
+  "latlng": [
+    0,
+    0
+  ],
+  "capital_latlng": [
+    0,
+    0
+  ],
+  "un_member": true,
+  "independent": true,
+  "featured": false
+}

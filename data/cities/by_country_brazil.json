@@ -1,0 +1,102 @@
+[
+  {
+    "name": "Florianopolis",
+    "slug": "florianopolis",
+    "country": "Brazil",
+    "country_slug": "brazil",
+    "region": "Americas",
+    "lat": -27.5969,
+    "lng": -48.5495,
+    "population": 477798,
+    "safety_level": "safe",
+    "budget_per_day": "45-85",
+    "highlights": [
+      "beaches",
+      "surfing",
+      "nightlife"
+    ],
+    "best_time_to_visit": "Dec-Mar",
+    "airport_code": "FLN",
+    "image_search": "Florianopolis Brazil travel"
+  },
+  {
+    "name": "Foz do Iguacu",
+    "slug": "foz-do-iguacu",
+    "country": "Brazil",
+    "country_slug": "brazil",
+    "region": "Americas",
+    "lat": -25.5163,
+    "lng": -54.5854,
+    "population": 256088,
+    "safety_level": "safe",
+    "budget_per_day": "45-85",
+    "highlights": [
+      "waterfalls",
+      "bird park",
+      "border"
+    ],
+    "best_time_to_visit": "Mar-Nov",
+    "airport_code": "IGU",
+    "image_search": "Foz do Iguacu Brazil travel"
+  },
+  {
+    "name": "Rio de Janeiro",
+    "slug": "rio-de-janeiro",
+    "country": "Brazil",
+    "country_slug": "brazil",
+    "region": "Americas",
+    "lat": -22.9068,
+    "lng": -43.1729,
+    "population": 6320446,
+    "safety_level": "caution",
+    "budget_per_day": "50-100",
+    "highlights": [
+      "beaches",
+      "christ",
+      "carnival"
+    ],
+    "best_time_to_visit": "Dec-Mar",
+    "airport_code": "GIG",
+    "image_search": "Rio de Janeiro Brazil travel"
+  },
+  {
+    "name": "Salvador",
+    "slug": "salvador",
+    "country": "Brazil",
+    "country_slug": "brazil",
+    "region": "Americas",
+    "lat": -12.9714,
+    "lng": -38.5014,
+    "population": 2886698,
+    "safety_level": "caution",
+    "budget_per_day": "40-80",
+    "highlights": [
+      "afro-brazilian culture",
+      "beaches",
+      "music"
+    ],
+    "best_time_to_visit": "Sep-Mar",
+    "airport_code": "SSA",
+    "image_search": "Salvador Brazil travel"
+  },
+  {
+    "name": "Sao Paulo",
+    "slug": "sao-paulo",
+    "country": "Brazil",
+    "country_slug": "brazil",
+    "region": "Americas",
+    "lat": -23.5505,
+    "lng": -46.6333,
+    "population": 12252023,
+    "safety_level": "caution",
+    "budget_per_day": "50-100",
+    "highlights": [
+      "food",
+      "nightlife",
+      "museums"
+    ],
+    "best_time_to_visit": "Apr-Oct",
+    "airport_code": "GRU",
+    "image_search": "Sao Paulo Brazil travel"
+  }
+]

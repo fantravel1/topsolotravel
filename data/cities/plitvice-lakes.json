@@ -1,0 +1,20 @@
+{
+  "name": "Plitvice Lakes",
+  "slug": "plitvice-lakes",
+  "country": "Croatia",
+  "country_slug": "croatia",
+  "region": "Europe",
+  "lat": 44.8654,
+  "lng": 15.582,
+  "population": 2000,
+  "safety_level": "safe",
+  "budget_per_day": "60-100",
+  "highlights": [
+    "waterfalls",
+    "lakes",
+    "nature"
+  ],
+  "best_time_to_visit": "May-Sep",
+  "airport_code": "ZAG",
+  "image_search": "Plitvice Lakes Croatia travel"
+}

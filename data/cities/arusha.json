@@ -1,0 +1,20 @@
+{
+  "name": "Arusha",
+  "slug": "arusha",
+  "country": "Tanzania",
+  "country_slug": "tanzania",
+  "region": "Africa",
+  "lat": -3.3869,
+  "lng": 36.683,
+  "population": 416442,
+  "safety_level": "caution",
+  "budget_per_day": "45-90",
+  "highlights": [
+    "safari gateway",
+    "kilimanjaro",
+    "coffee"
+  ],
+  "best_time_to_visit": "Jun-Oct",
+  "airport_code": "ARK",
+  "image_search": "Arusha Tanzania travel"
+}

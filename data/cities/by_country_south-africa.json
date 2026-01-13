@@ -1,0 +1,162 @@
+[
+  {
+    "name": "Cape Town",
+    "slug": "cape-town",
+    "country": "South Africa",
+    "country_slug": "south-africa",
+    "region": "Africa",
+    "lat": -33.9249,
+    "lng": 18.4241,
+    "population": 433688,
+    "safety_level": "caution",
+    "budget_per_day": "50-100",
+    "highlights": [
+      "table mountain",
+      "wine",
+      "beaches"
+    ],
+    "best_time_to_visit": "Nov-Mar",
+    "airport_code": "CPT",
+    "image_search": "Cape Town South Africa travel"
+  },
+  {
+    "name": "Durban",
+    "slug": "durban",
+    "country": "South Africa",
+    "country_slug": "south-africa",
+    "region": "Africa",
+    "lat": -29.8587,
+    "lng": 31.0218,
+    "population": 595061,
+    "safety_level": "caution",
+    "budget_per_day": "40-80",
+    "highlights": [
+      "beaches",
+      "curry",
+      "surfing"
+    ],
+    "best_time_to_visit": "Apr-Sep",
+    "airport_code": "DUR",
+    "image_search": "Durban South Africa travel"
+  },
+  {
+    "name": "Franschhoek",
+    "slug": "franschhoek",
+    "country": "South Africa",
+    "country_slug": "south-africa",
+    "region": "Africa",
+    "lat": -33.9137,
+    "lng": 19.1162,
+    "population": 10000,
+    "safety_level": "safe",
+    "budget_per_day": "70-140",
+    "highlights": [
+      "wine",
+      "food",
+      "french heritage"
+    ],
+    "best_time_to_visit": "Sep-May",
+    "airport_code": "CPT",
+    "image_search": "Franschhoek South Africa travel"
+  },
+  {
+    "name": "Garden Route",
+    "slug": "garden-route",
+    "country": "South Africa",
+    "country_slug": "south-africa",
+    "region": "Africa",
+    "lat": -33.9639,
+    "lng": 22.4608,
+    "population": 100000,
+    "safety_level": "safe",
+    "budget_per_day": "60-120",
+    "highlights": [
+      "scenic drive",
+      "beaches",
+      "forests"
+    ],
+    "best_time_to_visit": "Sep-May",
+    "airport_code": "GRJ",
+    "image_search": "Garden Route South Africa travel"
+  },
+  {
+    "name": "Hermanus",
+    "slug": "hermanus",
+    "country": "South Africa",
+    "country_slug": "south-africa",
+    "region": "Africa",
+    "lat": -34.4186,
+    "lng": 19.2345,
+    "population": 28000,
+    "safety_level": "safe",
+    "budget_per_day": "60-120",
+    "highlights": [
+      "whale watching",
+      "wine",
+      "coast"
+    ],
+    "best_time_to_visit": "Jul-Nov",
+    "airport_code": "CPT",
+    "image_search": "Hermanus South Africa travel"
+  },
+  {
+    "name": "Johannesburg",
+    "slug": "johannesburg",
+    "country": "South Africa",
+    "country_slug": "south-africa",
+    "region": "Africa",
+    "lat": -26.2041,
+    "lng": 28.0473,
+    "population": 957441,
+    "safety_level": "caution",
+    "budget_per_day": "45-90",
+    "highlights": [
+      "apartheid museum",
+      "soweto",
+      "food"
+    ],
+    "best_time_to_visit": "May-Sep",
+    "airport_code": "JNB",
+    "image_search": "Johannesburg South Africa travel"
+  },
+  {
+    "name": "Kruger",
+    "slug": "kruger",
+    "country": "South Africa",
+    "country_slug": "south-africa",
+    "region": "Africa",
+    "lat": -23.9884,
+    "lng": 31.5547,
+    "population": 0,
+    "safety_level": "safe",
+    "budget_per_day": "80-200",
+    "highlights": [
+      "big five",
+      "safari",
+      "self-drive"
+    ],
+    "best_time_to_visit": "May-Oct",
+    "airport_code": "MQP",
+    "image_search": "Kruger South Africa travel"
+  },
+  {
+    "name": "Stellenbosch",
+    "slug": "stellenbosch",
+    "country": "South Africa",
+    "country_slug": "south-africa",
+    "region": "Africa",
+    "lat": -33.9346,
+    "lng": 18.8667,
+    "population": 155733,
+    "safety_level": "safe",
+    "budget_per_day": "55-110",
+    "highlights": [
+      "wine",
+      "oak trees",
+      "university"
+    ],
+    "best_time_to_visit": "Sep-May",
+    "airport_code": "CPT",
+    "image_search": "Stellenbosch South Africa travel"
+  }
+]

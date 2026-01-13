@@ -1,0 +1,20 @@
+{
+  "name": "Victoria Falls",
+  "slug": "victoria-falls",
+  "country": "Zimbabwe",
+  "country_slug": "zimbabwe",
+  "region": "Africa",
+  "lat": -17.9243,
+  "lng": 25.8567,
+  "population": 35761,
+  "safety_level": "safe",
+  "budget_per_day": "60-120",
+  "highlights": [
+    "falls",
+    "bungee",
+    "rafting"
+  ],
+  "best_time_to_visit": "May-Oct",
+  "airport_code": "VFA",
+  "image_search": "Victoria Falls Zimbabwe travel"
+}

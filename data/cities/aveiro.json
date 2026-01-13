@@ -1,0 +1,20 @@
+{
+  "name": "Aveiro",
+  "slug": "aveiro",
+  "country": "Portugal",
+  "country_slug": "portugal",
+  "region": "Europe",
+  "lat": 40.6443,
+  "lng": -8.6455,
+  "population": 78450,
+  "safety_level": "safe",
+  "budget_per_day": "40-75",
+  "highlights": [
+    "canals",
+    "moliceiros",
+    "pastries"
+  ],
+  "best_time_to_visit": "May-Sep",
+  "airport_code": "OPO",
+  "image_search": "Aveiro Portugal travel"
+}

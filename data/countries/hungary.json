@@ -1,0 +1,50 @@
+{
+  "name": "Hungary",
+  "slug": "hungary",
+  "official_name": "Hungary",
+  "cca2": "",
+  "cca3": "",
+  "region": "Europe",
+  "subregion": "Central Europe",
+  "region_slug": "europe",
+  "capital": "Budapest",
+  "population": 9660000,
+  "area": 0,
+  "currency": "Hungarian Forint (HUF)",
+  "languages": [
+    "Hungarian"
+  ],
+  "language": "Hungarian",
+  "timezone": "UTC+1",
+  "timezones": [
+    "UTC+1"
+  ],
+  "flag_emoji": "",
+  "flag_svg": "",
+  "flag_png": "",
+  "coat_of_arms": "",
+  "maps_google": "",
+  "maps_osm": "",
+  "landlocked": false,
+  "borders": [],
+  "driving_side": "right",
+  "calling_code": "",
+  "safety_level": "safe",
+  "budget_per_day": {
+    "budget": "45-65",
+    "midrange": "80-130",
+    "luxury": "220+"
+  },
+  "best_time_to_visit": "Apr-Jun, Sep-Oct",
+  "latlng": [
+    0,
+    0
+  ],
+  "capital_latlng": [
+    0,
+    0
+  ],
+  "un_member": true,
+  "independent": true,
+  "featured": false
+}

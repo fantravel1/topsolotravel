@@ -1,0 +1,20 @@
+{
+  "name": "Koh Rong",
+  "slug": "koh-rong",
+  "country": "Cambodia",
+  "country_slug": "cambodia",
+  "region": "Asia",
+  "lat": 10.7667,
+  "lng": 103.2,
+  "population": 4000,
+  "safety_level": "safe",
+  "budget_per_day": "30-60",
+  "highlights": [
+    "beaches",
+    "party",
+    "bioluminescence"
+  ],
+  "best_time_to_visit": "Nov-May",
+  "airport_code": "KOS",
+  "image_search": "Koh Rong Cambodia travel"
+}

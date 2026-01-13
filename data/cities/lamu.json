@@ -1,0 +1,20 @@
+{
+  "name": "Lamu",
+  "slug": "lamu",
+  "country": "Kenya",
+  "country_slug": "kenya",
+  "region": "Africa",
+  "lat": -2.2686,
+  "lng": 40.902,
+  "population": 18382,
+  "safety_level": "caution",
+  "budget_per_day": "50-100",
+  "highlights": [
+    "swahili",
+    "donkeys",
+    "dhows"
+  ],
+  "best_time_to_visit": "Dec-Mar",
+  "airport_code": "LAU",
+  "image_search": "Lamu Kenya travel"
+}

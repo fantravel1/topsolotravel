@@ -1,0 +1,20 @@
+{
+  "name": "Garden Route",
+  "slug": "garden-route",
+  "country": "South Africa",
+  "country_slug": "south-africa",
+  "region": "Africa",
+  "lat": -33.9639,
+  "lng": 22.4608,
+  "population": 100000,
+  "safety_level": "safe",
+  "budget_per_day": "60-120",
+  "highlights": [
+    "scenic drive",
+    "beaches",
+    "forests"
+  ],
+  "best_time_to_visit": "Sep-May",
+  "airport_code": "GRJ",
+  "image_search": "Garden Route South Africa travel"
+}

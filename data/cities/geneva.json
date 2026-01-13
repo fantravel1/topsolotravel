@@ -1,0 +1,20 @@
+{
+  "name": "Geneva",
+  "slug": "geneva",
+  "country": "Switzerland",
+  "country_slug": "switzerland",
+  "region": "Europe",
+  "lat": 46.2044,
+  "lng": 6.1432,
+  "population": 201818,
+  "safety_level": "safe",
+  "budget_per_day": "140-220",
+  "highlights": [
+    "lake",
+    "UN",
+    "chocolate"
+  ],
+  "best_time_to_visit": "Jun-Sep",
+  "airport_code": "GVA",
+  "image_search": "Geneva Switzerland travel"
+}

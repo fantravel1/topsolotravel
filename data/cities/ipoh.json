@@ -1,0 +1,20 @@
+{
+  "name": "Ipoh",
+  "slug": "ipoh",
+  "country": "Malaysia",
+  "country_slug": "malaysia",
+  "region": "Asia",
+  "lat": 4.5975,
+  "lng": 101.0901,
+  "population": 737861,
+  "safety_level": "safe",
+  "budget_per_day": "25-50",
+  "highlights": [
+    "food",
+    "street art",
+    "caves"
+  ],
+  "best_time_to_visit": "Year-round",
+  "airport_code": "IPH",
+  "image_search": "Ipoh Malaysia travel"
+}

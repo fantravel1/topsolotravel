@@ -1,0 +1,20 @@
+{
+  "name": "Rio de Janeiro",
+  "slug": "rio-de-janeiro",
+  "country": "Brazil",
+  "country_slug": "brazil",
+  "region": "Americas",
+  "lat": -22.9068,
+  "lng": -43.1729,
+  "population": 6320446,
+  "safety_level": "caution",
+  "budget_per_day": "50-100",
+  "highlights": [
+    "beaches",
+    "christ",
+    "carnival"
+  ],
+  "best_time_to_visit": "Dec-Mar",
+  "airport_code": "GIG",
+  "image_search": "Rio de Janeiro Brazil travel"
+}

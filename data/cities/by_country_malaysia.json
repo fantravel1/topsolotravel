@@ -1,0 +1,202 @@
+[
+  {
+    "name": "Cameron Highlands",
+    "slug": "cameron-highlands",
+    "country": "Malaysia",
+    "country_slug": "malaysia",
+    "region": "Asia",
+    "lat": 4.4718,
+    "lng": 101.3767,
+    "population": 38000,
+    "safety_level": "safe",
+    "budget_per_day": "30-60",
+    "highlights": [
+      "tea",
+      "strawberries",
+      "cool weather"
+    ],
+    "best_time_to_visit": "Year-round",
+    "airport_code": "SZB",
+    "image_search": "Cameron Highlands Malaysia travel"
+  },
+  {
+    "name": "Ipoh",
+    "slug": "ipoh",
+    "country": "Malaysia",
+    "country_slug": "malaysia",
+    "region": "Asia",
+    "lat": 4.5975,
+    "lng": 101.0901,
+    "population": 737861,
+    "safety_level": "safe",
+    "budget_per_day": "25-50",
+    "highlights": [
+      "food",
+      "street art",
+      "caves"
+    ],
+    "best_time_to_visit": "Year-round",
+    "airport_code": "IPH",
+    "image_search": "Ipoh Malaysia travel"
+  },
+  {
+    "name": "Kota Kinabalu",
+    "slug": "kota-kinabalu",
+    "country": "Malaysia",
+    "country_slug": "malaysia",
+    "region": "Asia",
+    "lat": 5.9804,
+    "lng": 116.0735,
+    "population": 452058,
+    "safety_level": "safe",
+    "budget_per_day": "35-70",
+    "highlights": [
+      "mt kinabalu",
+      "islands",
+      "diving"
+    ],
+    "best_time_to_visit": "Mar-Sep",
+    "airport_code": "BKI",
+    "image_search": "Kota Kinabalu Malaysia travel"
+  },
+  {
+    "name": "Kuala Lumpur",
+    "slug": "kuala-lumpur",
+    "country": "Malaysia",
+    "country_slug": "malaysia",
+    "region": "Asia",
+    "lat": 3.139,
+    "lng": 101.6869,
+    "population": 1808000,
+    "safety_level": "safe",
+    "budget_per_day": "35-70",
+    "highlights": [
+      "towers",
+      "food",
+      "shopping"
+    ],
+    "best_time_to_visit": "May-Jul, Dec-Feb",
+    "airport_code": "KUL",
+    "image_search": "Kuala Lumpur Malaysia travel"
+  },
+  {
+    "name": "Kuching",
+    "slug": "kuching",
+    "country": "Malaysia",
+    "country_slug": "malaysia",
+    "region": "Asia",
+    "lat": 1.5533,
+    "lng": 110.3592,
+    "population": 570407,
+    "safety_level": "safe",
+    "budget_per_day": "30-60",
+    "highlights": [
+      "orangutans",
+      "rainforest",
+      "cat statues"
+    ],
+    "best_time_to_visit": "Apr-Sep",
+    "airport_code": "KCH",
+    "image_search": "Kuching Malaysia travel"
+  },
+  {
+    "name": "Langkawi",
+    "slug": "langkawi",
+    "country": "Malaysia",
+    "country_slug": "malaysia",
+    "region": "Asia",
+    "lat": 6.35,
+    "lng": 99.8,
+    "population": 99392,
+    "safety_level": "safe",
+    "budget_per_day": "40-80",
+    "highlights": [
+      "beaches",
+      "duty free",
+      "cable car"
+    ],
+    "best_time_to_visit": "Dec-Mar",
+    "airport_code": "LGK",
+    "image_search": "Langkawi Malaysia travel"
+  },
+  {
+    "name": "Melaka",
+    "slug": "melaka",
+    "country": "Malaysia",
+    "country_slug": "malaysia",
+    "region": "Asia",
+    "lat": 2.1896,
+    "lng": 102.2501,
+    "population": 579000,
+    "safety_level": "safe",
+    "budget_per_day": "30-55",
+    "highlights": [
+      "history",
+      "jonker street",
+      "food"
+    ],
+    "best_time_to_visit": "Mar-Oct",
+    "airport_code": "KUL",
+    "image_search": "Melaka Malaysia travel"
+  },
+  {
+    "name": "Penang",
+    "slug": "penang",
+    "country": "Malaysia",
+    "country_slug": "malaysia",
+    "region": "Asia",
+    "lat": 5.4164,
+    "lng": 100.3327,
+    "population": 708127,
+    "safety_level": "safe",
+    "budget_per_day": "30-60",
+    "highlights": [
+      "street art",
+      "food",
+      "temples"
+    ],
+    "best_time_to_visit": "Dec-Mar",
+    "airport_code": "PEN",
+    "image_search": "Penang Malaysia travel"
+  },
+  {
+    "name": "Perhentian Islands",
+    "slug": "perhentian-islands",
+    "country": "Malaysia",
+    "country_slug": "malaysia",
+    "region": "Asia",
+    "lat": 5.9167,
+    "lng": 102.7333,
+    "population": 2000,
+    "safety_level": "safe",
+    "budget_per_day": "35-70",
+    "highlights": [
+      "diving",
+      "turtles",
+      "beaches"
+    ],
+    "best_time_to_visit": "Mar-Oct",
+    "airport_code": "KBR",
+    "image_search": "Perhentian Islands Malaysia travel"
+  },
+  {
+    "name": "Tioman Island",
+    "slug": "tioman-island",
+    "country": "Malaysia",
+    "country_slug": "malaysia",
+    "region": "Asia",
+    "lat": 2.7895,
+    "lng": 104.1667,
+    "population": 3000,
+    "safety_level": "safe",
+    "budget_per_day": "40-80",
+    "highlights": [
+      "diving",
+      "snorkeling",
+      "jungle"
+    ],
+    "best_time_to_visit": "Mar-Oct",
+    "airport_code": "TOD",
+    "image_search": "Tioman Island Malaysia travel"
+  }
+]

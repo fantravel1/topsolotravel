@@ -1,0 +1,20 @@
+{
+  "name": "Sharjah",
+  "slug": "sharjah",
+  "country": "United Arab Emirates",
+  "country_slug": "united-arab-emirates",
+  "region": "Asia",
+  "lat": 25.3463,
+  "lng": 55.4209,
+  "population": 1405000,
+  "safety_level": "safe",
+  "budget_per_day": "70-130",
+  "highlights": [
+    "museums",
+    "souks",
+    "culture"
+  ],
+  "best_time_to_visit": "Nov-Mar",
+  "airport_code": "SHJ",
+  "image_search": "Sharjah United Arab Emirates travel"
+}

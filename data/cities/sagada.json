@@ -1,0 +1,20 @@
+{
+  "name": "Sagada",
+  "slug": "sagada",
+  "country": "Philippines",
+  "country_slug": "philippines",
+  "region": "Asia",
+  "lat": 17.0841,
+  "lng": 120.9036,
+  "population": 11000,
+  "safety_level": "safe",
+  "budget_per_day": "20-40",
+  "highlights": [
+    "hanging coffins",
+    "caves",
+    "sunrise"
+  ],
+  "best_time_to_visit": "Dec-May",
+  "airport_code": "MNL",
+  "image_search": "Sagada Philippines travel"
+}

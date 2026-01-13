@@ -1,0 +1,20 @@
+{
+  "name": "Ubud",
+  "slug": "ubud",
+  "country": "Indonesia",
+  "country_slug": "indonesia",
+  "region": "Asia",
+  "lat": -8.5069,
+  "lng": 115.2624,
+  "population": 30000,
+  "safety_level": "safe",
+  "budget_per_day": "30-60",
+  "highlights": [
+    "rice terraces",
+    "yoga",
+    "art"
+  ],
+  "best_time_to_visit": "Apr-Oct",
+  "airport_code": "DPS",
+  "image_search": "Ubud Indonesia travel"
+}

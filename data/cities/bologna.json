@@ -1,0 +1,20 @@
+{
+  "name": "Bologna",
+  "slug": "bologna",
+  "country": "Italy",
+  "country_slug": "italy",
+  "region": "Europe",
+  "lat": 44.4949,
+  "lng": 11.3426,
+  "population": 391671,
+  "safety_level": "safe",
+  "budget_per_day": "60-110",
+  "highlights": [
+    "food",
+    "porticos",
+    "university"
+  ],
+  "best_time_to_visit": "Apr-Jun, Sep-Oct",
+  "airport_code": "BLQ",
+  "image_search": "Bologna Italy travel"
+}

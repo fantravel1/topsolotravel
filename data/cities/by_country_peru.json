@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Cusco",
+    "slug": "cusco",
+    "country": "Peru",
+    "country_slug": "peru",
+    "region": "Americas",
+    "lat": -13.5319,
+    "lng": -71.9675,
+    "population": 428450,
+    "safety_level": "caution",
+    "budget_per_day": "35-70",
+    "highlights": [
+      "machu picchu",
+      "inca history",
+      "altitude"
+    ],
+    "best_time_to_visit": "May-Sep",
+    "airport_code": "CUZ",
+    "image_search": "Cusco Peru travel"
+  },
+  {
+    "name": "Lima",
+    "slug": "lima",
+    "country": "Peru",
+    "country_slug": "peru",
+    "region": "Americas",
+    "lat": -12.0464,
+    "lng": -77.0428,
+    "population": 10719000,
+    "safety_level": "caution",
+    "budget_per_day": "40-80",
+    "highlights": [
+      "ceviche",
+      "history",
+      "miraflores"
+    ],
+    "best_time_to_visit": "Dec-Apr",
+    "airport_code": "LIM",
+    "image_search": "Lima Peru travel"
+  }
+]

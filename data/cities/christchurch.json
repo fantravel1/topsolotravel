@@ -1,0 +1,20 @@
+{
+  "name": "Christchurch",
+  "slug": "christchurch",
+  "country": "New Zealand",
+  "country_slug": "new-zealand",
+  "region": "Oceania",
+  "lat": -43.5321,
+  "lng": 172.6362,
+  "population": 369006,
+  "safety_level": "safe",
+  "budget_per_day": "80-140",
+  "highlights": [
+    "garden city",
+    "rebuild",
+    "gateway south"
+  ],
+  "best_time_to_visit": "Dec-Mar",
+  "airport_code": "CHC",
+  "image_search": "Christchurch New Zealand travel"
+}

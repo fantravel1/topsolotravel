@@ -1,0 +1,20 @@
+{
+  "name": "Cordoba",
+  "slug": "cordoba",
+  "country": "Spain",
+  "country_slug": "spain",
+  "region": "Europe",
+  "lat": 37.8882,
+  "lng": -4.7794,
+  "population": 325708,
+  "safety_level": "safe",
+  "budget_per_day": "45-90",
+  "highlights": [
+    "mezquita",
+    "patios",
+    "history"
+  ],
+  "best_time_to_visit": "Apr-Jun, Sep-Oct",
+  "airport_code": "ODB",
+  "image_search": "Cordoba Spain travel"
+}

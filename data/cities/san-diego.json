@@ -1,0 +1,20 @@
+{
+  "name": "San Diego",
+  "slug": "san-diego",
+  "country": "United States",
+  "country_slug": "united-states",
+  "region": "Americas",
+  "lat": 32.7157,
+  "lng": -117.1611,
+  "population": 1423851,
+  "safety_level": "safe",
+  "budget_per_day": "110-170",
+  "highlights": [
+    "beaches",
+    "zoo",
+    "mexican food"
+  ],
+  "best_time_to_visit": "Sep-Nov",
+  "airport_code": "SAN",
+  "image_search": "San Diego United States travel"
+}

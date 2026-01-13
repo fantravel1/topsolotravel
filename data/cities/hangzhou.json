@@ -1,0 +1,20 @@
+{
+  "name": "Hangzhou",
+  "slug": "hangzhou",
+  "country": "China",
+  "country_slug": "china",
+  "region": "Asia",
+  "lat": 30.2741,
+  "lng": 120.1551,
+  "population": 11936010,
+  "safety_level": "safe",
+  "budget_per_day": "50-100",
+  "highlights": [
+    "west lake",
+    "tea",
+    "temples"
+  ],
+  "best_time_to_visit": "Mar-May, Sep-Nov",
+  "airport_code": "HGH",
+  "image_search": "Hangzhou China travel"
+}

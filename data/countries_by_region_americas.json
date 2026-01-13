@@ -1,0 +1,2202 @@
+[
+  {
+    "name": "Antigua and Barbuda",
+    "slug": "antigua-and-barbuda",
+    "official_name": "Antigua and Barbuda",
+    "cca2": "",
+    "cca3": "",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "region_slug": "americas",
+    "capital": "Saint Johns",
+    "population": 97929,
+    "area": 0,
+    "currency": "East Caribbean Dollar (XCD)",
+    "languages": [
+      "English"
+    ],
+    "language": "English",
+    "timezone": "UTC-4",
+    "timezones": [
+      "UTC-4"
+    ],
+    "flag_emoji": "",
+    "flag_svg": "",
+    "flag_png": "",
+    "coat_of_arms": "",
+    "maps_google": "",
+    "maps_osm": "",
+    "landlocked": false,
+    "borders": [],
+    "driving_side": "right",
+    "calling_code": "",
+    "safety_level": "safe",
+    "budget_per_day": {
+      "budget": "90-130",
+      "midrange": "180-270",
+      "luxury": "450+"
+    },
+    "best_time_to_visit": "Dec-Apr",
+    "latlng": [
+      0,
+      0
+    ],
+    "capital_latlng": [
+      0,
+      0
+    ],
+    "un_member": true,
+    "independent": true,
+    "featured": false
+  },
+  {
+    "name": "Argentina",
+    "slug": "argentina",
+    "official_name": "Argentina",
+    "cca2": "",
+    "cca3": "",
+    "region": "Americas",
+    "subregion": "South America",
+    "region_slug": "americas",
+    "capital": "Buenos Aires",
+    "population": 45200000,
+    "area": 0,
+    "currency": "Argentine Peso (ARS)",
+    "languages": [
+      "Spanish"
+    ],
+    "language": "Spanish",
+    "timezone": "UTC-3",
+    "timezones": [
+      "UTC-3"
+    ],
+    "flag_emoji": "",
+    "flag_svg": "",
+    "flag_png": "",
+    "coat_of_arms": "",
+    "maps_google": "",
+    "maps_osm": "",
+    "landlocked": false,
+    "borders": [],
+    "driving_side": "right",
+    "calling_code": "",
+    "safety_level": "caution",
+    "budget_per_day": {
+      "budget": "40-60",
+      "midrange": "70-120",
+      "luxury": "200+"
+    },
+    "best_time_to_visit": "Oct-Apr",
+    "latlng": [
+      0,
+      0
+    ],
+    "capital_latlng": [
+      0,
+      0
+    ],
+    "un_member": true,
+    "independent": true,
+    "featured": true
+  },
+  {
+    "name": "Aruba",
+    "slug": "aruba",
+    "official_name": "Aruba",
+    "cca2": "",
+    "cca3": "",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "region_slug": "americas",
+    "capital": "Oranjestad",
+    "population": 106766,
+    "area": 0,
+    "currency": "Aruban Florin (AWG)",
+    "languages": [
+      "Dutch"
+    ],
+    "language": "Dutch",
+    "timezone": "UTC-4",
+    "timezones": [
+      "UTC-4"
+    ],
+    "flag_emoji": "",
+    "flag_svg": "",
+    "flag_png": "",
+    "coat_of_arms": "",
+    "maps_google": "",
+    "maps_osm": "",
+    "landlocked": false,
+    "borders": [],
+    "driving_side": "right",
+    "calling_code": "",
+    "safety_level": "safe",
+    "budget_per_day": {
+      "budget": "90-130",
+      "midrange": "180-270",
+      "luxury": "450+"
+    },
+    "best_time_to_visit": "Year-round",
+    "latlng": [
+      0,
+      0
+    ],
+    "capital_latlng": [
+      0,
+      0
+    ],
+    "un_member": true,
+    "independent": true,
+    "featured": false
+  },
+  {
+    "name": "Bahamas",
+    "slug": "bahamas",
+    "official_name": "Bahamas",
+    "cca2": "",
+    "cca3": "",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "region_slug": "americas",
+    "capital": "Nassau",
+    "population": 393244,
+    "area": 0,
+    "currency": "Bahamian Dollar (BSD)",
+    "languages": [
+      "English"
+    ],
+    "language": "English",
+    "timezone": "UTC-5",
+    "timezones": [
+      "UTC-5"
+    ],
+    "flag_emoji": "",
+    "flag_svg": "",
+    "flag_png": "",
+    "coat_of_arms": "",
+    "maps_google": "",
+    "maps_osm": "",
+    "landlocked": false,
+    "borders": [],
+    "driving_side": "right",
+    "calling_code": "",
+    "safety_level": "caution",
+    "budget_per_day": {
+      "budget": "100-150",
+      "midrange": "200-300",
+      "luxury": "500+"
+    },
+    "best_time_to_visit": "Dec-May",
+    "latlng": [
+      0,
+      0
+    ],
+    "capital_latlng": [
+      0,
+      0
+    ],
+    "un_member": true,
+    "independent": true,
+    "featured": false
+  },
+  {
+    "name": "Barbados",
+    "slug": "barbados",
+    "official_name": "Barbados",
+    "cca2": "",
+    "cca3": "",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "region_slug": "americas",
+    "capital": "Bridgetown",
+    "population": 287375,
+    "area": 0,
+    "currency": "Barbadian Dollar (BBD)",
+    "languages": [
+      "English"
+    ],
+    "language": "English",
+    "timezone": "UTC-4",
+    "timezones": [
+      "UTC-4"
+    ],
+    "flag_emoji": "",
+    "flag_svg": "",
+    "flag_png": "",
+    "coat_of_arms": "",
+    "maps_google": "",
+    "maps_osm": "",
+    "landlocked": false,
+    "borders": [],
+    "driving_side": "right",
+    "calling_code": "",
+    "safety_level": "safe",
+    "budget_per_day": {
+      "budget": "80-120",
+      "midrange": "160-240",
+      "luxury": "400+"
+    },
+    "best_time_to_visit": "Dec-May",
+    "latlng": [
+      0,
+      0
+    ],
+    "capital_latlng": [
+      0,
+      0
+    ],
+    "un_member": true,
+    "independent": true,
+    "featured": false
+  },
+  {
+    "name": "Belize",
+    "slug": "belize",
+    "official_name": "Belize",
+    "cca2": "",
+    "cca3": "",
+    "region": "Americas",
+    "subregion": "Central America",
+    "region_slug": "americas",
+    "capital": "Belmopan",
+    "population": 398000,
+    "area": 0,
+    "currency": "Belize Dollar (BZD)",
+    "languages": [
+      "English"
+    ],
+    "language": "English",
+    "timezone": "UTC-6",
+    "timezones": [
+      "UTC-6"
+    ],
+    "flag_emoji": "",
+    "flag_svg": "",
+    "flag_png": "",
+    "coat_of_arms": "",
+    "maps_google": "",
+    "maps_osm": "",
+    "landlocked": false,
+    "borders": [],
+    "driving_side": "right",
+    "calling_code": "",
+    "safety_level": "caution",
+    "budget_per_day": {
+      "budget": "50-70",
+      "midrange": "90-140",
+      "luxury": "220+"
+    },
+    "best_time_to_visit": "Dec-May",
+    "latlng": [
+      0,
+      0
+    ],
+    "capital_latlng": [
+      0,
+      0
+    ],
+    "un_member": true,
+    "independent": true,
+    "featured": false
+  },
+  {
+    "name": "Bolivia",
+    "slug": "bolivia",
+    "official_name": "Bolivia",
+    "cca2": "",
+    "cca3": "",
+    "region": "Americas",
+    "subregion": "South America",
+    "region_slug": "americas",
+    "capital": "Sucre",
+    "population": 11670000,
+    "area": 0,
+    "currency": "Bolivian Boliviano (BOB)",
+    "languages": [
+      "Spanish"
+    ],
+    "language": "Spanish",
+    "timezone": "UTC-4",
+    "timezones": [
+      "UTC-4"
+    ],
+    "flag_emoji": "",
+    "flag_svg": "",
+    "flag_png": "",
+    "coat_of_arms": "",
+    "maps_google": "",
+    "maps_osm": "",
+    "landlocked": false,
+    "borders": [],
+    "driving_side": "right",
+    "calling_code": "",
+    "safety_level": "caution",
+    "budget_per_day": {
+      "budget": "25-35",
+      "midrange": "45-70",
+      "luxury": "100+"
+    },
+    "best_time_to_visit": "May-Oct",
+    "latlng": [
+      0,
+      0
+    ],
+    "capital_latlng": [
+      0,
+      0
+    ],
+    "un_member": true,
+    "independent": true,
+    "featured": false
+  },
+  {
+    "name": "Brazil",
+    "slug": "brazil",
+    "official_name": "Brazil",
+    "cca2": "",
+    "cca3": "",
+    "region": "Americas",
+    "subregion": "South America",
+    "region_slug": "americas",
+    "capital": "Brasilia",
+    "population": 212600000,
+    "area": 0,
+    "currency": "Brazilian Real (BRL)",
+    "languages": [
+      "Portuguese"
+    ],
+    "language": "Portuguese",
+    "timezone": "UTC-3 to -5",
+    "timezones": [
+      "UTC-3 to -5"
+    ],
+    "flag_emoji": "",
+    "flag_svg": "",
+    "flag_png": "",
+    "coat_of_arms": "",
+    "maps_google": "",
+    "maps_osm": "",
+    "landlocked": false,
+    "borders": [],
+    "driving_side": "right",
+    "calling_code": "",
+    "safety_level": "caution",
+    "budget_per_day": {
+      "budget": "45-65",
+      "midrange": "80-130",
+      "luxury": "220+"
+    },
+    "best_time_to_visit": "Apr-Oct",
+    "latlng": [
+      0,
+      0
+    ],
+    "capital_latlng": [
+      0,
+      0
+    ],
+    "un_member": true,
+    "independent": true,
+    "featured": true
+  },
+  {
+    "name": "British Virgin Islands",
+    "slug": "british-virgin-islands",
+    "official_name": "British Virgin Islands",
+    "cca2": "",
+    "cca3": "",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "region_slug": "americas",
+    "capital": "Road Town",
+    "population": 30231,
+    "area": 0,
+    "currency": "US Dollar (USD)",
+    "languages": [
+      "English"
+    ],
+    "language": "English",
+    "timezone": "UTC-4",
+    "timezones": [
+      "UTC-4"
+    ],
+    "flag_emoji": "",
+    "flag_svg": "",
+    "flag_png": "",
+    "coat_of_arms": "",
+    "maps_google": "",
+    "maps_osm": "",
+    "landlocked": false,
+    "borders": [],
+    "driving_side": "right",
+    "calling_code": "",
+    "safety_level": "safe",
+    "budget_per_day": {
+      "budget": "120-180",
+      "midrange": "240-360",
+      "luxury": "600+"
+    },
+    "best_time_to_visit": "Dec-Apr",
+    "latlng": [
+      0,
+      0
+    ],
+    "capital_latlng": [
+      0,
+      0
+    ],
+    "un_member": true,
+    "independent": true,
+    "featured": false
+  },
+  {
+    "name": "Canada",
+    "slug": "canada",
+    "official_name": "Canada",
+    "cca2": "",
+    "cca3": "",
+    "region": "Americas",
+    "subregion": "Northern America",
+    "region_slug": "americas",
+    "capital": "Ottawa",
+    "population": 38010000,
+    "area": 0,
+    "currency": "Canadian Dollar (CAD)",
+    "languages": [
+      "English"
+    ],
+    "language": "English",
+    "timezone": "UTC-3.5 to -8",
+    "timezones": [
+      "UTC-3.5 to -8"
+    ],
+    "flag_emoji": "",
+    "flag_svg": "",
+    "flag_png": "",
+    "coat_of_arms": "",
+    "maps_google": "",
+    "maps_osm": "",
+    "landlocked": false,
+    "borders": [],
+    "driving_side": "right",
+    "calling_code": "",
+    "safety_level": "safe",
+    "budget_per_day": {
+      "budget": "80-110",
+      "midrange": "140-220",
+      "luxury": "400+"
+    },
+    "best_time_to_visit": "Jun-Sep, Dec-Mar",
+    "latlng": [
+      0,
+      0
+    ],
+    "capital_latlng": [
+      0,
+      0
+    ],
+    "un_member": true,
+    "independent": true,
+    "featured": true
+  },
+  {
+    "name": "Cayman Islands",
+    "slug": "cayman-islands",
+    "official_name": "Cayman Islands",
+    "cca2": "",
+    "cca3": "",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "region_slug": "americas",
+    "capital": "George Town",
+    "population": 65722,
+    "area": 0,
+    "currency": "Cayman Islands Dollar (KYD)",
+    "languages": [
+      "English"
+    ],
+    "language": "English",
+    "timezone": "UTC-5",
+    "timezones": [
+      "UTC-5"
+    ],
+    "flag_emoji": "",
+    "flag_svg": "",
+    "flag_png": "",
+    "coat_of_arms": "",
+    "maps_google": "",
+    "maps_osm": "",
+    "landlocked": false,
+    "borders": [],
+    "driving_side": "right",
+    "calling_code": "",
+    "safety_level": "safe",
+    "budget_per_day": {
+      "budget": "150-220",
+      "midrange": "280-400",
+      "luxury": "650+"
+    },
+    "best_time_to_visit": "Nov-Apr",
+    "latlng": [
+      0,
+      0
+    ],
+    "capital_latlng": [
+      0,
+      0
+    ],
+    "un_member": true,
+    "independent": true,
+    "featured": false
+  },
+  {
+    "name": "Chile",
+    "slug": "chile",
+    "official_name": "Chile",
+    "cca2": "",
+    "cca3": "",
+    "region": "Americas",
+    "subregion": "South America",
+    "region_slug": "americas",
+    "capital": "Santiago",
+    "population": 19120000,
+    "area": 0,
+    "currency": "Chilean Peso (CLP)",
+    "languages": [
+      "Spanish"
+    ],
+    "language": "Spanish",
+    "timezone": "UTC-4",
+    "timezones": [
+      "UTC-4"
+    ],
+    "flag_emoji": "",
+    "flag_svg": "",
+    "flag_png": "",
+    "coat_of_arms": "",
+    "maps_google": "",
+    "maps_osm": "",
+    "landlocked": false,
+    "borders": [],
+    "driving_side": "right",
+    "calling_code": "",
+    "safety_level": "safe",
+    "budget_per_day": {
+      "budget": "50-70",
+      "midrange": "90-140",
+      "luxury": "240+"
+    },
+    "best_time_to_visit": "Nov-Mar",
+    "latlng": [
+      0,
+      0
+    ],
+    "capital_latlng": [
+      0,
+      0
+    ],
+    "un_member": true,
+    "independent": true,
+    "featured": false
+  },
+  {
+    "name": "Colombia",
+    "slug": "colombia",
+    "official_name": "Colombia",
+    "cca2": "",
+    "cca3": "",
+    "region": "Americas",
+    "subregion": "South America",
+    "region_slug": "americas",
+    "capital": "Bogota",
+    "population": 50880000,
+    "area": 0,
+    "currency": "Colombian Peso (COP)",
+    "languages": [
+      "Spanish"
+    ],
+    "language": "Spanish",
+    "timezone": "UTC-5",
+    "timezones": [
+      "UTC-5"
+    ],
+    "flag_emoji": "",
+    "flag_svg": "",
+    "flag_png": "",
+    "coat_of_arms": "",
+    "maps_google": "",
+    "maps_osm": "",
+    "landlocked": false,
+    "borders": [],
+    "driving_side": "right",
+    "calling_code": "",
+    "safety_level": "caution",
+    "budget_per_day": {
+      "budget": "35-50",
+      "midrange": "60-100",
+      "luxury": "150+"
+    },
+    "best_time_to_visit": "Dec-Mar, Jul-Aug",
+    "latlng": [
+      0,
+      0
+    ],
+    "capital_latlng": [
+      0,
+      0
+    ],
+    "un_member": true,
+    "independent": true,
+    "featured": true
+  },
+  {
+    "name": "Costa Rica",
+    "slug": "costa-rica",
+    "official_name": "Costa Rica",
+    "cca2": "",
+    "cca3": "",
+    "region": "Americas",
+    "subregion": "Central America",
+    "region_slug": "americas",
+    "capital": "San Jose",
+    "population": 5090000,
+    "area": 0,
+    "currency": "Costa Rican Colon (CRC)",
+    "languages": [
+      "Spanish"
+    ],
+    "language": "Spanish",
+    "timezone": "UTC-6",
+    "timezones": [
+      "UTC-6"
+    ],
+    "flag_emoji": "",
+    "flag_svg": "",
+    "flag_png": "",
+    "coat_of_arms": "",
+    "maps_google": "",
+    "maps_osm": "",
+    "landlocked": false,
+    "borders": [],
+    "driving_side": "right",
+    "calling_code": "",
+    "safety_level": "caution",
+    "budget_per_day": {
+      "budget": "45-60",
+      "midrange": "80-130",
+      "luxury": "200+"
+    },
+    "best_time_to_visit": "Dec-Apr",
+    "latlng": [
+      0,
+      0
+    ],
+    "capital_latlng": [
+      0,
+      0
+    ],
+    "un_member": true,
+    "independent": true,
+    "featured": true
+  },
+  {
+    "name": "Cuba",
+    "slug": "cuba",
+    "official_name": "Cuba",
+    "cca2": "",
+    "cca3": "",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "region_slug": "americas",
+    "capital": "Havana",
+    "population": 11330000,
+    "area": 0,
+    "currency": "Cuban Peso (CUP)",
+    "languages": [
+      "Spanish"
+    ],
+    "language": "Spanish",
+    "timezone": "UTC-5",
+    "timezones": [
+      "UTC-5"
+    ],
+    "flag_emoji": "",
+    "flag_svg": "",
+    "flag_png": "",
+    "coat_of_arms": "",
+    "maps_google": "",
+    "maps_osm": "",
+    "landlocked": false,
+    "borders": [],
+    "driving_side": "right",
+    "calling_code": "",
+    "safety_level": "safe",
+    "budget_per_day": {
+      "budget": "50-70",
+      "midrange": "90-140",
+      "luxury": "220+"
+    },
+    "best_time_to_visit": "Nov-Apr",
+    "latlng": [
+      0,
+      0
+    ],
+    "capital_latlng": [
+      0,
+      0
+    ],
+    "un_member": true,
+    "independent": true,
+    "featured": false
+  },
+  {
+    "name": "Curacao",
+    "slug": "curacao",
+    "official_name": "Curacao",
+    "cca2": "",
+    "cca3": "",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "region_slug": "americas",
+    "capital": "Willemstad",
+    "population": 164093,
+    "area": 0,
+    "currency": "Netherlands Antillean Guilder (ANG)",
+    "languages": [
+      "Dutch"
+    ],
+    "language": "Dutch",
+    "timezone": "UTC-4",
+    "timezones": [
+      "UTC-4"
+    ],
+    "flag_emoji": "",
+    "flag_svg": "",
+    "flag_png": "",
+    "coat_of_arms": "",
+    "maps_google": "",
+    "maps_osm": "",
+    "landlocked": false,
+    "borders": [],
+    "driving_side": "right",
+    "calling_code": "",
+    "safety_level": "safe",
+    "budget_per_day": {
+      "budget": "80-120",
+      "midrange": "160-240",
+      "luxury": "400+"
+    },
+    "best_time_to_visit": "Year-round",
+    "latlng": [
+      0,
+      0
+    ],
+    "capital_latlng": [
+      0,
+      0
+    ],
+    "un_member": true,
+    "independent": true,
+    "featured": false
+  },
+  {
+    "name": "Dominica",
+    "slug": "dominica",
+    "official_name": "Dominica",
+    "cca2": "",
+    "cca3": "",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "region_slug": "americas",
+    "capital": "Roseau",
+    "population": 71986,
+    "area": 0,
+    "currency": "East Caribbean Dollar (XCD)",
+    "languages": [
+      "English"
+    ],
+    "language": "English",
+    "timezone": "UTC-4",
+    "timezones": [
+      "UTC-4"
+    ],
+    "flag_emoji": "",
+    "flag_svg": "",
+    "flag_png": "",
+    "coat_of_arms": "",
+    "maps_google": "",
+    "maps_osm": "",
+    "landlocked": false,
+    "borders": [],
+    "driving_side": "right",
+    "calling_code": "",
+    "safety_level": "safe",
+    "budget_per_day": {
+      "budget": "60-90",
+      "midrange": "120-180",
+      "luxury": "300+"
+    },
+    "best_time_to_visit": "Nov-May",
+    "latlng": [
+      0,
+      0
+    ],
+    "capital_latlng": [
+      0,
+      0
+    ],
+    "un_member": true,
+    "independent": true,
+    "featured": false
+  },
+  {
+    "name": "Dominican Republic",
+    "slug": "dominican-republic",
+    "official_name": "Dominican Republic",
+    "cca2": "",
+    "cca3": "",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "region_slug": "americas",
+    "capital": "Santo Domingo",
+    "population": 10850000,
+    "area": 0,
+    "currency": "Dominican Peso (DOP)",
+    "languages": [
+      "Spanish"
+    ],
+    "language": "Spanish",
+    "timezone": "UTC-4",
+    "timezones": [
+      "UTC-4"
+    ],
+    "flag_emoji": "",
+    "flag_svg": "",
+    "flag_png": "",
+    "coat_of_arms": "",
+    "maps_google": "",
+    "maps_osm": "",
+    "landlocked": false,
+    "borders": [],
+    "driving_side": "right",
+    "calling_code": "",
+    "safety_level": "caution",
+    "budget_per_day": {
+      "budget": "50-70",
+      "midrange": "90-140",
+      "luxury": "220+"
+    },
+    "best_time_to_visit": "Dec-Apr",
+    "latlng": [
+      0,
+      0
+    ],
+    "capital_latlng": [
+      0,
+      0
+    ],
+    "un_member": true,
+    "independent": true,
+    "featured": false
+  },
+  {
+    "name": "Ecuador",
+    "slug": "ecuador",
+    "official_name": "Ecuador",
+    "cca2": "",
+    "cca3": "",
+    "region": "Americas",
+    "subregion": "South America",
+    "region_slug": "americas",
+    "capital": "Quito",
+    "population": 17640000,
+    "area": 0,
+    "currency": "US Dollar (USD)",
+    "languages": [
+      "Spanish"
+    ],
+    "language": "Spanish",
+    "timezone": "UTC-5",
+    "timezones": [
+      "UTC-5"
+    ],
+    "flag_emoji": "",
+    "flag_svg": "",
+    "flag_png": "",
+    "coat_of_arms": "",
+    "maps_google": "",
+    "maps_osm": "",
+    "landlocked": false,
+    "borders": [],
+    "driving_side": "right",
+    "calling_code": "",
+    "safety_level": "caution",
+    "budget_per_day": {
+      "budget": "35-50",
+      "midrange": "60-90",
+      "luxury": "140+"
+    },
+    "best_time_to_visit": "Jun-Sep",
+    "latlng": [
+      0,
+      0
+    ],
+    "capital_latlng": [
+      0,
+      0
+    ],
+    "un_member": true,
+    "independent": true,
+    "featured": false
+  },
+  {
+    "name": "El Salvador",
+    "slug": "el-salvador",
+    "official_name": "El Salvador",
+    "cca2": "",
+    "cca3": "",
+    "region": "Americas",
+    "subregion": "Central America",
+    "region_slug": "americas",
+    "capital": "San Salvador",
+    "population": 6490000,
+    "area": 0,
+    "currency": "US Dollar (USD)",
+    "languages": [
+      "Spanish"
+    ],
+    "language": "Spanish",
+    "timezone": "UTC-6",
+    "timezones": [
+      "UTC-6"
+    ],
+    "flag_emoji": "",
+    "flag_svg": "",
+    "flag_png": "",
+    "coat_of_arms": "",
+    "maps_google": "",
+    "maps_osm": "",
+    "landlocked": false,
+    "borders": [],
+    "driving_side": "right",
+    "calling_code": "",
+    "safety_level": "warning",
+    "budget_per_day": {
+      "budget": "35-45",
+      "midrange": "60-90",
+      "luxury": "140+"
+    },
+    "best_time_to_visit": "Nov-Apr",
+    "latlng": [
+      0,
+      0
+    ],
+    "capital_latlng": [
+      0,
+      0
+    ],
+    "un_member": true,
+    "independent": true,
+    "featured": false
+  },
+  {
+    "name": "Falkland Islands",
+    "slug": "falkland-islands",
+    "official_name": "Falkland Islands",
+    "cca2": "",
+    "cca3": "",
+    "region": "Americas",
+    "subregion": "South America",
+    "region_slug": "americas",
+    "capital": "Stanley",
+    "population": 3480,
+    "area": 0,
+    "currency": "Falkland Islands Pound (FKP)",
+    "languages": [
+      "English"
+    ],
+    "language": "English",
+    "timezone": "UTC-3",
+    "timezones": [
+      "UTC-3"
+    ],
+    "flag_emoji": "",
+    "flag_svg": "",
+    "flag_png": "",
+    "coat_of_arms": "",
+    "maps_google": "",
+    "maps_osm": "",
+    "landlocked": false,
+    "borders": [],
+    "driving_side": "right",
+    "calling_code": "",
+    "safety_level": "safe",
+    "budget_per_day": {
+      "budget": "100-150",
+      "midrange": "200-300",
+      "luxury": "500+"
+    },
+    "best_time_to_visit": "Oct-Mar",
+    "latlng": [
+      0,
+      0
+    ],
+    "capital_latlng": [
+      0,
+      0
+    ],
+    "un_member": true,
+    "independent": true,
+    "featured": false
+  },
+  {
+    "name": "French Guiana",
+    "slug": "french-guiana",
+    "official_name": "French Guiana",
+    "cca2": "",
+    "cca3": "",
+    "region": "Americas",
+    "subregion": "South America",
+    "region_slug": "americas",
+    "capital": "Cayenne",
+    "population": 298682,
+    "area": 0,
+    "currency": "Euro (EUR)",
+    "languages": [
+      "French"
+    ],
+    "language": "French",
+    "timezone": "UTC-3",
+    "timezones": [
+      "UTC-3"
+    ],
+    "flag_emoji": "",
+    "flag_svg": "",
+    "flag_png": "",
+    "coat_of_arms": "",
+    "maps_google": "",
+    "maps_osm": "",
+    "landlocked": false,
+    "borders": [],
+    "driving_side": "right",
+    "calling_code": "",
+    "safety_level": "caution",
+    "budget_per_day": {
+      "budget": "80-120",
+      "midrange": "160-240",
+      "luxury": "400+"
+    },
+    "best_time_to_visit": "Jul-Nov",
+    "latlng": [
+      0,
+      0
+    ],
+    "capital_latlng": [
+      0,
+      0
+    ],
+    "un_member": true,
+    "independent": true,
+    "featured": false
+  },
+  {
+    "name": "Grenada",
+    "slug": "grenada",
+    "official_name": "Grenada",
+    "cca2": "",
+    "cca3": "",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "region_slug": "americas",
+    "capital": "St Georges",
+    "population": 112523,
+    "area": 0,
+    "currency": "East Caribbean Dollar (XCD)",
+    "languages": [
+      "English"
+    ],
+    "language": "English",
+    "timezone": "UTC-4",
+    "timezones": [
+      "UTC-4"
+    ],
+    "flag_emoji": "",
+    "flag_svg": "",
+    "flag_png": "",
+    "coat_of_arms": "",
+    "maps_google": "",
+    "maps_osm": "",
+    "landlocked": false,
+    "borders": [],
+    "driving_side": "right",
+    "calling_code": "",
+    "safety_level": "safe",
+    "budget_per_day": {
+      "budget": "70-100",
+      "midrange": "140-210",
+      "luxury": "350+"
+    },
+    "best_time_to_visit": "Dec-Apr",
+    "latlng": [
+      0,
+      0
+    ],
+    "capital_latlng": [
+      0,
+      0
+    ],
+    "un_member": true,
+    "independent": true,
+    "featured": false
+  },
+  {
+    "name": "Guatemala",
+    "slug": "guatemala",
+    "official_name": "Guatemala",
+    "cca2": "",
+    "cca3": "",
+    "region": "Americas",
+    "subregion": "Central America",
+    "region_slug": "americas",
+    "capital": "Guatemala City",
+    "population": 16860000,
+    "area": 0,
+    "currency": "Guatemalan Quetzal (GTQ)",
+    "languages": [
+      "Spanish"
+    ],
+    "language": "Spanish",
+    "timezone": "UTC-6",
+    "timezones": [
+      "UTC-6"
+    ],
+    "flag_emoji": "",
+    "flag_svg": "",
+    "flag_png": "",
+    "coat_of_arms": "",
+    "maps_google": "",
+    "maps_osm": "",
+    "landlocked": false,
+    "borders": [],
+    "driving_side": "right",
+    "calling_code": "",
+    "safety_level": "caution",
+    "budget_per_day": {
+      "budget": "30-40",
+      "midrange": "50-80",
+      "luxury": "120+"
+    },
+    "best_time_to_visit": "Nov-Apr",
+    "latlng": [
+      0,
+      0
+    ],
+    "capital_latlng": [
+      0,
+      0
+    ],
+    "un_member": true,
+    "independent": true,
+    "featured": false
+  },
+  {
+    "name": "Guyana",
+    "slug": "guyana",
+    "official_name": "Guyana",
+    "cca2": "",
+    "cca3": "",
+    "region": "Americas",
+    "subregion": "South America",
+    "region_slug": "americas",
+    "capital": "Georgetown",
+    "population": 786552,
+    "area": 0,
+    "currency": "Guyanese Dollar (GYD)",
+    "languages": [
+      "English"
+    ],
+    "language": "English",
+    "timezone": "UTC-4",
+    "timezones": [
+      "UTC-4"
+    ],
+    "flag_emoji": "",
+    "flag_svg": "",
+    "flag_png": "",
+    "coat_of_arms": "",
+    "maps_google": "",
+    "maps_osm": "",
+    "landlocked": false,
+    "borders": [],
+    "driving_side": "right",
+    "calling_code": "",
+    "safety_level": "caution",
+    "budget_per_day": {
+      "budget": "50-70",
+      "midrange": "90-140",
+      "luxury": "240+"
+    },
+    "best_time_to_visit": "Feb-Apr, Aug-Nov",
+    "latlng": [
+      0,
+      0
+    ],
+    "capital_latlng": [
+      0,
+      0
+    ],
+    "un_member": true,
+    "independent": true,
+    "featured": false
+  },
+  {
+    "name": "Haiti",
+    "slug": "haiti",
+    "official_name": "Haiti",
+    "cca2": "",
+    "cca3": "",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "region_slug": "americas",
+    "capital": "Port-au-Prince",
+    "population": 11400000,
+    "area": 0,
+    "currency": "Haitian Gourde (HTG)",
+    "languages": [
+      "French"
+    ],
+    "language": "French",
+    "timezone": "UTC-5",
+    "timezones": [
+      "UTC-5"
+    ],
+    "flag_emoji": "",
+    "flag_svg": "",
+    "flag_png": "",
+    "coat_of_arms": "",
+    "maps_google": "",
+    "maps_osm": "",
+    "landlocked": false,
+    "borders": [],
+    "driving_side": "right",
+    "calling_code": "",
+    "safety_level": "danger",
+    "budget_per_day": {
+      "budget": "40-60",
+      "midrange": "80-130",
+      "luxury": "220+"
+    },
+    "best_time_to_visit": "Nov-Mar",
+    "latlng": [
+      0,
+      0
+    ],
+    "capital_latlng": [
+      0,
+      0
+    ],
+    "un_member": true,
+    "independent": true,
+    "featured": false
+  },
+  {
+    "name": "Honduras",
+    "slug": "honduras",
+    "official_name": "Honduras",
+    "cca2": "",
+    "cca3": "",
+    "region": "Americas",
+    "subregion": "Central America",
+    "region_slug": "americas",
+    "capital": "Tegucigalpa",
+    "population": 9900000,
+    "area": 0,
+    "currency": "Honduran Lempira (HNL)",
+    "languages": [
+      "Spanish"
+    ],
+    "language": "Spanish",
+    "timezone": "UTC-6",
+    "timezones": [
+      "UTC-6"
+    ],
+    "flag_emoji": "",
+    "flag_svg": "",
+    "flag_png": "",
+    "coat_of_arms": "",
+    "maps_google": "",
+    "maps_osm": "",
+    "landlocked": false,
+    "borders": [],
+    "driving_side": "right",
+    "calling_code": "",
+    "safety_level": "warning",
+    "budget_per_day": {
+      "budget": "30-40",
+      "midrange": "50-80",
+      "luxury": "120+"
+    },
+    "best_time_to_visit": "Dec-Apr",
+    "latlng": [
+      0,
+      0
+    ],
+    "capital_latlng": [
+      0,
+      0
+    ],
+    "un_member": true,
+    "independent": true,
+    "featured": false
+  },
+  {
+    "name": "Jamaica",
+    "slug": "jamaica",
+    "official_name": "Jamaica",
+    "cca2": "",
+    "cca3": "",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "region_slug": "americas",
+    "capital": "Kingston",
+    "population": 2960000,
+    "area": 0,
+    "currency": "Jamaican Dollar (JMD)",
+    "languages": [
+      "English"
+    ],
+    "language": "English",
+    "timezone": "UTC-5",
+    "timezones": [
+      "UTC-5"
+    ],
+    "flag_emoji": "",
+    "flag_svg": "",
+    "flag_png": "",
+    "coat_of_arms": "",
+    "maps_google": "",
+    "maps_osm": "",
+    "landlocked": false,
+    "borders": [],
+    "driving_side": "right",
+    "calling_code": "",
+    "safety_level": "warning",
+    "budget_per_day": {
+      "budget": "60-80",
+      "midrange": "110-170",
+      "luxury": "280+"
+    },
+    "best_time_to_visit": "Dec-Apr",
+    "latlng": [
+      0,
+      0
+    ],
+    "capital_latlng": [
+      0,
+      0
+    ],
+    "un_member": true,
+    "independent": true,
+    "featured": false
+  },
+  {
+    "name": "Mexico",
+    "slug": "mexico",
+    "official_name": "Mexico",
+    "cca2": "",
+    "cca3": "",
+    "region": "Americas",
+    "subregion": "Central America",
+    "region_slug": "americas",
+    "capital": "Mexico City",
+    "population": 128900000,
+    "area": 0,
+    "currency": "Mexican Peso (MXN)",
+    "languages": [
+      "Spanish"
+    ],
+    "language": "Spanish",
+    "timezone": "UTC-6 to -8",
+    "timezones": [
+      "UTC-6 to -8"
+    ],
+    "flag_emoji": "",
+    "flag_svg": "",
+    "flag_png": "",
+    "coat_of_arms": "",
+    "maps_google": "",
+    "maps_osm": "",
+    "landlocked": false,
+    "borders": [],
+    "driving_side": "right",
+    "calling_code": "",
+    "safety_level": "caution",
+    "budget_per_day": {
+      "budget": "35-50",
+      "midrange": "70-120",
+      "luxury": "200+"
+    },
+    "best_time_to_visit": "Dec-Apr",
+    "latlng": [
+      0,
+      0
+    ],
+    "capital_latlng": [
+      0,
+      0
+    ],
+    "un_member": true,
+    "independent": true,
+    "featured": true
+  },
+  {
+    "name": "Nicaragua",
+    "slug": "nicaragua",
+    "official_name": "Nicaragua",
+    "cca2": "",
+    "cca3": "",
+    "region": "Americas",
+    "subregion": "Central America",
+    "region_slug": "americas",
+    "capital": "Managua",
+    "population": 6620000,
+    "area": 0,
+    "currency": "Nicaraguan Cordoba (NIO)",
+    "languages": [
+      "Spanish"
+    ],
+    "language": "Spanish",
+    "timezone": "UTC-6",
+    "timezones": [
+      "UTC-6"
+    ],
+    "flag_emoji": "",
+    "flag_svg": "",
+    "flag_png": "",
+    "coat_of_arms": "",
+    "maps_google": "",
+    "maps_osm": "",
+    "landlocked": false,
+    "borders": [],
+    "driving_side": "right",
+    "calling_code": "",
+    "safety_level": "warning",
+    "budget_per_day": {
+      "budget": "25-35",
+      "midrange": "45-70",
+      "luxury": "100+"
+    },
+    "best_time_to_visit": "Dec-Apr",
+    "latlng": [
+      0,
+      0
+    ],
+    "capital_latlng": [
+      0,
+      0
+    ],
+    "un_member": true,
+    "independent": true,
+    "featured": false
+  },
+  {
+    "name": "Panama",
+    "slug": "panama",
+    "official_name": "Panama",
+    "cca2": "",
+    "cca3": "",
+    "region": "Americas",
+    "subregion": "Central America",
+    "region_slug": "americas",
+    "capital": "Panama City",
+    "population": 4310000,
+    "area": 0,
+    "currency": "US Dollar (USD)",
+    "languages": [
+      "Spanish"
+    ],
+    "language": "Spanish",
+    "timezone": "UTC-5",
+    "timezones": [
+      "UTC-5"
+    ],
+    "flag_emoji": "",
+    "flag_svg": "",
+    "flag_png": "",
+    "coat_of_arms": "",
+    "maps_google": "",
+    "maps_osm": "",
+    "landlocked": false,
+    "borders": [],
+    "driving_side": "right",
+    "calling_code": "",
+    "safety_level": "caution",
+    "budget_per_day": {
+      "budget": "45-60",
+      "midrange": "80-130",
+      "luxury": "200+"
+    },
+    "best_time_to_visit": "Dec-Apr",
+    "latlng": [
+      0,
+      0
+    ],
+    "capital_latlng": [
+      0,
+      0
+    ],
+    "un_member": true,
+    "independent": true,
+    "featured": false
+  },
+  {
+    "name": "Paraguay",
+    "slug": "paraguay",
+    "official_name": "Paraguay",
+    "cca2": "",
+    "cca3": "",
+    "region": "Americas",
+    "subregion": "South America",
+    "region_slug": "americas",
+    "capital": "Asuncion",
+    "population": 7130000,
+    "area": 0,
+    "currency": "Paraguayan Guarani (PYG)",
+    "languages": [
+      "Spanish"
+    ],
+    "language": "Spanish",
+    "timezone": "UTC-4",
+    "timezones": [
+      "UTC-4"
+    ],
+    "flag_emoji": "",
+    "flag_svg": "",
+    "flag_png": "",
+    "coat_of_arms": "",
+    "maps_google": "",
+    "maps_osm": "",
+    "landlocked": false,
+    "borders": [],
+    "driving_side": "right",
+    "calling_code": "",
+    "safety_level": "caution",
+    "budget_per_day": {
+      "budget": "30-45",
+      "midrange": "55-85",
+      "luxury": "140+"
+    },
+    "best_time_to_visit": "May-Sep",
+    "latlng": [
+      0,
+      0
+    ],
+    "capital_latlng": [
+      0,
+      0
+    ],
+    "un_member": true,
+    "independent": true,
+    "featured": false
+  },
+  {
+    "name": "Peru",
+    "slug": "peru",
+    "official_name": "Peru",
+    "cca2": "",
+    "cca3": "",
+    "region": "Americas",
+    "subregion": "South America",
+    "region_slug": "americas",
+    "capital": "Lima",
+    "population": 32970000,
+    "area": 0,
+    "currency": "Peruvian Sol (PEN)",
+    "languages": [
+      "Spanish"
+    ],
+    "language": "Spanish",
+    "timezone": "UTC-5",
+    "timezones": [
+      "UTC-5"
+    ],
+    "flag_emoji": "",
+    "flag_svg": "",
+    "flag_png": "",
+    "coat_of_arms": "",
+    "maps_google": "",
+    "maps_osm": "",
+    "landlocked": false,
+    "borders": [],
+    "driving_side": "right",
+    "calling_code": "",
+    "safety_level": "caution",
+    "budget_per_day": {
+      "budget": "35-50",
+      "midrange": "70-110",
+      "luxury": "180+"
+    },
+    "best_time_to_visit": "May-Sep",
+    "latlng": [
+      0,
+      0
+    ],
+    "capital_latlng": [
+      0,
+      0
+    ],
+    "un_member": true,
+    "independent": true,
+    "featured": true
+  },
+  {
+    "name": "Puerto Rico",
+    "slug": "puerto-rico",
+    "official_name": "Puerto Rico",
+    "cca2": "",
+    "cca3": "",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "region_slug": "americas",
+    "capital": "San Juan",
+    "population": 3290000,
+    "area": 0,
+    "currency": "US Dollar (USD)",
+    "languages": [
+      "Spanish"
+    ],
+    "language": "Spanish",
+    "timezone": "UTC-4",
+    "timezones": [
+      "UTC-4"
+    ],
+    "flag_emoji": "",
+    "flag_svg": "",
+    "flag_png": "",
+    "coat_of_arms": "",
+    "maps_google": "",
+    "maps_osm": "",
+    "landlocked": false,
+    "borders": [],
+    "driving_side": "right",
+    "calling_code": "",
+    "safety_level": "caution",
+    "budget_per_day": {
+      "budget": "80-110",
+      "midrange": "140-210",
+      "luxury": "350+"
+    },
+    "best_time_to_visit": "Dec-Apr",
+    "latlng": [
+      0,
+      0
+    ],
+    "capital_latlng": [
+      0,
+      0
+    ],
+    "un_member": true,
+    "independent": true,
+    "featured": false
+  },
+  {
+    "name": "Saint Kitts and Nevis",
+    "slug": "saint-kitts-and-nevis",
+    "official_name": "Saint Kitts and Nevis",
+    "cca2": "",
+    "cca3": "",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "region_slug": "americas",
+    "capital": "Basseterre",
+    "population": 53199,
+    "area": 0,
+    "currency": "East Caribbean Dollar (XCD)",
+    "languages": [
+      "English"
+    ],
+    "language": "English",
+    "timezone": "UTC-4",
+    "timezones": [
+      "UTC-4"
+    ],
+    "flag_emoji": "",
+    "flag_svg": "",
+    "flag_png": "",
+    "coat_of_arms": "",
+    "maps_google": "",
+    "maps_osm": "",
+    "landlocked": false,
+    "borders": [],
+    "driving_side": "right",
+    "calling_code": "",
+    "safety_level": "safe",
+    "budget_per_day": {
+      "budget": "80-120",
+      "midrange": "160-240",
+      "luxury": "400+"
+    },
+    "best_time_to_visit": "Dec-Apr",
+    "latlng": [
+      0,
+      0
+    ],
+    "capital_latlng": [
+      0,
+      0
+    ],
+    "un_member": true,
+    "independent": true,
+    "featured": false
+  },
+  {
+    "name": "Saint Lucia",
+    "slug": "saint-lucia",
+    "official_name": "Saint Lucia",
+    "cca2": "",
+    "cca3": "",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "region_slug": "americas",
+    "capital": "Castries",
+    "population": 183627,
+    "area": 0,
+    "currency": "East Caribbean Dollar (XCD)",
+    "languages": [
+      "English"
+    ],
+    "language": "English",
+    "timezone": "UTC-4",
+    "timezones": [
+      "UTC-4"
+    ],
+    "flag_emoji": "",
+    "flag_svg": "",
+    "flag_png": "",
+    "coat_of_arms": "",
+    "maps_google": "",
+    "maps_osm": "",
+    "landlocked": false,
+    "borders": [],
+    "driving_side": "right",
+    "calling_code": "",
+    "safety_level": "safe",
+    "budget_per_day": {
+      "budget": "80-120",
+      "midrange": "160-240",
+      "luxury": "400+"
+    },
+    "best_time_to_visit": "Jan-Apr",
+    "latlng": [
+      0,
+      0
+    ],
+    "capital_latlng": [
+      0,
+      0
+    ],
+    "un_member": true,
+    "independent": true,
+    "featured": false
+  },
+  {
+    "name": "Saint Vincent and the Grenadines",
+    "slug": "saint-vincent-and-the-grenadines",
+    "official_name": "Saint Vincent and the Grenadines",
+    "cca2": "",
+    "cca3": "",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "region_slug": "americas",
+    "capital": "Kingstown",
+    "population": 110940,
+    "area": 0,
+    "currency": "East Caribbean Dollar (XCD)",
+    "languages": [
+      "English"
+    ],
+    "language": "English",
+    "timezone": "UTC-4",
+    "timezones": [
+      "UTC-4"
+    ],
+    "flag_emoji": "",
+    "flag_svg": "",
+    "flag_png": "",
+    "coat_of_arms": "",
+    "maps_google": "",
+    "maps_osm": "",
+    "landlocked": false,
+    "borders": [],
+    "driving_side": "right",
+    "calling_code": "",
+    "safety_level": "safe",
+    "budget_per_day": {
+      "budget": "70-100",
+      "midrange": "140-210",
+      "luxury": "350+"
+    },
+    "best_time_to_visit": "Dec-May",
+    "latlng": [
+      0,
+      0
+    ],
+    "capital_latlng": [
+      0,
+      0
+    ],
+    "un_member": true,
+    "independent": true,
+    "featured": false
+  },
+  {
+    "name": "Suriname",
+    "slug": "suriname",
+    "official_name": "Suriname",
+    "cca2": "",
+    "cca3": "",
+    "region": "Americas",
+    "subregion": "South America",
+    "region_slug": "americas",
+    "capital": "Paramaribo",
+    "population": 586632,
+    "area": 0,
+    "currency": "Surinamese Dollar (SRD)",
+    "languages": [
+      "Dutch"
+    ],
+    "language": "Dutch",
+    "timezone": "UTC-3",
+    "timezones": [
+      "UTC-3"
+    ],
+    "flag_emoji": "",
+    "flag_svg": "",
+    "flag_png": "",
+    "coat_of_arms": "",
+    "maps_google": "",
+    "maps_osm": "",
+    "landlocked": false,
+    "borders": [],
+    "driving_side": "right",
+    "calling_code": "",
+    "safety_level": "caution",
+    "budget_per_day": {
+      "budget": "50-70",
+      "midrange": "90-140",
+      "luxury": "240+"
+    },
+    "best_time_to_visit": "Feb-Apr, Aug-Nov",
+    "latlng": [
+      0,
+      0
+    ],
+    "capital_latlng": [
+      0,
+      0
+    ],
+    "un_member": true,
+    "independent": true,
+    "featured": false
+  },
+  {
+    "name": "Trinidad and Tobago",
+    "slug": "trinidad-and-tobago",
+    "official_name": "Trinidad and Tobago",
+    "cca2": "",
+    "cca3": "",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "region_slug": "americas",
+    "capital": "Port of Spain",
+    "population": 1399488,
+    "area": 0,
+    "currency": "Trinidad and Tobago Dollar (TTD)",
+    "languages": [
+      "English"
+    ],
+    "language": "English",
+    "timezone": "UTC-4",
+    "timezones": [
+      "UTC-4"
+    ],
+    "flag_emoji": "",
+    "flag_svg": "",
+    "flag_png": "",
+    "coat_of_arms": "",
+    "maps_google": "",
+    "maps_osm": "",
+    "landlocked": false,
+    "borders": [],
+    "driving_side": "right",
+    "calling_code": "",
+    "safety_level": "caution",
+    "budget_per_day": {
+      "budget": "60-90",
+      "midrange": "120-180",
+      "luxury": "300+"
+    },
+    "best_time_to_visit": "Jan-May",
+    "latlng": [
+      0,
+      0
+    ],
+    "capital_latlng": [
+      0,
+      0
+    ],
+    "un_member": true,
+    "independent": true,
+    "featured": false
+  },
+  {
+    "name": "Turks and Caicos",
+    "slug": "turks-and-caicos",
+    "official_name": "Turks and Caicos",
+    "cca2": "",
+    "cca3": "",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "region_slug": "americas",
+    "capital": "Cockburn Town",
+    "population": 38717,
+    "area": 0,
+    "currency": "US Dollar (USD)",
+    "languages": [
+      "English"
+    ],
+    "language": "English",
+    "timezone": "UTC-5",
+    "timezones": [
+      "UTC-5"
+    ],
+    "flag_emoji": "",
+    "flag_svg": "",
+    "flag_png": "",
+    "coat_of_arms": "",
+    "maps_google": "",
+    "maps_osm": "",
+    "landlocked": false,
+    "borders": [],
+    "driving_side": "right",
+    "calling_code": "",
+    "safety_level": "safe",
+    "budget_per_day": {
+      "budget": "120-180",
+      "midrange": "240-360",
+      "luxury": "600+"
+    },
+    "best_time_to_visit": "Nov-May",
+    "latlng": [
+      0,
+      0
+    ],
+    "capital_latlng": [
+      0,
+      0
+    ],
+    "un_member": true,
+    "independent": true,
+    "featured": false
+  },
+  {
+    "name": "US Virgin Islands",
+    "slug": "us-virgin-islands",
+    "official_name": "US Virgin Islands",
+    "cca2": "",
+    "cca3": "",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "region_slug": "americas",
+    "capital": "Charlotte Amalie",
+    "population": 104425,
+    "area": 0,
+    "currency": "US Dollar (USD)",
+    "languages": [
+      "English"
+    ],
+    "language": "English",
+    "timezone": "UTC-4",
+    "timezones": [
+      "UTC-4"
+    ],
+    "flag_emoji": "",
+    "flag_svg": "",
+    "flag_png": "",
+    "coat_of_arms": "",
+    "maps_google": "",
+    "maps_osm": "",
+    "landlocked": false,
+    "borders": [],
+    "driving_side": "right",
+    "calling_code": "",
+    "safety_level": "caution",
+    "budget_per_day": {
+      "budget": "100-150",
+      "midrange": "200-300",
+      "luxury": "500+"
+    },
+    "best_time_to_visit": "Dec-Apr",
+    "latlng": [
+      0,
+      0
+    ],
+    "capital_latlng": [
+      0,
+      0
+    ],
+    "un_member": true,
+    "independent": true,
+    "featured": false
+  },
+  {
+    "name": "United States",
+    "slug": "united-states",
+    "official_name": "United States",
+    "cca2": "",
+    "cca3": "",
+    "region": "Americas",
+    "subregion": "Northern America",
+    "region_slug": "americas",
+    "capital": "Washington D.C.",
+    "population": 331000000,
+    "area": 0,
+    "currency": "US Dollar (USD)",
+    "languages": [
+      "English"
+    ],
+    "language": "English",
+    "timezone": "UTC-5 to -10",
+    "timezones": [
+      "UTC-5 to -10"
+    ],
+    "flag_emoji": "",
+    "flag_svg": "",
+    "flag_png": "",
+    "coat_of_arms": "",
+    "maps_google": "",
+    "maps_osm": "",
+    "landlocked": false,
+    "borders": [],
+    "driving_side": "right",
+    "calling_code": "",
+    "safety_level": "caution",
+    "budget_per_day": {
+      "budget": "90-120",
+      "midrange": "160-250",
+      "luxury": "450+"
+    },
+    "best_time_to_visit": "Varies by region",
+    "latlng": [
+      0,
+      0
+    ],
+    "capital_latlng": [
+      0,
+      0
+    ],
+    "un_member": true,
+    "independent": true,
+    "featured": true
+  },
+  {
+    "name": "Uruguay",
+    "slug": "uruguay",
+    "official_name": "Uruguay",
+    "cca2": "",
+    "cca3": "",
+    "region": "Americas",
+    "subregion": "South America",
+    "region_slug": "americas",
+    "capital": "Montevideo",
+    "population": 3470000,
+    "area": 0,
+    "currency": "Uruguayan Peso (UYU)",
+    "languages": [
+      "Spanish"
+    ],
+    "language": "Spanish",
+    "timezone": "UTC-3",
+    "timezones": [
+      "UTC-3"
+    ],
+    "flag_emoji": "",
+    "flag_svg": "",
+    "flag_png": "",
+    "coat_of_arms": "",
+    "maps_google": "",
+    "maps_osm": "",
+    "landlocked": false,
+    "borders": [],
+    "driving_side": "right",
+    "calling_code": "",
+    "safety_level": "safe",
+    "budget_per_day": {
+      "budget": "55-75",
+      "midrange": "100-150",
+      "luxury": "260+"
+    },
+    "best_time_to_visit": "Dec-Mar",
+    "latlng": [
+      0,
+      0
+    ],
+    "capital_latlng": [
+      0,
+      0
+    ],
+    "un_member": true,
+    "independent": true,
+    "featured": false
+  },
+  {
+    "name": "Venezuela",
+    "slug": "venezuela",
+    "official_name": "Venezuela",
+    "cca2": "",
+    "cca3": "",
+    "region": "Americas",
+    "subregion": "South America",
+    "region_slug": "americas",
+    "capital": "Caracas",
+    "population": 28440000,
+    "area": 0,
+    "currency": "Venezuelan Bolivar (VES)",
+    "languages": [
+      "Spanish"
+    ],
+    "language": "Spanish",
+    "timezone": "UTC-4",
+    "timezones": [
+      "UTC-4"
+    ],
+    "flag_emoji": "",
+    "flag_svg": "",
+    "flag_png": "",
+    "coat_of_arms": "",
+    "maps_google": "",
+    "maps_osm": "",
+    "landlocked": false,
+    "borders": [],
+    "driving_side": "right",
+    "calling_code": "",
+    "safety_level": "danger",
+    "budget_per_day": {
+      "budget": "30-50",
+      "midrange": "60-100",
+      "luxury": "180+"
+    },
+    "best_time_to_visit": "Dec-Apr",
+    "latlng": [
+      0,
+      0
+    ],
+    "capital_latlng": [
+      0,
+      0
+    ],
+    "un_member": true,
+    "independent": true,
+    "featured": false
+  }
+]

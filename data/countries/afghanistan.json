@@ -1,0 +1,50 @@
+{
+  "name": "Afghanistan",
+  "slug": "afghanistan",
+  "official_name": "Afghanistan",
+  "cca2": "",
+  "cca3": "",
+  "region": "Asia",
+  "subregion": "Southern Asia",
+  "region_slug": "asia",
+  "capital": "Kabul",
+  "population": 38930000,
+  "area": 0,
+  "currency": "Afghan Afghani (AFN)",
+  "languages": [
+    "Dari"
+  ],
+  "language": "Dari",
+  "timezone": "UTC+4:30",
+  "timezones": [
+    "UTC+4:30"
+  ],
+  "flag_emoji": "",
+  "flag_svg": "",
+  "flag_png": "",
+  "coat_of_arms": "",
+  "maps_google": "",
+  "maps_osm": "",
+  "landlocked": false,
+  "borders": [],
+  "driving_side": "right",
+  "calling_code": "",
+  "safety_level": "danger",
+  "budget_per_day": {
+    "budget": "25-40",
+    "midrange": "50-80",
+    "luxury": "150+"
+  },
+  "best_time_to_visit": "Apr-Jun, Sep-Nov",
+  "latlng": [
+    0,
+    0
+  ],
+  "capital_latlng": [
+    0,
+    0
+  ],
+  "un_member": true,
+  "independent": true,
+  "featured": false
+}

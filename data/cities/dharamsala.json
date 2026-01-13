@@ -1,0 +1,20 @@
+{
+  "name": "Dharamsala",
+  "slug": "dharamsala",
+  "country": "India",
+  "country_slug": "india",
+  "region": "Asia",
+  "lat": 32.219,
+  "lng": 76.3234,
+  "population": 50000,
+  "safety_level": "safe",
+  "budget_per_day": "20-40",
+  "highlights": [
+    "dalai lama",
+    "tibetan culture",
+    "trekking"
+  ],
+  "best_time_to_visit": "Mar-Jun, Sep-Nov",
+  "airport_code": "DHM",
+  "image_search": "Dharamsala India travel"
+}

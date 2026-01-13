@@ -1,0 +1,20 @@
+{
+  "name": "Cannes",
+  "slug": "cannes",
+  "country": "France",
+  "country_slug": "france",
+  "region": "Europe",
+  "lat": 43.5528,
+  "lng": 7.0174,
+  "population": 74152,
+  "safety_level": "safe",
+  "budget_per_day": "100-180",
+  "highlights": [
+    "film festival",
+    "beaches",
+    "luxury"
+  ],
+  "best_time_to_visit": "May-Sep",
+  "airport_code": "NCE",
+  "image_search": "Cannes France travel"
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Ibiza",
+  "slug": "ibiza",
+  "country": "Spain",
+  "country_slug": "spain",
+  "region": "Europe",
+  "lat": 38.9067,
+  "lng": 1.4206,
+  "population": 49768,
+  "safety_level": "safe",
+  "budget_per_day": "90-180",
+  "highlights": [
+    "nightlife",
+    "beaches",
+    "dj"
+  ],
+  "best_time_to_visit": "May-Oct",
+  "airport_code": "IBZ",
+  "image_search": "Ibiza Spain travel"
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Portland",
+  "slug": "portland",
+  "country": "United States",
+  "country_slug": "united-states",
+  "region": "Americas",
+  "lat": 45.5152,
+  "lng": -122.6784,
+  "population": 654741,
+  "safety_level": "safe",
+  "budget_per_day": "90-150",
+  "highlights": [
+    "food",
+    "nature",
+    "quirky"
+  ],
+  "best_time_to_visit": "Jun-Sep",
+  "airport_code": "PDX",
+  "image_search": "Portland United States travel"
+}

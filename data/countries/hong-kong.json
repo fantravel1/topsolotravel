@@ -1,0 +1,50 @@
+{
+  "name": "Hong Kong",
+  "slug": "hong-kong",
+  "official_name": "Hong Kong",
+  "cca2": "",
+  "cca3": "",
+  "region": "Asia",
+  "subregion": "Eastern Asia",
+  "region_slug": "asia",
+  "capital": "Hong Kong",
+  "population": 7482000,
+  "area": 0,
+  "currency": "Hong Kong Dollar (HKD)",
+  "languages": [
+    "Cantonese"
+  ],
+  "language": "Cantonese",
+  "timezone": "UTC+8",
+  "timezones": [
+    "UTC+8"
+  ],
+  "flag_emoji": "",
+  "flag_svg": "",
+  "flag_png": "",
+  "coat_of_arms": "",
+  "maps_google": "",
+  "maps_osm": "",
+  "landlocked": false,
+  "borders": [],
+  "driving_side": "right",
+  "calling_code": "",
+  "safety_level": "safe",
+  "budget_per_day": {
+    "budget": "70-100",
+    "midrange": "130-200",
+    "luxury": "350+"
+  },
+  "best_time_to_visit": "Oct-Dec",
+  "latlng": [
+    0,
+    0
+  ],
+  "capital_latlng": [
+    0,
+    0
+  ],
+  "un_member": true,
+  "independent": true,
+  "featured": false
+}

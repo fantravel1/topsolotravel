@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Jerusalem",
+    "slug": "jerusalem",
+    "country": "Israel",
+    "country_slug": "israel",
+    "region": "Asia",
+    "lat": 31.7683,
+    "lng": 35.2137,
+    "population": 936425,
+    "safety_level": "caution",
+    "budget_per_day": "90-160",
+    "highlights": [
+      "old city",
+      "holy sites",
+      "history"
+    ],
+    "best_time_to_visit": "Mar-May, Sep-Nov",
+    "airport_code": "TLV",
+    "image_search": "Jerusalem Israel travel"
+  },
+  {
+    "name": "Tel Aviv",
+    "slug": "tel-aviv",
+    "country": "Israel",
+    "country_slug": "israel",
+    "region": "Asia",
+    "lat": 32.0853,
+    "lng": 34.7818,
+    "population": 451523,
+    "safety_level": "caution",
+    "budget_per_day": "100-180",
+    "highlights": [
+      "beaches",
+      "nightlife",
+      "bauhaus"
+    ],
+    "best_time_to_visit": "Mar-May, Sep-Nov",
+    "airport_code": "TLV",
+    "image_search": "Tel Aviv Israel travel"
+  }
+]

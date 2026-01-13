@@ -1,0 +1,14 @@
+{
+  "default_hero": "https://picsum.photos/seed/hero/1920/1080",
+  "default_destination": "https://picsum.photos/seed/travel/1200/800",
+  "default_city": "https://picsum.photos/seed/city/1200/800",
+  "default_safety": "https://picsum.photos/seed/safety/1200/800",
+  "categories": {
+    "destinations": "https://source.unsplash.com/1200x800/?travel,landscape",
+    "safety": "https://source.unsplash.com/1200x800/?travel,safety",
+    "eat": "https://source.unsplash.com/1200x800/?restaurant,food,dining",
+    "stay": "https://source.unsplash.com/1200x800/?hotel,hostel,accommodation",
+    "nightlife": "https://source.unsplash.com/1200x800/?bar,nightlife",
+    "cafes": "https://source.unsplash.com/1200x800/?cafe,coffee"
+  }
+}

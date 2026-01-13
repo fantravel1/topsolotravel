@@ -1,0 +1,20 @@
+{
+  "name": "Barcelona",
+  "slug": "barcelona",
+  "country": "Spain",
+  "country_slug": "spain",
+  "region": "Europe",
+  "lat": 41.3851,
+  "lng": 2.1734,
+  "population": 1620343,
+  "safety_level": "caution",
+  "budget_per_day": "65-120",
+  "highlights": [
+    "gaudi",
+    "beaches",
+    "tapas"
+  ],
+  "best_time_to_visit": "Apr-Jun, Sep-Oct",
+  "airport_code": "BCN",
+  "image_search": "Barcelona Spain travel"
+}

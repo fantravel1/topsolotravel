@@ -1,0 +1,20 @@
+{
+  "name": "Cairns",
+  "slug": "cairns",
+  "country": "Australia",
+  "country_slug": "australia",
+  "region": "Oceania",
+  "lat": -16.9186,
+  "lng": 145.7781,
+  "population": 152729,
+  "safety_level": "safe",
+  "budget_per_day": "80-150",
+  "highlights": [
+    "great barrier reef",
+    "rainforest",
+    "diving"
+  ],
+  "best_time_to_visit": "Jun-Nov",
+  "airport_code": "CNS",
+  "image_search": "Cairns Australia travel"
+}

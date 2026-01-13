@@ -1,0 +1,50 @@
+{
+  "name": "Guinea",
+  "slug": "guinea",
+  "official_name": "Guinea",
+  "cca2": "",
+  "cca3": "",
+  "region": "Africa",
+  "subregion": "Western Africa",
+  "region_slug": "africa",
+  "capital": "Conakry",
+  "population": 13130000,
+  "area": 0,
+  "currency": "Guinean Franc (GNF)",
+  "languages": [
+    "French"
+  ],
+  "language": "French",
+  "timezone": "UTC+0",
+  "timezones": [
+    "UTC+0"
+  ],
+  "flag_emoji": "",
+  "flag_svg": "",
+  "flag_png": "",
+  "coat_of_arms": "",
+  "maps_google": "",
+  "maps_osm": "",
+  "landlocked": false,
+  "borders": [],
+  "driving_side": "right",
+  "calling_code": "",
+  "safety_level": "warning",
+  "budget_per_day": {
+    "budget": "40-60",
+    "midrange": "75-120",
+    "luxury": "200+"
+  },
+  "best_time_to_visit": "Nov-Apr",
+  "latlng": [
+    0,
+    0
+  ],
+  "capital_latlng": [
+    0,
+    0
+  ],
+  "un_member": true,
+  "independent": true,
+  "featured": false
+}

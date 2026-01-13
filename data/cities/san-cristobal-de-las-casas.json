@@ -1,0 +1,20 @@
+{
+  "name": "San Cristobal de las Casas",
+  "slug": "san-cristobal-de-las-casas",
+  "country": "Mexico",
+  "country_slug": "mexico",
+  "region": "Americas",
+  "lat": 16.737,
+  "lng": -92.6376,
+  "population": 186779,
+  "safety_level": "caution",
+  "budget_per_day": "30-60",
+  "highlights": [
+    "indigenous",
+    "colonial",
+    "coffee"
+  ],
+  "best_time_to_visit": "Nov-Apr",
+  "airport_code": "SJC",
+  "image_search": "San Cristobal de las Casas Mexico travel"
+}

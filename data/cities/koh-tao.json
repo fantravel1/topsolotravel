@@ -1,0 +1,20 @@
+{
+  "name": "Koh Tao",
+  "slug": "koh-tao",
+  "country": "Thailand",
+  "country_slug": "thailand",
+  "region": "Asia",
+  "lat": 10.0956,
+  "lng": 99.8403,
+  "population": 1382,
+  "safety_level": "safe",
+  "budget_per_day": "30-60",
+  "highlights": [
+    "diving",
+    "beaches",
+    "snorkeling"
+  ],
+  "best_time_to_visit": "Mar-Sep",
+  "airport_code": "USM",
+  "image_search": "Koh Tao Thailand travel"
+}

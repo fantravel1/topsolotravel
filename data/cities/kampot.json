@@ -1,0 +1,20 @@
+{
+  "name": "Kampot",
+  "slug": "kampot",
+  "country": "Cambodia",
+  "country_slug": "cambodia",
+  "region": "Asia",
+  "lat": 10.594,
+  "lng": 104.193,
+  "population": 48028,
+  "safety_level": "safe",
+  "budget_per_day": "20-40",
+  "highlights": [
+    "pepper",
+    "riverside",
+    "bokor"
+  ],
+  "best_time_to_visit": "Nov-Apr",
+  "airport_code": "PNH",
+  "image_search": "Kampot Cambodia travel"
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Cienfuegos",
+  "slug": "cienfuegos",
+  "country": "Cuba",
+  "country_slug": "cuba",
+  "region": "Americas",
+  "lat": 22.146,
+  "lng": -80.4364,
+  "population": 150000,
+  "safety_level": "safe",
+  "budget_per_day": "40-75",
+  "highlights": [
+    "french influence",
+    "bay",
+    "architecture"
+  ],
+  "best_time_to_visit": "Nov-Apr",
+  "airport_code": "CFG",
+  "image_search": "Cienfuegos Cuba travel"
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Nuremberg",
+  "slug": "nuremberg",
+  "country": "Germany",
+  "country_slug": "germany",
+  "region": "Europe",
+  "lat": 49.4521,
+  "lng": 11.0767,
+  "population": 518370,
+  "safety_level": "safe",
+  "budget_per_day": "60-110",
+  "highlights": [
+    "history",
+    "christmas market",
+    "beer"
+  ],
+  "best_time_to_visit": "May-Sep, Dec",
+  "airport_code": "NUE",
+  "image_search": "Nuremberg Germany travel"
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Tallinn",
+  "slug": "tallinn",
+  "country": "Estonia",
+  "country_slug": "estonia",
+  "region": "Europe",
+  "lat": 59.437,
+  "lng": 24.7536,
+  "population": 426538,
+  "safety_level": "safe",
+  "budget_per_day": "50-90",
+  "highlights": [
+    "old town",
+    "digital",
+    "nightlife"
+  ],
+  "best_time_to_visit": "May-Sep",
+  "airport_code": "TLL",
+  "image_search": "Tallinn Estonia travel"
+}

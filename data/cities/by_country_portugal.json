@@ -1,0 +1,182 @@
+[
+  {
+    "name": "Aveiro",
+    "slug": "aveiro",
+    "country": "Portugal",
+    "country_slug": "portugal",
+    "region": "Europe",
+    "lat": 40.6443,
+    "lng": -8.6455,
+    "population": 78450,
+    "safety_level": "safe",
+    "budget_per_day": "40-75",
+    "highlights": [
+      "canals",
+      "moliceiros",
+      "pastries"
+    ],
+    "best_time_to_visit": "May-Sep",
+    "airport_code": "OPO",
+    "image_search": "Aveiro Portugal travel"
+  },
+  {
+    "name": "Braga",
+    "slug": "braga",
+    "country": "Portugal",
+    "country_slug": "portugal",
+    "region": "Europe",
+    "lat": 41.5454,
+    "lng": -8.4265,
+    "population": 181494,
+    "safety_level": "safe",
+    "budget_per_day": "40-75",
+    "highlights": [
+      "churches",
+      "history",
+      "bom jesus"
+    ],
+    "best_time_to_visit": "May-Sep",
+    "airport_code": "OPO",
+    "image_search": "Braga Portugal travel"
+  },
+  {
+    "name": "Coimbra",
+    "slug": "coimbra",
+    "country": "Portugal",
+    "country_slug": "portugal",
+    "region": "Europe",
+    "lat": 40.2033,
+    "lng": -8.4103,
+    "population": 143396,
+    "safety_level": "safe",
+    "budget_per_day": "40-80",
+    "highlights": [
+      "university",
+      "fado",
+      "history"
+    ],
+    "best_time_to_visit": "Apr-Oct",
+    "airport_code": "OPO",
+    "image_search": "Coimbra Portugal travel"
+  },
+  {
+    "name": "Faro",
+    "slug": "faro",
+    "country": "Portugal",
+    "country_slug": "portugal",
+    "region": "Europe",
+    "lat": 37.0194,
+    "lng": -7.9322,
+    "population": 64560,
+    "safety_level": "safe",
+    "budget_per_day": "45-85",
+    "highlights": [
+      "algarve",
+      "beaches",
+      "old town"
+    ],
+    "best_time_to_visit": "May-Oct",
+    "airport_code": "FAO",
+    "image_search": "Faro Portugal travel"
+  },
+  {
+    "name": "Lagos",
+    "slug": "lagos",
+    "country": "Portugal",
+    "country_slug": "portugal",
+    "region": "Europe",
+    "lat": 37.1028,
+    "lng": -8.6732,
+    "population": 31049,
+    "safety_level": "safe",
+    "budget_per_day": "45-85",
+    "highlights": [
+      "beaches",
+      "cliffs",
+      "surfing"
+    ],
+    "best_time_to_visit": "May-Oct",
+    "airport_code": "FAO",
+    "image_search": "Lagos Portugal travel"
+  },
+  {
+    "name": "Lisbon",
+    "slug": "lisbon",
+    "country": "Portugal",
+    "country_slug": "portugal",
+    "region": "Europe",
+    "lat": 38.7223,
+    "lng": -9.1393,
+    "population": 544851,
+    "safety_level": "safe",
+    "budget_per_day": "55-100",
+    "highlights": [
+      "tram 28",
+      "pasteis de nata",
+      "alfama"
+    ],
+    "best_time_to_visit": "Apr-Oct",
+    "airport_code": "LIS",
+    "image_search": "Lisbon Portugal travel"
+  },
+  {
+    "name": "Porto",
+    "slug": "porto",
+    "country": "Portugal",
+    "country_slug": "portugal",
+    "region": "Europe",
+    "lat": 41.1579,
+    "lng": -8.6291,
+    "population": 237591,
+    "safety_level": "safe",
+    "budget_per_day": "50-90",
+    "highlights": [
+      "port wine",
+      "bridges",
+      "ribeira"
+    ],
+    "best_time_to_visit": "May-Sep",
+    "airport_code": "OPO",
+    "image_search": "Porto Portugal travel"
+  },
+  {
+    "name": "Porto",
+    "slug": "porto",
+    "country": "Portugal",
+    "country_slug": "portugal",
+    "region": "Europe",
+    "lat": 41.1579,
+    "lng": -8.6291,
+    "population": 249633,
+    "safety_level": "safe",
+    "budget_per_day": "50-90",
+    "highlights": [
+      "port wine",
+      "ribeira",
+      "azulejos"
+    ],
+    "best_time_to_visit": "May-Sep",
+    "airport_code": "OPO",
+    "image_search": "Porto Portugal travel"
+  },
+  {
+    "name": "Sintra",
+    "slug": "sintra",
+    "country": "Portugal",
+    "country_slug": "portugal",
+    "region": "Europe",
+    "lat": 38.8029,
+    "lng": -9.3817,
+    "population": 377835,
+    "safety_level": "safe",
+    "budget_per_day": "50-90",
+    "highlights": [
+      "palaces",
+      "castles",
+      "gardens"
+    ],
+    "best_time_to_visit": "Apr-Oct",
+    "airport_code": "LIS",
+    "image_search": "Sintra Portugal travel"
+  }
+]

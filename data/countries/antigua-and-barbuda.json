@@ -1,0 +1,50 @@
+{
+  "name": "Antigua and Barbuda",
+  "slug": "antigua-and-barbuda",
+  "official_name": "Antigua and Barbuda",
+  "cca2": "",
+  "cca3": "",
+  "region": "Americas",
+  "subregion": "Caribbean",
+  "region_slug": "americas",
+  "capital": "Saint Johns",
+  "population": 97929,
+  "area": 0,
+  "currency": "East Caribbean Dollar (XCD)",
+  "languages": [
+    "English"
+  ],
+  "language": "English",
+  "timezone": "UTC-4",
+  "timezones": [
+    "UTC-4"
+  ],
+  "flag_emoji": "",
+  "flag_svg": "",
+  "flag_png": "",
+  "coat_of_arms": "",
+  "maps_google": "",
+  "maps_osm": "",
+  "landlocked": false,
+  "borders": [],
+  "driving_side": "right",
+  "calling_code": "",
+  "safety_level": "safe",
+  "budget_per_day": {
+    "budget": "90-130",
+    "midrange": "180-270",
+    "luxury": "450+"
+  },
+  "best_time_to_visit": "Dec-Apr",
+  "latlng": [
+    0,
+    0
+  ],
+  "capital_latlng": [
+    0,
+    0
+  ],
+  "un_member": true,
+  "independent": true,
+  "featured": false
+}

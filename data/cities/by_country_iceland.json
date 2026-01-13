@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Reykjavik",
+    "slug": "reykjavik",
+    "country": "Iceland",
+    "country_slug": "iceland",
+    "region": "Europe",
+    "lat": 64.1466,
+    "lng": -21.9426,
+    "population": 131136,
+    "safety_level": "safe",
+    "budget_per_day": "140-220",
+    "highlights": [
+      "northern lights",
+      "hot springs",
+      "nature"
+    ],
+    "best_time_to_visit": "Jun-Aug (summer), Sep-Mar (lights)",
+    "airport_code": "KEF",
+    "image_search": "Reykjavik Iceland travel"
+  }
+]

@@ -1,0 +1,20 @@
+{
+  "name": "Tamarindo",
+  "slug": "tamarindo",
+  "country": "Costa Rica",
+  "country_slug": "costa-rica",
+  "region": "Americas",
+  "lat": 10.2992,
+  "lng": -85.8399,
+  "population": 6091,
+  "safety_level": "safe",
+  "budget_per_day": "60-110",
+  "highlights": [
+    "surfing",
+    "beaches",
+    "nightlife"
+  ],
+  "best_time_to_visit": "Dec-Apr",
+  "airport_code": "LIR",
+  "image_search": "Tamarindo Costa Rica travel"
+}

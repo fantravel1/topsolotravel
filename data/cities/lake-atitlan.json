@@ -1,0 +1,20 @@
+{
+  "name": "Lake Atitlan",
+  "slug": "lake-atitlan",
+  "country": "Guatemala",
+  "country_slug": "guatemala",
+  "region": "Americas",
+  "lat": 14.7,
+  "lng": -91.2,
+  "population": 50000,
+  "safety_level": "caution",
+  "budget_per_day": "25-55",
+  "highlights": [
+    "volcanoes",
+    "villages",
+    "yoga"
+  ],
+  "best_time_to_visit": "Nov-Apr",
+  "airport_code": "GUA",
+  "image_search": "Lake Atitlan Guatemala travel"
+}

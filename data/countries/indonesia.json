@@ -1,0 +1,50 @@
+{
+  "name": "Indonesia",
+  "slug": "indonesia",
+  "official_name": "Indonesia",
+  "cca2": "",
+  "cca3": "",
+  "region": "Asia",
+  "subregion": "South-Eastern Asia",
+  "region_slug": "asia",
+  "capital": "Jakarta",
+  "population": 273500000,
+  "area": 0,
+  "currency": "Indonesian Rupiah (IDR)",
+  "languages": [
+    "Indonesian"
+  ],
+  "language": "Indonesian",
+  "timezone": "UTC+7 to +9",
+  "timezones": [
+    "UTC+7 to +9"
+  ],
+  "flag_emoji": "",
+  "flag_svg": "",
+  "flag_png": "",
+  "coat_of_arms": "",
+  "maps_google": "",
+  "maps_osm": "",
+  "landlocked": false,
+  "borders": [],
+  "driving_side": "right",
+  "calling_code": "",
+  "safety_level": "caution",
+  "budget_per_day": {
+    "budget": "25-35",
+    "midrange": "50-80",
+    "luxury": "150+"
+  },
+  "best_time_to_visit": "Apr-Oct",
+  "latlng": [
+    0,
+    0
+  ],
+  "capital_latlng": [
+    0,
+    0
+  ],
+  "un_member": true,
+  "independent": true,
+  "featured": true
+}

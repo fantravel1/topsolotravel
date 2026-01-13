@@ -1,0 +1,20 @@
+{
+  "name": "Durban",
+  "slug": "durban",
+  "country": "South Africa",
+  "country_slug": "south-africa",
+  "region": "Africa",
+  "lat": -29.8587,
+  "lng": 31.0218,
+  "population": 595061,
+  "safety_level": "caution",
+  "budget_per_day": "40-80",
+  "highlights": [
+    "beaches",
+    "curry",
+    "surfing"
+  ],
+  "best_time_to_visit": "Apr-Sep",
+  "airport_code": "DUR",
+  "image_search": "Durban South Africa travel"
+}

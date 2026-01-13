@@ -1,0 +1,20 @@
+{
+  "name": "Yerevan",
+  "slug": "yerevan",
+  "country": "Armenia",
+  "country_slug": "armenia",
+  "region": "Asia",
+  "lat": 40.1792,
+  "lng": 44.4991,
+  "population": 1075800,
+  "safety_level": "safe",
+  "budget_per_day": "30-55",
+  "highlights": [
+    "cascade",
+    "cognac",
+    "ararat"
+  ],
+  "best_time_to_visit": "May-Jun, Sep-Oct",
+  "airport_code": "EVN",
+  "image_search": "Yerevan Armenia travel"
+}

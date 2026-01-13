@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Doha",
+    "slug": "doha",
+    "country": "Qatar",
+    "country_slug": "qatar",
+    "region": "Asia",
+    "lat": 25.2854,
+    "lng": 51.531,
+    "population": 956460,
+    "safety_level": "safe",
+    "budget_per_day": "90-170",
+    "highlights": [
+      "museums",
+      "souq",
+      "skyline"
+    ],
+    "best_time_to_visit": "Nov-Mar",
+    "airport_code": "DOH",
+    "image_search": "Doha Qatar travel"
+  }
+]

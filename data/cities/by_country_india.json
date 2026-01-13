@@ -1,0 +1,422 @@
+[
+  {
+    "name": "Agra",
+    "slug": "agra",
+    "country": "India",
+    "country_slug": "india",
+    "region": "Asia",
+    "lat": 27.1767,
+    "lng": 78.0081,
+    "population": 1746467,
+    "safety_level": "caution",
+    "budget_per_day": "20-40",
+    "highlights": [
+      "taj mahal",
+      "fort",
+      "food"
+    ],
+    "best_time_to_visit": "Oct-Mar",
+    "airport_code": "AGR",
+    "image_search": "Agra India travel"
+  },
+  {
+    "name": "Alleppey",
+    "slug": "alleppey",
+    "country": "India",
+    "country_slug": "india",
+    "region": "Asia",
+    "lat": 9.4981,
+    "lng": 76.3388,
+    "population": 174164,
+    "safety_level": "safe",
+    "budget_per_day": "30-60",
+    "highlights": [
+      "houseboats",
+      "backwaters",
+      "canals"
+    ],
+    "best_time_to_visit": "Sep-Mar",
+    "airport_code": "COK",
+    "image_search": "Alleppey India travel"
+  },
+  {
+    "name": "Amritsar",
+    "slug": "amritsar",
+    "country": "India",
+    "country_slug": "india",
+    "region": "Asia",
+    "lat": 31.634,
+    "lng": 74.8723,
+    "population": 1132761,
+    "safety_level": "safe",
+    "budget_per_day": "20-40",
+    "highlights": [
+      "golden temple",
+      "wagah border",
+      "food"
+    ],
+    "best_time_to_visit": "Oct-Mar",
+    "airport_code": "ATQ",
+    "image_search": "Amritsar India travel"
+  },
+  {
+    "name": "Darjeeling",
+    "slug": "darjeeling",
+    "country": "India",
+    "country_slug": "india",
+    "region": "Asia",
+    "lat": 27.041,
+    "lng": 88.2663,
+    "population": 120414,
+    "safety_level": "safe",
+    "budget_per_day": "25-50",
+    "highlights": [
+      "tea",
+      "toy train",
+      "kangchenjunga"
+    ],
+    "best_time_to_visit": "Mar-May, Sep-Nov",
+    "airport_code": "BBI",
+    "image_search": "Darjeeling India travel"
+  },
+  {
+    "name": "Delhi",
+    "slug": "delhi",
+    "country": "India",
+    "country_slug": "india",
+    "region": "Asia",
+    "lat": 28.7041,
+    "lng": 77.1025,
+    "population": 16787941,
+    "safety_level": "caution",
+    "budget_per_day": "25-55",
+    "highlights": [
+      "monuments",
+      "food",
+      "history"
+    ],
+    "best_time_to_visit": "Oct-Mar",
+    "airport_code": "DEL",
+    "image_search": "Delhi India travel"
+  },
+  {
+    "name": "Dharamsala",
+    "slug": "dharamsala",
+    "country": "India",
+    "country_slug": "india",
+    "region": "Asia",
+    "lat": 32.219,
+    "lng": 76.3234,
+    "population": 50000,
+    "safety_level": "safe",
+    "budget_per_day": "20-40",
+    "highlights": [
+      "dalai lama",
+      "tibetan culture",
+      "trekking"
+    ],
+    "best_time_to_visit": "Mar-Jun, Sep-Nov",
+    "airport_code": "DHM",
+    "image_search": "Dharamsala India travel"
+  },
+  {
+    "name": "Goa",
+    "slug": "goa",
+    "country": "India",
+    "country_slug": "india",
+    "region": "Asia",
+    "lat": 15.2993,
+    "lng": 74.124,
+    "population": 1458545,
+    "safety_level": "caution",
+    "budget_per_day": "25-55",
+    "highlights": [
+      "beaches",
+      "parties",
+      "portuguese heritage"
+    ],
+    "best_time_to_visit": "Nov-Feb",
+    "airport_code": "GOI",
+    "image_search": "Goa India travel"
+  },
+  {
+    "name": "Hampi",
+    "slug": "hampi",
+    "country": "India",
+    "country_slug": "india",
+    "region": "Asia",
+    "lat": 15.335,
+    "lng": 76.46,
+    "population": 3000,
+    "safety_level": "safe",
+    "budget_per_day": "15-30",
+    "highlights": [
+      "ruins",
+      "boulders",
+      "temples"
+    ],
+    "best_time_to_visit": "Oct-Mar",
+    "airport_code": "HBX",
+    "image_search": "Hampi India travel"
+  },
+  {
+    "name": "Jaipur",
+    "slug": "jaipur",
+    "country": "India",
+    "country_slug": "india",
+    "region": "Asia",
+    "lat": 26.9124,
+    "lng": 75.7873,
+    "population": 3073350,
+    "safety_level": "caution",
+    "budget_per_day": "25-50",
+    "highlights": [
+      "pink city",
+      "palaces",
+      "shopping"
+    ],
+    "best_time_to_visit": "Oct-Mar",
+    "airport_code": "JAI",
+    "image_search": "Jaipur India travel"
+  },
+  {
+    "name": "Jodhpur",
+    "slug": "jodhpur",
+    "country": "India",
+    "country_slug": "india",
+    "region": "Asia",
+    "lat": 26.2389,
+    "lng": 73.0243,
+    "population": 1033918,
+    "safety_level": "safe",
+    "budget_per_day": "20-40",
+    "highlights": [
+      "blue city",
+      "fort",
+      "desert"
+    ],
+    "best_time_to_visit": "Oct-Mar",
+    "airport_code": "JDH",
+    "image_search": "Jodhpur India travel"
+  },
+  {
+    "name": "Kerala",
+    "slug": "kerala",
+    "country": "India",
+    "country_slug": "india",
+    "region": "Asia",
+    "lat": 10.8505,
+    "lng": 76.2711,
+    "population": 33406061,
+    "safety_level": "safe",
+    "budget_per_day": "30-60",
+    "highlights": [
+      "backwaters",
+      "ayurveda",
+      "tea"
+    ],
+    "best_time_to_visit": "Sep-Mar",
+    "airport_code": "COK",
+    "image_search": "Kerala India travel"
+  },
+  {
+    "name": "Kochi",
+    "slug": "kochi",
+    "country": "India",
+    "country_slug": "india",
+    "region": "Asia",
+    "lat": 9.9312,
+    "lng": 76.2673,
+    "population": 602046,
+    "safety_level": "safe",
+    "budget_per_day": "25-50",
+    "highlights": [
+      "fort kochi",
+      "chinese nets",
+      "backwaters"
+    ],
+    "best_time_to_visit": "Sep-Mar",
+    "airport_code": "COK",
+    "image_search": "Kochi India travel"
+  },
+  {
+    "name": "Leh",
+    "slug": "leh",
+    "country": "India",
+    "country_slug": "india",
+    "region": "Asia",
+    "lat": 34.1526,
+    "lng": 77.5771,
+    "population": 30870,
+    "safety_level": "safe",
+    "budget_per_day": "35-70",
+    "highlights": [
+      "ladakh",
+      "monasteries",
+      "mountains"
+    ],
+    "best_time_to_visit": "May-Sep",
+    "airport_code": "IXL",
+    "image_search": "Leh India travel"
+  },
+  {
+    "name": "McLeod Ganj",
+    "slug": "mcleod-ganj",
+    "country": "India",
+    "country_slug": "india",
+    "region": "Asia",
+    "lat": 32.2426,
+    "lng": 76.3213,
+    "population": 11000,
+    "safety_level": "safe",
+    "budget_per_day": "20-40",
+    "highlights": [
+      "dalai lama",
+      "momos",
+      "meditation"
+    ],
+    "best_time_to_visit": "Mar-Jun, Sep-Nov",
+    "airport_code": "DHM",
+    "image_search": "McLeod Ganj India travel"
+  },
+  {
+    "name": "Mumbai",
+    "slug": "mumbai",
+    "country": "India",
+    "country_slug": "india",
+    "region": "Asia",
+    "lat": 19.076,
+    "lng": 72.8777,
+    "population": 12442373,
+    "safety_level": "caution",
+    "budget_per_day": "30-60",
+    "highlights": [
+      "gateway",
+      "bollywood",
+      "street food"
+    ],
+    "best_time_to_visit": "Nov-Feb",
+    "airport_code": "BOM",
+    "image_search": "Mumbai India travel"
+  },
+  {
+    "name": "Munnar",
+    "slug": "munnar",
+    "country": "India",
+    "country_slug": "india",
+    "region": "Asia",
+    "lat": 10.0889,
+    "lng": 77.0595,
+    "population": 30000,
+    "safety_level": "safe",
+    "budget_per_day": "25-50",
+    "highlights": [
+      "tea",
+      "hill station",
+      "nature"
+    ],
+    "best_time_to_visit": "Sep-May",
+    "airport_code": "COK",
+    "image_search": "Munnar India travel"
+  },
+  {
+    "name": "Mysore",
+    "slug": "mysore",
+    "country": "India",
+    "country_slug": "india",
+    "region": "Asia",
+    "lat": 12.2958,
+    "lng": 76.6394,
+    "population": 920550,
+    "safety_level": "safe",
+    "budget_per_day": "20-40",
+    "highlights": [
+      "palace",
+      "yoga",
+      "chamundi"
+    ],
+    "best_time_to_visit": "Oct-Feb",
+    "airport_code": "MYQ",
+    "image_search": "Mysore India travel"
+  },
+  {
+    "name": "Pushkar",
+    "slug": "pushkar",
+    "country": "India",
+    "country_slug": "india",
+    "region": "Asia",
+    "lat": 26.4897,
+    "lng": 74.5511,
+    "population": 21626,
+    "safety_level": "safe",
+    "budget_per_day": "15-30",
+    "highlights": [
+      "camel fair",
+      "holy lake",
+      "temples"
+    ],
+    "best_time_to_visit": "Oct-Mar",
+    "airport_code": "JAI",
+    "image_search": "Pushkar India travel"
+  },
+  {
+    "name": "Rishikesh",
+    "slug": "rishikesh",
+    "country": "India",
+    "country_slug": "india",
+    "region": "Asia",
+    "lat": 30.0869,
+    "lng": 78.2676,
+    "population": 102138,
+    "safety_level": "safe",
+    "budget_per_day": "20-40",
+    "highlights": [
+      "yoga",
+      "ashrams",
+      "rafting"
+    ],
+    "best_time_to_visit": "Sep-Nov, Feb-May",
+    "airport_code": "DED",
+    "image_search": "Rishikesh India travel"
+  },
+  {
+    "name": "Udaipur",
+    "slug": "udaipur",
+    "country": "India",
+    "country_slug": "india",
+    "region": "Asia",
+    "lat": 24.5854,
+    "lng": 73.7125,
+    "population": 451735,
+    "safety_level": "safe",
+    "budget_per_day": "25-50",
+    "highlights": [
+      "lake palace",
+      "romance",
+      "rooftops"
+    ],
+    "best_time_to_visit": "Oct-Mar",
+    "airport_code": "UDR",
+    "image_search": "Udaipur India travel"
+  },
+  {
+    "name": "Varanasi",
+    "slug": "varanasi",
+    "country": "India",
+    "country_slug": "india",
+    "region": "Asia",
+    "lat": 25.3176,
+    "lng": 82.9739,
+    "population": 1198491,
+    "safety_level": "caution",
+    "budget_per_day": "20-40",
+    "highlights": [
+      "ganges",
+      "ghats",
+      "spirituality"
+    ],
+    "best_time_to_visit": "Oct-Mar",
+    "airport_code": "VNS",
+    "image_search": "Varanasi India travel"
+  }
+]

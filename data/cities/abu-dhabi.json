@@ -1,0 +1,20 @@
+{
+  "name": "Abu Dhabi",
+  "slug": "abu-dhabi",
+  "country": "United Arab Emirates",
+  "country_slug": "united-arab-emirates",
+  "region": "Asia",
+  "lat": 24.4539,
+  "lng": 54.3773,
+  "population": 1483000,
+  "safety_level": "safe",
+  "budget_per_day": "90-180",
+  "highlights": [
+    "mosque",
+    "louvre",
+    "islands"
+  ],
+  "best_time_to_visit": "Nov-Mar",
+  "airport_code": "AUH",
+  "image_search": "Abu Dhabi United Arab Emirates travel"
+}

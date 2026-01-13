@@ -1,0 +1,162 @@
+[
+  {
+    "name": "Dubrovnik",
+    "slug": "dubrovnik",
+    "country": "Croatia",
+    "country_slug": "croatia",
+    "region": "Europe",
+    "lat": 42.6507,
+    "lng": 18.0944,
+    "population": 42615,
+    "safety_level": "safe",
+    "budget_per_day": "70-130",
+    "highlights": [
+      "old town",
+      "game of thrones",
+      "beaches"
+    ],
+    "best_time_to_visit": "May-Jun, Sep-Oct",
+    "airport_code": "DBV",
+    "image_search": "Dubrovnik Croatia travel"
+  },
+  {
+    "name": "Dubrovnik",
+    "slug": "dubrovnik",
+    "country": "Croatia",
+    "country_slug": "croatia",
+    "region": "Europe",
+    "lat": 42.6507,
+    "lng": 18.0944,
+    "population": 42615,
+    "safety_level": "safe",
+    "budget_per_day": "80-150",
+    "highlights": [
+      "walls",
+      "beaches",
+      "game of thrones"
+    ],
+    "best_time_to_visit": "May-Sep",
+    "airport_code": "DBV",
+    "image_search": "Dubrovnik Croatia travel"
+  },
+  {
+    "name": "Dubrovnik Old Town",
+    "slug": "dubrovnik-old-town",
+    "country": "Croatia",
+    "country_slug": "croatia",
+    "region": "Europe",
+    "lat": 42.6507,
+    "lng": 18.0944,
+    "population": 42615,
+    "safety_level": "safe",
+    "budget_per_day": "80-150",
+    "highlights": [
+      "walls",
+      "game of thrones",
+      "adriatic"
+    ],
+    "best_time_to_visit": "May-Sep",
+    "airport_code": "DBV",
+    "image_search": "Dubrovnik Old Town Croatia travel"
+  },
+  {
+    "name": "Hvar",
+    "slug": "hvar",
+    "country": "Croatia",
+    "country_slug": "croatia",
+    "region": "Europe",
+    "lat": 43.1729,
+    "lng": 16.4411,
+    "population": 4251,
+    "safety_level": "safe",
+    "budget_per_day": "80-150",
+    "highlights": [
+      "beaches",
+      "nightlife",
+      "lavender"
+    ],
+    "best_time_to_visit": "May-Sep",
+    "airport_code": "SPU",
+    "image_search": "Hvar Croatia travel"
+  },
+  {
+    "name": "Plitvice Lakes",
+    "slug": "plitvice-lakes",
+    "country": "Croatia",
+    "country_slug": "croatia",
+    "region": "Europe",
+    "lat": 44.8654,
+    "lng": 15.582,
+    "population": 2000,
+    "safety_level": "safe",
+    "budget_per_day": "60-100",
+    "highlights": [
+      "waterfalls",
+      "lakes",
+      "nature"
+    ],
+    "best_time_to_visit": "May-Sep",
+    "airport_code": "ZAG",
+    "image_search": "Plitvice Lakes Croatia travel"
+  },
+  {
+    "name": "Split",
+    "slug": "split",
+    "country": "Croatia",
+    "country_slug": "croatia",
+    "region": "Europe",
+    "lat": 43.5081,
+    "lng": 16.4402,
+    "population": 178102,
+    "safety_level": "safe",
+    "budget_per_day": "60-110",
+    "highlights": [
+      "palace",
+      "islands",
+      "beaches"
+    ],
+    "best_time_to_visit": "May-Sep",
+    "airport_code": "SPU",
+    "image_search": "Split Croatia travel"
+  },
+  {
+    "name": "Split",
+    "slug": "split",
+    "country": "Croatia",
+    "country_slug": "croatia",
+    "region": "Europe",
+    "lat": 43.5081,
+    "lng": 16.4402,
+    "population": 178102,
+    "safety_level": "safe",
+    "budget_per_day": "60-110",
+    "highlights": [
+      "palace",
+      "islands",
+      "riviera"
+    ],
+    "best_time_to_visit": "May-Sep",
+    "airport_code": "SPU",
+    "image_search": "Split Croatia travel"
+  },
+  {
+    "name": "Zagreb",
+    "slug": "zagreb",
+    "country": "Croatia",
+    "country_slug": "croatia",
+    "region": "Europe",
+    "lat": 45.815,
+    "lng": 15.9819,
+    "population": 806341,
+    "safety_level": "safe",
+    "budget_per_day": "50-90",
+    "highlights": [
+      "old town",
+      "museums",
+      "cafes"
+    ],
+    "best_time_to_visit": "May-Sep",
+    "airport_code": "ZAG",
+    "image_search": "Zagreb Croatia travel"
+  }
+]

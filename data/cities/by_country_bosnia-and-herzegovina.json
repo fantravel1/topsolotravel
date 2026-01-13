@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Mostar",
+    "slug": "mostar",
+    "country": "Bosnia and Herzegovina",
+    "country_slug": "bosnia-and-herzegovina",
+    "region": "Europe",
+    "lat": 43.3438,
+    "lng": 17.8078,
+    "population": 105797,
+    "safety_level": "safe",
+    "budget_per_day": "30-55",
+    "highlights": [
+      "bridge",
+      "old town",
+      "diving"
+    ],
+    "best_time_to_visit": "May-Sep",
+    "airport_code": "SJJ",
+    "image_search": "Mostar Bosnia and Herzegovina travel"
+  },
+  {
+    "name": "Sarajevo",
+    "slug": "sarajevo",
+    "country": "Bosnia and Herzegovina",
+    "country_slug": "bosnia-and-herzegovina",
+    "region": "Europe",
+    "lat": 43.8563,
+    "lng": 18.4131,
+    "population": 275524,
+    "safety_level": "safe",
+    "budget_per_day": "35-65",
+    "highlights": [
+      "history",
+      "culture",
+      "food"
+    ],
+    "best_time_to_visit": "May-Sep",
+    "airport_code": "SJJ",
+    "image_search": "Sarajevo Bosnia and Herzegovina travel"
+  }
+]

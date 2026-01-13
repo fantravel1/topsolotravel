@@ -1,0 +1,20 @@
+{
+  "name": "Boracay",
+  "slug": "boracay",
+  "country": "Philippines",
+  "country_slug": "philippines",
+  "region": "Asia",
+  "lat": 11.9674,
+  "lng": 121.9248,
+  "population": 32267,
+  "safety_level": "safe",
+  "budget_per_day": "40-80",
+  "highlights": [
+    "white beach",
+    "watersports",
+    "nightlife"
+  ],
+  "best_time_to_visit": "Nov-May",
+  "airport_code": "MPH",
+  "image_search": "Boracay Philippines travel"
+}

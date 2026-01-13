@@ -1,0 +1,20 @@
+{
+  "name": "Leon",
+  "slug": "leon",
+  "country": "Nicaragua",
+  "country_slug": "nicaragua",
+  "region": "Americas",
+  "lat": 12.4379,
+  "lng": -86.878,
+  "population": 213489,
+  "safety_level": "caution",
+  "budget_per_day": "30-60",
+  "highlights": [
+    "cathedral",
+    "volcano boarding",
+    "colonial"
+  ],
+  "best_time_to_visit": "Nov-Apr",
+  "airport_code": "MGA",
+  "image_search": "Leon Nicaragua travel"
+}

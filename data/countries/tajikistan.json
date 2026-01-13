@@ -1,0 +1,50 @@
+{
+  "name": "Tajikistan",
+  "slug": "tajikistan",
+  "official_name": "Tajikistan",
+  "cca2": "",
+  "cca3": "",
+  "region": "Asia",
+  "subregion": "Central Asia",
+  "region_slug": "asia",
+  "capital": "Dushanbe",
+  "population": 9540000,
+  "area": 0,
+  "currency": "Tajikistani Somoni (TJS)",
+  "languages": [
+    "Tajik"
+  ],
+  "language": "Tajik",
+  "timezone": "UTC+5",
+  "timezones": [
+    "UTC+5"
+  ],
+  "flag_emoji": "",
+  "flag_svg": "",
+  "flag_png": "",
+  "coat_of_arms": "",
+  "maps_google": "",
+  "maps_osm": "",
+  "landlocked": false,
+  "borders": [],
+  "driving_side": "right",
+  "calling_code": "",
+  "safety_level": "caution",
+  "budget_per_day": {
+    "budget": "25-40",
+    "midrange": "50-80",
+    "luxury": "150+"
+  },
+  "best_time_to_visit": "Jun-Sep",
+  "latlng": [
+    0,
+    0
+  ],
+  "capital_latlng": [
+    0,
+    0
+  ],
+  "un_member": true,
+  "independent": true,
+  "featured": false
+}

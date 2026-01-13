@@ -1,0 +1,20 @@
+{
+  "name": "Chiang Rai",
+  "slug": "chiang-rai",
+  "country": "Thailand",
+  "country_slug": "thailand",
+  "region": "Asia",
+  "lat": 19.9071,
+  "lng": 99.8309,
+  "population": 74465,
+  "safety_level": "safe",
+  "budget_per_day": "25-50",
+  "highlights": [
+    "white temple",
+    "golden triangle",
+    "tribes"
+  ],
+  "best_time_to_visit": "Nov-Feb",
+  "airport_code": "CEI",
+  "image_search": "Chiang Rai Thailand travel"
+}

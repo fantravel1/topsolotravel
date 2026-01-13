@@ -1,0 +1,20 @@
+{
+  "name": "Bath",
+  "slug": "bath",
+  "country": "United Kingdom",
+  "country_slug": "united-kingdom",
+  "region": "Europe",
+  "lat": 51.3758,
+  "lng": -2.3599,
+  "population": 88859,
+  "safety_level": "safe",
+  "budget_per_day": "80-140",
+  "highlights": [
+    "roman baths",
+    "architecture",
+    "history"
+  ],
+  "best_time_to_visit": "Apr-Oct",
+  "airport_code": "BRS",
+  "image_search": "Bath United Kingdom travel"
+}

@@ -1,0 +1,50 @@
+{
+  "name": "Cayman Islands",
+  "slug": "cayman-islands",
+  "official_name": "Cayman Islands",
+  "cca2": "",
+  "cca3": "",
+  "region": "Americas",
+  "subregion": "Caribbean",
+  "region_slug": "americas",
+  "capital": "George Town",
+  "population": 65722,
+  "area": 0,
+  "currency": "Cayman Islands Dollar (KYD)",
+  "languages": [
+    "English"
+  ],
+  "language": "English",
+  "timezone": "UTC-5",
+  "timezones": [
+    "UTC-5"
+  ],
+  "flag_emoji": "",
+  "flag_svg": "",
+  "flag_png": "",
+  "coat_of_arms": "",
+  "maps_google": "",
+  "maps_osm": "",
+  "landlocked": false,
+  "borders": [],
+  "driving_side": "right",
+  "calling_code": "",
+  "safety_level": "safe",
+  "budget_per_day": {
+    "budget": "150-220",
+    "midrange": "280-400",
+    "luxury": "650+"
+  },
+  "best_time_to_visit": "Nov-Apr",
+  "latlng": [
+    0,
+    0
+  ],
+  "capital_latlng": [
+    0,
+    0
+  ],
+  "un_member": true,
+  "independent": true,
+  "featured": false
+}

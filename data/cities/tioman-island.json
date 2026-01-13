@@ -1,0 +1,20 @@
+{
+  "name": "Tioman Island",
+  "slug": "tioman-island",
+  "country": "Malaysia",
+  "country_slug": "malaysia",
+  "region": "Asia",
+  "lat": 2.7895,
+  "lng": 104.1667,
+  "population": 3000,
+  "safety_level": "safe",
+  "budget_per_day": "40-80",
+  "highlights": [
+    "diving",
+    "snorkeling",
+    "jungle"
+  ],
+  "best_time_to_visit": "Mar-Oct",
+  "airport_code": "TOD",
+  "image_search": "Tioman Island Malaysia travel"
+}

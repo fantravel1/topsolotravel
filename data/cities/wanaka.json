@@ -1,0 +1,20 @@
+{
+  "name": "Wanaka",
+  "slug": "wanaka",
+  "country": "New Zealand",
+  "country_slug": "new-zealand",
+  "region": "Oceania",
+  "lat": -44.7003,
+  "lng": 169.132,
+  "population": 13000,
+  "safety_level": "safe",
+  "budget_per_day": "90-160",
+  "highlights": [
+    "lake",
+    "skiing",
+    "hiking"
+  ],
+  "best_time_to_visit": "Dec-Mar, Jun-Aug",
+  "airport_code": "ZQN",
+  "image_search": "Wanaka New Zealand travel"
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Tunis",
+  "slug": "tunis",
+  "country": "Tunisia",
+  "country_slug": "tunisia",
+  "region": "Africa",
+  "lat": 36.8065,
+  "lng": 10.1815,
+  "population": 728453,
+  "safety_level": "caution",
+  "budget_per_day": "35-70",
+  "highlights": [
+    "medina",
+    "carthage",
+    "beaches"
+  ],
+  "best_time_to_visit": "Mar-May, Sep-Nov",
+  "airport_code": "TUN",
+  "image_search": "Tunis Tunisia travel"
+}

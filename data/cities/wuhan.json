@@ -1,0 +1,20 @@
+{
+  "name": "Wuhan",
+  "slug": "wuhan",
+  "country": "China",
+  "country_slug": "china",
+  "region": "Asia",
+  "lat": 30.5928,
+  "lng": 114.3055,
+  "population": 11212000,
+  "safety_level": "safe",
+  "budget_per_day": "35-70",
+  "highlights": [
+    "cherry blossoms",
+    "hot dry noodles",
+    "lakes"
+  ],
+  "best_time_to_visit": "Mar-May, Sep-Nov",
+  "airport_code": "WUH",
+  "image_search": "Wuhan China travel"
+}

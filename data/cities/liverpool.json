@@ -1,0 +1,20 @@
+{
+  "name": "Liverpool",
+  "slug": "liverpool",
+  "country": "United Kingdom",
+  "country_slug": "united-kingdom",
+  "region": "Europe",
+  "lat": 53.4084,
+  "lng": -2.9916,
+  "population": 496784,
+  "safety_level": "safe",
+  "budget_per_day": "60-120",
+  "highlights": [
+    "beatles",
+    "football",
+    "culture"
+  ],
+  "best_time_to_visit": "May-Sep",
+  "airport_code": "LPL",
+  "image_search": "Liverpool United Kingdom travel"
+}

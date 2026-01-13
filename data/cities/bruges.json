@@ -1,0 +1,20 @@
+{
+  "name": "Bruges",
+  "slug": "bruges",
+  "country": "Belgium",
+  "country_slug": "belgium",
+  "region": "Europe",
+  "lat": 51.2093,
+  "lng": 3.2247,
+  "population": 118284,
+  "safety_level": "safe",
+  "budget_per_day": "70-130",
+  "highlights": [
+    "medieval",
+    "chocolate",
+    "canals"
+  ],
+  "best_time_to_visit": "Apr-Oct",
+  "airport_code": "BRU",
+  "image_search": "Bruges Belgium travel"
+}

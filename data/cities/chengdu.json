@@ -1,0 +1,20 @@
+{
+  "name": "Chengdu",
+  "slug": "chengdu",
+  "country": "China",
+  "country_slug": "china",
+  "region": "Asia",
+  "lat": 30.5728,
+  "lng": 104.0668,
+  "population": 16330000,
+  "safety_level": "safe",
+  "budget_per_day": "40-80",
+  "highlights": [
+    "pandas",
+    "hotpot",
+    "teahouses"
+  ],
+  "best_time_to_visit": "Mar-Jun, Sep-Nov",
+  "airport_code": "CTU",
+  "image_search": "Chengdu China travel"
+}

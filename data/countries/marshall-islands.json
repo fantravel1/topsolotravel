@@ -1,0 +1,50 @@
+{
+  "name": "Marshall Islands",
+  "slug": "marshall-islands",
+  "official_name": "Marshall Islands",
+  "cca2": "",
+  "cca3": "",
+  "region": "Oceania",
+  "subregion": "Micronesia",
+  "region_slug": "oceania",
+  "capital": "Majuro",
+  "population": 59190,
+  "area": 0,
+  "currency": "US Dollar (USD)",
+  "languages": [
+    "Marshallese"
+  ],
+  "language": "Marshallese",
+  "timezone": "UTC+12",
+  "timezones": [
+    "UTC+12"
+  ],
+  "flag_emoji": "",
+  "flag_svg": "",
+  "flag_png": "",
+  "coat_of_arms": "",
+  "maps_google": "",
+  "maps_osm": "",
+  "landlocked": false,
+  "borders": [],
+  "driving_side": "right",
+  "calling_code": "",
+  "safety_level": "safe",
+  "budget_per_day": {
+    "budget": "90-120",
+    "midrange": "160-240",
+    "luxury": "380+"
+  },
+  "best_time_to_visit": "Dec-Apr",
+  "latlng": [
+    0,
+    0
+  ],
+  "capital_latlng": [
+    0,
+    0
+  ],
+  "un_member": true,
+  "independent": true,
+  "featured": false
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Bergen",
+  "slug": "bergen",
+  "country": "Norway",
+  "country_slug": "norway",
+  "region": "Europe",
+  "lat": 60.3913,
+  "lng": 5.3221,
+  "population": 283929,
+  "safety_level": "safe",
+  "budget_per_day": "120-190",
+  "highlights": [
+    "fjords",
+    "bryggen",
+    "nature"
+  ],
+  "best_time_to_visit": "May-Sep",
+  "airport_code": "BGO",
+  "image_search": "Bergen Norway travel"
+}

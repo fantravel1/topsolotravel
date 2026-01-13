@@ -1,0 +1,20 @@
+{
+  "name": "Cork",
+  "slug": "cork",
+  "country": "Ireland",
+  "country_slug": "ireland",
+  "region": "Europe",
+  "lat": 51.8985,
+  "lng": -8.4756,
+  "population": 210000,
+  "safety_level": "safe",
+  "budget_per_day": "80-140",
+  "highlights": [
+    "food",
+    "history",
+    "english market"
+  ],
+  "best_time_to_visit": "May-Sep",
+  "airport_code": "ORK",
+  "image_search": "Cork Ireland travel"
+}

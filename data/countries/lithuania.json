@@ -1,0 +1,50 @@
+{
+  "name": "Lithuania",
+  "slug": "lithuania",
+  "official_name": "Lithuania",
+  "cca2": "",
+  "cca3": "",
+  "region": "Europe",
+  "subregion": "Northern Europe",
+  "region_slug": "europe",
+  "capital": "Vilnius",
+  "population": 2790000,
+  "area": 0,
+  "currency": "Euro (EUR)",
+  "languages": [
+    "Lithuanian"
+  ],
+  "language": "Lithuanian",
+  "timezone": "UTC+2",
+  "timezones": [
+    "UTC+2"
+  ],
+  "flag_emoji": "",
+  "flag_svg": "",
+  "flag_png": "",
+  "coat_of_arms": "",
+  "maps_google": "",
+  "maps_osm": "",
+  "landlocked": false,
+  "borders": [],
+  "driving_side": "right",
+  "calling_code": "",
+  "safety_level": "safe",
+  "budget_per_day": {
+    "budget": "45-65",
+    "midrange": "80-130",
+    "luxury": "220+"
+  },
+  "best_time_to_visit": "May-Sep",
+  "latlng": [
+    0,
+    0
+  ],
+  "capital_latlng": [
+    0,
+    0
+  ],
+  "un_member": true,
+  "independent": true,
+  "featured": false
+}

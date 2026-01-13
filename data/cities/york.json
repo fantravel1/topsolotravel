@@ -1,0 +1,20 @@
+{
+  "name": "York",
+  "slug": "york",
+  "country": "United Kingdom",
+  "country_slug": "united-kingdom",
+  "region": "Europe",
+  "lat": 53.96,
+  "lng": -1.0873,
+  "population": 210618,
+  "safety_level": "safe",
+  "budget_per_day": "70-130",
+  "highlights": [
+    "minster",
+    "walls",
+    "history"
+  ],
+  "best_time_to_visit": "Apr-Oct",
+  "airport_code": "LBA",
+  "image_search": "York United Kingdom travel"
+}

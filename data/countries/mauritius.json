@@ -1,0 +1,50 @@
+{
+  "name": "Mauritius",
+  "slug": "mauritius",
+  "official_name": "Mauritius",
+  "cca2": "",
+  "cca3": "",
+  "region": "Africa",
+  "subregion": "Eastern Africa",
+  "region_slug": "africa",
+  "capital": "Port Louis",
+  "population": 1270000,
+  "area": 0,
+  "currency": "Mauritian Rupee (MUR)",
+  "languages": [
+    "English"
+  ],
+  "language": "English",
+  "timezone": "UTC+4",
+  "timezones": [
+    "UTC+4"
+  ],
+  "flag_emoji": "",
+  "flag_svg": "",
+  "flag_png": "",
+  "coat_of_arms": "",
+  "maps_google": "",
+  "maps_osm": "",
+  "landlocked": false,
+  "borders": [],
+  "driving_side": "right",
+  "calling_code": "",
+  "safety_level": "safe",
+  "budget_per_day": {
+    "budget": "70-100",
+    "midrange": "130-200",
+    "luxury": "350+"
+  },
+  "best_time_to_visit": "May-Dec",
+  "latlng": [
+    0,
+    0
+  ],
+  "capital_latlng": [
+    0,
+    0
+  ],
+  "un_member": true,
+  "independent": true,
+  "featured": false
+}

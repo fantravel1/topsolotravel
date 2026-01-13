@@ -1,99 +1,148 @@
 ---
 title: "Thailand"
-description: "Complete solo travel guide to Thailand. Safety tips, best destinations, budget breakdown, and essential tips for traveling alone in Thailand."
+description: "Complete solo travel guide to Thailand. Safety tips, best cities, budget breakdown, visa info, and essential tips for traveling alone in Thailand."
 region: "Asia"
+subregion: "South-Eastern Asia"
 featured: true
 safetyLevel: "caution"
-heroImage: "/images/destinations/thailand.jpg"
+heroImage: "https://source.unsplash.com/1600x900/?thailand+travel+landscape"
 
 quickFacts:
   capital: "Bangkok"
   currency: "Thai Baht (THB)"
   language: "Thai"
-  timezone: "ICT (UTC+7)"
-  population: "70 million"
-  bestTime: "Nov-Feb (cool season)"
-  budget: "$30-80/day"
-  visaFree: "30-60 days (most passports)"
+  timezone: "UTC+7"
+  population: "69.8 million"
+  bestTime: "Nov-Feb"
+  budget: "$30-60/day"
+  visaFree: "Check requirements"
   safety: "Generally Safe"
 
 travelAdvisory:
   level: "info"
   advisoryLevel: 1
-  message: "Exercise normal precautions. Be aware of ongoing political situation."
-  source: "US State Department"
-  date: "2024"
+  message: "Exercise normal precautions in Thailand."
+  source: "Travel Advisory"
+  date: "2026"
 
 safety:
-  overview: "Thailand is generally safe for solo travelers, though common-sense precautions are advisable. Petty theft can occur in tourist areas, and scams targeting tourists are common. However, violent crime against tourists is rare."
-  soloFemale: "Thailand is popular with solo female travelers. While generally safe, women should be cautious in isolated areas late at night and use common sense with alcohol consumption. Dress modestly when visiting temples."
+  overview: "Thailand is generally safe with normal precautions for solo travelers. Standard travel precautions are recommended for all visitors."
+  soloFemale: "Solo female travelers generally feel safe in Thailand. Standard precautions are advised in tourist areas."
   tips:
-    - "Be wary of tuk-tuk drivers offering 'special deals'"
-    - "Agree on taxi fares before getting in, or insist on the meter"
-    - "Keep valuables secure, especially on overnight buses"
-    - "Don't accept drinks from strangers"
-    - "Register with your embassy for travel alerts"
+    - "Keep valuables secure, especially in crowded areas"
+    - "Stay aware of your surroundings, particularly at night"
+    - "Use official transportation services"
+    - "Share your itinerary with someone back home"
+    - "Carry a copy of your passport separately from the original"
   avoid:
-    - "Gem scams (anyone offering deals on gems)"
-    - "Tuk-tuk tours that include shopping stops"
-    - "Unregulated Full Moon Party areas"
-    - "Accepting items from street vendors who then demand payment"
+    - "Unlicensed taxis and transportation"
+    - "Displaying expensive jewelry or electronics"
+    - "Walking alone in unfamiliar areas late at night"
 
 topCities:
+  - name: "Ayutthaya"
+    url: "/destinations/thailand/ayutthaya/"
+    description: "Popular destination for solo travelers with great infrastructure."
+    highlights: ["ruins", "temples", "history"]
   - name: "Bangkok"
     url: "/destinations/thailand/bangkok/"
-    description: "A sensory overload of temples, street food, markets, and nightlife. Perfect base for solo travelers."
-    highlights: ["Street food", "Temples", "Nightlife"]
-    image: "/images/destinations/bangkok.jpg"
+    description: "Popular destination for solo travelers with great infrastructure."
+    highlights: ["temples", "street food", "nightlife"]
   - name: "Chiang Mai"
     url: "/destinations/thailand/chiang-mai/"
-    description: "The cultural heart of Northern Thailand. Temples, cooking classes, and a thriving digital nomad scene."
-    highlights: ["Temples", "Cooking classes", "Nomad hub"]
-    image: "/images/destinations/chiang-mai.jpg"
-  - name: "Phuket"
-    url: "/destinations/thailand/phuket/"
-    description: "Thailand's largest island with beautiful beaches, water activities, and vibrant nightlife."
-    highlights: ["Beaches", "Diving", "Island hopping"]
-    image: "/images/destinations/phuket.jpg"
+    description: "Popular destination for solo travelers with great infrastructure."
+    highlights: ["temples", "cooking classes", "digital nomads"]
+  - name: "Chiang Rai"
+    url: "/destinations/thailand/chiang-rai/"
+    description: "Popular destination for solo travelers with great infrastructure."
+    highlights: ["white temple", "golden triangle", "tribes"]
+
 
 budget:
-  overview: "Thailand is one of the world's most affordable destinations. Budget backpackers can travel on $25-35/day, mid-range travelers on $50-80/day with comfortable accommodation and good restaurants."
+  overview: "Thailand offers varied options for solo travelers. Budget-conscious travelers can manage on $30/day, while mid-range travelers typically spend $60/day."
   accommodation:
-    budget: "$5-15"
-    midRange: "$20-50"
-    luxury: "$100+"
+    budget: "$12"
+    midRange: "$24"
+    luxury: "$100"
   food:
-    budget: "$5-10"
-    midRange: "$15-25"
-    luxury: "$50+"
+    budget: "$9"
+    midRange: "$18"
+    luxury: "$60"
   transport:
-    budget: "$5-10"
-    midRange: "$15-30"
-    luxury: "$50+"
+    budget: "$6"
+    midRange: "$12"
+    luxury: "$30"
   total:
-    budget: "$25-35"
-    midRange: "$50-80"
-    luxury: "$150+"
+    budget: "$30"
+    midRange: "$60"
+    luxury: "$200"
+
+visa:
+  overview: "Visa requirements for Thailand vary by nationality. Many passport holders enjoy visa-free or visa-on-arrival access."
+  usPassport: "US passport holders should check current visa requirements before traveling."
+  ukPassport: "UK passport holders should verify entry requirements."
+  euPassport: "EU citizens should check Schengen area agreements if applicable."
+
+culture:
+  tips:
+    - "Learn a few basic phrases in the local language"
+    - "Respect local customs and dress codes"
+    - "Be mindful of photography restrictions at religious sites"
+    - "Tipping customs vary - research before your trip"
+  etiquette:
+    - "Greet locals appropriately based on local customs"
+    - "Ask permission before photographing people"
+    - "Dress modestly when visiting religious sites"
+
+transport:
+  overview: "Getting around Thailand is manageable. Major cities have public transportation. Taxis and ride-sharing are widely available."
+  options:
+    - name: "Public Transit"
+      description: "Available in major cities with varying quality and coverage."
+    - name: "Taxis/Ride-sharing"
+      description: "Widely available; use official services or trusted apps."
+    - name: "Domestic Flights"
+      description: "Useful for covering large distances efficiently."
 
 faqs:
-  - question: "Is Thailand safe for solo female travelers?"
-    answer: "Thailand is generally safe for solo female travelers and is one of the most popular destinations for women traveling alone. Exercise normal precautions, especially at night, and be cautious with alcohol."
+  - question: "Is Thailand safe for solo travelers?"
+    answer: "Thailand is generally safe with normal precautions for solo travelers. Most visitors have positive experiences with standard precautions."
   - question: "How much money do I need per day in Thailand?"
-    answer: "Budget travelers can get by on $25-35/day staying in hostels and eating street food. Mid-range budgets of $50-80/day allow for private rooms and nicer restaurants."
+    answer: "Budget travelers can get by on $30/day, mid-range travelers typically spend $60/day, and luxury travelers should budget $200+/day."
+  - question: "What's the best time to visit Thailand?"
+    answer: "The best time to visit Thailand is Nov-Feb. Weather and crowds vary by season."
+  - question: "Do I need a visa for Thailand?"
+    answer: "Visa requirements depend on your nationality. Many countries offer visa-free or visa-on-arrival access. Always verify current requirements before travel."
   - question: "Is Thailand good for first-time solo travelers?"
-    answer: "Thailand is excellent for first-time solo travelers due to its well-established tourist infrastructure, English-speaking locals in tourist areas, affordable prices, and large backpacker community."
-  - question: "What are the main scams to watch out for?"
-    answer: "Common scams include gem shop tours, tuk-tuk drivers offering cheap tours, taxi drivers not using meters, and 'the palace is closed' redirections. Always use official services and be skeptical of unsolicited help."
+    answer: "Yes, Thailand is excellent for first-time solo travelers due to good infrastructure and welcoming culture."
 ---
 
-Thailand has been welcoming solo travelers for decades, earning its reputation as the ultimate backpacker destination. From the chaos of Bangkok to the beaches of the south and the mountains of the north, Thailand offers incredible diversity at prices that suit any budget.
+Thailand offers unique adventures for solo travelers. From vibrant cities to rich cultural heritage, there's something for every independent explorer.
 
 ## Why Thailand is Great for Solo Travelers
 
-**Backpacker Infrastructure**: Thailand's well-established tourist trail makes solo travel easy. Hostels are plentiful, tours are organized daily, and meeting other travelers is effortless.
+**Welcoming Culture**: Visitors to Thailand often comment on the hospitality of locals.
 
-**Affordable**: Your money goes far in Thailand. Budget travelers can live well on $25-35/day, making extended stays possible.
+**Diverse Experiences**: From cities to countryside, Thailand offers varied experiences.
 
-**Easy to Navigate**: English is widely spoken in tourist areas, transportation is frequent and affordable, and WiFi is everywhere.
+**Solo-Friendly Infrastructure**: Good tourist infrastructure makes solo travel straightforward.
 
-**Social Scene**: From hostel common areas to Full Moon Parties, Thailand offers countless opportunities to meet fellow travelers.
+## Best Experiences for Solo Travelers
+
+- **Explore Local Markets**: Discover authentic local life and cuisine
+- **Walking Tours**: Many cities offer free or affordable walking tours
+- **Cultural Sites**: Museums, temples, and historical landmarks
+- **Local Cuisine**: Try street food and local restaurants
+- **Nature & Outdoors**: Parks, hiking trails, and scenic viewpoints
+
+## Getting Around
+
+Research transportation options before arrival. Major cities typically have public transit, taxis, and ride-sharing options.
+
+## Solo Travel Tips for Thailand
+
+1. **Stay Connected**: Get a local SIM card or ensure your international plan works
+2. **Join Group Tours**: A great way to meet other travelers
+3. **Use Trusted Apps**: Download maps, translation, and transportation apps
+4. **Book Ahead**: Especially during peak season
+5. **Trust Your Instincts**: If something feels off, remove yourself from the situation

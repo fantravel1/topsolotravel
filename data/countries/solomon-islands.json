@@ -1,0 +1,50 @@
+{
+  "name": "Solomon Islands",
+  "slug": "solomon-islands",
+  "official_name": "Solomon Islands",
+  "cca2": "",
+  "cca3": "",
+  "region": "Oceania",
+  "subregion": "Melanesia",
+  "region_slug": "oceania",
+  "capital": "Honiara",
+  "population": 686878,
+  "area": 0,
+  "currency": "Solomon Islands Dollar (SBD)",
+  "languages": [
+    "English"
+  ],
+  "language": "English",
+  "timezone": "UTC+11",
+  "timezones": [
+    "UTC+11"
+  ],
+  "flag_emoji": "",
+  "flag_svg": "",
+  "flag_png": "",
+  "coat_of_arms": "",
+  "maps_google": "",
+  "maps_osm": "",
+  "landlocked": false,
+  "borders": [],
+  "driving_side": "right",
+  "calling_code": "",
+  "safety_level": "caution",
+  "budget_per_day": {
+    "budget": "80-110",
+    "midrange": "150-220",
+    "luxury": "350+"
+  },
+  "best_time_to_visit": "Apr-Nov",
+  "latlng": [
+    0,
+    0
+  ],
+  "capital_latlng": [
+    0,
+    0
+  ],
+  "un_member": true,
+  "independent": true,
+  "featured": false
+}

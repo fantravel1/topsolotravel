@@ -1,0 +1,20 @@
+{
+  "name": "Sukhothai",
+  "slug": "sukhothai",
+  "country": "Thailand",
+  "country_slug": "thailand",
+  "region": "Asia",
+  "lat": 17.007,
+  "lng": 99.8237,
+  "population": 37000,
+  "safety_level": "safe",
+  "budget_per_day": "20-40",
+  "highlights": [
+    "historical park",
+    "temples",
+    "bicycles"
+  ],
+  "best_time_to_visit": "Nov-Feb",
+  "airport_code": "THS",
+  "image_search": "Sukhothai Thailand travel"
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Batumi",
+  "slug": "batumi",
+  "country": "Georgia",
+  "country_slug": "georgia",
+  "region": "Asia",
+  "lat": 41.6168,
+  "lng": 41.6367,
+  "population": 169095,
+  "safety_level": "safe",
+  "budget_per_day": "30-55",
+  "highlights": [
+    "beach",
+    "nightlife",
+    "architecture"
+  ],
+  "best_time_to_visit": "Jun-Sep",
+  "airport_code": "BUS",
+  "image_search": "Batumi Georgia travel"
+}

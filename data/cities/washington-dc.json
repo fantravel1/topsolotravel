@@ -1,0 +1,20 @@
+{
+  "name": "Washington DC",
+  "slug": "washington-dc",
+  "country": "United States",
+  "country_slug": "united-states",
+  "region": "Americas",
+  "lat": 38.9072,
+  "lng": -77.0369,
+  "population": 705749,
+  "safety_level": "caution",
+  "budget_per_day": "120-190",
+  "highlights": [
+    "museums",
+    "monuments",
+    "politics"
+  ],
+  "best_time_to_visit": "Mar-May, Sep-Nov",
+  "airport_code": "DCA",
+  "image_search": "Washington DC United States travel"
+}

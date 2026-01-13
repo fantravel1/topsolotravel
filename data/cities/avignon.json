@@ -1,0 +1,20 @@
+{
+  "name": "Avignon",
+  "slug": "avignon",
+  "country": "France",
+  "country_slug": "france",
+  "region": "Europe",
+  "lat": 43.9493,
+  "lng": 4.8055,
+  "population": 91921,
+  "safety_level": "safe",
+  "budget_per_day": "70-120",
+  "highlights": [
+    "papal palace",
+    "bridges",
+    "provence"
+  ],
+  "best_time_to_visit": "Apr-Oct",
+  "airport_code": "AVN",
+  "image_search": "Avignon France travel"
+}
