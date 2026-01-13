@@ -44,6 +44,10 @@ topCities:
     url: "/destinations/serbia/belgrade/"
     description: "Popular destination for solo travelers with great infrastructure."
     highlights: ["nightlife", "history", "food"]
+  - name: "Novi Sad"
+    url: "/destinations/serbia/novi-sad/"
+    description: "Popular destination for solo travelers with great infrastructure."
+    highlights: ["exit festival", "fortress", "cafes"]
 
 
 budget:

@@ -10,17 +10,17 @@ heroImage: "https://source.unsplash.com/1600x900/?lyon+france+city"
 
 quickFacts:
   country: "France"
-  population: "513K"
+  population: "516K"
   timezone: "UTC+0"
   bestTime: "Apr-Oct"
-  budget: "$70-120/day"
+  budget: "$70-130/day"
   safety: "Very Safe"
   airport: "LYS"
 
 highlights:
   - "gastronomy"
-  - "old town"
   - "traboules"
+  - "history"
 
 neighborhoods:
   - name: "City Center"

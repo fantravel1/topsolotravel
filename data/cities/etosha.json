@@ -1,0 +1,20 @@
+{
+  "name": "Etosha",
+  "slug": "etosha",
+  "country": "Namibia",
+  "country_slug": "namibia",
+  "region": "Africa",
+  "lat": -18.8556,
+  "lng": 16.3278,
+  "population": 0,
+  "safety_level": "safe",
+  "budget_per_day": "80-160",
+  "highlights": [
+    "wildlife",
+    "salt pan",
+    "waterholes"
+  ],
+  "best_time_to_visit": "May-Oct",
+  "airport_code": "WDH",
+  "image_search": "Etosha Namibia travel"
+}

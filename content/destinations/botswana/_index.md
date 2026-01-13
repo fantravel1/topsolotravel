@@ -44,6 +44,10 @@ topCities:
     url: "/destinations/botswana/gaborone/"
     description: "Popular destination for solo travelers with great infrastructure."
     highlights: ["safaris", "nature", "diamonds"]
+  - name: "Maun"
+    url: "/destinations/botswana/maun/"
+    description: "Popular destination for solo travelers with great infrastructure."
+    highlights: ["okavango delta", "safari", "mokoro"]
 
 
 budget:

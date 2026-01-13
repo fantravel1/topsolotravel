@@ -40,14 +40,22 @@ safety:
     - "Walking alone in unfamiliar areas late at night"
 
 topCities:
+  - name: "Bandipur"
+    url: "/destinations/nepal/bandipur/"
+    description: "Popular destination for solo travelers with great infrastructure."
+    highlights: ["preserved town", "views", "paragliding"]
+  - name: "Chitwan"
+    url: "/destinations/nepal/chitwan/"
+    description: "Popular destination for solo travelers with great infrastructure."
+    highlights: ["safari", "rhinos", "jungle"]
   - name: "Kathmandu"
     url: "/destinations/nepal/kathmandu/"
     description: "Popular destination for solo travelers with great infrastructure."
     highlights: ["temples", "trekking", "culture"]
-  - name: "Pokhara"
-    url: "/destinations/nepal/pokhara/"
+  - name: "Lumbini"
+    url: "/destinations/nepal/lumbini/"
     description: "Popular destination for solo travelers with great infrastructure."
-    highlights: ["annapurna", "lake", "paragliding"]
+    highlights: ["buddha birthplace", "temples", "pilgrimage"]
 
 
 budget:

@@ -40,10 +40,14 @@ safety:
     - "Walking alone in unfamiliar areas late at night"
 
 topCities:
+  - name: "Punta Cana"
+    url: "/destinations/dominican-republic/punta-cana/"
+    description: "Popular destination for solo travelers with great infrastructure."
+    highlights: ["beaches", "resorts", "golf"]
   - name: "Santo Domingo"
-    url: "/destinations/dominican-republic/"
-    description: "The capital city offers diverse experiences for solo travelers."
-    highlights: ["culture", "food", "history"]
+    url: "/destinations/dominican-republic/santo-domingo/"
+    description: "Popular destination for solo travelers with great infrastructure."
+    highlights: ["colonial zone", "history", "nightlife"]
 
 
 budget:

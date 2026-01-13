@@ -1,0 +1,20 @@
+{
+  "name": "Hermanus",
+  "slug": "hermanus",
+  "country": "South Africa",
+  "country_slug": "south-africa",
+  "region": "Africa",
+  "lat": -34.4186,
+  "lng": 19.2345,
+  "population": 28000,
+  "safety_level": "safe",
+  "budget_per_day": "60-120",
+  "highlights": [
+    "whale watching",
+    "wine",
+    "coast"
+  ],
+  "best_time_to_visit": "Jul-Nov",
+  "airport_code": "CPT",
+  "image_search": "Hermanus South Africa travel"
+}

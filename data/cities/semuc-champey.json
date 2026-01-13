@@ -1,0 +1,20 @@
+{
+  "name": "Semuc Champey",
+  "slug": "semuc-champey",
+  "country": "Guatemala",
+  "country_slug": "guatemala",
+  "region": "Americas",
+  "lat": 15.5333,
+  "lng": -90.0333,
+  "population": 500,
+  "safety_level": "safe",
+  "budget_per_day": "25-50",
+  "highlights": [
+    "pools",
+    "caves",
+    "adventure"
+  ],
+  "best_time_to_visit": "Nov-Apr",
+  "airport_code": "GUA",
+  "image_search": "Semuc Champey Guatemala travel"
+}

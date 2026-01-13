@@ -1,0 +1,20 @@
+{
+  "name": "Ras Al Khaimah",
+  "slug": "ras-al-khaimah",
+  "country": "United Arab Emirates",
+  "country_slug": "united-arab-emirates",
+  "region": "Asia",
+  "lat": 25.7953,
+  "lng": 55.9432,
+  "population": 345000,
+  "safety_level": "safe",
+  "budget_per_day": "80-150",
+  "highlights": [
+    "adventure",
+    "mountains",
+    "beaches"
+  ],
+  "best_time_to_visit": "Nov-Mar",
+  "airport_code": "RKT",
+  "image_search": "Ras Al Khaimah United Arab Emirates travel"
+}

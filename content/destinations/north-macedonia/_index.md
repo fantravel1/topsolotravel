@@ -40,10 +40,14 @@ safety:
     - "Walking alone in unfamiliar areas late at night"
 
 topCities:
+  - name: "Ohrid"
+    url: "/destinations/north-macedonia/ohrid/"
+    description: "Popular destination for solo travelers with great infrastructure."
+    highlights: ["lake", "churches", "unesco"]
   - name: "Skopje"
-    url: "/destinations/north-macedonia/"
-    description: "The capital city offers diverse experiences for solo travelers."
-    highlights: ["culture", "food", "history"]
+    url: "/destinations/north-macedonia/skopje/"
+    description: "Popular destination for solo travelers with great infrastructure."
+    highlights: ["statues", "bazaar", "canyon"]
 
 
 budget:

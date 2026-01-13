@@ -40,10 +40,10 @@ safety:
     - "Walking alone in unfamiliar areas late at night"
 
 topCities:
-  - name: "Lusaka"
-    url: "/destinations/zambia/"
-    description: "The capital city offers diverse experiences for solo travelers."
-    highlights: ["culture", "food", "history"]
+  - name: "Livingstone"
+    url: "/destinations/zambia/livingstone/"
+    description: "Popular destination for solo travelers with great infrastructure."
+    highlights: ["victoria falls", "rafting", "bungee"]
 
 
 budget:

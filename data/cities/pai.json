@@ -1,0 +1,20 @@
+{
+  "name": "Pai",
+  "slug": "pai",
+  "country": "Thailand",
+  "country_slug": "thailand",
+  "region": "Asia",
+  "lat": 19.3572,
+  "lng": 98.4417,
+  "population": 2500,
+  "safety_level": "safe",
+  "budget_per_day": "20-40",
+  "highlights": [
+    "hippie town",
+    "waterfalls",
+    "pai canyon"
+  ],
+  "best_time_to_visit": "Nov-Feb",
+  "airport_code": "CNX",
+  "image_search": "Pai Thailand travel"
+}

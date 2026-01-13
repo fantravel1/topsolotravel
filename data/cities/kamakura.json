@@ -1,0 +1,20 @@
+{
+  "name": "Kamakura",
+  "slug": "kamakura",
+  "country": "Japan",
+  "country_slug": "japan",
+  "region": "Asia",
+  "lat": 35.3192,
+  "lng": 139.5467,
+  "population": 172000,
+  "safety_level": "safe",
+  "budget_per_day": "60-100",
+  "highlights": [
+    "big buddha",
+    "temples",
+    "beaches"
+  ],
+  "best_time_to_visit": "Mar-May, Sep-Nov",
+  "airport_code": "HND",
+  "image_search": "Kamakura Japan travel"
+}

@@ -10,7 +10,7 @@ heroImage: "https://source.unsplash.com/1600x900/?porto+portugal+city"
 
 quickFacts:
   country: "Portugal"
-  population: "238K"
+  population: "250K"
   timezone: "UTC0"
   bestTime: "May-Sep"
   budget: "$50-90/day"
@@ -19,8 +19,8 @@ quickFacts:
 
 highlights:
   - "port wine"
-  - "bridges"
   - "ribeira"
+  - "azulejos"
 
 neighborhoods:
   - name: "City Center"

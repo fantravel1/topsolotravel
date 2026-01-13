@@ -1,5 +1,25 @@
 [
   {
+    "name": "Plovdiv",
+    "slug": "plovdiv",
+    "country": "Bulgaria",
+    "country_slug": "bulgaria",
+    "region": "Europe",
+    "lat": 42.15,
+    "lng": 24.75,
+    "population": 346893,
+    "safety_level": "safe",
+    "budget_per_day": "30-60",
+    "highlights": [
+      "old town",
+      "roman ruins",
+      "art"
+    ],
+    "best_time_to_visit": "May-Sep",
+    "airport_code": "PDV",
+    "image_search": "Plovdiv Bulgaria travel"
+  },
+  {
     "name": "Sofia",
     "slug": "sofia",
     "country": "Bulgaria",
@@ -18,5 +38,25 @@
     "best_time_to_visit": "May-Sep",
     "airport_code": "SOF",
     "image_search": "Sofia Bulgaria travel"
+  },
+  {
+    "name": "Varna",
+    "slug": "varna",
+    "country": "Bulgaria",
+    "country_slug": "bulgaria",
+    "region": "Europe",
+    "lat": 43.2141,
+    "lng": 27.9147,
+    "population": 336505,
+    "safety_level": "safe",
+    "budget_per_day": "35-65",
+    "highlights": [
+      "black sea",
+      "beaches",
+      "roman"
+    ],
+    "best_time_to_visit": "Jun-Sep",
+    "airport_code": "VAR",
+    "image_search": "Varna Bulgaria travel"
   }
 ]

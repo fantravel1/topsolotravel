@@ -13,13 +13,13 @@ quickFacts:
   population: "343K"
   timezone: "UTC+0"
   bestTime: "May-Sep"
-  budget: "$80-140/day"
+  budget: "$80-150/day"
   safety: "Very Safe"
   airport: "NCE"
 
 highlights:
+  - "promenade"
   - "beaches"
-  - "old town"
   - "riviera"
 
 neighborhoods:

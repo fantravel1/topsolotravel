@@ -1,0 +1,20 @@
+{
+  "name": "Mazunte",
+  "slug": "mazunte",
+  "country": "Mexico",
+  "country_slug": "mexico",
+  "region": "Americas",
+  "lat": 15.6667,
+  "lng": -96.55,
+  "population": 500,
+  "safety_level": "safe",
+  "budget_per_day": "30-60",
+  "highlights": [
+    "turtles",
+    "yoga",
+    "beaches"
+  ],
+  "best_time_to_visit": "Nov-May",
+  "airport_code": "HUX",
+  "image_search": "Mazunte Mexico travel"
+}

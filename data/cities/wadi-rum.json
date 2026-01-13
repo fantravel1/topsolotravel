@@ -1,0 +1,20 @@
+{
+  "name": "Wadi Rum",
+  "slug": "wadi-rum",
+  "country": "Jordan",
+  "country_slug": "jordan",
+  "region": "Asia",
+  "lat": 29.5722,
+  "lng": 35.4194,
+  "population": 5000,
+  "safety_level": "safe",
+  "budget_per_day": "40-80",
+  "highlights": [
+    "desert",
+    "bedouin",
+    "mars landscape"
+  ],
+  "best_time_to_visit": "Mar-May, Sep-Nov",
+  "airport_code": "AQJ",
+  "image_search": "Wadi Rum Jordan travel"
+}

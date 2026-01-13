@@ -1,5 +1,45 @@
 [
   {
+    "name": "Bandipur",
+    "slug": "bandipur",
+    "country": "Nepal",
+    "country_slug": "nepal",
+    "region": "Asia",
+    "lat": 27.9333,
+    "lng": 84.4167,
+    "population": 3000,
+    "safety_level": "safe",
+    "budget_per_day": "20-40",
+    "highlights": [
+      "preserved town",
+      "views",
+      "paragliding"
+    ],
+    "best_time_to_visit": "Oct-May",
+    "airport_code": "PKR",
+    "image_search": "Bandipur Nepal travel"
+  },
+  {
+    "name": "Chitwan",
+    "slug": "chitwan",
+    "country": "Nepal",
+    "country_slug": "nepal",
+    "region": "Asia",
+    "lat": 27.5291,
+    "lng": 84.3542,
+    "population": 579984,
+    "safety_level": "safe",
+    "budget_per_day": "25-50",
+    "highlights": [
+      "safari",
+      "rhinos",
+      "jungle"
+    ],
+    "best_time_to_visit": "Oct-Mar",
+    "airport_code": "BWA",
+    "image_search": "Chitwan Nepal travel"
+  },
+  {
     "name": "Kathmandu",
     "slug": "kathmandu",
     "country": "Nepal",
@@ -18,6 +58,46 @@
     "best_time_to_visit": "Oct-Nov, Mar-May",
     "airport_code": "KTM",
     "image_search": "Kathmandu Nepal travel"
+  },
+  {
+    "name": "Lumbini",
+    "slug": "lumbini",
+    "country": "Nepal",
+    "country_slug": "nepal",
+    "region": "Asia",
+    "lat": 27.4833,
+    "lng": 83.2833,
+    "population": 9801,
+    "safety_level": "safe",
+    "budget_per_day": "20-40",
+    "highlights": [
+      "buddha birthplace",
+      "temples",
+      "pilgrimage"
+    ],
+    "best_time_to_visit": "Oct-Mar",
+    "airport_code": "BWA",
+    "image_search": "Lumbini Nepal travel"
+  },
+  {
+    "name": "Nagarkot",
+    "slug": "nagarkot",
+    "country": "Nepal",
+    "country_slug": "nepal",
+    "region": "Asia",
+    "lat": 27.7175,
+    "lng": 85.5194,
+    "population": 4571,
+    "safety_level": "safe",
+    "budget_per_day": "25-45",
+    "highlights": [
+      "himalaya views",
+      "sunrise",
+      "hiking"
+    ],
+    "best_time_to_visit": "Oct-May",
+    "airport_code": "KTM",
+    "image_search": "Nagarkot Nepal travel"
   },
   {
     "name": "Pokhara",

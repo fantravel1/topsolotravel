@@ -1,5 +1,25 @@
 [
   {
+    "name": "Arusha",
+    "slug": "arusha",
+    "country": "Tanzania",
+    "country_slug": "tanzania",
+    "region": "Africa",
+    "lat": -3.3869,
+    "lng": 36.683,
+    "population": 416442,
+    "safety_level": "caution",
+    "budget_per_day": "45-90",
+    "highlights": [
+      "safari gateway",
+      "kilimanjaro",
+      "coffee"
+    ],
+    "best_time_to_visit": "Jun-Oct",
+    "airport_code": "ARK",
+    "image_search": "Arusha Tanzania travel"
+  },
+  {
     "name": "Dar es Salaam",
     "slug": "dar-es-salaam",
     "country": "Tanzania",
@@ -18,6 +38,46 @@
     "best_time_to_visit": "Jun-Oct",
     "airport_code": "DAR",
     "image_search": "Dar es Salaam Tanzania travel"
+  },
+  {
+    "name": "Moshi",
+    "slug": "moshi",
+    "country": "Tanzania",
+    "country_slug": "tanzania",
+    "region": "Africa",
+    "lat": -3.335,
+    "lng": 37.3403,
+    "population": 144336,
+    "safety_level": "safe",
+    "budget_per_day": "40-80",
+    "highlights": [
+      "kilimanjaro",
+      "coffee",
+      "waterfalls"
+    ],
+    "best_time_to_visit": "Jun-Oct",
+    "airport_code": "JRO",
+    "image_search": "Moshi Tanzania travel"
+  },
+  {
+    "name": "Stone Town",
+    "slug": "stone-town",
+    "country": "Tanzania",
+    "country_slug": "tanzania",
+    "region": "Africa",
+    "lat": -6.1622,
+    "lng": 39.1921,
+    "population": 400000,
+    "safety_level": "caution",
+    "budget_per_day": "45-90",
+    "highlights": [
+      "unesco",
+      "spices",
+      "doors"
+    ],
+    "best_time_to_visit": "Jun-Oct",
+    "airport_code": "ZNZ",
+    "image_search": "Stone Town Tanzania travel"
   },
   {
     "name": "Zanzibar",

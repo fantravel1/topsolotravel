@@ -1,0 +1,20 @@
+{
+  "name": "Shirakawa-go",
+  "slug": "shirakawa-go",
+  "country": "Japan",
+  "country_slug": "japan",
+  "region": "Asia",
+  "lat": 36.2567,
+  "lng": 136.9056,
+  "population": 1864,
+  "safety_level": "safe",
+  "budget_per_day": "80-150",
+  "highlights": [
+    "gassho houses",
+    "unesco",
+    "snow"
+  ],
+  "best_time_to_visit": "Jan-Feb, May-Nov",
+  "airport_code": "KMQ",
+  "image_search": "Shirakawa-go Japan travel"
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Brno",
+  "slug": "brno",
+  "country": "Czech Republic",
+  "country_slug": "czech-republic",
+  "region": "Europe",
+  "lat": 49.1951,
+  "lng": 16.6068,
+  "population": 381346,
+  "safety_level": "safe",
+  "budget_per_day": "40-80",
+  "highlights": [
+    "nightlife",
+    "architecture",
+    "students"
+  ],
+  "best_time_to_visit": "May-Sep",
+  "airport_code": "BRQ",
+  "image_search": "Brno Czech Republic travel"
+}

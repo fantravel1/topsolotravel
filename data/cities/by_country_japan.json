@@ -20,6 +20,26 @@
     "image_search": "Fukuoka Japan travel"
   },
   {
+    "name": "Hakone",
+    "slug": "hakone",
+    "country": "Japan",
+    "country_slug": "japan",
+    "region": "Asia",
+    "lat": 35.2322,
+    "lng": 139.107,
+    "population": 11700,
+    "safety_level": "safe",
+    "budget_per_day": "80-150",
+    "highlights": [
+      "onsen",
+      "fuji views",
+      "museums"
+    ],
+    "best_time_to_visit": "Mar-May, Sep-Nov",
+    "airport_code": "HND",
+    "image_search": "Hakone Japan travel"
+  },
+  {
     "name": "Hiroshima",
     "slug": "hiroshima",
     "country": "Japan",
@@ -38,6 +58,26 @@
     "best_time_to_visit": "Mar-May, Oct-Nov",
     "airport_code": "HIJ",
     "image_search": "Hiroshima Japan travel"
+  },
+  {
+    "name": "Kamakura",
+    "slug": "kamakura",
+    "country": "Japan",
+    "country_slug": "japan",
+    "region": "Asia",
+    "lat": 35.3192,
+    "lng": 139.5467,
+    "population": 172000,
+    "safety_level": "safe",
+    "budget_per_day": "60-100",
+    "highlights": [
+      "big buddha",
+      "temples",
+      "beaches"
+    ],
+    "best_time_to_visit": "Mar-May, Sep-Nov",
+    "airport_code": "HND",
+    "image_search": "Kamakura Japan travel"
   },
   {
     "name": "Kanazawa",
@@ -120,6 +160,26 @@
     "image_search": "Nagoya Japan travel"
   },
   {
+    "name": "Naoshima",
+    "slug": "naoshima",
+    "country": "Japan",
+    "country_slug": "japan",
+    "region": "Asia",
+    "lat": 34.4597,
+    "lng": 133.995,
+    "population": 3100,
+    "safety_level": "safe",
+    "budget_per_day": "80-140",
+    "highlights": [
+      "art island",
+      "museums",
+      "pumpkin"
+    ],
+    "best_time_to_visit": "Mar-May, Sep-Nov",
+    "airport_code": "TAK",
+    "image_search": "Naoshima Japan travel"
+  },
+  {
     "name": "Nara",
     "slug": "nara",
     "country": "Japan",
@@ -138,6 +198,46 @@
     "best_time_to_visit": "Mar-May, Oct-Nov",
     "airport_code": "KIX",
     "image_search": "Nara Japan travel"
+  },
+  {
+    "name": "Nikko",
+    "slug": "nikko",
+    "country": "Japan",
+    "country_slug": "japan",
+    "region": "Asia",
+    "lat": 36.7197,
+    "lng": 139.6982,
+    "population": 82000,
+    "safety_level": "safe",
+    "budget_per_day": "70-130",
+    "highlights": [
+      "shrines",
+      "nature",
+      "waterfalls"
+    ],
+    "best_time_to_visit": "Apr-May, Oct-Nov",
+    "airport_code": "HND",
+    "image_search": "Nikko Japan travel"
+  },
+  {
+    "name": "Okinawa",
+    "slug": "okinawa",
+    "country": "Japan",
+    "country_slug": "japan",
+    "region": "Asia",
+    "lat": 26.2124,
+    "lng": 127.6809,
+    "population": 318828,
+    "safety_level": "safe",
+    "budget_per_day": "70-130",
+    "highlights": [
+      "beaches",
+      "diving",
+      "culture"
+    ],
+    "best_time_to_visit": "Apr-May, Oct-Nov",
+    "airport_code": "OKA",
+    "image_search": "Okinawa Japan travel"
   },
   {
     "name": "Osaka",
@@ -178,6 +278,46 @@
     "best_time_to_visit": "Jun-Aug, Dec-Feb",
     "airport_code": "CTS",
     "image_search": "Sapporo Japan travel"
+  },
+  {
+    "name": "Shirakawa-go",
+    "slug": "shirakawa-go",
+    "country": "Japan",
+    "country_slug": "japan",
+    "region": "Asia",
+    "lat": 36.2567,
+    "lng": 136.9056,
+    "population": 1864,
+    "safety_level": "safe",
+    "budget_per_day": "80-150",
+    "highlights": [
+      "gassho houses",
+      "unesco",
+      "snow"
+    ],
+    "best_time_to_visit": "Jan-Feb, May-Nov",
+    "airport_code": "KMQ",
+    "image_search": "Shirakawa-go Japan travel"
+  },
+  {
+    "name": "Takayama",
+    "slug": "takayama",
+    "country": "Japan",
+    "country_slug": "japan",
+    "region": "Asia",
+    "lat": 36.1408,
+    "lng": 137.2519,
+    "population": 85854,
+    "safety_level": "safe",
+    "budget_per_day": "70-130",
+    "highlights": [
+      "old town",
+      "sake",
+      "alps"
+    ],
+    "best_time_to_visit": "Apr-May, Sep-Nov",
+    "airport_code": "NGO",
+    "image_search": "Takayama Japan travel"
   },
   {
     "name": "Tokyo",

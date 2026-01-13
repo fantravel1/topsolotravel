@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Prizren",
+    "slug": "prizren",
+    "country": "Kosovo",
+    "country_slug": "kosovo",
+    "region": "Europe",
+    "lat": 42.2139,
+    "lng": 20.7397,
+    "population": 178000,
+    "safety_level": "caution",
+    "budget_per_day": "25-45",
+    "highlights": [
+      "old town",
+      "fortress",
+      "mosques"
+    ],
+    "best_time_to_visit": "May-Sep",
+    "airport_code": "PRN",
+    "image_search": "Prizren Kosovo travel"
+  }
+]

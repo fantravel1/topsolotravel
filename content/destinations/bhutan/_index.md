@@ -40,10 +40,18 @@ safety:
     - "Walking alone in unfamiliar areas late at night"
 
 topCities:
+  - name: "Paro"
+    url: "/destinations/bhutan/paro/"
+    description: "Popular destination for solo travelers with great infrastructure."
+    highlights: ["tigers nest", "dzong", "festivals"]
+  - name: "Punakha"
+    url: "/destinations/bhutan/punakha/"
+    description: "Popular destination for solo travelers with great infrastructure."
+    highlights: ["dzong", "rice fields", "rivers"]
   - name: "Thimphu"
-    url: "/destinations/bhutan/"
-    description: "The capital city offers diverse experiences for solo travelers."
-    highlights: ["culture", "food", "history"]
+    url: "/destinations/bhutan/thimphu/"
+    description: "Popular destination for solo travelers with great infrastructure."
+    highlights: ["capital", "dzong", "buddha point"]
 
 
 budget:

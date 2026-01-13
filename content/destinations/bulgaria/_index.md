@@ -40,10 +40,18 @@ safety:
     - "Walking alone in unfamiliar areas late at night"
 
 topCities:
+  - name: "Plovdiv"
+    url: "/destinations/bulgaria/plovdiv/"
+    description: "Popular destination for solo travelers with great infrastructure."
+    highlights: ["old town", "roman ruins", "art"]
   - name: "Sofia"
     url: "/destinations/bulgaria/sofia/"
     description: "Popular destination for solo travelers with great infrastructure."
     highlights: ["history", "mountains", "nightlife"]
+  - name: "Varna"
+    url: "/destinations/bulgaria/varna/"
+    description: "Popular destination for solo travelers with great infrastructure."
+    highlights: ["black sea", "beaches", "roman"]
 
 
 budget:

@@ -1,0 +1,20 @@
+{
+  "name": "Zhangjiajie",
+  "slug": "zhangjiajie",
+  "country": "China",
+  "country_slug": "china",
+  "region": "Asia",
+  "lat": 29.1168,
+  "lng": 110.4786,
+  "population": 1537024,
+  "safety_level": "safe",
+  "budget_per_day": "40-80",
+  "highlights": [
+    "avatar mountains",
+    "glass bridge",
+    "hiking"
+  ],
+  "best_time_to_visit": "Apr-Jun, Sep-Nov",
+  "airport_code": "DYG",
+  "image_search": "Zhangjiajie China travel"
+}

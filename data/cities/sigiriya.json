@@ -1,0 +1,20 @@
+{
+  "name": "Sigiriya",
+  "slug": "sigiriya",
+  "country": "Sri Lanka",
+  "country_slug": "sri-lanka",
+  "region": "Asia",
+  "lat": 7.957,
+  "lng": 80.7603,
+  "population": 5000,
+  "safety_level": "safe",
+  "budget_per_day": "30-55",
+  "highlights": [
+    "lion rock",
+    "frescoes",
+    "gardens"
+  ],
+  "best_time_to_visit": "Dec-Mar",
+  "airport_code": "CMB",
+  "image_search": "Sigiriya Sri Lanka travel"
+}

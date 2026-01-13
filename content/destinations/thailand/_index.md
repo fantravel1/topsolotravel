@@ -40,6 +40,10 @@ safety:
     - "Walking alone in unfamiliar areas late at night"
 
 topCities:
+  - name: "Ayutthaya"
+    url: "/destinations/thailand/ayutthaya/"
+    description: "Popular destination for solo travelers with great infrastructure."
+    highlights: ["ruins", "temples", "history"]
   - name: "Bangkok"
     url: "/destinations/thailand/bangkok/"
     description: "Popular destination for solo travelers with great infrastructure."
@@ -48,10 +52,10 @@ topCities:
     url: "/destinations/thailand/chiang-mai/"
     description: "Popular destination for solo travelers with great infrastructure."
     highlights: ["temples", "cooking classes", "digital nomads"]
-  - name: "Phuket"
-    url: "/destinations/thailand/phuket/"
+  - name: "Chiang Rai"
+    url: "/destinations/thailand/chiang-rai/"
     description: "Popular destination for solo travelers with great infrastructure."
-    highlights: ["beaches", "islands", "diving"]
+    highlights: ["white temple", "golden triangle", "tribes"]
 
 
 budget:

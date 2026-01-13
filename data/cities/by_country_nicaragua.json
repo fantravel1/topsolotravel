@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Granada",
+    "slug": "granada",
+    "country": "Nicaragua",
+    "country_slug": "nicaragua",
+    "region": "Americas",
+    "lat": 11.9344,
+    "lng": -85.956,
+    "population": 123697,
+    "safety_level": "caution",
+    "budget_per_day": "30-60",
+    "highlights": [
+      "colonial",
+      "lake",
+      "islets"
+    ],
+    "best_time_to_visit": "Nov-Apr",
+    "airport_code": "MGA",
+    "image_search": "Granada Nicaragua travel"
+  },
+  {
+    "name": "Leon",
+    "slug": "leon",
+    "country": "Nicaragua",
+    "country_slug": "nicaragua",
+    "region": "Americas",
+    "lat": 12.4379,
+    "lng": -86.878,
+    "population": 213489,
+    "safety_level": "caution",
+    "budget_per_day": "30-60",
+    "highlights": [
+      "cathedral",
+      "volcano boarding",
+      "colonial"
+    ],
+    "best_time_to_visit": "Nov-Apr",
+    "airport_code": "MGA",
+    "image_search": "Leon Nicaragua travel"
+  },
+  {
+    "name": "San Juan del Sur",
+    "slug": "san-juan-del-sur",
+    "country": "Nicaragua",
+    "country_slug": "nicaragua",
+    "region": "Americas",
+    "lat": 11.2522,
+    "lng": -85.8687,
+    "population": 18177,
+    "safety_level": "safe",
+    "budget_per_day": "35-70",
+    "highlights": [
+      "surfing",
+      "beaches",
+      "sunday funday"
+    ],
+    "best_time_to_visit": "Nov-Apr",
+    "airport_code": "MGA",
+    "image_search": "San Juan del Sur Nicaragua travel"
+  }
+]

@@ -1,0 +1,20 @@
+{
+  "name": "Dali",
+  "slug": "dali",
+  "country": "China",
+  "country_slug": "china",
+  "region": "Asia",
+  "lat": 25.6065,
+  "lng": 100.2673,
+  "population": 611281,
+  "safety_level": "safe",
+  "budget_per_day": "30-60",
+  "highlights": [
+    "old town",
+    "erhai lake",
+    "three pagodas"
+  ],
+  "best_time_to_visit": "Mar-May, Sep-Nov",
+  "airport_code": "DLU",
+  "image_search": "Dali China travel"
+}

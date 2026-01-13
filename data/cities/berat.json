@@ -1,0 +1,20 @@
+{
+  "name": "Berat",
+  "slug": "berat",
+  "country": "Albania",
+  "country_slug": "albania",
+  "region": "Europe",
+  "lat": 40.7058,
+  "lng": 19.9522,
+  "population": 36496,
+  "safety_level": "safe",
+  "budget_per_day": "25-45",
+  "highlights": [
+    "thousand windows",
+    "castle",
+    "unesco"
+  ],
+  "best_time_to_visit": "May-Oct",
+  "airport_code": "TIA",
+  "image_search": "Berat Albania travel"
+}

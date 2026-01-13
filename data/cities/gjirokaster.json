@@ -1,0 +1,20 @@
+{
+  "name": "Gjirokaster",
+  "slug": "gjirokaster",
+  "country": "Albania",
+  "country_slug": "albania",
+  "region": "Europe",
+  "lat": 40.0756,
+  "lng": 20.1389,
+  "population": 19836,
+  "safety_level": "safe",
+  "budget_per_day": "25-45",
+  "highlights": [
+    "stone town",
+    "castle",
+    "ottoman"
+  ],
+  "best_time_to_visit": "May-Oct",
+  "airport_code": "TIA",
+  "image_search": "Gjirokaster Albania travel"
+}

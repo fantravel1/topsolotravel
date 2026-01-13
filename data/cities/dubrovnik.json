@@ -8,13 +8,13 @@
   "lng": 18.0944,
   "population": 42615,
   "safety_level": "safe",
-  "budget_per_day": "70-130",
+  "budget_per_day": "80-150",
   "highlights": [
-    "old town",
-    "game of thrones",
-    "beaches"
+    "walls",
+    "beaches",
+    "game of thrones"
   ],
-  "best_time_to_visit": "May-Jun, Sep-Oct",
+  "best_time_to_visit": "May-Sep",
   "airport_code": "DBV",
   "image_search": "Dubrovnik Croatia travel"
 }

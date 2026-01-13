@@ -40,10 +40,18 @@ safety:
     - "Walking alone in unfamiliar areas late at night"
 
 topCities:
+  - name: "4000 Islands"
+    url: "/destinations/laos/4000-islands/"
+    description: "Popular destination for solo travelers with great infrastructure."
+    highlights: ["mekong", "dolphins", "waterfalls"]
   - name: "Luang Prabang"
     url: "/destinations/laos/luang-prabang/"
     description: "Popular destination for solo travelers with great infrastructure."
     highlights: ["temples", "monks", "waterfalls"]
+  - name: "Vang Vieng"
+    url: "/destinations/laos/vang-vieng/"
+    description: "Popular destination for solo travelers with great infrastructure."
+    highlights: ["tubing", "karst", "caves"]
   - name: "Vientiane"
     url: "/destinations/laos/vientiane/"
     description: "Popular destination for solo travelers with great infrastructure."

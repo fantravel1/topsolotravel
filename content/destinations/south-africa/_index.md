@@ -48,10 +48,14 @@ topCities:
     url: "/destinations/south-africa/durban/"
     description: "Popular destination for solo travelers with great infrastructure."
     highlights: ["beaches", "curry", "surfing"]
-  - name: "Johannesburg"
-    url: "/destinations/south-africa/johannesburg/"
+  - name: "Franschhoek"
+    url: "/destinations/south-africa/franschhoek/"
     description: "Popular destination for solo travelers with great infrastructure."
-    highlights: ["apartheid museum", "soweto", "food"]
+    highlights: ["wine", "food", "french heritage"]
+  - name: "Garden Route"
+    url: "/destinations/south-africa/garden-route/"
+    description: "Popular destination for solo travelers with great infrastructure."
+    highlights: ["scenic drive", "beaches", "forests"]
 
 
 budget:

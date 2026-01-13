@@ -1,5 +1,25 @@
 [
   {
+    "name": "4000 Islands",
+    "slug": "4000-islands",
+    "country": "Laos",
+    "country_slug": "laos",
+    "region": "Asia",
+    "lat": 13.9577,
+    "lng": 105.9447,
+    "population": 3000,
+    "safety_level": "safe",
+    "budget_per_day": "15-30",
+    "highlights": [
+      "mekong",
+      "dolphins",
+      "waterfalls"
+    ],
+    "best_time_to_visit": "Nov-Feb",
+    "airport_code": "PKZ",
+    "image_search": "4000 Islands Laos travel"
+  },
+  {
     "name": "Luang Prabang",
     "slug": "luang-prabang",
     "country": "Laos",
@@ -18,6 +38,26 @@
     "best_time_to_visit": "Nov-Feb",
     "airport_code": "LPQ",
     "image_search": "Luang Prabang Laos travel"
+  },
+  {
+    "name": "Vang Vieng",
+    "slug": "vang-vieng",
+    "country": "Laos",
+    "country_slug": "laos",
+    "region": "Asia",
+    "lat": 18.9335,
+    "lng": 102.4525,
+    "population": 25000,
+    "safety_level": "safe",
+    "budget_per_day": "20-40",
+    "highlights": [
+      "tubing",
+      "karst",
+      "caves"
+    ],
+    "best_time_to_visit": "Nov-Feb",
+    "airport_code": "VTE",
+    "image_search": "Vang Vieng Laos travel"
   },
   {
     "name": "Vientiane",

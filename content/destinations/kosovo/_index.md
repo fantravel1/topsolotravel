@@ -40,10 +40,10 @@ safety:
     - "Walking alone in unfamiliar areas late at night"
 
 topCities:
-  - name: "Pristina"
-    url: "/destinations/kosovo/"
-    description: "The capital city offers diverse experiences for solo travelers."
-    highlights: ["culture", "food", "history"]
+  - name: "Prizren"
+    url: "/destinations/kosovo/prizren/"
+    description: "Popular destination for solo travelers with great infrastructure."
+    highlights: ["old town", "fortress", "mosques"]
 
 
 budget:

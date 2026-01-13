@@ -40,6 +40,14 @@ safety:
     - "Walking alone in unfamiliar areas late at night"
 
 topCities:
+  - name: "Banaue"
+    url: "/destinations/philippines/banaue/"
+    description: "Popular destination for solo travelers with great infrastructure."
+    highlights: ["rice terraces", "hiking", "ifugao"]
+  - name: "Bohol"
+    url: "/destinations/philippines/bohol/"
+    description: "Popular destination for solo travelers with great infrastructure."
+    highlights: ["chocolate hills", "tarsiers", "beaches"]
   - name: "Boracay"
     url: "/destinations/philippines/boracay/"
     description: "Popular destination for solo travelers with great infrastructure."
@@ -48,14 +56,6 @@ topCities:
     url: "/destinations/philippines/cebu/"
     description: "Popular destination for solo travelers with great infrastructure."
     highlights: ["diving", "beaches", "lechon"]
-  - name: "Manila"
-    url: "/destinations/philippines/manila/"
-    description: "Popular destination for solo travelers with great infrastructure."
-    highlights: ["intramuros", "food", "nightlife"]
-  - name: "Palawan"
-    url: "/destinations/philippines/palawan/"
-    description: "Popular destination for solo travelers with great infrastructure."
-    highlights: ["el nido", "underground river", "beaches"]
 
 
 budget:

@@ -18,5 +18,65 @@
     "best_time_to_visit": "Nov-Apr",
     "airport_code": "GUA",
     "image_search": "Antigua Guatemala Guatemala travel"
+  },
+  {
+    "name": "Flores",
+    "slug": "flores",
+    "country": "Guatemala",
+    "country_slug": "guatemala",
+    "region": "Americas",
+    "lat": 16.9304,
+    "lng": -89.8922,
+    "population": 16300,
+    "safety_level": "caution",
+    "budget_per_day": "30-55",
+    "highlights": [
+      "tikal",
+      "island",
+      "lake"
+    ],
+    "best_time_to_visit": "Nov-Apr",
+    "airport_code": "FRS",
+    "image_search": "Flores Guatemala travel"
+  },
+  {
+    "name": "Lake Atitlan",
+    "slug": "lake-atitlan",
+    "country": "Guatemala",
+    "country_slug": "guatemala",
+    "region": "Americas",
+    "lat": 14.7,
+    "lng": -91.2,
+    "population": 50000,
+    "safety_level": "caution",
+    "budget_per_day": "25-55",
+    "highlights": [
+      "volcanoes",
+      "villages",
+      "yoga"
+    ],
+    "best_time_to_visit": "Nov-Apr",
+    "airport_code": "GUA",
+    "image_search": "Lake Atitlan Guatemala travel"
+  },
+  {
+    "name": "Semuc Champey",
+    "slug": "semuc-champey",
+    "country": "Guatemala",
+    "country_slug": "guatemala",
+    "region": "Americas",
+    "lat": 15.5333,
+    "lng": -90.0333,
+    "population": 500,
+    "safety_level": "safe",
+    "budget_per_day": "25-50",
+    "highlights": [
+      "pools",
+      "caves",
+      "adventure"
+    ],
+    "best_time_to_visit": "Nov-Apr",
+    "airport_code": "GUA",
+    "image_search": "Semuc Champey Guatemala travel"
   }
 ]

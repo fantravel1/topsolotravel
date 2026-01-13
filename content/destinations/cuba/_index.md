@@ -40,10 +40,22 @@ safety:
     - "Walking alone in unfamiliar areas late at night"
 
 topCities:
+  - name: "Cienfuegos"
+    url: "/destinations/cuba/cienfuegos/"
+    description: "Popular destination for solo travelers with great infrastructure."
+    highlights: ["french influence", "bay", "architecture"]
   - name: "Havana"
-    url: "/destinations/cuba/"
-    description: "The capital city offers diverse experiences for solo travelers."
-    highlights: ["culture", "food", "history"]
+    url: "/destinations/cuba/havana/"
+    description: "Popular destination for solo travelers with great infrastructure."
+    highlights: ["old town", "vintage cars", "music"]
+  - name: "Trinidad"
+    url: "/destinations/cuba/trinidad/"
+    description: "Popular destination for solo travelers with great infrastructure."
+    highlights: ["colonial", "cobblestones", "music"]
+  - name: "Vinales"
+    url: "/destinations/cuba/vinales/"
+    description: "Popular destination for solo travelers with great infrastructure."
+    highlights: ["tobacco", "mogotes", "horseback"]
 
 
 budget:

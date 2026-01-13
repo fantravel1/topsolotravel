@@ -1,5 +1,65 @@
 [
   {
+    "name": "Etosha",
+    "slug": "etosha",
+    "country": "Namibia",
+    "country_slug": "namibia",
+    "region": "Africa",
+    "lat": -18.8556,
+    "lng": 16.3278,
+    "population": 0,
+    "safety_level": "safe",
+    "budget_per_day": "80-160",
+    "highlights": [
+      "wildlife",
+      "salt pan",
+      "waterholes"
+    ],
+    "best_time_to_visit": "May-Oct",
+    "airport_code": "WDH",
+    "image_search": "Etosha Namibia travel"
+  },
+  {
+    "name": "Fish River Canyon",
+    "slug": "fish-river-canyon",
+    "country": "Namibia",
+    "country_slug": "namibia",
+    "region": "Africa",
+    "lat": -27.55,
+    "lng": 17.5833,
+    "population": 0,
+    "safety_level": "safe",
+    "budget_per_day": "60-120",
+    "highlights": [
+      "hiking",
+      "canyon",
+      "wilderness"
+    ],
+    "best_time_to_visit": "May-Sep",
+    "airport_code": "WDH",
+    "image_search": "Fish River Canyon Namibia travel"
+  },
+  {
+    "name": "Sossusvlei",
+    "slug": "sossusvlei",
+    "country": "Namibia",
+    "country_slug": "namibia",
+    "region": "Africa",
+    "lat": -24.75,
+    "lng": 15.2167,
+    "population": 500,
+    "safety_level": "safe",
+    "budget_per_day": "80-160",
+    "highlights": [
+      "dunes",
+      "dead vlei",
+      "desert"
+    ],
+    "best_time_to_visit": "May-Oct",
+    "airport_code": "WDH",
+    "image_search": "Sossusvlei Namibia travel"
+  },
+  {
     "name": "Swakopmund",
     "slug": "swakopmund",
     "country": "Namibia",

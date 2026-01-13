@@ -40,6 +40,14 @@ safety:
     - "Walking alone in unfamiliar areas late at night"
 
 topCities:
+  - name: "Brno"
+    url: "/destinations/czech-republic/brno/"
+    description: "Popular destination for solo travelers with great infrastructure."
+    highlights: ["nightlife", "architecture", "students"]
+  - name: "Cesky Krumlov"
+    url: "/destinations/czech-republic/cesky-krumlov/"
+    description: "Popular destination for solo travelers with great infrastructure."
+    highlights: ["castle", "medieval", "rafting"]
   - name: "Prague"
     url: "/destinations/czech-republic/prague/"
     description: "Popular destination for solo travelers with great infrastructure."

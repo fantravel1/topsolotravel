@@ -1,0 +1,20 @@
+{
+  "name": "Palma de Mallorca",
+  "slug": "palma-de-mallorca",
+  "country": "Spain",
+  "country_slug": "spain",
+  "region": "Europe",
+  "lat": 39.5696,
+  "lng": 2.6502,
+  "population": 416065,
+  "safety_level": "safe",
+  "budget_per_day": "70-130",
+  "highlights": [
+    "beaches",
+    "cathedral",
+    "old town"
+  ],
+  "best_time_to_visit": "May-Oct",
+  "airport_code": "PMI",
+  "image_search": "Palma de Mallorca Spain travel"
+}

@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Ohrid",
+    "slug": "ohrid",
+    "country": "North Macedonia",
+    "country_slug": "north-macedonia",
+    "region": "Europe",
+    "lat": 41.1231,
+    "lng": 20.8016,
+    "population": 42033,
+    "safety_level": "safe",
+    "budget_per_day": "30-50",
+    "highlights": [
+      "lake",
+      "churches",
+      "unesco"
+    ],
+    "best_time_to_visit": "May-Sep",
+    "airport_code": "OHD",
+    "image_search": "Ohrid North Macedonia travel"
+  },
+  {
+    "name": "Skopje",
+    "slug": "skopje",
+    "country": "North Macedonia",
+    "country_slug": "north-macedonia",
+    "region": "Europe",
+    "lat": 42.0,
+    "lng": 21.4333,
+    "population": 544086,
+    "safety_level": "safe",
+    "budget_per_day": "30-55",
+    "highlights": [
+      "statues",
+      "bazaar",
+      "canyon"
+    ],
+    "best_time_to_visit": "May-Sep",
+    "airport_code": "SKP",
+    "image_search": "Skopje North Macedonia travel"
+  }
+]

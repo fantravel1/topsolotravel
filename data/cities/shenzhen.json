@@ -1,0 +1,20 @@
+{
+  "name": "Shenzhen",
+  "slug": "shenzhen",
+  "country": "China",
+  "country_slug": "china",
+  "region": "Asia",
+  "lat": 22.5431,
+  "lng": 114.0579,
+  "population": 12528300,
+  "safety_level": "safe",
+  "budget_per_day": "50-100",
+  "highlights": [
+    "tech",
+    "theme parks",
+    "modern"
+  ],
+  "best_time_to_visit": "Oct-Dec",
+  "airport_code": "SZX",
+  "image_search": "Shenzhen China travel"
+}

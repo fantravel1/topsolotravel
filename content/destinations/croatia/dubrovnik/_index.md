@@ -12,15 +12,15 @@ quickFacts:
   country: "Croatia"
   population: "43K"
   timezone: "UTC+1"
-  bestTime: "May-Jun, Sep-Oct"
-  budget: "$70-130/day"
+  bestTime: "May-Sep"
+  budget: "$80-150/day"
   safety: "Very Safe"
   airport: "DBV"
 
 highlights:
-  - "old town"
-  - "game of thrones"
+  - "walls"
   - "beaches"
+  - "game of thrones"
 
 neighborhoods:
   - name: "City Center"
@@ -34,12 +34,12 @@ accommodation:
   - name: "Central Hostel"
     type: "Hostel"
     description: "Social atmosphere perfect for meeting other travelers."
-    priceFrom: "$21"
+    priceFrom: "$24"
     soloFriendly: true
   - name: "Boutique Hotel"
     type: "Hotel"
     description: "Comfortable private rooms in central location."
-    priceFrom: "$42"
+    priceFrom: "$48"
     noSingleSupplement: true
 
 dining:

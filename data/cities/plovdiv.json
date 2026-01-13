@@ -1,0 +1,20 @@
+{
+  "name": "Plovdiv",
+  "slug": "plovdiv",
+  "country": "Bulgaria",
+  "country_slug": "bulgaria",
+  "region": "Europe",
+  "lat": 42.15,
+  "lng": 24.75,
+  "population": 346893,
+  "safety_level": "safe",
+  "budget_per_day": "30-60",
+  "highlights": [
+    "old town",
+    "roman ruins",
+    "art"
+  ],
+  "best_time_to_visit": "May-Sep",
+  "airport_code": "PDV",
+  "image_search": "Plovdiv Bulgaria travel"
+}

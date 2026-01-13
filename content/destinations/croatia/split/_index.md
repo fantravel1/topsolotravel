@@ -20,7 +20,7 @@ quickFacts:
 highlights:
   - "palace"
   - "islands"
-  - "beaches"
+  - "riviera"
 
 neighborhoods:
   - name: "City Center"

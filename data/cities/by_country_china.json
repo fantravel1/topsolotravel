@@ -40,6 +40,46 @@
     "image_search": "Chengdu China travel"
   },
   {
+    "name": "Dali",
+    "slug": "dali",
+    "country": "China",
+    "country_slug": "china",
+    "region": "Asia",
+    "lat": 25.6065,
+    "lng": 100.2673,
+    "population": 611281,
+    "safety_level": "safe",
+    "budget_per_day": "30-60",
+    "highlights": [
+      "old town",
+      "erhai lake",
+      "three pagodas"
+    ],
+    "best_time_to_visit": "Mar-May, Sep-Nov",
+    "airport_code": "DLU",
+    "image_search": "Dali China travel"
+  },
+  {
+    "name": "Guangzhou",
+    "slug": "guangzhou",
+    "country": "China",
+    "country_slug": "china",
+    "region": "Asia",
+    "lat": 23.1291,
+    "lng": 113.2644,
+    "population": 14904400,
+    "safety_level": "safe",
+    "budget_per_day": "45-90",
+    "highlights": [
+      "dim sum",
+      "canton tower",
+      "markets"
+    ],
+    "best_time_to_visit": "Oct-Dec",
+    "airport_code": "CAN",
+    "image_search": "Guangzhou China travel"
+  },
+  {
     "name": "Guilin",
     "slug": "guilin",
     "country": "China",
@@ -80,6 +120,66 @@
     "image_search": "Hangzhou China travel"
   },
   {
+    "name": "Huangshan",
+    "slug": "huangshan",
+    "country": "China",
+    "country_slug": "china",
+    "region": "Asia",
+    "lat": 30.1333,
+    "lng": 118.1667,
+    "population": 148000,
+    "safety_level": "safe",
+    "budget_per_day": "50-90",
+    "highlights": [
+      "yellow mountain",
+      "sunrise",
+      "sea of clouds"
+    ],
+    "best_time_to_visit": "Apr-Nov",
+    "airport_code": "TXN",
+    "image_search": "Huangshan China travel"
+  },
+  {
+    "name": "Lijiang",
+    "slug": "lijiang",
+    "country": "China",
+    "country_slug": "china",
+    "region": "Asia",
+    "lat": 26.8721,
+    "lng": 100.2299,
+    "population": 1244769,
+    "safety_level": "safe",
+    "budget_per_day": "35-70",
+    "highlights": [
+      "old town",
+      "naxi culture",
+      "tiger leaping"
+    ],
+    "best_time_to_visit": "Mar-May, Sep-Nov",
+    "airport_code": "LJG",
+    "image_search": "Lijiang China travel"
+  },
+  {
+    "name": "Nanjing",
+    "slug": "nanjing",
+    "country": "China",
+    "country_slug": "china",
+    "region": "Asia",
+    "lat": 32.0603,
+    "lng": 118.7969,
+    "population": 8505500,
+    "safety_level": "safe",
+    "budget_per_day": "40-80",
+    "highlights": [
+      "history",
+      "walls",
+      "memorial"
+    ],
+    "best_time_to_visit": "Mar-May, Sep-Nov",
+    "airport_code": "NKG",
+    "image_search": "Nanjing China travel"
+  },
+  {
     "name": "Shanghai",
     "slug": "shanghai",
     "country": "China",
@@ -100,6 +200,66 @@
     "image_search": "Shanghai China travel"
   },
   {
+    "name": "Shenzhen",
+    "slug": "shenzhen",
+    "country": "China",
+    "country_slug": "china",
+    "region": "Asia",
+    "lat": 22.5431,
+    "lng": 114.0579,
+    "population": 12528300,
+    "safety_level": "safe",
+    "budget_per_day": "50-100",
+    "highlights": [
+      "tech",
+      "theme parks",
+      "modern"
+    ],
+    "best_time_to_visit": "Oct-Dec",
+    "airport_code": "SZX",
+    "image_search": "Shenzhen China travel"
+  },
+  {
+    "name": "Suzhou",
+    "slug": "suzhou",
+    "country": "China",
+    "country_slug": "china",
+    "region": "Asia",
+    "lat": 31.2989,
+    "lng": 120.5853,
+    "population": 10721700,
+    "safety_level": "safe",
+    "budget_per_day": "45-85",
+    "highlights": [
+      "gardens",
+      "canals",
+      "silk"
+    ],
+    "best_time_to_visit": "Apr-May, Sep-Oct",
+    "airport_code": "WUX",
+    "image_search": "Suzhou China travel"
+  },
+  {
+    "name": "Wuhan",
+    "slug": "wuhan",
+    "country": "China",
+    "country_slug": "china",
+    "region": "Asia",
+    "lat": 30.5928,
+    "lng": 114.3055,
+    "population": 11212000,
+    "safety_level": "safe",
+    "budget_per_day": "35-70",
+    "highlights": [
+      "cherry blossoms",
+      "hot dry noodles",
+      "lakes"
+    ],
+    "best_time_to_visit": "Mar-May, Sep-Nov",
+    "airport_code": "WUH",
+    "image_search": "Wuhan China travel"
+  },
+  {
     "name": "Xian",
     "slug": "xian",
     "country": "China",
@@ -118,5 +278,45 @@
     "best_time_to_visit": "Apr-May, Sep-Oct",
     "airport_code": "XIY",
     "image_search": "Xian China travel"
+  },
+  {
+    "name": "Yangshuo",
+    "slug": "yangshuo",
+    "country": "China",
+    "country_slug": "china",
+    "region": "Asia",
+    "lat": 24.7825,
+    "lng": 110.4967,
+    "population": 309200,
+    "safety_level": "safe",
+    "budget_per_day": "30-60",
+    "highlights": [
+      "karst",
+      "cycling",
+      "li river"
+    ],
+    "best_time_to_visit": "Apr-Oct",
+    "airport_code": "KWL",
+    "image_search": "Yangshuo China travel"
+  },
+  {
+    "name": "Zhangjiajie",
+    "slug": "zhangjiajie",
+    "country": "China",
+    "country_slug": "china",
+    "region": "Asia",
+    "lat": 29.1168,
+    "lng": 110.4786,
+    "population": 1537024,
+    "safety_level": "safe",
+    "budget_per_day": "40-80",
+    "highlights": [
+      "avatar mountains",
+      "glass bridge",
+      "hiking"
+    ],
+    "best_time_to_visit": "Apr-Jun, Sep-Nov",
+    "airport_code": "DYG",
+    "image_search": "Zhangjiajie China travel"
   }
 ]

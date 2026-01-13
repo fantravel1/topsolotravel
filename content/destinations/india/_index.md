@@ -44,18 +44,18 @@ topCities:
     url: "/destinations/india/agra/"
     description: "Popular destination for solo travelers with great infrastructure."
     highlights: ["taj mahal", "fort", "food"]
+  - name: "Alleppey"
+    url: "/destinations/india/alleppey/"
+    description: "Popular destination for solo travelers with great infrastructure."
+    highlights: ["houseboats", "backwaters", "canals"]
   - name: "Amritsar"
     url: "/destinations/india/amritsar/"
     description: "Popular destination for solo travelers with great infrastructure."
     highlights: ["golden temple", "wagah border", "food"]
-  - name: "Delhi"
-    url: "/destinations/india/delhi/"
+  - name: "Darjeeling"
+    url: "/destinations/india/darjeeling/"
     description: "Popular destination for solo travelers with great infrastructure."
-    highlights: ["monuments", "food", "history"]
-  - name: "Goa"
-    url: "/destinations/india/goa/"
-    description: "Popular destination for solo travelers with great infrastructure."
-    highlights: ["beaches", "parties", "portuguese heritage"]
+    highlights: ["tea", "toy train", "kangchenjunga"]
 
 
 budget:

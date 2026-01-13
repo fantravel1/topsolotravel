@@ -1,0 +1,20 @@
+{
+  "name": "Sibiu",
+  "slug": "sibiu",
+  "country": "Romania",
+  "country_slug": "romania",
+  "region": "Europe",
+  "lat": 45.7983,
+  "lng": 24.1256,
+  "population": 147245,
+  "safety_level": "safe",
+  "budget_per_day": "35-65",
+  "highlights": [
+    "old town",
+    "transylvania",
+    "eyes"
+  ],
+  "best_time_to_visit": "May-Sep",
+  "airport_code": "SBZ",
+  "image_search": "Sibiu Romania travel"
+}

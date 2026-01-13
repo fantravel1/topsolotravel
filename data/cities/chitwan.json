@@ -1,0 +1,20 @@
+{
+  "name": "Chitwan",
+  "slug": "chitwan",
+  "country": "Nepal",
+  "country_slug": "nepal",
+  "region": "Asia",
+  "lat": 27.5291,
+  "lng": 84.3542,
+  "population": 579984,
+  "safety_level": "safe",
+  "budget_per_day": "25-50",
+  "highlights": [
+    "safari",
+    "rhinos",
+    "jungle"
+  ],
+  "best_time_to_visit": "Oct-Mar",
+  "airport_code": "BWA",
+  "image_search": "Chitwan Nepal travel"
+}

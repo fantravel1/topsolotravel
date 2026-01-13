@@ -1,0 +1,20 @@
+{
+  "name": "Roatan",
+  "slug": "roatan",
+  "country": "Honduras",
+  "country_slug": "honduras",
+  "region": "Americas",
+  "lat": 16.3167,
+  "lng": -86.5167,
+  "population": 45000,
+  "safety_level": "caution",
+  "budget_per_day": "60-120",
+  "highlights": [
+    "diving",
+    "beaches",
+    "reef"
+  ],
+  "best_time_to_visit": "Feb-Aug",
+  "airport_code": "RTB",
+  "image_search": "Roatan Honduras travel"
+}

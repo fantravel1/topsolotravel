@@ -40,10 +40,14 @@ safety:
     - "Walking alone in unfamiliar areas late at night"
 
 topCities:
-  - name: "Tegucigalpa"
-    url: "/destinations/honduras/"
-    description: "The capital city offers diverse experiences for solo travelers."
-    highlights: ["culture", "food", "history"]
+  - name: "Copan"
+    url: "/destinations/honduras/copan/"
+    description: "Popular destination for solo travelers with great infrastructure."
+    highlights: ["mayan ruins", "macaws", "history"]
+  - name: "Roatan"
+    url: "/destinations/honduras/roatan/"
+    description: "Popular destination for solo travelers with great infrastructure."
+    highlights: ["diving", "beaches", "reef"]
 
 
 budget:

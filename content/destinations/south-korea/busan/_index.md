@@ -19,8 +19,8 @@ quickFacts:
 
 highlights:
   - "beaches"
-  - "seafood"
   - "temples"
+  - "food"
 
 neighborhoods:
   - name: "City Center"

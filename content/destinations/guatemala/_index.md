@@ -44,6 +44,18 @@ topCities:
     url: "/destinations/guatemala/antigua-guatemala/"
     description: "Popular destination for solo travelers with great infrastructure."
     highlights: ["colonial", "volcanoes", "spanish schools"]
+  - name: "Flores"
+    url: "/destinations/guatemala/flores/"
+    description: "Popular destination for solo travelers with great infrastructure."
+    highlights: ["tikal", "island", "lake"]
+  - name: "Lake Atitlan"
+    url: "/destinations/guatemala/lake-atitlan/"
+    description: "Popular destination for solo travelers with great infrastructure."
+    highlights: ["volcanoes", "villages", "yoga"]
+  - name: "Semuc Champey"
+    url: "/destinations/guatemala/semuc-champey/"
+    description: "Popular destination for solo travelers with great infrastructure."
+    highlights: ["pools", "caves", "adventure"]
 
 
 budget:

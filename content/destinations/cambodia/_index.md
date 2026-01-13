@@ -40,14 +40,22 @@ safety:
     - "Walking alone in unfamiliar areas late at night"
 
 topCities:
+  - name: "Battambang"
+    url: "/destinations/cambodia/battambang/"
+    description: "Popular destination for solo travelers with great infrastructure."
+    highlights: ["bamboo train", "colonial", "circus"]
+  - name: "Kampot"
+    url: "/destinations/cambodia/kampot/"
+    description: "Popular destination for solo travelers with great infrastructure."
+    highlights: ["pepper", "riverside", "bokor"]
+  - name: "Koh Rong"
+    url: "/destinations/cambodia/koh-rong/"
+    description: "Popular destination for solo travelers with great infrastructure."
+    highlights: ["beaches", "party", "bioluminescence"]
   - name: "Phnom Penh"
     url: "/destinations/cambodia/phnom-penh/"
     description: "Popular destination for solo travelers with great infrastructure."
     highlights: ["palace", "history", "riverside"]
-  - name: "Siem Reap"
-    url: "/destinations/cambodia/siem-reap/"
-    description: "Popular destination for solo travelers with great infrastructure."
-    highlights: ["angkor wat", "temples", "nightlife"]
 
 
 budget:

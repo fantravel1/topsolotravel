@@ -1,0 +1,20 @@
+{
+  "name": "Novi Sad",
+  "slug": "novi-sad",
+  "country": "Serbia",
+  "country_slug": "serbia",
+  "region": "Europe",
+  "lat": 45.2671,
+  "lng": 19.8335,
+  "population": 277522,
+  "safety_level": "safe",
+  "budget_per_day": "30-55",
+  "highlights": [
+    "exit festival",
+    "fortress",
+    "cafes"
+  ],
+  "best_time_to_visit": "May-Sep",
+  "airport_code": "BEG",
+  "image_search": "Novi Sad Serbia travel"
+}

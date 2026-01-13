@@ -1,0 +1,20 @@
+{
+  "name": "Flores",
+  "slug": "flores",
+  "country": "Guatemala",
+  "country_slug": "guatemala",
+  "region": "Americas",
+  "lat": 16.9304,
+  "lng": -89.8922,
+  "population": 16300,
+  "safety_level": "caution",
+  "budget_per_day": "30-55",
+  "highlights": [
+    "tikal",
+    "island",
+    "lake"
+  ],
+  "best_time_to_visit": "Nov-Apr",
+  "airport_code": "FRS",
+  "image_search": "Flores Guatemala travel"
+}

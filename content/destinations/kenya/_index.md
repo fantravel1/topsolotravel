@@ -40,6 +40,18 @@ safety:
     - "Walking alone in unfamiliar areas late at night"
 
 topCities:
+  - name: "Diani Beach"
+    url: "/destinations/kenya/diani-beach/"
+    description: "Popular destination for solo travelers with great infrastructure."
+    highlights: ["beaches", "diving", "kitesurfing"]
+  - name: "Lamu"
+    url: "/destinations/kenya/lamu/"
+    description: "Popular destination for solo travelers with great infrastructure."
+    highlights: ["swahili", "donkeys", "dhows"]
+  - name: "Mombasa"
+    url: "/destinations/kenya/mombasa/"
+    description: "Popular destination for solo travelers with great infrastructure."
+    highlights: ["beaches", "old town", "fort jesus"]
   - name: "Nairobi"
     url: "/destinations/kenya/nairobi/"
     description: "Popular destination for solo travelers with great infrastructure."

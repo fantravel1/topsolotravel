@@ -40,22 +40,22 @@ safety:
     - "Walking alone in unfamiliar areas late at night"
 
 topCities:
+  - name: "Alishan"
+    url: "/destinations/taiwan/alishan/"
+    description: "Popular destination for solo travelers with great infrastructure."
+    highlights: ["sunrise", "trains", "forests"]
   - name: "Hualien"
     url: "/destinations/taiwan/hualien/"
     description: "Popular destination for solo travelers with great infrastructure."
     highlights: ["taroko gorge", "nature", "coast"]
+  - name: "Jiufen"
+    url: "/destinations/taiwan/jiufen/"
+    description: "Popular destination for solo travelers with great infrastructure."
+    highlights: ["spirited away", "tea houses", "views"]
   - name: "Kaohsiung"
     url: "/destinations/taiwan/kaohsiung/"
     description: "Popular destination for solo travelers with great infrastructure."
     highlights: ["pier-2", "lotus pond", "seafood"]
-  - name: "Taichung"
-    url: "/destinations/taiwan/taichung/"
-    description: "Popular destination for solo travelers with great infrastructure."
-    highlights: ["rainbow village", "night markets", "art"]
-  - name: "Tainan"
-    url: "/destinations/taiwan/tainan/"
-    description: "Popular destination for solo travelers with great infrastructure."
-    highlights: ["temples", "food", "history"]
 
 
 budget:

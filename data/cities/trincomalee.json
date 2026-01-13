@@ -1,0 +1,20 @@
+{
+  "name": "Trincomalee",
+  "slug": "trincomalee",
+  "country": "Sri Lanka",
+  "country_slug": "sri-lanka",
+  "region": "Asia",
+  "lat": 8.5778,
+  "lng": 81.2333,
+  "population": 99135,
+  "safety_level": "safe",
+  "budget_per_day": "25-50",
+  "highlights": [
+    "beaches",
+    "diving",
+    "temples"
+  ],
+  "best_time_to_visit": "Apr-Sep",
+  "airport_code": "CMB",
+  "image_search": "Trincomalee Sri Lanka travel"
+}

@@ -1,20 +1,20 @@
 {
   "name": "Granada",
   "slug": "granada",
-  "country": "Spain",
-  "country_slug": "spain",
-  "region": "Europe",
-  "lat": 37.1773,
-  "lng": -3.5986,
-  "population": 232770,
-  "safety_level": "safe",
-  "budget_per_day": "45-90",
+  "country": "Nicaragua",
+  "country_slug": "nicaragua",
+  "region": "Americas",
+  "lat": 11.9344,
+  "lng": -85.956,
+  "population": 123697,
+  "safety_level": "caution",
+  "budget_per_day": "30-60",
   "highlights": [
-    "alhambra",
-    "tapas",
-    "flamenco"
+    "colonial",
+    "lake",
+    "islets"
   ],
-  "best_time_to_visit": "Apr-Jun, Sep-Oct",
-  "airport_code": "GRX",
-  "image_search": "Granada Spain travel"
+  "best_time_to_visit": "Nov-Apr",
+  "airport_code": "MGA",
+  "image_search": "Granada Nicaragua travel"
 }

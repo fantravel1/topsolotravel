@@ -40,10 +40,18 @@ safety:
     - "Walking alone in unfamiliar areas late at night"
 
 topCities:
-  - name: "Managua"
-    url: "/destinations/nicaragua/"
-    description: "The capital city offers diverse experiences for solo travelers."
-    highlights: ["culture", "food", "history"]
+  - name: "Granada"
+    url: "/destinations/nicaragua/granada/"
+    description: "Popular destination for solo travelers with great infrastructure."
+    highlights: ["colonial", "lake", "islets"]
+  - name: "Leon"
+    url: "/destinations/nicaragua/leon/"
+    description: "Popular destination for solo travelers with great infrastructure."
+    highlights: ["cathedral", "volcano boarding", "colonial"]
+  - name: "San Juan del Sur"
+    url: "/destinations/nicaragua/san-juan-del-sur/"
+    description: "Popular destination for solo travelers with great infrastructure."
+    highlights: ["surfing", "beaches", "sunday funday"]
 
 
 budget:

@@ -1,0 +1,20 @@
+{
+  "name": "Stellenbosch",
+  "slug": "stellenbosch",
+  "country": "South Africa",
+  "country_slug": "south-africa",
+  "region": "Africa",
+  "lat": -33.9346,
+  "lng": 18.8667,
+  "population": 155733,
+  "safety_level": "safe",
+  "budget_per_day": "55-110",
+  "highlights": [
+    "wine",
+    "oak trees",
+    "university"
+  ],
+  "best_time_to_visit": "Sep-May",
+  "airport_code": "CPT",
+  "image_search": "Stellenbosch South Africa travel"
+}

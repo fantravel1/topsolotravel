@@ -41,9 +41,9 @@ safety:
 
 topCities:
   - name: "San Juan"
-    url: "/destinations/puerto-rico/"
-    description: "The capital city offers diverse experiences for solo travelers."
-    highlights: ["culture", "food", "history"]
+    url: "/destinations/puerto-rico/san-juan/"
+    description: "Popular destination for solo travelers with great infrastructure."
+    highlights: ["old san juan", "beaches", "nightlife"]
 
 
 budget:

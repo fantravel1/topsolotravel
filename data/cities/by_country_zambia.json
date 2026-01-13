@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Livingstone",
+    "slug": "livingstone",
+    "country": "Zambia",
+    "country_slug": "zambia",
+    "region": "Africa",
+    "lat": -17.8419,
+    "lng": 25.86,
+    "population": 109203,
+    "safety_level": "safe",
+    "budget_per_day": "60-120",
+    "highlights": [
+      "victoria falls",
+      "rafting",
+      "bungee"
+    ],
+    "best_time_to_visit": "May-Oct",
+    "airport_code": "LVI",
+    "image_search": "Livingstone Zambia travel"
+  }
+]

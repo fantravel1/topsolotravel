@@ -40,6 +40,14 @@ safety:
     - "Walking alone in unfamiliar areas late at night"
 
 topCities:
+  - name: "Cameron Highlands"
+    url: "/destinations/malaysia/cameron-highlands/"
+    description: "Popular destination for solo travelers with great infrastructure."
+    highlights: ["tea", "strawberries", "cool weather"]
+  - name: "Ipoh"
+    url: "/destinations/malaysia/ipoh/"
+    description: "Popular destination for solo travelers with great infrastructure."
+    highlights: ["food", "street art", "caves"]
   - name: "Kota Kinabalu"
     url: "/destinations/malaysia/kota-kinabalu/"
     description: "Popular destination for solo travelers with great infrastructure."
@@ -48,14 +56,6 @@ topCities:
     url: "/destinations/malaysia/kuala-lumpur/"
     description: "Popular destination for solo travelers with great infrastructure."
     highlights: ["towers", "food", "shopping"]
-  - name: "Langkawi"
-    url: "/destinations/malaysia/langkawi/"
-    description: "Popular destination for solo travelers with great infrastructure."
-    highlights: ["beaches", "duty free", "cable car"]
-  - name: "Melaka"
-    url: "/destinations/malaysia/melaka/"
-    description: "Popular destination for solo travelers with great infrastructure."
-    highlights: ["history", "jonker street", "food"]
 
 
 budget:

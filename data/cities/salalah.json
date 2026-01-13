@@ -1,0 +1,20 @@
+{
+  "name": "Salalah",
+  "slug": "salalah",
+  "country": "Oman",
+  "country_slug": "oman",
+  "region": "Asia",
+  "lat": 17.0151,
+  "lng": 54.0924,
+  "population": 293642,
+  "safety_level": "safe",
+  "budget_per_day": "60-110",
+  "highlights": [
+    "monsoon",
+    "frankincense",
+    "beaches"
+  ],
+  "best_time_to_visit": "Jun-Sep (khareef), Oct-Mar",
+  "airport_code": "SLL",
+  "image_search": "Salalah Oman travel"
+}

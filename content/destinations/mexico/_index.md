@@ -40,6 +40,10 @@ safety:
     - "Walking alone in unfamiliar areas late at night"
 
 topCities:
+  - name: "Bacalar"
+    url: "/destinations/mexico/bacalar/"
+    description: "Popular destination for solo travelers with great infrastructure."
+    highlights: ["lagoon", "cenotes", "colors"]
   - name: "Cancun"
     url: "/destinations/mexico/cancun/"
     description: "Popular destination for solo travelers with great infrastructure."
@@ -52,10 +56,6 @@ topCities:
     url: "/destinations/mexico/guanajuato/"
     description: "Popular destination for solo travelers with great infrastructure."
     highlights: ["colorful", "tunnels", "mummies"]
-  - name: "Merida"
-    url: "/destinations/mexico/merida/"
-    description: "Popular destination for solo travelers with great infrastructure."
-    highlights: ["yucatan food", "cenotes", "colonial"]
 
 
 budget:

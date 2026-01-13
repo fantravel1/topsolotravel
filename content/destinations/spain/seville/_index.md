@@ -13,7 +13,7 @@ quickFacts:
   population: "689K"
   timezone: "UTC0"
   bestTime: "Mar-May, Sep-Nov"
-  budget: "$50-90/day"
+  budget: "$55-100/day"
   safety: "Very Safe"
   airport: "SVQ"
 
@@ -34,12 +34,12 @@ accommodation:
   - name: "Central Hostel"
     type: "Hostel"
     description: "Social atmosphere perfect for meeting other travelers."
-    priceFrom: "$15"
+    priceFrom: "$16"
     soloFriendly: true
   - name: "Boutique Hotel"
     type: "Hotel"
     description: "Comfortable private rooms in central location."
-    priceFrom: "$30"
+    priceFrom: "$33"
     noSingleSupplement: true
 
 dining:

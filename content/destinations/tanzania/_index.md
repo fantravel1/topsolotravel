@@ -40,14 +40,22 @@ safety:
     - "Walking alone in unfamiliar areas late at night"
 
 topCities:
+  - name: "Arusha"
+    url: "/destinations/tanzania/arusha/"
+    description: "Popular destination for solo travelers with great infrastructure."
+    highlights: ["safari gateway", "kilimanjaro", "coffee"]
   - name: "Dar es Salaam"
     url: "/destinations/tanzania/dar-es-salaam/"
     description: "Popular destination for solo travelers with great infrastructure."
     highlights: ["beach", "food", "culture"]
-  - name: "Zanzibar"
-    url: "/destinations/tanzania/zanzibar/"
+  - name: "Moshi"
+    url: "/destinations/tanzania/moshi/"
     description: "Popular destination for solo travelers with great infrastructure."
-    highlights: ["beaches", "stone town", "spices"]
+    highlights: ["kilimanjaro", "coffee", "waterfalls"]
+  - name: "Stone Town"
+    url: "/destinations/tanzania/stone-town/"
+    description: "Popular destination for solo travelers with great infrastructure."
+    highlights: ["unesco", "spices", "doors"]
 
 
 budget:

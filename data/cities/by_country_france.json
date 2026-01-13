@@ -80,6 +80,26 @@
     "image_search": "Lyon France travel"
   },
   {
+    "name": "Lyon",
+    "slug": "lyon",
+    "country": "France",
+    "country_slug": "france",
+    "region": "Europe",
+    "lat": 45.764,
+    "lng": 4.8357,
+    "population": 516092,
+    "safety_level": "safe",
+    "budget_per_day": "70-130",
+    "highlights": [
+      "gastronomy",
+      "traboules",
+      "history"
+    ],
+    "best_time_to_visit": "Apr-Oct",
+    "airport_code": "LYS",
+    "image_search": "Lyon France travel"
+  },
+  {
     "name": "Marseille",
     "slug": "marseille",
     "country": "France",
@@ -153,6 +173,26 @@
     "highlights": [
       "beaches",
       "old town",
+      "riviera"
+    ],
+    "best_time_to_visit": "May-Sep",
+    "airport_code": "NCE",
+    "image_search": "Nice France travel"
+  },
+  {
+    "name": "Nice",
+    "slug": "nice",
+    "country": "France",
+    "country_slug": "france",
+    "region": "Europe",
+    "lat": 43.7102,
+    "lng": 7.262,
+    "population": 342522,
+    "safety_level": "safe",
+    "budget_per_day": "80-150",
+    "highlights": [
+      "promenade",
+      "beaches",
       "riviera"
     ],
     "best_time_to_visit": "May-Sep",

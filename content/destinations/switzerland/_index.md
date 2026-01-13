@@ -52,10 +52,10 @@ topCities:
     url: "/destinations/switzerland/lucerne/"
     description: "Popular destination for solo travelers with great infrastructure."
     highlights: ["lake", "bridge", "alps"]
-  - name: "Zermatt"
-    url: "/destinations/switzerland/zermatt/"
+  - name: "Luzern"
+    url: "/destinations/switzerland/luzern/"
     description: "Popular destination for solo travelers with great infrastructure."
-    highlights: ["matterhorn", "skiing", "hiking"]
+    highlights: ["lake", "chapel bridge", "alps"]
 
 
 budget:

@@ -18,9 +18,9 @@ quickFacts:
   airport: "BRU"
 
 highlights:
-  - "canals"
-  - "chocolate"
   - "medieval"
+  - "chocolate"
+  - "canals"
 
 neighborhoods:
   - name: "City Center"

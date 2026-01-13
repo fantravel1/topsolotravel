@@ -1,5 +1,25 @@
 [
   {
+    "name": "4000 Islands",
+    "slug": "4000-islands",
+    "country": "Laos",
+    "country_slug": "laos",
+    "region": "Asia",
+    "lat": 13.9577,
+    "lng": 105.9447,
+    "population": 3000,
+    "safety_level": "safe",
+    "budget_per_day": "15-30",
+    "highlights": [
+      "mekong",
+      "dolphins",
+      "waterfalls"
+    ],
+    "best_time_to_visit": "Nov-Feb",
+    "airport_code": "PKZ",
+    "image_search": "4000 Islands Laos travel"
+  },
+  {
     "name": "Abu Dhabi",
     "slug": "abu-dhabi",
     "country": "United Arab Emirates",
@@ -98,6 +118,46 @@
     "best_time_to_visit": "Oct-Mar",
     "airport_code": "AGR",
     "image_search": "Agra India travel"
+  },
+  {
+    "name": "Alishan",
+    "slug": "alishan",
+    "country": "Taiwan",
+    "country_slug": "taiwan",
+    "region": "Asia",
+    "lat": 23.5109,
+    "lng": 120.8,
+    "population": 5000,
+    "safety_level": "safe",
+    "budget_per_day": "50-90",
+    "highlights": [
+      "sunrise",
+      "trains",
+      "forests"
+    ],
+    "best_time_to_visit": "Mar-May, Sep-Nov",
+    "airport_code": "RMQ",
+    "image_search": "Alishan Taiwan travel"
+  },
+  {
+    "name": "Alleppey",
+    "slug": "alleppey",
+    "country": "India",
+    "country_slug": "india",
+    "region": "Asia",
+    "lat": 9.4981,
+    "lng": 76.3388,
+    "population": 174164,
+    "safety_level": "safe",
+    "budget_per_day": "30-60",
+    "highlights": [
+      "houseboats",
+      "backwaters",
+      "canals"
+    ],
+    "best_time_to_visit": "Sep-Mar",
+    "airport_code": "COK",
+    "image_search": "Alleppey India travel"
   },
   {
     "name": "Almaty",
@@ -300,6 +360,46 @@
     "image_search": "Apia Samoa travel"
   },
   {
+    "name": "Aqaba",
+    "slug": "aqaba",
+    "country": "Jordan",
+    "country_slug": "jordan",
+    "region": "Asia",
+    "lat": 29.5266,
+    "lng": 35.0078,
+    "population": 148398,
+    "safety_level": "safe",
+    "budget_per_day": "50-100",
+    "highlights": [
+      "red sea",
+      "diving",
+      "beaches"
+    ],
+    "best_time_to_visit": "Year-round",
+    "airport_code": "AQJ",
+    "image_search": "Aqaba Jordan travel"
+  },
+  {
+    "name": "Arusha",
+    "slug": "arusha",
+    "country": "Tanzania",
+    "country_slug": "tanzania",
+    "region": "Africa",
+    "lat": -3.3869,
+    "lng": 36.683,
+    "population": 416442,
+    "safety_level": "caution",
+    "budget_per_day": "45-90",
+    "highlights": [
+      "safari gateway",
+      "kilimanjaro",
+      "coffee"
+    ],
+    "best_time_to_visit": "Jun-Oct",
+    "airport_code": "ARK",
+    "image_search": "Arusha Tanzania travel"
+  },
+  {
     "name": "Astana",
     "slug": "astana",
     "country": "Kazakhstan",
@@ -440,6 +540,46 @@
     "image_search": "Avignon France travel"
   },
   {
+    "name": "Ayutthaya",
+    "slug": "ayutthaya",
+    "country": "Thailand",
+    "country_slug": "thailand",
+    "region": "Asia",
+    "lat": 14.3692,
+    "lng": 100.5877,
+    "population": 52215,
+    "safety_level": "safe",
+    "budget_per_day": "20-40",
+    "highlights": [
+      "ruins",
+      "temples",
+      "history"
+    ],
+    "best_time_to_visit": "Nov-Feb",
+    "airport_code": "BKK",
+    "image_search": "Ayutthaya Thailand travel"
+  },
+  {
+    "name": "Bacalar",
+    "slug": "bacalar",
+    "country": "Mexico",
+    "country_slug": "mexico",
+    "region": "Americas",
+    "lat": 18.6697,
+    "lng": -88.388,
+    "population": 12000,
+    "safety_level": "safe",
+    "budget_per_day": "40-80",
+    "highlights": [
+      "lagoon",
+      "cenotes",
+      "colors"
+    ],
+    "best_time_to_visit": "Year-round",
+    "airport_code": "CZM",
+    "image_search": "Bacalar Mexico travel"
+  },
+  {
     "name": "Bagan",
     "slug": "bagan",
     "country": "Myanmar",
@@ -498,6 +638,46 @@
     "best_time_to_visit": "Apr-Oct",
     "airport_code": "DPS",
     "image_search": "Bali Indonesia travel"
+  },
+  {
+    "name": "Banaue",
+    "slug": "banaue",
+    "country": "Philippines",
+    "country_slug": "philippines",
+    "region": "Asia",
+    "lat": 16.9121,
+    "lng": 121.0533,
+    "population": 20000,
+    "safety_level": "safe",
+    "budget_per_day": "25-50",
+    "highlights": [
+      "rice terraces",
+      "hiking",
+      "ifugao"
+    ],
+    "best_time_to_visit": "Dec-May",
+    "airport_code": "MNL",
+    "image_search": "Banaue Philippines travel"
+  },
+  {
+    "name": "Bandipur",
+    "slug": "bandipur",
+    "country": "Nepal",
+    "country_slug": "nepal",
+    "region": "Asia",
+    "lat": 27.9333,
+    "lng": 84.4167,
+    "population": 3000,
+    "safety_level": "safe",
+    "budget_per_day": "20-40",
+    "highlights": [
+      "preserved town",
+      "views",
+      "paragliding"
+    ],
+    "best_time_to_visit": "Oct-May",
+    "airport_code": "PKR",
+    "image_search": "Bandipur Nepal travel"
   },
   {
     "name": "Bangkok",
@@ -578,6 +758,26 @@
     "best_time_to_visit": "Apr-Oct",
     "airport_code": "BRS",
     "image_search": "Bath United Kingdom travel"
+  },
+  {
+    "name": "Battambang",
+    "slug": "battambang",
+    "country": "Cambodia",
+    "country_slug": "cambodia",
+    "region": "Asia",
+    "lat": 13.1023,
+    "lng": 103.1987,
+    "population": 196709,
+    "safety_level": "safe",
+    "budget_per_day": "20-40",
+    "highlights": [
+      "bamboo train",
+      "colonial",
+      "circus"
+    ],
+    "best_time_to_visit": "Nov-Apr",
+    "airport_code": "REP",
+    "image_search": "Battambang Cambodia travel"
   },
   {
     "name": "Batumi",
@@ -678,6 +878,26 @@
     "best_time_to_visit": "May-Sep",
     "airport_code": "BEG",
     "image_search": "Belgrade Serbia travel"
+  },
+  {
+    "name": "Berat",
+    "slug": "berat",
+    "country": "Albania",
+    "country_slug": "albania",
+    "region": "Europe",
+    "lat": 40.7058,
+    "lng": 19.9522,
+    "population": 36496,
+    "safety_level": "safe",
+    "budget_per_day": "25-45",
+    "highlights": [
+      "thousand windows",
+      "castle",
+      "unesco"
+    ],
+    "best_time_to_visit": "May-Oct",
+    "airport_code": "TIA",
+    "image_search": "Berat Albania travel"
   },
   {
     "name": "Bergen",
@@ -818,6 +1038,26 @@
     "best_time_to_visit": "Dec-Mar",
     "airport_code": "BOG",
     "image_search": "Bogota Colombia travel"
+  },
+  {
+    "name": "Bohol",
+    "slug": "bohol",
+    "country": "Philippines",
+    "country_slug": "philippines",
+    "region": "Asia",
+    "lat": 9.85,
+    "lng": 124.0,
+    "population": 1313560,
+    "safety_level": "safe",
+    "budget_per_day": "30-60",
+    "highlights": [
+      "chocolate hills",
+      "tarsiers",
+      "beaches"
+    ],
+    "best_time_to_visit": "Dec-May",
+    "airport_code": "TAG",
+    "image_search": "Bohol Philippines travel"
   },
   {
     "name": "Bologna",
@@ -980,6 +1220,26 @@
     "image_search": "Brasov Romania travel"
   },
   {
+    "name": "Bratislava",
+    "slug": "bratislava",
+    "country": "Slovakia",
+    "country_slug": "slovakia",
+    "region": "Europe",
+    "lat": 48.1486,
+    "lng": 17.1077,
+    "population": 440948,
+    "safety_level": "safe",
+    "budget_per_day": "45-85",
+    "highlights": [
+      "old town",
+      "castle",
+      "danube"
+    ],
+    "best_time_to_visit": "May-Sep",
+    "airport_code": "BTS",
+    "image_search": "Bratislava Slovakia travel"
+  },
+  {
     "name": "Brisbane",
     "slug": "brisbane",
     "country": "Australia",
@@ -1020,6 +1280,26 @@
     "image_search": "Bristol United Kingdom travel"
   },
   {
+    "name": "Brno",
+    "slug": "brno",
+    "country": "Czech Republic",
+    "country_slug": "czech-republic",
+    "region": "Europe",
+    "lat": 49.1951,
+    "lng": 16.6068,
+    "population": 381346,
+    "safety_level": "safe",
+    "budget_per_day": "40-80",
+    "highlights": [
+      "nightlife",
+      "architecture",
+      "students"
+    ],
+    "best_time_to_visit": "May-Sep",
+    "airport_code": "BRQ",
+    "image_search": "Brno Czech Republic travel"
+  },
+  {
     "name": "Bruges",
     "slug": "bruges",
     "country": "Belgium",
@@ -1034,6 +1314,26 @@
       "canals",
       "chocolate",
       "medieval"
+    ],
+    "best_time_to_visit": "Apr-Oct",
+    "airport_code": "BRU",
+    "image_search": "Bruges Belgium travel"
+  },
+  {
+    "name": "Bruges",
+    "slug": "bruges",
+    "country": "Belgium",
+    "country_slug": "belgium",
+    "region": "Europe",
+    "lat": 51.2093,
+    "lng": 3.2247,
+    "population": 118284,
+    "safety_level": "safe",
+    "budget_per_day": "70-130",
+    "highlights": [
+      "medieval",
+      "chocolate",
+      "canals"
     ],
     "best_time_to_visit": "Apr-Oct",
     "airport_code": "BRU",
@@ -1160,6 +1460,26 @@
     "image_search": "Busan South Korea travel"
   },
   {
+    "name": "Busan",
+    "slug": "busan",
+    "country": "South Korea",
+    "country_slug": "south-korea",
+    "region": "Asia",
+    "lat": 35.1796,
+    "lng": 129.0756,
+    "population": 3448737,
+    "safety_level": "safe",
+    "budget_per_day": "55-100",
+    "highlights": [
+      "beaches",
+      "temples",
+      "food"
+    ],
+    "best_time_to_visit": "Apr-Jun, Sep-Nov",
+    "airport_code": "PUS",
+    "image_search": "Busan South Korea travel"
+  },
+  {
     "name": "Cairns",
     "slug": "cairns",
     "country": "Australia",
@@ -1238,6 +1558,26 @@
     "best_time_to_visit": "Apr-Oct",
     "airport_code": "STN",
     "image_search": "Cambridge United Kingdom travel"
+  },
+  {
+    "name": "Cameron Highlands",
+    "slug": "cameron-highlands",
+    "country": "Malaysia",
+    "country_slug": "malaysia",
+    "region": "Asia",
+    "lat": 4.4718,
+    "lng": 101.3767,
+    "population": 38000,
+    "safety_level": "safe",
+    "budget_per_day": "30-60",
+    "highlights": [
+      "tea",
+      "strawberries",
+      "cool weather"
+    ],
+    "best_time_to_visit": "Year-round",
+    "airport_code": "SZB",
+    "image_search": "Cameron Highlands Malaysia travel"
   },
   {
     "name": "Cancun",
@@ -1380,6 +1720,26 @@
     "image_search": "Cebu Philippines travel"
   },
   {
+    "name": "Cesky Krumlov",
+    "slug": "cesky-krumlov",
+    "country": "Czech Republic",
+    "country_slug": "czech-republic",
+    "region": "Europe",
+    "lat": 48.8127,
+    "lng": 14.3175,
+    "population": 13100,
+    "safety_level": "safe",
+    "budget_per_day": "50-90",
+    "highlights": [
+      "castle",
+      "medieval",
+      "rafting"
+    ],
+    "best_time_to_visit": "May-Sep",
+    "airport_code": "PRG",
+    "image_search": "Cesky Krumlov Czech Republic travel"
+  },
+  {
     "name": "Chefchaouen",
     "slug": "chefchaouen",
     "country": "Morocco",
@@ -1440,6 +1800,26 @@
     "image_search": "Chiang Mai Thailand travel"
   },
   {
+    "name": "Chiang Rai",
+    "slug": "chiang-rai",
+    "country": "Thailand",
+    "country_slug": "thailand",
+    "region": "Asia",
+    "lat": 19.9071,
+    "lng": 99.8309,
+    "population": 74465,
+    "safety_level": "safe",
+    "budget_per_day": "25-50",
+    "highlights": [
+      "white temple",
+      "golden triangle",
+      "tribes"
+    ],
+    "best_time_to_visit": "Nov-Feb",
+    "airport_code": "CEI",
+    "image_search": "Chiang Rai Thailand travel"
+  },
+  {
     "name": "Chicago",
     "slug": "chicago",
     "country": "United States",
@@ -1458,6 +1838,26 @@
     "best_time_to_visit": "May-Oct",
     "airport_code": "ORD",
     "image_search": "Chicago United States travel"
+  },
+  {
+    "name": "Chitwan",
+    "slug": "chitwan",
+    "country": "Nepal",
+    "country_slug": "nepal",
+    "region": "Asia",
+    "lat": 27.5291,
+    "lng": 84.3542,
+    "population": 579984,
+    "safety_level": "safe",
+    "budget_per_day": "25-50",
+    "highlights": [
+      "safari",
+      "rhinos",
+      "jungle"
+    ],
+    "best_time_to_visit": "Oct-Mar",
+    "airport_code": "BWA",
+    "image_search": "Chitwan Nepal travel"
   },
   {
     "name": "Christchurch",
@@ -1480,6 +1880,26 @@
     "image_search": "Christchurch New Zealand travel"
   },
   {
+    "name": "Cienfuegos",
+    "slug": "cienfuegos",
+    "country": "Cuba",
+    "country_slug": "cuba",
+    "region": "Americas",
+    "lat": 22.146,
+    "lng": -80.4364,
+    "population": 150000,
+    "safety_level": "safe",
+    "budget_per_day": "40-75",
+    "highlights": [
+      "french influence",
+      "bay",
+      "architecture"
+    ],
+    "best_time_to_visit": "Nov-Apr",
+    "airport_code": "CFG",
+    "image_search": "Cienfuegos Cuba travel"
+  },
+  {
     "name": "Cinque Terre",
     "slug": "cinque-terre",
     "country": "Italy",
@@ -1498,6 +1918,26 @@
     "best_time_to_visit": "Apr-Jun, Sep-Oct",
     "airport_code": "GOA",
     "image_search": "Cinque Terre Italy travel"
+  },
+  {
+    "name": "Cluj-Napoca",
+    "slug": "cluj-napoca",
+    "country": "Romania",
+    "country_slug": "romania",
+    "region": "Europe",
+    "lat": 46.7712,
+    "lng": 23.6236,
+    "population": 324576,
+    "safety_level": "safe",
+    "budget_per_day": "35-65",
+    "highlights": [
+      "nightlife",
+      "students",
+      "tech"
+    ],
+    "best_time_to_visit": "May-Sep",
+    "airport_code": "CLJ",
+    "image_search": "Cluj-Napoca Romania travel"
   },
   {
     "name": "Coimbra",
@@ -1558,6 +1998,26 @@
     "best_time_to_visit": "Dec-Mar",
     "airport_code": "CMB",
     "image_search": "Colombo Sri Lanka travel"
+  },
+  {
+    "name": "Copan",
+    "slug": "copan",
+    "country": "Honduras",
+    "country_slug": "honduras",
+    "region": "Americas",
+    "lat": 14.84,
+    "lng": -89.14,
+    "population": 35000,
+    "safety_level": "caution",
+    "budget_per_day": "30-60",
+    "highlights": [
+      "mayan ruins",
+      "macaws",
+      "history"
+    ],
+    "best_time_to_visit": "Nov-Apr",
+    "airport_code": "SAP",
+    "image_search": "Copan Honduras travel"
   },
   {
     "name": "Copenhagen",
@@ -1640,6 +2100,26 @@
     "image_search": "Cork Ireland travel"
   },
   {
+    "name": "Coron",
+    "slug": "coron",
+    "country": "Philippines",
+    "country_slug": "philippines",
+    "region": "Asia",
+    "lat": 11.9988,
+    "lng": 120.2043,
+    "population": 51803,
+    "safety_level": "safe",
+    "budget_per_day": "40-80",
+    "highlights": [
+      "wrecks",
+      "lagoons",
+      "diving"
+    ],
+    "best_time_to_visit": "Dec-May",
+    "airport_code": "USU",
+    "image_search": "Coron Philippines travel"
+  },
+  {
     "name": "Crete",
     "slug": "crete",
     "country": "Greece",
@@ -1720,6 +2200,26 @@
     "image_search": "Dakar Senegal travel"
   },
   {
+    "name": "Dali",
+    "slug": "dali",
+    "country": "China",
+    "country_slug": "china",
+    "region": "Asia",
+    "lat": 25.6065,
+    "lng": 100.2673,
+    "population": 611281,
+    "safety_level": "safe",
+    "budget_per_day": "30-60",
+    "highlights": [
+      "old town",
+      "erhai lake",
+      "three pagodas"
+    ],
+    "best_time_to_visit": "Mar-May, Sep-Nov",
+    "airport_code": "DLU",
+    "image_search": "Dali China travel"
+  },
+  {
     "name": "Dar es Salaam",
     "slug": "dar-es-salaam",
     "country": "Tanzania",
@@ -1740,6 +2240,26 @@
     "image_search": "Dar es Salaam Tanzania travel"
   },
   {
+    "name": "Darjeeling",
+    "slug": "darjeeling",
+    "country": "India",
+    "country_slug": "india",
+    "region": "Asia",
+    "lat": 27.041,
+    "lng": 88.2663,
+    "population": 120414,
+    "safety_level": "safe",
+    "budget_per_day": "25-50",
+    "highlights": [
+      "tea",
+      "toy train",
+      "kangchenjunga"
+    ],
+    "best_time_to_visit": "Mar-May, Sep-Nov",
+    "airport_code": "BBI",
+    "image_search": "Darjeeling India travel"
+  },
+  {
     "name": "Darwin",
     "slug": "darwin",
     "country": "Australia",
@@ -1758,6 +2278,26 @@
     "best_time_to_visit": "May-Oct",
     "airport_code": "DRW",
     "image_search": "Darwin Australia travel"
+  },
+  {
+    "name": "Dead Sea",
+    "slug": "dead-sea",
+    "country": "Jordan",
+    "country_slug": "jordan",
+    "region": "Asia",
+    "lat": 31.5,
+    "lng": 35.5,
+    "population": 10000,
+    "safety_level": "safe",
+    "budget_per_day": "60-120",
+    "highlights": [
+      "floating",
+      "mud",
+      "lowest point"
+    ],
+    "best_time_to_visit": "Mar-May, Sep-Nov",
+    "airport_code": "AMM",
+    "image_search": "Dead Sea Jordan travel"
   },
   {
     "name": "Delhi",
@@ -1798,6 +2338,46 @@
     "best_time_to_visit": "Jun-Sep, Dec-Mar",
     "airport_code": "DEN",
     "image_search": "Denver United States travel"
+  },
+  {
+    "name": "Dharamsala",
+    "slug": "dharamsala",
+    "country": "India",
+    "country_slug": "india",
+    "region": "Asia",
+    "lat": 32.219,
+    "lng": 76.3234,
+    "population": 50000,
+    "safety_level": "safe",
+    "budget_per_day": "20-40",
+    "highlights": [
+      "dalai lama",
+      "tibetan culture",
+      "trekking"
+    ],
+    "best_time_to_visit": "Mar-Jun, Sep-Nov",
+    "airport_code": "DHM",
+    "image_search": "Dharamsala India travel"
+  },
+  {
+    "name": "Diani Beach",
+    "slug": "diani-beach",
+    "country": "Kenya",
+    "country_slug": "kenya",
+    "region": "Africa",
+    "lat": -4.3167,
+    "lng": 39.5667,
+    "population": 100000,
+    "safety_level": "caution",
+    "budget_per_day": "60-120",
+    "highlights": [
+      "beaches",
+      "diving",
+      "kitesurfing"
+    ],
+    "best_time_to_visit": "Dec-Mar, Jul-Oct",
+    "airport_code": "MBA",
+    "image_search": "Diani Beach Kenya travel"
   },
   {
     "name": "Doha",
@@ -1900,6 +2480,66 @@
     "image_search": "Dubrovnik Croatia travel"
   },
   {
+    "name": "Dubrovnik",
+    "slug": "dubrovnik",
+    "country": "Croatia",
+    "country_slug": "croatia",
+    "region": "Europe",
+    "lat": 42.6507,
+    "lng": 18.0944,
+    "population": 42615,
+    "safety_level": "safe",
+    "budget_per_day": "80-150",
+    "highlights": [
+      "walls",
+      "beaches",
+      "game of thrones"
+    ],
+    "best_time_to_visit": "May-Sep",
+    "airport_code": "DBV",
+    "image_search": "Dubrovnik Croatia travel"
+  },
+  {
+    "name": "Dubrovnik Old Town",
+    "slug": "dubrovnik-old-town",
+    "country": "Croatia",
+    "country_slug": "croatia",
+    "region": "Europe",
+    "lat": 42.6507,
+    "lng": 18.0944,
+    "population": 42615,
+    "safety_level": "safe",
+    "budget_per_day": "80-150",
+    "highlights": [
+      "walls",
+      "game of thrones",
+      "adriatic"
+    ],
+    "best_time_to_visit": "May-Sep",
+    "airport_code": "DBV",
+    "image_search": "Dubrovnik Old Town Croatia travel"
+  },
+  {
+    "name": "Dumaguete",
+    "slug": "dumaguete",
+    "country": "Philippines",
+    "country_slug": "philippines",
+    "region": "Asia",
+    "lat": 9.3103,
+    "lng": 123.3081,
+    "population": 131377,
+    "safety_level": "safe",
+    "budget_per_day": "25-50",
+    "highlights": [
+      "apo island",
+      "university",
+      "diving"
+    ],
+    "best_time_to_visit": "Dec-May",
+    "airport_code": "DGT",
+    "image_search": "Dumaguete Philippines travel"
+  },
+  {
     "name": "Durban",
     "slug": "durban",
     "country": "South Africa",
@@ -2000,6 +2640,26 @@
     "image_search": "Essaouira Morocco travel"
   },
   {
+    "name": "Etosha",
+    "slug": "etosha",
+    "country": "Namibia",
+    "country_slug": "namibia",
+    "region": "Africa",
+    "lat": -18.8556,
+    "lng": 16.3278,
+    "population": 0,
+    "safety_level": "safe",
+    "budget_per_day": "80-160",
+    "highlights": [
+      "wildlife",
+      "salt pan",
+      "waterholes"
+    ],
+    "best_time_to_visit": "May-Oct",
+    "airport_code": "WDH",
+    "image_search": "Etosha Namibia travel"
+  },
+  {
     "name": "Faro",
     "slug": "faro",
     "country": "Portugal",
@@ -2040,6 +2700,26 @@
     "image_search": "Fes Morocco travel"
   },
   {
+    "name": "Fish River Canyon",
+    "slug": "fish-river-canyon",
+    "country": "Namibia",
+    "country_slug": "namibia",
+    "region": "Africa",
+    "lat": -27.55,
+    "lng": 17.5833,
+    "population": 0,
+    "safety_level": "safe",
+    "budget_per_day": "60-120",
+    "highlights": [
+      "hiking",
+      "canyon",
+      "wilderness"
+    ],
+    "best_time_to_visit": "May-Sep",
+    "airport_code": "WDH",
+    "image_search": "Fish River Canyon Namibia travel"
+  },
+  {
     "name": "Florence",
     "slug": "florence",
     "country": "Italy",
@@ -2058,6 +2738,46 @@
     "best_time_to_visit": "Apr-Jun, Sep-Oct",
     "airport_code": "FLR",
     "image_search": "Florence Italy travel"
+  },
+  {
+    "name": "Flores",
+    "slug": "flores",
+    "country": "Indonesia",
+    "country_slug": "indonesia",
+    "region": "Asia",
+    "lat": -8.4565,
+    "lng": 121.0099,
+    "population": 2000000,
+    "safety_level": "safe",
+    "budget_per_day": "40-80",
+    "highlights": [
+      "kelimutu",
+      "komodo",
+      "traditional villages"
+    ],
+    "best_time_to_visit": "Apr-Nov",
+    "airport_code": "ENE",
+    "image_search": "Flores Indonesia travel"
+  },
+  {
+    "name": "Flores",
+    "slug": "flores",
+    "country": "Guatemala",
+    "country_slug": "guatemala",
+    "region": "Americas",
+    "lat": 16.9304,
+    "lng": -89.8922,
+    "population": 16300,
+    "safety_level": "caution",
+    "budget_per_day": "30-55",
+    "highlights": [
+      "tikal",
+      "island",
+      "lake"
+    ],
+    "best_time_to_visit": "Nov-Apr",
+    "airport_code": "FRS",
+    "image_search": "Flores Guatemala travel"
   },
   {
     "name": "Florianopolis",
@@ -2120,6 +2840,26 @@
     "image_search": "Frankfurt Germany travel"
   },
   {
+    "name": "Franschhoek",
+    "slug": "franschhoek",
+    "country": "South Africa",
+    "country_slug": "south-africa",
+    "region": "Africa",
+    "lat": -33.9137,
+    "lng": 19.1162,
+    "population": 10000,
+    "safety_level": "safe",
+    "budget_per_day": "70-140",
+    "highlights": [
+      "wine",
+      "food",
+      "french heritage"
+    ],
+    "best_time_to_visit": "Sep-May",
+    "airport_code": "CPT",
+    "image_search": "Franschhoek South Africa travel"
+  },
+  {
     "name": "Fukuoka",
     "slug": "fukuoka",
     "country": "Japan",
@@ -2180,6 +2920,26 @@
     "image_search": "Galapagos Ecuador travel"
   },
   {
+    "name": "Galle",
+    "slug": "galle",
+    "country": "Sri Lanka",
+    "country_slug": "sri-lanka",
+    "region": "Asia",
+    "lat": 6.0535,
+    "lng": 80.221,
+    "population": 93118,
+    "safety_level": "safe",
+    "budget_per_day": "30-55",
+    "highlights": [
+      "fort",
+      "colonial",
+      "beaches"
+    ],
+    "best_time_to_visit": "Dec-Mar",
+    "airport_code": "CMB",
+    "image_search": "Galle Sri Lanka travel"
+  },
+  {
     "name": "Galway",
     "slug": "galway",
     "country": "Ireland",
@@ -2198,6 +2958,26 @@
     "best_time_to_visit": "May-Sep",
     "airport_code": "GWY",
     "image_search": "Galway Ireland travel"
+  },
+  {
+    "name": "Garden Route",
+    "slug": "garden-route",
+    "country": "South Africa",
+    "country_slug": "south-africa",
+    "region": "Africa",
+    "lat": -33.9639,
+    "lng": 22.4608,
+    "population": 100000,
+    "safety_level": "safe",
+    "budget_per_day": "60-120",
+    "highlights": [
+      "scenic drive",
+      "beaches",
+      "forests"
+    ],
+    "best_time_to_visit": "Sep-May",
+    "airport_code": "GRJ",
+    "image_search": "Garden Route South Africa travel"
   },
   {
     "name": "Gdansk",
@@ -2278,6 +3058,46 @@
     "best_time_to_visit": "Apr-Oct",
     "airport_code": "BRU",
     "image_search": "Ghent Belgium travel"
+  },
+  {
+    "name": "Gili Islands",
+    "slug": "gili-islands",
+    "country": "Indonesia",
+    "country_slug": "indonesia",
+    "region": "Asia",
+    "lat": -8.35,
+    "lng": 116.0333,
+    "population": 3000,
+    "safety_level": "safe",
+    "budget_per_day": "35-70",
+    "highlights": [
+      "no cars",
+      "diving",
+      "parties"
+    ],
+    "best_time_to_visit": "Apr-Sep",
+    "airport_code": "LOP",
+    "image_search": "Gili Islands Indonesia travel"
+  },
+  {
+    "name": "Gjirokaster",
+    "slug": "gjirokaster",
+    "country": "Albania",
+    "country_slug": "albania",
+    "region": "Europe",
+    "lat": 40.0756,
+    "lng": 20.1389,
+    "population": 19836,
+    "safety_level": "safe",
+    "budget_per_day": "25-45",
+    "highlights": [
+      "stone town",
+      "castle",
+      "ottoman"
+    ],
+    "best_time_to_visit": "May-Oct",
+    "airport_code": "TIA",
+    "image_search": "Gjirokaster Albania travel"
   },
   {
     "name": "Glasgow",
@@ -2380,6 +3200,26 @@
     "image_search": "Granada Spain travel"
   },
   {
+    "name": "Granada",
+    "slug": "granada",
+    "country": "Nicaragua",
+    "country_slug": "nicaragua",
+    "region": "Americas",
+    "lat": 11.9344,
+    "lng": -85.956,
+    "population": 123697,
+    "safety_level": "caution",
+    "budget_per_day": "30-60",
+    "highlights": [
+      "colonial",
+      "lake",
+      "islets"
+    ],
+    "best_time_to_visit": "Nov-Apr",
+    "airport_code": "MGA",
+    "image_search": "Granada Nicaragua travel"
+  },
+  {
     "name": "Guadalajara",
     "slug": "guadalajara",
     "country": "Mexico",
@@ -2418,6 +3258,26 @@
     "best_time_to_visit": "Oct-May",
     "airport_code": "BJX",
     "image_search": "Guanajuato Mexico travel"
+  },
+  {
+    "name": "Guangzhou",
+    "slug": "guangzhou",
+    "country": "China",
+    "country_slug": "china",
+    "region": "Asia",
+    "lat": 23.1291,
+    "lng": 113.2644,
+    "population": 14904400,
+    "safety_level": "safe",
+    "budget_per_day": "45-90",
+    "highlights": [
+      "dim sum",
+      "canton tower",
+      "markets"
+    ],
+    "best_time_to_visit": "Oct-Dec",
+    "airport_code": "CAN",
+    "image_search": "Guangzhou China travel"
   },
   {
     "name": "Guayaquil",
@@ -2480,6 +3340,26 @@
     "image_search": "Gyeongju South Korea travel"
   },
   {
+    "name": "Hakone",
+    "slug": "hakone",
+    "country": "Japan",
+    "country_slug": "japan",
+    "region": "Asia",
+    "lat": 35.2322,
+    "lng": 139.107,
+    "population": 11700,
+    "safety_level": "safe",
+    "budget_per_day": "80-150",
+    "highlights": [
+      "onsen",
+      "fuji views",
+      "museums"
+    ],
+    "best_time_to_visit": "Mar-May, Sep-Nov",
+    "airport_code": "HND",
+    "image_search": "Hakone Japan travel"
+  },
+  {
     "name": "Hallstatt",
     "slug": "hallstatt",
     "country": "Austria",
@@ -2518,6 +3398,26 @@
     "best_time_to_visit": "May-Sep",
     "airport_code": "HAM",
     "image_search": "Hamburg Germany travel"
+  },
+  {
+    "name": "Hampi",
+    "slug": "hampi",
+    "country": "India",
+    "country_slug": "india",
+    "region": "Asia",
+    "lat": 15.335,
+    "lng": 76.46,
+    "population": 3000,
+    "safety_level": "safe",
+    "budget_per_day": "15-30",
+    "highlights": [
+      "ruins",
+      "boulders",
+      "temples"
+    ],
+    "best_time_to_visit": "Oct-Mar",
+    "airport_code": "HBX",
+    "image_search": "Hampi India travel"
   },
   {
     "name": "Hangzhou",
@@ -2560,6 +3460,26 @@
     "image_search": "Hanoi Vietnam travel"
   },
   {
+    "name": "Havana",
+    "slug": "havana",
+    "country": "Cuba",
+    "country_slug": "cuba",
+    "region": "Americas",
+    "lat": 23.1136,
+    "lng": -82.3666,
+    "population": 2130517,
+    "safety_level": "safe",
+    "budget_per_day": "50-100",
+    "highlights": [
+      "old town",
+      "vintage cars",
+      "music"
+    ],
+    "best_time_to_visit": "Nov-Apr",
+    "airport_code": "HAV",
+    "image_search": "Havana Cuba travel"
+  },
+  {
     "name": "Helsinki",
     "slug": "helsinki",
     "country": "Finland",
@@ -2578,6 +3498,26 @@
     "best_time_to_visit": "May-Sep",
     "airport_code": "HEL",
     "image_search": "Helsinki Finland travel"
+  },
+  {
+    "name": "Hermanus",
+    "slug": "hermanus",
+    "country": "South Africa",
+    "country_slug": "south-africa",
+    "region": "Africa",
+    "lat": -34.4186,
+    "lng": 19.2345,
+    "population": 28000,
+    "safety_level": "safe",
+    "budget_per_day": "60-120",
+    "highlights": [
+      "whale watching",
+      "wine",
+      "coast"
+    ],
+    "best_time_to_visit": "Jul-Nov",
+    "airport_code": "CPT",
+    "image_search": "Hermanus South Africa travel"
   },
   {
     "name": "Hiroshima",
@@ -2660,6 +3600,26 @@
     "image_search": "Hoi An Vietnam travel"
   },
   {
+    "name": "Holbox",
+    "slug": "holbox",
+    "country": "Mexico",
+    "country_slug": "mexico",
+    "region": "Americas",
+    "lat": 21.5222,
+    "lng": -87.3808,
+    "population": 2000,
+    "safety_level": "safe",
+    "budget_per_day": "50-100",
+    "highlights": [
+      "whale sharks",
+      "car-free",
+      "bioluminescence"
+    ],
+    "best_time_to_visit": "May-Sep",
+    "airport_code": "CUN",
+    "image_search": "Holbox Mexico travel"
+  },
+  {
     "name": "Hong Kong",
     "slug": "hong-kong",
     "country": "Hong Kong",
@@ -2720,6 +3680,26 @@
     "image_search": "Hualien Taiwan travel"
   },
   {
+    "name": "Huangshan",
+    "slug": "huangshan",
+    "country": "China",
+    "country_slug": "china",
+    "region": "Asia",
+    "lat": 30.1333,
+    "lng": 118.1667,
+    "population": 148000,
+    "safety_level": "safe",
+    "budget_per_day": "50-90",
+    "highlights": [
+      "yellow mountain",
+      "sunrise",
+      "sea of clouds"
+    ],
+    "best_time_to_visit": "Apr-Nov",
+    "airport_code": "TXN",
+    "image_search": "Huangshan China travel"
+  },
+  {
     "name": "Hue",
     "slug": "hue",
     "country": "Vietnam",
@@ -2758,6 +3738,26 @@
     "best_time_to_visit": "May-Sep",
     "airport_code": "SPU",
     "image_search": "Hvar Croatia travel"
+  },
+  {
+    "name": "Ibiza",
+    "slug": "ibiza",
+    "country": "Spain",
+    "country_slug": "spain",
+    "region": "Europe",
+    "lat": 38.9067,
+    "lng": 1.4206,
+    "population": 49768,
+    "safety_level": "safe",
+    "budget_per_day": "90-180",
+    "highlights": [
+      "nightlife",
+      "beaches",
+      "dj"
+    ],
+    "best_time_to_visit": "May-Oct",
+    "airport_code": "IBZ",
+    "image_search": "Ibiza Spain travel"
   },
   {
     "name": "Iguazu",
@@ -2800,6 +3800,46 @@
     "image_search": "Incheon South Korea travel"
   },
   {
+    "name": "Inle Lake",
+    "slug": "inle-lake",
+    "country": "Myanmar",
+    "country_slug": "myanmar",
+    "region": "Asia",
+    "lat": 20.5355,
+    "lng": 96.9132,
+    "population": 50000,
+    "safety_level": "warning",
+    "budget_per_day": "30-60",
+    "highlights": [
+      "floating villages",
+      "leg rowers",
+      "temples"
+    ],
+    "best_time_to_visit": "Nov-Feb",
+    "airport_code": "HEH",
+    "image_search": "Inle Lake Myanmar travel"
+  },
+  {
+    "name": "Innsbruck",
+    "slug": "innsbruck",
+    "country": "Austria",
+    "country_slug": "austria",
+    "region": "Europe",
+    "lat": 47.2692,
+    "lng": 11.4041,
+    "population": 131961,
+    "safety_level": "safe",
+    "budget_per_day": "80-140",
+    "highlights": [
+      "alps",
+      "skiing",
+      "old town"
+    ],
+    "best_time_to_visit": "Jun-Sep, Dec-Mar",
+    "airport_code": "INN",
+    "image_search": "Innsbruck Austria travel"
+  },
+  {
     "name": "Innsbruck",
     "slug": "innsbruck",
     "country": "Austria",
@@ -2838,6 +3878,26 @@
     "best_time_to_visit": "Jun-Sep, Dec-Mar",
     "airport_code": "BRN",
     "image_search": "Interlaken Switzerland travel"
+  },
+  {
+    "name": "Ipoh",
+    "slug": "ipoh",
+    "country": "Malaysia",
+    "country_slug": "malaysia",
+    "region": "Asia",
+    "lat": 4.5975,
+    "lng": 101.0901,
+    "population": 737861,
+    "safety_level": "safe",
+    "budget_per_day": "25-50",
+    "highlights": [
+      "food",
+      "street art",
+      "caves"
+    ],
+    "best_time_to_visit": "Year-round",
+    "airport_code": "IPH",
+    "image_search": "Ipoh Malaysia travel"
   },
   {
     "name": "Istanbul",
@@ -2940,6 +4000,26 @@
     "image_search": "Jeju Island South Korea travel"
   },
   {
+    "name": "Jeonju",
+    "slug": "jeonju",
+    "country": "South Korea",
+    "country_slug": "south-korea",
+    "region": "Asia",
+    "lat": 35.8242,
+    "lng": 127.148,
+    "population": 658172,
+    "safety_level": "safe",
+    "budget_per_day": "45-85",
+    "highlights": [
+      "hanok village",
+      "bibimbap",
+      "traditional"
+    ],
+    "best_time_to_visit": "Apr-Jun, Sep-Nov",
+    "airport_code": "CJJ",
+    "image_search": "Jeonju South Korea travel"
+  },
+  {
     "name": "Jerusalem",
     "slug": "jerusalem",
     "country": "Israel",
@@ -2958,6 +4038,26 @@
     "best_time_to_visit": "Mar-May, Sep-Nov",
     "airport_code": "TLV",
     "image_search": "Jerusalem Israel travel"
+  },
+  {
+    "name": "Jiufen",
+    "slug": "jiufen",
+    "country": "Taiwan",
+    "country_slug": "taiwan",
+    "region": "Asia",
+    "lat": 25.1097,
+    "lng": 121.8449,
+    "population": 4000,
+    "safety_level": "safe",
+    "budget_per_day": "40-70",
+    "highlights": [
+      "spirited away",
+      "tea houses",
+      "views"
+    ],
+    "best_time_to_visit": "Oct-Apr",
+    "airport_code": "TPE",
+    "image_search": "Jiufen Taiwan travel"
   },
   {
     "name": "Jodhpur",
@@ -2998,6 +4098,46 @@
     "best_time_to_visit": "May-Sep",
     "airport_code": "JNB",
     "image_search": "Johannesburg South Africa travel"
+  },
+  {
+    "name": "Kamakura",
+    "slug": "kamakura",
+    "country": "Japan",
+    "country_slug": "japan",
+    "region": "Asia",
+    "lat": 35.3192,
+    "lng": 139.5467,
+    "population": 172000,
+    "safety_level": "safe",
+    "budget_per_day": "60-100",
+    "highlights": [
+      "big buddha",
+      "temples",
+      "beaches"
+    ],
+    "best_time_to_visit": "Mar-May, Sep-Nov",
+    "airport_code": "HND",
+    "image_search": "Kamakura Japan travel"
+  },
+  {
+    "name": "Kampot",
+    "slug": "kampot",
+    "country": "Cambodia",
+    "country_slug": "cambodia",
+    "region": "Asia",
+    "lat": 10.594,
+    "lng": 104.193,
+    "population": 48028,
+    "safety_level": "safe",
+    "budget_per_day": "20-40",
+    "highlights": [
+      "pepper",
+      "riverside",
+      "bokor"
+    ],
+    "best_time_to_visit": "Nov-Apr",
+    "airport_code": "PNH",
+    "image_search": "Kampot Cambodia travel"
   },
   {
     "name": "Kanazawa",
@@ -3080,6 +4220,26 @@
     "image_search": "Kathmandu Nepal travel"
   },
   {
+    "name": "Kenting",
+    "slug": "kenting",
+    "country": "Taiwan",
+    "country_slug": "taiwan",
+    "region": "Asia",
+    "lat": 21.9465,
+    "lng": 120.797,
+    "population": 5000,
+    "safety_level": "safe",
+    "budget_per_day": "45-85",
+    "highlights": [
+      "beaches",
+      "national park",
+      "surfing"
+    ],
+    "best_time_to_visit": "Apr-Oct",
+    "airport_code": "KHH",
+    "image_search": "Kenting Taiwan travel"
+  },
+  {
     "name": "Kerala",
     "slug": "kerala",
     "country": "India",
@@ -3140,6 +4300,26 @@
     "image_search": "Kigali Rwanda travel"
   },
   {
+    "name": "Kingston",
+    "slug": "kingston",
+    "country": "Jamaica",
+    "country_slug": "jamaica",
+    "region": "Americas",
+    "lat": 18.0179,
+    "lng": -76.8099,
+    "population": 662426,
+    "safety_level": "warning",
+    "budget_per_day": "60-120",
+    "highlights": [
+      "bob marley",
+      "reggae",
+      "culture"
+    ],
+    "best_time_to_visit": "Dec-Apr",
+    "airport_code": "KIN",
+    "image_search": "Kingston Jamaica travel"
+  },
+  {
     "name": "Kobe",
     "slug": "kobe",
     "country": "Japan",
@@ -3158,6 +4338,126 @@
     "best_time_to_visit": "Mar-May, Sep-Nov",
     "airport_code": "KIX",
     "image_search": "Kobe Japan travel"
+  },
+  {
+    "name": "Kochi",
+    "slug": "kochi",
+    "country": "India",
+    "country_slug": "india",
+    "region": "Asia",
+    "lat": 9.9312,
+    "lng": 76.2673,
+    "population": 602046,
+    "safety_level": "safe",
+    "budget_per_day": "25-50",
+    "highlights": [
+      "fort kochi",
+      "chinese nets",
+      "backwaters"
+    ],
+    "best_time_to_visit": "Sep-Mar",
+    "airport_code": "COK",
+    "image_search": "Kochi India travel"
+  },
+  {
+    "name": "Koh Phangan",
+    "slug": "koh-phangan",
+    "country": "Thailand",
+    "country_slug": "thailand",
+    "region": "Asia",
+    "lat": 9.7527,
+    "lng": 100.032,
+    "population": 15000,
+    "safety_level": "safe",
+    "budget_per_day": "30-60",
+    "highlights": [
+      "full moon party",
+      "beaches",
+      "yoga"
+    ],
+    "best_time_to_visit": "Jan-Sep",
+    "airport_code": "USM",
+    "image_search": "Koh Phangan Thailand travel"
+  },
+  {
+    "name": "Koh Rong",
+    "slug": "koh-rong",
+    "country": "Cambodia",
+    "country_slug": "cambodia",
+    "region": "Asia",
+    "lat": 10.7667,
+    "lng": 103.2,
+    "population": 4000,
+    "safety_level": "safe",
+    "budget_per_day": "30-60",
+    "highlights": [
+      "beaches",
+      "party",
+      "bioluminescence"
+    ],
+    "best_time_to_visit": "Nov-May",
+    "airport_code": "KOS",
+    "image_search": "Koh Rong Cambodia travel"
+  },
+  {
+    "name": "Koh Samui",
+    "slug": "koh-samui",
+    "country": "Thailand",
+    "country_slug": "thailand",
+    "region": "Asia",
+    "lat": 9.512,
+    "lng": 100.0136,
+    "population": 63099,
+    "safety_level": "safe",
+    "budget_per_day": "40-80",
+    "highlights": [
+      "beaches",
+      "temples",
+      "parties"
+    ],
+    "best_time_to_visit": "Jan-Sep",
+    "airport_code": "USM",
+    "image_search": "Koh Samui Thailand travel"
+  },
+  {
+    "name": "Koh Tao",
+    "slug": "koh-tao",
+    "country": "Thailand",
+    "country_slug": "thailand",
+    "region": "Asia",
+    "lat": 10.0956,
+    "lng": 99.8403,
+    "population": 1382,
+    "safety_level": "safe",
+    "budget_per_day": "30-60",
+    "highlights": [
+      "diving",
+      "beaches",
+      "snorkeling"
+    ],
+    "best_time_to_visit": "Mar-Sep",
+    "airport_code": "USM",
+    "image_search": "Koh Tao Thailand travel"
+  },
+  {
+    "name": "Komodo",
+    "slug": "komodo",
+    "country": "Indonesia",
+    "country_slug": "indonesia",
+    "region": "Asia",
+    "lat": -8.55,
+    "lng": 119.45,
+    "population": 4000,
+    "safety_level": "safe",
+    "budget_per_day": "50-100",
+    "highlights": [
+      "dragons",
+      "diving",
+      "pink beach"
+    ],
+    "best_time_to_visit": "Apr-Dec",
+    "airport_code": "LBJ",
+    "image_search": "Komodo Indonesia travel"
   },
   {
     "name": "Kota Kinabalu",
@@ -3200,6 +4500,26 @@
     "image_search": "Kotor Montenegro travel"
   },
   {
+    "name": "Krabi",
+    "slug": "krabi",
+    "country": "Thailand",
+    "country_slug": "thailand",
+    "region": "Asia",
+    "lat": 8.0863,
+    "lng": 98.9063,
+    "population": 52867,
+    "safety_level": "safe",
+    "budget_per_day": "30-60",
+    "highlights": [
+      "islands",
+      "rock climbing",
+      "beaches"
+    ],
+    "best_time_to_visit": "Nov-Apr",
+    "airport_code": "KBV",
+    "image_search": "Krabi Thailand travel"
+  },
+  {
     "name": "Krakow",
     "slug": "krakow",
     "country": "Poland",
@@ -3220,6 +4540,26 @@
     "image_search": "Krakow Poland travel"
   },
   {
+    "name": "Kruger",
+    "slug": "kruger",
+    "country": "South Africa",
+    "country_slug": "south-africa",
+    "region": "Africa",
+    "lat": -23.9884,
+    "lng": 31.5547,
+    "population": 0,
+    "safety_level": "safe",
+    "budget_per_day": "80-200",
+    "highlights": [
+      "big five",
+      "safari",
+      "self-drive"
+    ],
+    "best_time_to_visit": "May-Oct",
+    "airport_code": "MQP",
+    "image_search": "Kruger South Africa travel"
+  },
+  {
     "name": "Kuala Lumpur",
     "slug": "kuala-lumpur",
     "country": "Malaysia",
@@ -3238,6 +4578,26 @@
     "best_time_to_visit": "May-Jul, Dec-Feb",
     "airport_code": "KUL",
     "image_search": "Kuala Lumpur Malaysia travel"
+  },
+  {
+    "name": "Kuching",
+    "slug": "kuching",
+    "country": "Malaysia",
+    "country_slug": "malaysia",
+    "region": "Asia",
+    "lat": 1.5533,
+    "lng": 110.3592,
+    "population": 570407,
+    "safety_level": "safe",
+    "budget_per_day": "30-60",
+    "highlights": [
+      "orangutans",
+      "rainforest",
+      "cat statues"
+    ],
+    "best_time_to_visit": "Apr-Sep",
+    "airport_code": "KCH",
+    "image_search": "Kuching Malaysia travel"
   },
   {
     "name": "Kyoto",
@@ -3320,6 +4680,26 @@
     "image_search": "Lagos Portugal travel"
   },
   {
+    "name": "Lake Atitlan",
+    "slug": "lake-atitlan",
+    "country": "Guatemala",
+    "country_slug": "guatemala",
+    "region": "Americas",
+    "lat": 14.7,
+    "lng": -91.2,
+    "population": 50000,
+    "safety_level": "caution",
+    "budget_per_day": "25-55",
+    "highlights": [
+      "volcanoes",
+      "villages",
+      "yoga"
+    ],
+    "best_time_to_visit": "Nov-Apr",
+    "airport_code": "GUA",
+    "image_search": "Lake Atitlan Guatemala travel"
+  },
+  {
     "name": "Lake Bled",
     "slug": "lake-bled",
     "country": "Slovenia",
@@ -3338,6 +4718,46 @@
     "best_time_to_visit": "May-Sep",
     "airport_code": "LJU",
     "image_search": "Lake Bled Slovenia travel"
+  },
+  {
+    "name": "Lake Como",
+    "slug": "lake-como",
+    "country": "Italy",
+    "country_slug": "italy",
+    "region": "Europe",
+    "lat": 45.9877,
+    "lng": 9.2573,
+    "population": 33000,
+    "safety_level": "safe",
+    "budget_per_day": "100-180",
+    "highlights": [
+      "lake",
+      "villas",
+      "celebrities"
+    ],
+    "best_time_to_visit": "Apr-Oct",
+    "airport_code": "MXP",
+    "image_search": "Lake Como Italy travel"
+  },
+  {
+    "name": "Lamu",
+    "slug": "lamu",
+    "country": "Kenya",
+    "country_slug": "kenya",
+    "region": "Africa",
+    "lat": -2.2686,
+    "lng": 40.902,
+    "population": 18382,
+    "safety_level": "caution",
+    "budget_per_day": "50-100",
+    "highlights": [
+      "swahili",
+      "donkeys",
+      "dhows"
+    ],
+    "best_time_to_visit": "Dec-Mar",
+    "airport_code": "LAU",
+    "image_search": "Lamu Kenya travel"
   },
   {
     "name": "Langkawi",
@@ -3380,6 +4800,26 @@
     "image_search": "Las Vegas United States travel"
   },
   {
+    "name": "Leh",
+    "slug": "leh",
+    "country": "India",
+    "country_slug": "india",
+    "region": "Asia",
+    "lat": 34.1526,
+    "lng": 77.5771,
+    "population": 30870,
+    "safety_level": "safe",
+    "budget_per_day": "35-70",
+    "highlights": [
+      "ladakh",
+      "monasteries",
+      "mountains"
+    ],
+    "best_time_to_visit": "May-Sep",
+    "airport_code": "IXL",
+    "image_search": "Leh India travel"
+  },
+  {
     "name": "Leipzig",
     "slug": "leipzig",
     "country": "Germany",
@@ -3398,6 +4838,46 @@
     "best_time_to_visit": "May-Sep",
     "airport_code": "LEJ",
     "image_search": "Leipzig Germany travel"
+  },
+  {
+    "name": "Leon",
+    "slug": "leon",
+    "country": "Nicaragua",
+    "country_slug": "nicaragua",
+    "region": "Americas",
+    "lat": 12.4379,
+    "lng": -86.878,
+    "population": 213489,
+    "safety_level": "caution",
+    "budget_per_day": "30-60",
+    "highlights": [
+      "cathedral",
+      "volcano boarding",
+      "colonial"
+    ],
+    "best_time_to_visit": "Nov-Apr",
+    "airport_code": "MGA",
+    "image_search": "Leon Nicaragua travel"
+  },
+  {
+    "name": "Lijiang",
+    "slug": "lijiang",
+    "country": "China",
+    "country_slug": "china",
+    "region": "Asia",
+    "lat": 26.8721,
+    "lng": 100.2299,
+    "population": 1244769,
+    "safety_level": "safe",
+    "budget_per_day": "35-70",
+    "highlights": [
+      "old town",
+      "naxi culture",
+      "tiger leaping"
+    ],
+    "best_time_to_visit": "Mar-May, Sep-Nov",
+    "airport_code": "LJG",
+    "image_search": "Lijiang China travel"
   },
   {
     "name": "Lima",
@@ -3458,6 +4938,26 @@
     "best_time_to_visit": "May-Sep",
     "airport_code": "LPL",
     "image_search": "Liverpool United Kingdom travel"
+  },
+  {
+    "name": "Livingstone",
+    "slug": "livingstone",
+    "country": "Zambia",
+    "country_slug": "zambia",
+    "region": "Africa",
+    "lat": -17.8419,
+    "lng": 25.86,
+    "population": 109203,
+    "safety_level": "safe",
+    "budget_per_day": "60-120",
+    "highlights": [
+      "victoria falls",
+      "rafting",
+      "bungee"
+    ],
+    "best_time_to_visit": "May-Oct",
+    "airport_code": "LVI",
+    "image_search": "Livingstone Zambia travel"
   },
   {
     "name": "Ljubljana",
@@ -3580,6 +5080,26 @@
     "image_search": "Lucerne Switzerland travel"
   },
   {
+    "name": "Lumbini",
+    "slug": "lumbini",
+    "country": "Nepal",
+    "country_slug": "nepal",
+    "region": "Asia",
+    "lat": 27.4833,
+    "lng": 83.2833,
+    "population": 9801,
+    "safety_level": "safe",
+    "budget_per_day": "20-40",
+    "highlights": [
+      "buddha birthplace",
+      "temples",
+      "pilgrimage"
+    ],
+    "best_time_to_visit": "Oct-Mar",
+    "airport_code": "BWA",
+    "image_search": "Lumbini Nepal travel"
+  },
+  {
     "name": "Luxor",
     "slug": "luxor",
     "country": "Egypt",
@@ -3600,6 +5120,26 @@
     "image_search": "Luxor Egypt travel"
   },
   {
+    "name": "Luzern",
+    "slug": "luzern",
+    "country": "Switzerland",
+    "country_slug": "switzerland",
+    "region": "Europe",
+    "lat": 47.0502,
+    "lng": 8.3093,
+    "population": 81592,
+    "safety_level": "safe",
+    "budget_per_day": "130-200",
+    "highlights": [
+      "lake",
+      "chapel bridge",
+      "alps"
+    ],
+    "best_time_to_visit": "Jun-Sep",
+    "airport_code": "ZRH",
+    "image_search": "Luzern Switzerland travel"
+  },
+  {
     "name": "Lyon",
     "slug": "lyon",
     "country": "France",
@@ -3614,6 +5154,26 @@
       "gastronomy",
       "old town",
       "traboules"
+    ],
+    "best_time_to_visit": "Apr-Oct",
+    "airport_code": "LYS",
+    "image_search": "Lyon France travel"
+  },
+  {
+    "name": "Lyon",
+    "slug": "lyon",
+    "country": "France",
+    "country_slug": "france",
+    "region": "Europe",
+    "lat": 45.764,
+    "lng": 4.8357,
+    "population": 516092,
+    "safety_level": "safe",
+    "budget_per_day": "70-130",
+    "highlights": [
+      "gastronomy",
+      "traboules",
+      "history"
     ],
     "best_time_to_visit": "Apr-Oct",
     "airport_code": "LYS",
@@ -3700,6 +5260,26 @@
     "image_search": "Manchester United Kingdom travel"
   },
   {
+    "name": "Mandalay",
+    "slug": "mandalay",
+    "country": "Myanmar",
+    "country_slug": "myanmar",
+    "region": "Asia",
+    "lat": 21.9588,
+    "lng": 96.0891,
+    "population": 1225553,
+    "safety_level": "warning",
+    "budget_per_day": "30-55",
+    "highlights": [
+      "temples",
+      "palace",
+      "hill"
+    ],
+    "best_time_to_visit": "Nov-Feb",
+    "airport_code": "MDL",
+    "image_search": "Mandalay Myanmar travel"
+  },
+  {
     "name": "Manila",
     "slug": "manila",
     "country": "Philippines",
@@ -3778,6 +5358,66 @@
     "best_time_to_visit": "Apr-Oct",
     "airport_code": "MRS",
     "image_search": "Marseille France travel"
+  },
+  {
+    "name": "Maun",
+    "slug": "maun",
+    "country": "Botswana",
+    "country_slug": "botswana",
+    "region": "Africa",
+    "lat": -19.9833,
+    "lng": 23.4167,
+    "population": 60263,
+    "safety_level": "safe",
+    "budget_per_day": "70-150",
+    "highlights": [
+      "okavango delta",
+      "safari",
+      "mokoro"
+    ],
+    "best_time_to_visit": "May-Oct",
+    "airport_code": "MUB",
+    "image_search": "Maun Botswana travel"
+  },
+  {
+    "name": "Mazunte",
+    "slug": "mazunte",
+    "country": "Mexico",
+    "country_slug": "mexico",
+    "region": "Americas",
+    "lat": 15.6667,
+    "lng": -96.55,
+    "population": 500,
+    "safety_level": "safe",
+    "budget_per_day": "30-60",
+    "highlights": [
+      "turtles",
+      "yoga",
+      "beaches"
+    ],
+    "best_time_to_visit": "Nov-May",
+    "airport_code": "HUX",
+    "image_search": "Mazunte Mexico travel"
+  },
+  {
+    "name": "McLeod Ganj",
+    "slug": "mcleod-ganj",
+    "country": "India",
+    "country_slug": "india",
+    "region": "Asia",
+    "lat": 32.2426,
+    "lng": 76.3213,
+    "population": 11000,
+    "safety_level": "safe",
+    "budget_per_day": "20-40",
+    "highlights": [
+      "dalai lama",
+      "momos",
+      "meditation"
+    ],
+    "best_time_to_visit": "Mar-Jun, Sep-Nov",
+    "airport_code": "DHM",
+    "image_search": "McLeod Ganj India travel"
   },
   {
     "name": "Medellin",
@@ -3960,6 +5600,66 @@
     "image_search": "Milford Sound New Zealand travel"
   },
   {
+    "name": "Mirissa",
+    "slug": "mirissa",
+    "country": "Sri Lanka",
+    "country_slug": "sri-lanka",
+    "region": "Asia",
+    "lat": 5.9485,
+    "lng": 80.4718,
+    "population": 5000,
+    "safety_level": "safe",
+    "budget_per_day": "30-55",
+    "highlights": [
+      "whale watching",
+      "beaches",
+      "surfing"
+    ],
+    "best_time_to_visit": "Nov-Apr",
+    "airport_code": "CMB",
+    "image_search": "Mirissa Sri Lanka travel"
+  },
+  {
+    "name": "Mombasa",
+    "slug": "mombasa",
+    "country": "Kenya",
+    "country_slug": "kenya",
+    "region": "Africa",
+    "lat": -4.0435,
+    "lng": 39.6682,
+    "population": 1208333,
+    "safety_level": "caution",
+    "budget_per_day": "40-80",
+    "highlights": [
+      "beaches",
+      "old town",
+      "fort jesus"
+    ],
+    "best_time_to_visit": "Dec-Mar",
+    "airport_code": "MBA",
+    "image_search": "Mombasa Kenya travel"
+  },
+  {
+    "name": "Montego Bay",
+    "slug": "montego-bay",
+    "country": "Jamaica",
+    "country_slug": "jamaica",
+    "region": "Americas",
+    "lat": 18.4762,
+    "lng": -77.8939,
+    "population": 82867,
+    "safety_level": "caution",
+    "budget_per_day": "70-140",
+    "highlights": [
+      "beaches",
+      "resorts",
+      "nightlife"
+    ],
+    "best_time_to_visit": "Dec-Apr",
+    "airport_code": "MBJ",
+    "image_search": "Montego Bay Jamaica travel"
+  },
+  {
     "name": "Monteverde",
     "slug": "monteverde",
     "country": "Costa Rica",
@@ -4040,6 +5740,26 @@
     "image_search": "Montreal Canada travel"
   },
   {
+    "name": "Moshi",
+    "slug": "moshi",
+    "country": "Tanzania",
+    "country_slug": "tanzania",
+    "region": "Africa",
+    "lat": -3.335,
+    "lng": 37.3403,
+    "population": 144336,
+    "safety_level": "safe",
+    "budget_per_day": "40-80",
+    "highlights": [
+      "kilimanjaro",
+      "coffee",
+      "waterfalls"
+    ],
+    "best_time_to_visit": "Jun-Oct",
+    "airport_code": "JRO",
+    "image_search": "Moshi Tanzania travel"
+  },
+  {
     "name": "Mostar",
     "slug": "mostar",
     "country": "Bosnia and Herzegovina",
@@ -4100,6 +5820,26 @@
     "image_search": "Munich Germany travel"
   },
   {
+    "name": "Munnar",
+    "slug": "munnar",
+    "country": "India",
+    "country_slug": "india",
+    "region": "Asia",
+    "lat": 10.0889,
+    "lng": 77.0595,
+    "population": 30000,
+    "safety_level": "safe",
+    "budget_per_day": "25-50",
+    "highlights": [
+      "tea",
+      "hill station",
+      "nature"
+    ],
+    "best_time_to_visit": "Sep-May",
+    "airport_code": "COK",
+    "image_search": "Munnar India travel"
+  },
+  {
     "name": "Muscat",
     "slug": "muscat",
     "country": "Oman",
@@ -4140,6 +5880,26 @@
     "image_search": "Mykonos Greece travel"
   },
   {
+    "name": "Mysore",
+    "slug": "mysore",
+    "country": "India",
+    "country_slug": "india",
+    "region": "Asia",
+    "lat": 12.2958,
+    "lng": 76.6394,
+    "population": 920550,
+    "safety_level": "safe",
+    "budget_per_day": "20-40",
+    "highlights": [
+      "palace",
+      "yoga",
+      "chamundi"
+    ],
+    "best_time_to_visit": "Oct-Feb",
+    "airport_code": "MYQ",
+    "image_search": "Mysore India travel"
+  },
+  {
     "name": "Nadi",
     "slug": "nadi",
     "country": "Fiji",
@@ -4158,6 +5918,26 @@
     "best_time_to_visit": "May-Oct",
     "airport_code": "NAN",
     "image_search": "Nadi Fiji travel"
+  },
+  {
+    "name": "Nagarkot",
+    "slug": "nagarkot",
+    "country": "Nepal",
+    "country_slug": "nepal",
+    "region": "Asia",
+    "lat": 27.7175,
+    "lng": 85.5194,
+    "population": 4571,
+    "safety_level": "safe",
+    "budget_per_day": "25-45",
+    "highlights": [
+      "himalaya views",
+      "sunrise",
+      "hiking"
+    ],
+    "best_time_to_visit": "Oct-May",
+    "airport_code": "KTM",
+    "image_search": "Nagarkot Nepal travel"
   },
   {
     "name": "Nagoya",
@@ -4200,6 +5980,26 @@
     "image_search": "Nairobi Kenya travel"
   },
   {
+    "name": "Nanjing",
+    "slug": "nanjing",
+    "country": "China",
+    "country_slug": "china",
+    "region": "Asia",
+    "lat": 32.0603,
+    "lng": 118.7969,
+    "population": 8505500,
+    "safety_level": "safe",
+    "budget_per_day": "40-80",
+    "highlights": [
+      "history",
+      "walls",
+      "memorial"
+    ],
+    "best_time_to_visit": "Mar-May, Sep-Nov",
+    "airport_code": "NKG",
+    "image_search": "Nanjing China travel"
+  },
+  {
     "name": "Nantes",
     "slug": "nantes",
     "country": "France",
@@ -4218,6 +6018,26 @@
     "best_time_to_visit": "May-Sep",
     "airport_code": "NTE",
     "image_search": "Nantes France travel"
+  },
+  {
+    "name": "Naoshima",
+    "slug": "naoshima",
+    "country": "Japan",
+    "country_slug": "japan",
+    "region": "Asia",
+    "lat": 34.4597,
+    "lng": 133.995,
+    "population": 3100,
+    "safety_level": "safe",
+    "budget_per_day": "80-140",
+    "highlights": [
+      "art island",
+      "museums",
+      "pumpkin"
+    ],
+    "best_time_to_visit": "Mar-May, Sep-Nov",
+    "airport_code": "TAK",
+    "image_search": "Naoshima Japan travel"
   },
   {
     "name": "Naples",
@@ -4278,6 +6098,26 @@
     "best_time_to_visit": "Apr-Jun, Sep-Nov",
     "airport_code": "BNA",
     "image_search": "Nashville United States travel"
+  },
+  {
+    "name": "Negril",
+    "slug": "negril",
+    "country": "Jamaica",
+    "country_slug": "jamaica",
+    "region": "Americas",
+    "lat": 18.2667,
+    "lng": -78.35,
+    "population": 3000,
+    "safety_level": "caution",
+    "budget_per_day": "60-120",
+    "highlights": [
+      "seven mile beach",
+      "cliffs",
+      "reggae"
+    ],
+    "best_time_to_visit": "Dec-Apr",
+    "airport_code": "MBJ",
+    "image_search": "Negril Jamaica travel"
   },
   {
     "name": "New Orleans",
@@ -4360,6 +6200,86 @@
     "image_search": "Nice France travel"
   },
   {
+    "name": "Nice",
+    "slug": "nice",
+    "country": "France",
+    "country_slug": "france",
+    "region": "Europe",
+    "lat": 43.7102,
+    "lng": 7.262,
+    "population": 342522,
+    "safety_level": "safe",
+    "budget_per_day": "80-150",
+    "highlights": [
+      "promenade",
+      "beaches",
+      "riviera"
+    ],
+    "best_time_to_visit": "May-Sep",
+    "airport_code": "NCE",
+    "image_search": "Nice France travel"
+  },
+  {
+    "name": "Nikko",
+    "slug": "nikko",
+    "country": "Japan",
+    "country_slug": "japan",
+    "region": "Asia",
+    "lat": 36.7197,
+    "lng": 139.6982,
+    "population": 82000,
+    "safety_level": "safe",
+    "budget_per_day": "70-130",
+    "highlights": [
+      "shrines",
+      "nature",
+      "waterfalls"
+    ],
+    "best_time_to_visit": "Apr-May, Oct-Nov",
+    "airport_code": "HND",
+    "image_search": "Nikko Japan travel"
+  },
+  {
+    "name": "Nizwa",
+    "slug": "nizwa",
+    "country": "Oman",
+    "country_slug": "oman",
+    "region": "Asia",
+    "lat": 22.9333,
+    "lng": 57.5333,
+    "population": 72076,
+    "safety_level": "safe",
+    "budget_per_day": "50-90",
+    "highlights": [
+      "fort",
+      "souq",
+      "mountains"
+    ],
+    "best_time_to_visit": "Oct-Mar",
+    "airport_code": "MCT",
+    "image_search": "Nizwa Oman travel"
+  },
+  {
+    "name": "Novi Sad",
+    "slug": "novi-sad",
+    "country": "Serbia",
+    "country_slug": "serbia",
+    "region": "Europe",
+    "lat": 45.2671,
+    "lng": 19.8335,
+    "population": 277522,
+    "safety_level": "safe",
+    "budget_per_day": "30-55",
+    "highlights": [
+      "exit festival",
+      "fortress",
+      "cafes"
+    ],
+    "best_time_to_visit": "May-Sep",
+    "airport_code": "BEG",
+    "image_search": "Novi Sad Serbia travel"
+  },
+  {
     "name": "Nuremberg",
     "slug": "nuremberg",
     "country": "Germany",
@@ -4380,6 +6300,26 @@
     "image_search": "Nuremberg Germany travel"
   },
   {
+    "name": "Nusa Penida",
+    "slug": "nusa-penida",
+    "country": "Indonesia",
+    "country_slug": "indonesia",
+    "region": "Asia",
+    "lat": -8.7275,
+    "lng": 115.5443,
+    "population": 45458,
+    "safety_level": "safe",
+    "budget_per_day": "35-70",
+    "highlights": [
+      "cliffs",
+      "manta rays",
+      "instagram"
+    ],
+    "best_time_to_visit": "Apr-Oct",
+    "airport_code": "DPS",
+    "image_search": "Nusa Penida Indonesia travel"
+  },
+  {
     "name": "Oaxaca",
     "slug": "oaxaca",
     "country": "Mexico",
@@ -4398,6 +6338,46 @@
     "best_time_to_visit": "Oct-May",
     "airport_code": "OAX",
     "image_search": "Oaxaca Mexico travel"
+  },
+  {
+    "name": "Ohrid",
+    "slug": "ohrid",
+    "country": "North Macedonia",
+    "country_slug": "north-macedonia",
+    "region": "Europe",
+    "lat": 41.1231,
+    "lng": 20.8016,
+    "population": 42033,
+    "safety_level": "safe",
+    "budget_per_day": "30-50",
+    "highlights": [
+      "lake",
+      "churches",
+      "unesco"
+    ],
+    "best_time_to_visit": "May-Sep",
+    "airport_code": "OHD",
+    "image_search": "Ohrid North Macedonia travel"
+  },
+  {
+    "name": "Okinawa",
+    "slug": "okinawa",
+    "country": "Japan",
+    "country_slug": "japan",
+    "region": "Asia",
+    "lat": 26.2124,
+    "lng": 127.6809,
+    "population": 318828,
+    "safety_level": "safe",
+    "budget_per_day": "70-130",
+    "highlights": [
+      "beaches",
+      "diving",
+      "culture"
+    ],
+    "best_time_to_visit": "Apr-May, Oct-Nov",
+    "airport_code": "OKA",
+    "image_search": "Okinawa Japan travel"
   },
   {
     "name": "Osaka",
@@ -4460,6 +6440,26 @@
     "image_search": "Oxford United Kingdom travel"
   },
   {
+    "name": "Pai",
+    "slug": "pai",
+    "country": "Thailand",
+    "country_slug": "thailand",
+    "region": "Asia",
+    "lat": 19.3572,
+    "lng": 98.4417,
+    "population": 2500,
+    "safety_level": "safe",
+    "budget_per_day": "20-40",
+    "highlights": [
+      "hippie town",
+      "waterfalls",
+      "pai canyon"
+    ],
+    "best_time_to_visit": "Nov-Feb",
+    "airport_code": "CNX",
+    "image_search": "Pai Thailand travel"
+  },
+  {
     "name": "Palawan",
     "slug": "palawan",
     "country": "Philippines",
@@ -4480,6 +6480,26 @@
     "image_search": "Palawan Philippines travel"
   },
   {
+    "name": "Palenque",
+    "slug": "palenque",
+    "country": "Mexico",
+    "country_slug": "mexico",
+    "region": "Americas",
+    "lat": 17.5089,
+    "lng": -92.0463,
+    "population": 41800,
+    "safety_level": "safe",
+    "budget_per_day": "30-60",
+    "highlights": [
+      "mayan ruins",
+      "jungle",
+      "waterfalls"
+    ],
+    "best_time_to_visit": "Nov-Apr",
+    "airport_code": "PQM",
+    "image_search": "Palenque Mexico travel"
+  },
+  {
     "name": "Palermo",
     "slug": "palermo",
     "country": "Italy",
@@ -4498,6 +6518,26 @@
     "best_time_to_visit": "Apr-Jun, Sep-Oct",
     "airport_code": "PMO",
     "image_search": "Palermo Italy travel"
+  },
+  {
+    "name": "Palma de Mallorca",
+    "slug": "palma-de-mallorca",
+    "country": "Spain",
+    "country_slug": "spain",
+    "region": "Europe",
+    "lat": 39.5696,
+    "lng": 2.6502,
+    "population": 416065,
+    "safety_level": "safe",
+    "budget_per_day": "70-130",
+    "highlights": [
+      "beaches",
+      "cathedral",
+      "old town"
+    ],
+    "best_time_to_visit": "May-Oct",
+    "airport_code": "PMI",
+    "image_search": "Palma de Mallorca Spain travel"
   },
   {
     "name": "Panama City",
@@ -4560,6 +6600,26 @@
     "image_search": "Paris France travel"
   },
   {
+    "name": "Paro",
+    "slug": "paro",
+    "country": "Bhutan",
+    "country_slug": "bhutan",
+    "region": "Asia",
+    "lat": 27.4286,
+    "lng": 89.4169,
+    "population": 10000,
+    "safety_level": "safe",
+    "budget_per_day": "200-300",
+    "highlights": [
+      "tigers nest",
+      "dzong",
+      "festivals"
+    ],
+    "best_time_to_visit": "Mar-May, Sep-Nov",
+    "airport_code": "PBH",
+    "image_search": "Paro Bhutan travel"
+  },
+  {
     "name": "Penang",
     "slug": "penang",
     "country": "Malaysia",
@@ -4578,6 +6638,26 @@
     "best_time_to_visit": "Dec-Mar",
     "airport_code": "PEN",
     "image_search": "Penang Malaysia travel"
+  },
+  {
+    "name": "Perhentian Islands",
+    "slug": "perhentian-islands",
+    "country": "Malaysia",
+    "country_slug": "malaysia",
+    "region": "Asia",
+    "lat": 5.9167,
+    "lng": 102.7333,
+    "population": 2000,
+    "safety_level": "safe",
+    "budget_per_day": "35-70",
+    "highlights": [
+      "diving",
+      "turtles",
+      "beaches"
+    ],
+    "best_time_to_visit": "Mar-Oct",
+    "airport_code": "KBR",
+    "image_search": "Perhentian Islands Malaysia travel"
   },
   {
     "name": "Perth",
@@ -4700,6 +6780,46 @@
     "image_search": "Phuket Thailand travel"
   },
   {
+    "name": "Phuket",
+    "slug": "phuket",
+    "country": "Thailand",
+    "country_slug": "thailand",
+    "region": "Asia",
+    "lat": 7.8804,
+    "lng": 98.3923,
+    "population": 416582,
+    "safety_level": "caution",
+    "budget_per_day": "40-90",
+    "highlights": [
+      "beaches",
+      "nightlife",
+      "islands"
+    ],
+    "best_time_to_visit": "Nov-Apr",
+    "airport_code": "HKT",
+    "image_search": "Phuket Thailand travel"
+  },
+  {
+    "name": "Pisa",
+    "slug": "pisa",
+    "country": "Italy",
+    "country_slug": "italy",
+    "region": "Europe",
+    "lat": 43.7228,
+    "lng": 10.4017,
+    "population": 91104,
+    "safety_level": "safe",
+    "budget_per_day": "60-100",
+    "highlights": [
+      "leaning tower",
+      "university",
+      "tuscany"
+    ],
+    "best_time_to_visit": "Apr-Jun, Sep-Oct",
+    "airport_code": "PSA",
+    "image_search": "Pisa Italy travel"
+  },
+  {
     "name": "Playa del Carmen",
     "slug": "playa-del-carmen",
     "country": "Mexico",
@@ -4738,6 +6858,26 @@
     "best_time_to_visit": "May-Sep",
     "airport_code": "ZAG",
     "image_search": "Plitvice Lakes Croatia travel"
+  },
+  {
+    "name": "Plovdiv",
+    "slug": "plovdiv",
+    "country": "Bulgaria",
+    "country_slug": "bulgaria",
+    "region": "Europe",
+    "lat": 42.15,
+    "lng": 24.75,
+    "population": 346893,
+    "safety_level": "safe",
+    "budget_per_day": "30-60",
+    "highlights": [
+      "old town",
+      "roman ruins",
+      "art"
+    ],
+    "best_time_to_visit": "May-Sep",
+    "airport_code": "PDV",
+    "image_search": "Plovdiv Bulgaria travel"
   },
   {
     "name": "Pokhara",
@@ -4840,6 +6980,26 @@
     "image_search": "Porto Portugal travel"
   },
   {
+    "name": "Porto",
+    "slug": "porto",
+    "country": "Portugal",
+    "country_slug": "portugal",
+    "region": "Europe",
+    "lat": 41.1579,
+    "lng": -8.6291,
+    "population": 249633,
+    "safety_level": "safe",
+    "budget_per_day": "50-90",
+    "highlights": [
+      "port wine",
+      "ribeira",
+      "azulejos"
+    ],
+    "best_time_to_visit": "May-Sep",
+    "airport_code": "OPO",
+    "image_search": "Porto Portugal travel"
+  },
+  {
     "name": "Prague",
     "slug": "prague",
     "country": "Czech Republic",
@@ -4858,6 +7018,46 @@
     "best_time_to_visit": "Apr-Jun, Sep-Oct",
     "airport_code": "PRG",
     "image_search": "Prague Czech Republic travel"
+  },
+  {
+    "name": "Prizren",
+    "slug": "prizren",
+    "country": "Kosovo",
+    "country_slug": "kosovo",
+    "region": "Europe",
+    "lat": 42.2139,
+    "lng": 20.7397,
+    "population": 178000,
+    "safety_level": "caution",
+    "budget_per_day": "25-45",
+    "highlights": [
+      "old town",
+      "fortress",
+      "mosques"
+    ],
+    "best_time_to_visit": "May-Sep",
+    "airport_code": "PRN",
+    "image_search": "Prizren Kosovo travel"
+  },
+  {
+    "name": "Puerto Escondido",
+    "slug": "puerto-escondido",
+    "country": "Mexico",
+    "country_slug": "mexico",
+    "region": "Americas",
+    "lat": 15.872,
+    "lng": -97.0767,
+    "population": 45000,
+    "safety_level": "safe",
+    "budget_per_day": "35-70",
+    "highlights": [
+      "surfing",
+      "zicatela",
+      "nightlife"
+    ],
+    "best_time_to_visit": "Nov-May",
+    "airport_code": "PXM",
+    "image_search": "Puerto Escondido Mexico travel"
   },
   {
     "name": "Puerto Natales",
@@ -4900,6 +7100,46 @@
     "image_search": "Puerto Vallarta Mexico travel"
   },
   {
+    "name": "Punakha",
+    "slug": "punakha",
+    "country": "Bhutan",
+    "country_slug": "bhutan",
+    "region": "Asia",
+    "lat": 27.5833,
+    "lng": 89.8667,
+    "population": 21500,
+    "safety_level": "safe",
+    "budget_per_day": "200-300",
+    "highlights": [
+      "dzong",
+      "rice fields",
+      "rivers"
+    ],
+    "best_time_to_visit": "Mar-May, Sep-Nov",
+    "airport_code": "PBH",
+    "image_search": "Punakha Bhutan travel"
+  },
+  {
+    "name": "Punta Cana",
+    "slug": "punta-cana",
+    "country": "Dominican Republic",
+    "country_slug": "dominican-republic",
+    "region": "Americas",
+    "lat": 18.5601,
+    "lng": -68.3725,
+    "population": 100000,
+    "safety_level": "caution",
+    "budget_per_day": "70-150",
+    "highlights": [
+      "beaches",
+      "resorts",
+      "golf"
+    ],
+    "best_time_to_visit": "Dec-Apr",
+    "airport_code": "PUJ",
+    "image_search": "Punta Cana Dominican Republic travel"
+  },
+  {
     "name": "Punta del Este",
     "slug": "punta-del-este",
     "country": "Uruguay",
@@ -4918,6 +7158,26 @@
     "best_time_to_visit": "Dec-Mar",
     "airport_code": "PDP",
     "image_search": "Punta del Este Uruguay travel"
+  },
+  {
+    "name": "Pushkar",
+    "slug": "pushkar",
+    "country": "India",
+    "country_slug": "india",
+    "region": "Asia",
+    "lat": 26.4897,
+    "lng": 74.5511,
+    "population": 21626,
+    "safety_level": "safe",
+    "budget_per_day": "15-30",
+    "highlights": [
+      "camel fair",
+      "holy lake",
+      "temples"
+    ],
+    "best_time_to_visit": "Oct-Mar",
+    "airport_code": "JAI",
+    "image_search": "Pushkar India travel"
   },
   {
     "name": "Quebec City",
@@ -4980,6 +7240,26 @@
     "image_search": "Quito Ecuador travel"
   },
   {
+    "name": "Raja Ampat",
+    "slug": "raja-ampat",
+    "country": "Indonesia",
+    "country_slug": "indonesia",
+    "region": "Asia",
+    "lat": -0.2333,
+    "lng": 130.5167,
+    "population": 50000,
+    "safety_level": "safe",
+    "budget_per_day": "80-150",
+    "highlights": [
+      "diving",
+      "marine life",
+      "remote"
+    ],
+    "best_time_to_visit": "Oct-Apr",
+    "airport_code": "SOQ",
+    "image_search": "Raja Ampat Indonesia travel"
+  },
+  {
     "name": "Rarotonga",
     "slug": "rarotonga",
     "country": "Cook Islands",
@@ -4998,6 +7278,26 @@
     "best_time_to_visit": "Apr-Nov",
     "airport_code": "RAR",
     "image_search": "Rarotonga Cook Islands travel"
+  },
+  {
+    "name": "Ras Al Khaimah",
+    "slug": "ras-al-khaimah",
+    "country": "United Arab Emirates",
+    "country_slug": "united-arab-emirates",
+    "region": "Asia",
+    "lat": 25.7953,
+    "lng": 55.9432,
+    "population": 345000,
+    "safety_level": "safe",
+    "budget_per_day": "80-150",
+    "highlights": [
+      "adventure",
+      "mountains",
+      "beaches"
+    ],
+    "best_time_to_visit": "Nov-Mar",
+    "airport_code": "RKT",
+    "image_search": "Ras Al Khaimah United Arab Emirates travel"
   },
   {
     "name": "Reykjavik",
@@ -5100,6 +7400,26 @@
     "image_search": "Rishikesh India travel"
   },
   {
+    "name": "Roatan",
+    "slug": "roatan",
+    "country": "Honduras",
+    "country_slug": "honduras",
+    "region": "Americas",
+    "lat": 16.3167,
+    "lng": -86.5167,
+    "population": 45000,
+    "safety_level": "caution",
+    "budget_per_day": "60-120",
+    "highlights": [
+      "diving",
+      "beaches",
+      "reef"
+    ],
+    "best_time_to_visit": "Feb-Aug",
+    "airport_code": "RTB",
+    "image_search": "Roatan Honduras travel"
+  },
+  {
     "name": "Rome",
     "slug": "rome",
     "country": "Italy",
@@ -5178,6 +7498,46 @@
     "best_time_to_visit": "Dec-Mar",
     "airport_code": "RVN",
     "image_search": "Rovaniemi Finland travel"
+  },
+  {
+    "name": "Sagada",
+    "slug": "sagada",
+    "country": "Philippines",
+    "country_slug": "philippines",
+    "region": "Asia",
+    "lat": 17.0841,
+    "lng": 120.9036,
+    "population": 11000,
+    "safety_level": "safe",
+    "budget_per_day": "20-40",
+    "highlights": [
+      "hanging coffins",
+      "caves",
+      "sunrise"
+    ],
+    "best_time_to_visit": "Dec-May",
+    "airport_code": "MNL",
+    "image_search": "Sagada Philippines travel"
+  },
+  {
+    "name": "Salalah",
+    "slug": "salalah",
+    "country": "Oman",
+    "country_slug": "oman",
+    "region": "Asia",
+    "lat": 17.0151,
+    "lng": 54.0924,
+    "population": 293642,
+    "safety_level": "safe",
+    "budget_per_day": "60-110",
+    "highlights": [
+      "monsoon",
+      "frankincense",
+      "beaches"
+    ],
+    "best_time_to_visit": "Jun-Sep (khareef), Oct-Mar",
+    "airport_code": "SLL",
+    "image_search": "Salalah Oman travel"
   },
   {
     "name": "Salamanca",
@@ -5280,6 +7640,26 @@
     "image_search": "Samarkand Uzbekistan travel"
   },
   {
+    "name": "San Cristobal de las Casas",
+    "slug": "san-cristobal-de-las-casas",
+    "country": "Mexico",
+    "country_slug": "mexico",
+    "region": "Americas",
+    "lat": 16.737,
+    "lng": -92.6376,
+    "population": 186779,
+    "safety_level": "caution",
+    "budget_per_day": "30-60",
+    "highlights": [
+      "indigenous",
+      "colonial",
+      "coffee"
+    ],
+    "best_time_to_visit": "Nov-Apr",
+    "airport_code": "SJC",
+    "image_search": "San Cristobal de las Casas Mexico travel"
+  },
+  {
     "name": "San Diego",
     "slug": "san-diego",
     "country": "United States",
@@ -5360,6 +7740,46 @@
     "image_search": "San Jose Costa Rica travel"
   },
   {
+    "name": "San Juan",
+    "slug": "san-juan",
+    "country": "Puerto Rico",
+    "country_slug": "puerto-rico",
+    "region": "Americas",
+    "lat": 18.4655,
+    "lng": -66.1057,
+    "population": 395326,
+    "safety_level": "caution",
+    "budget_per_day": "80-150",
+    "highlights": [
+      "old san juan",
+      "beaches",
+      "nightlife"
+    ],
+    "best_time_to_visit": "Dec-May",
+    "airport_code": "SJU",
+    "image_search": "San Juan Puerto Rico travel"
+  },
+  {
+    "name": "San Juan del Sur",
+    "slug": "san-juan-del-sur",
+    "country": "Nicaragua",
+    "country_slug": "nicaragua",
+    "region": "Americas",
+    "lat": 11.2522,
+    "lng": -85.8687,
+    "population": 18177,
+    "safety_level": "safe",
+    "budget_per_day": "35-70",
+    "highlights": [
+      "surfing",
+      "beaches",
+      "sunday funday"
+    ],
+    "best_time_to_visit": "Nov-Apr",
+    "airport_code": "MGA",
+    "image_search": "San Juan del Sur Nicaragua travel"
+  },
+  {
     "name": "San Miguel de Allende",
     "slug": "san-miguel-de-allende",
     "country": "Mexico",
@@ -5438,6 +7858,26 @@
     "best_time_to_visit": "Oct-Apr",
     "airport_code": "SCL",
     "image_search": "Santiago Chile travel"
+  },
+  {
+    "name": "Santo Domingo",
+    "slug": "santo-domingo",
+    "country": "Dominican Republic",
+    "country_slug": "dominican-republic",
+    "region": "Americas",
+    "lat": 18.4861,
+    "lng": -69.9312,
+    "population": 2201941,
+    "safety_level": "caution",
+    "budget_per_day": "50-100",
+    "highlights": [
+      "colonial zone",
+      "history",
+      "nightlife"
+    ],
+    "best_time_to_visit": "Dec-Apr",
+    "airport_code": "SDQ",
+    "image_search": "Santo Domingo Dominican Republic travel"
   },
   {
     "name": "Santorini",
@@ -5540,6 +7980,26 @@
     "image_search": "Sarajevo Bosnia and Herzegovina travel"
   },
   {
+    "name": "Sayulita",
+    "slug": "sayulita",
+    "country": "Mexico",
+    "country_slug": "mexico",
+    "region": "Americas",
+    "lat": 20.8681,
+    "lng": -105.4378,
+    "population": 4500,
+    "safety_level": "safe",
+    "budget_per_day": "50-100",
+    "highlights": [
+      "surfing",
+      "bohemian",
+      "beaches"
+    ],
+    "best_time_to_visit": "Nov-May",
+    "airport_code": "PVR",
+    "image_search": "Sayulita Mexico travel"
+  },
+  {
     "name": "Seattle",
     "slug": "seattle",
     "country": "United States",
@@ -5558,6 +8018,26 @@
     "best_time_to_visit": "Jun-Sep",
     "airport_code": "SEA",
     "image_search": "Seattle United States travel"
+  },
+  {
+    "name": "Semuc Champey",
+    "slug": "semuc-champey",
+    "country": "Guatemala",
+    "country_slug": "guatemala",
+    "region": "Americas",
+    "lat": 15.5333,
+    "lng": -90.0333,
+    "population": 500,
+    "safety_level": "safe",
+    "budget_per_day": "25-50",
+    "highlights": [
+      "pools",
+      "caves",
+      "adventure"
+    ],
+    "best_time_to_visit": "Nov-Apr",
+    "airport_code": "GUA",
+    "image_search": "Semuc Champey Guatemala travel"
   },
   {
     "name": "Seoul",
@@ -5600,6 +8080,26 @@
     "image_search": "Seville Spain travel"
   },
   {
+    "name": "Seville",
+    "slug": "seville",
+    "country": "Spain",
+    "country_slug": "spain",
+    "region": "Europe",
+    "lat": 37.3891,
+    "lng": -5.9845,
+    "population": 688711,
+    "safety_level": "safe",
+    "budget_per_day": "55-100",
+    "highlights": [
+      "flamenco",
+      "alcazar",
+      "tapas"
+    ],
+    "best_time_to_visit": "Mar-May, Sep-Nov",
+    "airport_code": "SVQ",
+    "image_search": "Seville Spain travel"
+  },
+  {
     "name": "Shanghai",
     "slug": "shanghai",
     "country": "China",
@@ -5618,6 +8118,86 @@
     "best_time_to_visit": "Apr-May, Sep-Oct",
     "airport_code": "PVG",
     "image_search": "Shanghai China travel"
+  },
+  {
+    "name": "Sharjah",
+    "slug": "sharjah",
+    "country": "United Arab Emirates",
+    "country_slug": "united-arab-emirates",
+    "region": "Asia",
+    "lat": 25.3463,
+    "lng": 55.4209,
+    "population": 1405000,
+    "safety_level": "safe",
+    "budget_per_day": "70-130",
+    "highlights": [
+      "museums",
+      "souks",
+      "culture"
+    ],
+    "best_time_to_visit": "Nov-Mar",
+    "airport_code": "SHJ",
+    "image_search": "Sharjah United Arab Emirates travel"
+  },
+  {
+    "name": "Shenzhen",
+    "slug": "shenzhen",
+    "country": "China",
+    "country_slug": "china",
+    "region": "Asia",
+    "lat": 22.5431,
+    "lng": 114.0579,
+    "population": 12528300,
+    "safety_level": "safe",
+    "budget_per_day": "50-100",
+    "highlights": [
+      "tech",
+      "theme parks",
+      "modern"
+    ],
+    "best_time_to_visit": "Oct-Dec",
+    "airport_code": "SZX",
+    "image_search": "Shenzhen China travel"
+  },
+  {
+    "name": "Shirakawa-go",
+    "slug": "shirakawa-go",
+    "country": "Japan",
+    "country_slug": "japan",
+    "region": "Asia",
+    "lat": 36.2567,
+    "lng": 136.9056,
+    "population": 1864,
+    "safety_level": "safe",
+    "budget_per_day": "80-150",
+    "highlights": [
+      "gassho houses",
+      "unesco",
+      "snow"
+    ],
+    "best_time_to_visit": "Jan-Feb, May-Nov",
+    "airport_code": "KMQ",
+    "image_search": "Shirakawa-go Japan travel"
+  },
+  {
+    "name": "Shkoder",
+    "slug": "shkoder",
+    "country": "Albania",
+    "country_slug": "albania",
+    "region": "Europe",
+    "lat": 42.0693,
+    "lng": 19.5033,
+    "population": 135612,
+    "safety_level": "caution",
+    "budget_per_day": "25-50",
+    "highlights": [
+      "castle",
+      "lake",
+      "alps"
+    ],
+    "best_time_to_visit": "May-Sep",
+    "airport_code": "TIA",
+    "image_search": "Shkoder Albania travel"
   },
   {
     "name": "Siargao",
@@ -5640,6 +8220,26 @@
     "image_search": "Siargao Philippines travel"
   },
   {
+    "name": "Sibiu",
+    "slug": "sibiu",
+    "country": "Romania",
+    "country_slug": "romania",
+    "region": "Europe",
+    "lat": 45.7983,
+    "lng": 24.1256,
+    "population": 147245,
+    "safety_level": "safe",
+    "budget_per_day": "35-65",
+    "highlights": [
+      "old town",
+      "transylvania",
+      "eyes"
+    ],
+    "best_time_to_visit": "May-Sep",
+    "airport_code": "SBZ",
+    "image_search": "Sibiu Romania travel"
+  },
+  {
     "name": "Siem Reap",
     "slug": "siem-reap",
     "country": "Cambodia",
@@ -5658,6 +8258,46 @@
     "best_time_to_visit": "Nov-Apr",
     "airport_code": "REP",
     "image_search": "Siem Reap Cambodia travel"
+  },
+  {
+    "name": "Siena",
+    "slug": "siena",
+    "country": "Italy",
+    "country_slug": "italy",
+    "region": "Europe",
+    "lat": 43.3188,
+    "lng": 11.3308,
+    "population": 53903,
+    "safety_level": "safe",
+    "budget_per_day": "70-120",
+    "highlights": [
+      "piazza",
+      "palio",
+      "medieval"
+    ],
+    "best_time_to_visit": "Apr-Jun, Sep-Oct",
+    "airport_code": "FLR",
+    "image_search": "Siena Italy travel"
+  },
+  {
+    "name": "Sigiriya",
+    "slug": "sigiriya",
+    "country": "Sri Lanka",
+    "country_slug": "sri-lanka",
+    "region": "Asia",
+    "lat": 7.957,
+    "lng": 80.7603,
+    "population": 5000,
+    "safety_level": "safe",
+    "budget_per_day": "30-55",
+    "highlights": [
+      "lion rock",
+      "frescoes",
+      "gardens"
+    ],
+    "best_time_to_visit": "Dec-Mar",
+    "airport_code": "CMB",
+    "image_search": "Sigiriya Sri Lanka travel"
   },
   {
     "name": "Singapore",
@@ -5700,6 +8340,26 @@
     "image_search": "Sintra Portugal travel"
   },
   {
+    "name": "Skopje",
+    "slug": "skopje",
+    "country": "North Macedonia",
+    "country_slug": "north-macedonia",
+    "region": "Europe",
+    "lat": 42.0,
+    "lng": 21.4333,
+    "population": 544086,
+    "safety_level": "safe",
+    "budget_per_day": "30-55",
+    "highlights": [
+      "statues",
+      "bazaar",
+      "canyon"
+    ],
+    "best_time_to_visit": "May-Sep",
+    "airport_code": "SKP",
+    "image_search": "Skopje North Macedonia travel"
+  },
+  {
     "name": "Sofia",
     "slug": "sofia",
     "country": "Bulgaria",
@@ -5718,6 +8378,46 @@
     "best_time_to_visit": "May-Sep",
     "airport_code": "SOF",
     "image_search": "Sofia Bulgaria travel"
+  },
+  {
+    "name": "Sokcho",
+    "slug": "sokcho",
+    "country": "South Korea",
+    "country_slug": "south-korea",
+    "region": "Asia",
+    "lat": 38.2069,
+    "lng": 128.591,
+    "population": 82491,
+    "safety_level": "safe",
+    "budget_per_day": "50-90",
+    "highlights": [
+      "seoraksan",
+      "seafood",
+      "beaches"
+    ],
+    "best_time_to_visit": "Apr-Jun, Sep-Nov",
+    "airport_code": "YNY",
+    "image_search": "Sokcho South Korea travel"
+  },
+  {
+    "name": "Sossusvlei",
+    "slug": "sossusvlei",
+    "country": "Namibia",
+    "country_slug": "namibia",
+    "region": "Africa",
+    "lat": -24.75,
+    "lng": 15.2167,
+    "population": 500,
+    "safety_level": "safe",
+    "budget_per_day": "80-160",
+    "highlights": [
+      "dunes",
+      "dead vlei",
+      "desert"
+    ],
+    "best_time_to_visit": "May-Oct",
+    "airport_code": "WDH",
+    "image_search": "Sossusvlei Namibia travel"
   },
   {
     "name": "Split",
@@ -5740,6 +8440,46 @@
     "image_search": "Split Croatia travel"
   },
   {
+    "name": "Split",
+    "slug": "split",
+    "country": "Croatia",
+    "country_slug": "croatia",
+    "region": "Europe",
+    "lat": 43.5081,
+    "lng": 16.4402,
+    "population": 178102,
+    "safety_level": "safe",
+    "budget_per_day": "60-110",
+    "highlights": [
+      "palace",
+      "islands",
+      "riviera"
+    ],
+    "best_time_to_visit": "May-Sep",
+    "airport_code": "SPU",
+    "image_search": "Split Croatia travel"
+  },
+  {
+    "name": "Stellenbosch",
+    "slug": "stellenbosch",
+    "country": "South Africa",
+    "country_slug": "south-africa",
+    "region": "Africa",
+    "lat": -33.9346,
+    "lng": 18.8667,
+    "population": 155733,
+    "safety_level": "safe",
+    "budget_per_day": "55-110",
+    "highlights": [
+      "wine",
+      "oak trees",
+      "university"
+    ],
+    "best_time_to_visit": "Sep-May",
+    "airport_code": "CPT",
+    "image_search": "Stellenbosch South Africa travel"
+  },
+  {
     "name": "Stockholm",
     "slug": "stockholm",
     "country": "Sweden",
@@ -5758,6 +8498,26 @@
     "best_time_to_visit": "May-Sep",
     "airport_code": "ARN",
     "image_search": "Stockholm Sweden travel"
+  },
+  {
+    "name": "Stone Town",
+    "slug": "stone-town",
+    "country": "Tanzania",
+    "country_slug": "tanzania",
+    "region": "Africa",
+    "lat": -6.1622,
+    "lng": 39.1921,
+    "population": 400000,
+    "safety_level": "caution",
+    "budget_per_day": "45-90",
+    "highlights": [
+      "unesco",
+      "spices",
+      "doors"
+    ],
+    "best_time_to_visit": "Jun-Oct",
+    "airport_code": "ZNZ",
+    "image_search": "Stone Town Tanzania travel"
   },
   {
     "name": "Strasbourg",
@@ -5818,6 +8578,66 @@
     "best_time_to_visit": "May-Oct",
     "airport_code": "SRE",
     "image_search": "Sucre Bolivia travel"
+  },
+  {
+    "name": "Sukhothai",
+    "slug": "sukhothai",
+    "country": "Thailand",
+    "country_slug": "thailand",
+    "region": "Asia",
+    "lat": 17.007,
+    "lng": 99.8237,
+    "population": 37000,
+    "safety_level": "safe",
+    "budget_per_day": "20-40",
+    "highlights": [
+      "historical park",
+      "temples",
+      "bicycles"
+    ],
+    "best_time_to_visit": "Nov-Feb",
+    "airport_code": "THS",
+    "image_search": "Sukhothai Thailand travel"
+  },
+  {
+    "name": "Sun Moon Lake",
+    "slug": "sun-moon-lake",
+    "country": "Taiwan",
+    "country_slug": "taiwan",
+    "region": "Asia",
+    "lat": 23.8651,
+    "lng": 120.9196,
+    "population": 5000,
+    "safety_level": "safe",
+    "budget_per_day": "50-90",
+    "highlights": [
+      "lake",
+      "cycling",
+      "temples"
+    ],
+    "best_time_to_visit": "Sep-Apr",
+    "airport_code": "RMQ",
+    "image_search": "Sun Moon Lake Taiwan travel"
+  },
+  {
+    "name": "Suzhou",
+    "slug": "suzhou",
+    "country": "China",
+    "country_slug": "china",
+    "region": "Asia",
+    "lat": 31.2989,
+    "lng": 120.5853,
+    "population": 10721700,
+    "safety_level": "safe",
+    "budget_per_day": "45-85",
+    "highlights": [
+      "gardens",
+      "canals",
+      "silk"
+    ],
+    "best_time_to_visit": "Apr-May, Sep-Oct",
+    "airport_code": "WUX",
+    "image_search": "Suzhou China travel"
   },
   {
     "name": "Swakopmund",
@@ -5918,6 +8738,26 @@
     "best_time_to_visit": "Oct-Apr",
     "airport_code": "TPE",
     "image_search": "Taipei Taiwan travel"
+  },
+  {
+    "name": "Takayama",
+    "slug": "takayama",
+    "country": "Japan",
+    "country_slug": "japan",
+    "region": "Asia",
+    "lat": 36.1408,
+    "lng": 137.2519,
+    "population": 85854,
+    "safety_level": "safe",
+    "budget_per_day": "70-130",
+    "highlights": [
+      "old town",
+      "sake",
+      "alps"
+    ],
+    "best_time_to_visit": "Apr-May, Sep-Nov",
+    "airport_code": "NGO",
+    "image_search": "Takayama Japan travel"
   },
   {
     "name": "Tallinn",
@@ -6060,6 +8900,46 @@
     "image_search": "Thessaloniki Greece travel"
   },
   {
+    "name": "Thimphu",
+    "slug": "thimphu",
+    "country": "Bhutan",
+    "country_slug": "bhutan",
+    "region": "Asia",
+    "lat": 27.4716,
+    "lng": 89.6386,
+    "population": 114551,
+    "safety_level": "safe",
+    "budget_per_day": "200-300",
+    "highlights": [
+      "capital",
+      "dzong",
+      "buddha point"
+    ],
+    "best_time_to_visit": "Mar-May, Sep-Nov",
+    "airport_code": "PBH",
+    "image_search": "Thimphu Bhutan travel"
+  },
+  {
+    "name": "Tioman Island",
+    "slug": "tioman-island",
+    "country": "Malaysia",
+    "country_slug": "malaysia",
+    "region": "Asia",
+    "lat": 2.7895,
+    "lng": 104.1667,
+    "population": 3000,
+    "safety_level": "safe",
+    "budget_per_day": "40-80",
+    "highlights": [
+      "diving",
+      "snorkeling",
+      "jungle"
+    ],
+    "best_time_to_visit": "Mar-Oct",
+    "airport_code": "TOD",
+    "image_search": "Tioman Island Malaysia travel"
+  },
+  {
     "name": "Tirana",
     "slug": "tirana",
     "country": "Albania",
@@ -6158,6 +9038,46 @@
     "best_time_to_visit": "Apr-Oct",
     "airport_code": "TLS",
     "image_search": "Toulouse France travel"
+  },
+  {
+    "name": "Trincomalee",
+    "slug": "trincomalee",
+    "country": "Sri Lanka",
+    "country_slug": "sri-lanka",
+    "region": "Asia",
+    "lat": 8.5778,
+    "lng": 81.2333,
+    "population": 99135,
+    "safety_level": "safe",
+    "budget_per_day": "25-50",
+    "highlights": [
+      "beaches",
+      "diving",
+      "temples"
+    ],
+    "best_time_to_visit": "Apr-Sep",
+    "airport_code": "CMB",
+    "image_search": "Trincomalee Sri Lanka travel"
+  },
+  {
+    "name": "Trinidad",
+    "slug": "trinidad",
+    "country": "Cuba",
+    "country_slug": "cuba",
+    "region": "Americas",
+    "lat": 21.8033,
+    "lng": -79.9894,
+    "population": 75574,
+    "safety_level": "safe",
+    "budget_per_day": "40-80",
+    "highlights": [
+      "colonial",
+      "cobblestones",
+      "music"
+    ],
+    "best_time_to_visit": "Nov-Apr",
+    "airport_code": "SNU",
+    "image_search": "Trinidad Cuba travel"
   },
   {
     "name": "Tromso",
@@ -6420,6 +9340,26 @@
     "image_search": "Vancouver Canada travel"
   },
   {
+    "name": "Vang Vieng",
+    "slug": "vang-vieng",
+    "country": "Laos",
+    "country_slug": "laos",
+    "region": "Asia",
+    "lat": 18.9335,
+    "lng": 102.4525,
+    "population": 25000,
+    "safety_level": "safe",
+    "budget_per_day": "20-40",
+    "highlights": [
+      "tubing",
+      "karst",
+      "caves"
+    ],
+    "best_time_to_visit": "Nov-Feb",
+    "airport_code": "VTE",
+    "image_search": "Vang Vieng Laos travel"
+  },
+  {
     "name": "Varanasi",
     "slug": "varanasi",
     "country": "India",
@@ -6438,6 +9378,26 @@
     "best_time_to_visit": "Oct-Mar",
     "airport_code": "VNS",
     "image_search": "Varanasi India travel"
+  },
+  {
+    "name": "Varna",
+    "slug": "varna",
+    "country": "Bulgaria",
+    "country_slug": "bulgaria",
+    "region": "Europe",
+    "lat": 43.2141,
+    "lng": 27.9147,
+    "population": 336505,
+    "safety_level": "safe",
+    "budget_per_day": "35-65",
+    "highlights": [
+      "black sea",
+      "beaches",
+      "roman"
+    ],
+    "best_time_to_visit": "Jun-Sep",
+    "airport_code": "VAR",
+    "image_search": "Varna Bulgaria travel"
   },
   {
     "name": "Venice",
@@ -6600,6 +9560,46 @@
     "image_search": "Vilnius Lithuania travel"
   },
   {
+    "name": "Vinales",
+    "slug": "vinales",
+    "country": "Cuba",
+    "country_slug": "cuba",
+    "region": "Americas",
+    "lat": 22.6167,
+    "lng": -83.7167,
+    "population": 27029,
+    "safety_level": "safe",
+    "budget_per_day": "35-70",
+    "highlights": [
+      "tobacco",
+      "mogotes",
+      "horseback"
+    ],
+    "best_time_to_visit": "Nov-Apr",
+    "airport_code": "HAV",
+    "image_search": "Vinales Cuba travel"
+  },
+  {
+    "name": "Wadi Rum",
+    "slug": "wadi-rum",
+    "country": "Jordan",
+    "country_slug": "jordan",
+    "region": "Asia",
+    "lat": 29.5722,
+    "lng": 35.4194,
+    "population": 5000,
+    "safety_level": "safe",
+    "budget_per_day": "40-80",
+    "highlights": [
+      "desert",
+      "bedouin",
+      "mars landscape"
+    ],
+    "best_time_to_visit": "Mar-May, Sep-Nov",
+    "airport_code": "AQJ",
+    "image_search": "Wadi Rum Jordan travel"
+  },
+  {
     "name": "Wanaka",
     "slug": "wanaka",
     "country": "New Zealand",
@@ -6720,6 +9720,26 @@
     "image_search": "Wroclaw Poland travel"
   },
   {
+    "name": "Wuhan",
+    "slug": "wuhan",
+    "country": "China",
+    "country_slug": "china",
+    "region": "Asia",
+    "lat": 30.5928,
+    "lng": 114.3055,
+    "population": 11212000,
+    "safety_level": "safe",
+    "budget_per_day": "35-70",
+    "highlights": [
+      "cherry blossoms",
+      "hot dry noodles",
+      "lakes"
+    ],
+    "best_time_to_visit": "Mar-May, Sep-Nov",
+    "airport_code": "WUH",
+    "image_search": "Wuhan China travel"
+  },
+  {
     "name": "Xian",
     "slug": "xian",
     "country": "China",
@@ -6758,6 +9778,26 @@
     "best_time_to_visit": "Nov-Feb",
     "airport_code": "RGN",
     "image_search": "Yangon Myanmar travel"
+  },
+  {
+    "name": "Yangshuo",
+    "slug": "yangshuo",
+    "country": "China",
+    "country_slug": "china",
+    "region": "Asia",
+    "lat": 24.7825,
+    "lng": 110.4967,
+    "population": 309200,
+    "safety_level": "safe",
+    "budget_per_day": "30-60",
+    "highlights": [
+      "karst",
+      "cycling",
+      "li river"
+    ],
+    "best_time_to_visit": "Apr-Oct",
+    "airport_code": "KWL",
+    "image_search": "Yangshuo China travel"
   },
   {
     "name": "Yerevan",
@@ -6840,6 +9880,26 @@
     "image_search": "Zagreb Croatia travel"
   },
   {
+    "name": "Zakopane",
+    "slug": "zakopane",
+    "country": "Poland",
+    "country_slug": "poland",
+    "region": "Europe",
+    "lat": 49.2992,
+    "lng": 19.9496,
+    "population": 27266,
+    "safety_level": "safe",
+    "budget_per_day": "35-70",
+    "highlights": [
+      "tatras",
+      "skiing",
+      "hiking"
+    ],
+    "best_time_to_visit": "Dec-Mar, Jun-Sep",
+    "airport_code": "KRK",
+    "image_search": "Zakopane Poland travel"
+  },
+  {
     "name": "Zanzibar",
     "slug": "zanzibar",
     "country": "Tanzania",
@@ -6878,6 +9938,46 @@
     "best_time_to_visit": "Jun-Sep, Dec-Mar",
     "airport_code": "GVA",
     "image_search": "Zermatt Switzerland travel"
+  },
+  {
+    "name": "Zhangjiajie",
+    "slug": "zhangjiajie",
+    "country": "China",
+    "country_slug": "china",
+    "region": "Asia",
+    "lat": 29.1168,
+    "lng": 110.4786,
+    "population": 1537024,
+    "safety_level": "safe",
+    "budget_per_day": "40-80",
+    "highlights": [
+      "avatar mountains",
+      "glass bridge",
+      "hiking"
+    ],
+    "best_time_to_visit": "Apr-Jun, Sep-Nov",
+    "airport_code": "DYG",
+    "image_search": "Zhangjiajie China travel"
+  },
+  {
+    "name": "Zurich",
+    "slug": "zurich",
+    "country": "Switzerland",
+    "country_slug": "switzerland",
+    "region": "Europe",
+    "lat": 47.3769,
+    "lng": 8.5417,
+    "population": 415367,
+    "safety_level": "safe",
+    "budget_per_day": "130-200",
+    "highlights": [
+      "finance",
+      "lake",
+      "old town"
+    ],
+    "best_time_to_visit": "Jun-Sep",
+    "airport_code": "ZRH",
+    "image_search": "Zurich Switzerland travel"
   },
   {
     "name": "Zurich",

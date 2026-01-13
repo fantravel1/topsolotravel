@@ -1,0 +1,20 @@
+{
+  "name": "Dubrovnik Old Town",
+  "slug": "dubrovnik-old-town",
+  "country": "Croatia",
+  "country_slug": "croatia",
+  "region": "Europe",
+  "lat": 42.6507,
+  "lng": 18.0944,
+  "population": 42615,
+  "safety_level": "safe",
+  "budget_per_day": "80-150",
+  "highlights": [
+    "walls",
+    "game of thrones",
+    "adriatic"
+  ],
+  "best_time_to_visit": "May-Sep",
+  "airport_code": "DBV",
+  "image_search": "Dubrovnik Old Town Croatia travel"
+}

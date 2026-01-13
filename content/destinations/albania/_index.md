@@ -40,6 +40,18 @@ safety:
     - "Walking alone in unfamiliar areas late at night"
 
 topCities:
+  - name: "Berat"
+    url: "/destinations/albania/berat/"
+    description: "Popular destination for solo travelers with great infrastructure."
+    highlights: ["thousand windows", "castle", "unesco"]
+  - name: "Gjirokaster"
+    url: "/destinations/albania/gjirokaster/"
+    description: "Popular destination for solo travelers with great infrastructure."
+    highlights: ["stone town", "castle", "ottoman"]
+  - name: "Shkoder"
+    url: "/destinations/albania/shkoder/"
+    description: "Popular destination for solo travelers with great infrastructure."
+    highlights: ["castle", "lake", "alps"]
   - name: "Tirana"
     url: "/destinations/albania/tirana/"
     description: "Popular destination for solo travelers with great infrastructure."

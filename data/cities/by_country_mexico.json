@@ -1,5 +1,25 @@
 [
   {
+    "name": "Bacalar",
+    "slug": "bacalar",
+    "country": "Mexico",
+    "country_slug": "mexico",
+    "region": "Americas",
+    "lat": 18.6697,
+    "lng": -88.388,
+    "population": 12000,
+    "safety_level": "safe",
+    "budget_per_day": "40-80",
+    "highlights": [
+      "lagoon",
+      "cenotes",
+      "colors"
+    ],
+    "best_time_to_visit": "Year-round",
+    "airport_code": "CZM",
+    "image_search": "Bacalar Mexico travel"
+  },
+  {
     "name": "Cancun",
     "slug": "cancun",
     "country": "Mexico",
@@ -58,6 +78,46 @@
     "best_time_to_visit": "Oct-May",
     "airport_code": "BJX",
     "image_search": "Guanajuato Mexico travel"
+  },
+  {
+    "name": "Holbox",
+    "slug": "holbox",
+    "country": "Mexico",
+    "country_slug": "mexico",
+    "region": "Americas",
+    "lat": 21.5222,
+    "lng": -87.3808,
+    "population": 2000,
+    "safety_level": "safe",
+    "budget_per_day": "50-100",
+    "highlights": [
+      "whale sharks",
+      "car-free",
+      "bioluminescence"
+    ],
+    "best_time_to_visit": "May-Sep",
+    "airport_code": "CUN",
+    "image_search": "Holbox Mexico travel"
+  },
+  {
+    "name": "Mazunte",
+    "slug": "mazunte",
+    "country": "Mexico",
+    "country_slug": "mexico",
+    "region": "Americas",
+    "lat": 15.6667,
+    "lng": -96.55,
+    "population": 500,
+    "safety_level": "safe",
+    "budget_per_day": "30-60",
+    "highlights": [
+      "turtles",
+      "yoga",
+      "beaches"
+    ],
+    "best_time_to_visit": "Nov-May",
+    "airport_code": "HUX",
+    "image_search": "Mazunte Mexico travel"
   },
   {
     "name": "Merida",
@@ -120,6 +180,26 @@
     "image_search": "Oaxaca Mexico travel"
   },
   {
+    "name": "Palenque",
+    "slug": "palenque",
+    "country": "Mexico",
+    "country_slug": "mexico",
+    "region": "Americas",
+    "lat": 17.5089,
+    "lng": -92.0463,
+    "population": 41800,
+    "safety_level": "safe",
+    "budget_per_day": "30-60",
+    "highlights": [
+      "mayan ruins",
+      "jungle",
+      "waterfalls"
+    ],
+    "best_time_to_visit": "Nov-Apr",
+    "airport_code": "PQM",
+    "image_search": "Palenque Mexico travel"
+  },
+  {
     "name": "Playa del Carmen",
     "slug": "playa-del-carmen",
     "country": "Mexico",
@@ -138,6 +218,26 @@
     "best_time_to_visit": "Dec-Apr",
     "airport_code": "CUN",
     "image_search": "Playa del Carmen Mexico travel"
+  },
+  {
+    "name": "Puerto Escondido",
+    "slug": "puerto-escondido",
+    "country": "Mexico",
+    "country_slug": "mexico",
+    "region": "Americas",
+    "lat": 15.872,
+    "lng": -97.0767,
+    "population": 45000,
+    "safety_level": "safe",
+    "budget_per_day": "35-70",
+    "highlights": [
+      "surfing",
+      "zicatela",
+      "nightlife"
+    ],
+    "best_time_to_visit": "Nov-May",
+    "airport_code": "PXM",
+    "image_search": "Puerto Escondido Mexico travel"
   },
   {
     "name": "Puerto Vallarta",
@@ -160,6 +260,26 @@
     "image_search": "Puerto Vallarta Mexico travel"
   },
   {
+    "name": "San Cristobal de las Casas",
+    "slug": "san-cristobal-de-las-casas",
+    "country": "Mexico",
+    "country_slug": "mexico",
+    "region": "Americas",
+    "lat": 16.737,
+    "lng": -92.6376,
+    "population": 186779,
+    "safety_level": "caution",
+    "budget_per_day": "30-60",
+    "highlights": [
+      "indigenous",
+      "colonial",
+      "coffee"
+    ],
+    "best_time_to_visit": "Nov-Apr",
+    "airport_code": "SJC",
+    "image_search": "San Cristobal de las Casas Mexico travel"
+  },
+  {
     "name": "San Miguel de Allende",
     "slug": "san-miguel-de-allende",
     "country": "Mexico",
@@ -178,6 +298,26 @@
     "best_time_to_visit": "Oct-May",
     "airport_code": "BJX",
     "image_search": "San Miguel de Allende Mexico travel"
+  },
+  {
+    "name": "Sayulita",
+    "slug": "sayulita",
+    "country": "Mexico",
+    "country_slug": "mexico",
+    "region": "Americas",
+    "lat": 20.8681,
+    "lng": -105.4378,
+    "population": 4500,
+    "safety_level": "safe",
+    "budget_per_day": "50-100",
+    "highlights": [
+      "surfing",
+      "bohemian",
+      "beaches"
+    ],
+    "best_time_to_visit": "Nov-May",
+    "airport_code": "PVR",
+    "image_search": "Sayulita Mexico travel"
   },
   {
     "name": "Tulum",

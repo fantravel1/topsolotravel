@@ -1,0 +1,20 @@
+{
+  "name": "Inle Lake",
+  "slug": "inle-lake",
+  "country": "Myanmar",
+  "country_slug": "myanmar",
+  "region": "Asia",
+  "lat": 20.5355,
+  "lng": 96.9132,
+  "population": 50000,
+  "safety_level": "warning",
+  "budget_per_day": "30-60",
+  "highlights": [
+    "floating villages",
+    "leg rowers",
+    "temples"
+  ],
+  "best_time_to_visit": "Nov-Feb",
+  "airport_code": "HEH",
+  "image_search": "Inle Lake Myanmar travel"
+}

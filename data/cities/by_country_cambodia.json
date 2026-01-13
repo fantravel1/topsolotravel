@@ -1,5 +1,65 @@
 [
   {
+    "name": "Battambang",
+    "slug": "battambang",
+    "country": "Cambodia",
+    "country_slug": "cambodia",
+    "region": "Asia",
+    "lat": 13.1023,
+    "lng": 103.1987,
+    "population": 196709,
+    "safety_level": "safe",
+    "budget_per_day": "20-40",
+    "highlights": [
+      "bamboo train",
+      "colonial",
+      "circus"
+    ],
+    "best_time_to_visit": "Nov-Apr",
+    "airport_code": "REP",
+    "image_search": "Battambang Cambodia travel"
+  },
+  {
+    "name": "Kampot",
+    "slug": "kampot",
+    "country": "Cambodia",
+    "country_slug": "cambodia",
+    "region": "Asia",
+    "lat": 10.594,
+    "lng": 104.193,
+    "population": 48028,
+    "safety_level": "safe",
+    "budget_per_day": "20-40",
+    "highlights": [
+      "pepper",
+      "riverside",
+      "bokor"
+    ],
+    "best_time_to_visit": "Nov-Apr",
+    "airport_code": "PNH",
+    "image_search": "Kampot Cambodia travel"
+  },
+  {
+    "name": "Koh Rong",
+    "slug": "koh-rong",
+    "country": "Cambodia",
+    "country_slug": "cambodia",
+    "region": "Asia",
+    "lat": 10.7667,
+    "lng": 103.2,
+    "population": 4000,
+    "safety_level": "safe",
+    "budget_per_day": "30-60",
+    "highlights": [
+      "beaches",
+      "party",
+      "bioluminescence"
+    ],
+    "best_time_to_visit": "Nov-May",
+    "airport_code": "KOS",
+    "image_search": "Koh Rong Cambodia travel"
+  },
+  {
     "name": "Phnom Penh",
     "slug": "phnom-penh",
     "country": "Cambodia",

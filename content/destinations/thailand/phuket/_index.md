@@ -13,14 +13,14 @@ quickFacts:
   population: "417K"
   timezone: "UTC+6"
   bestTime: "Nov-Apr"
-  budget: "$40-80/day"
+  budget: "$40-90/day"
   safety: "Generally Safe"
   airport: "HKT"
 
 highlights:
   - "beaches"
+  - "nightlife"
   - "islands"
-  - "diving"
 
 neighborhoods:
   - name: "City Center"

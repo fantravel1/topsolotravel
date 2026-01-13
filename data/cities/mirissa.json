@@ -1,0 +1,20 @@
+{
+  "name": "Mirissa",
+  "slug": "mirissa",
+  "country": "Sri Lanka",
+  "country_slug": "sri-lanka",
+  "region": "Asia",
+  "lat": 5.9485,
+  "lng": 80.4718,
+  "population": 5000,
+  "safety_level": "safe",
+  "budget_per_day": "30-55",
+  "highlights": [
+    "whale watching",
+    "beaches",
+    "surfing"
+  ],
+  "best_time_to_visit": "Nov-Apr",
+  "airport_code": "CMB",
+  "image_search": "Mirissa Sri Lanka travel"
+}

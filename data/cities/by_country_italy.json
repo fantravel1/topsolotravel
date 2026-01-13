@@ -100,6 +100,26 @@
     "image_search": "Genoa Italy travel"
   },
   {
+    "name": "Lake Como",
+    "slug": "lake-como",
+    "country": "Italy",
+    "country_slug": "italy",
+    "region": "Europe",
+    "lat": 45.9877,
+    "lng": 9.2573,
+    "population": 33000,
+    "safety_level": "safe",
+    "budget_per_day": "100-180",
+    "highlights": [
+      "lake",
+      "villas",
+      "celebrities"
+    ],
+    "best_time_to_visit": "Apr-Oct",
+    "airport_code": "MXP",
+    "image_search": "Lake Como Italy travel"
+  },
+  {
     "name": "Milan",
     "slug": "milan",
     "country": "Italy",
@@ -160,6 +180,26 @@
     "image_search": "Palermo Italy travel"
   },
   {
+    "name": "Pisa",
+    "slug": "pisa",
+    "country": "Italy",
+    "country_slug": "italy",
+    "region": "Europe",
+    "lat": 43.7228,
+    "lng": 10.4017,
+    "population": 91104,
+    "safety_level": "safe",
+    "budget_per_day": "60-100",
+    "highlights": [
+      "leaning tower",
+      "university",
+      "tuscany"
+    ],
+    "best_time_to_visit": "Apr-Jun, Sep-Oct",
+    "airport_code": "PSA",
+    "image_search": "Pisa Italy travel"
+  },
+  {
     "name": "Rome",
     "slug": "rome",
     "country": "Italy",
@@ -178,6 +218,26 @@
     "best_time_to_visit": "Apr-Jun, Sep-Oct",
     "airport_code": "FCO",
     "image_search": "Rome Italy travel"
+  },
+  {
+    "name": "Siena",
+    "slug": "siena",
+    "country": "Italy",
+    "country_slug": "italy",
+    "region": "Europe",
+    "lat": 43.3188,
+    "lng": 11.3308,
+    "population": 53903,
+    "safety_level": "safe",
+    "budget_per_day": "70-120",
+    "highlights": [
+      "piazza",
+      "palio",
+      "medieval"
+    ],
+    "best_time_to_visit": "Apr-Jun, Sep-Oct",
+    "airport_code": "FLR",
+    "image_search": "Siena Italy travel"
   },
   {
     "name": "Turin",

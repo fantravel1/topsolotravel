@@ -1,0 +1,20 @@
+{
+  "name": "Holbox",
+  "slug": "holbox",
+  "country": "Mexico",
+  "country_slug": "mexico",
+  "region": "Americas",
+  "lat": 21.5222,
+  "lng": -87.3808,
+  "population": 2000,
+  "safety_level": "safe",
+  "budget_per_day": "50-100",
+  "highlights": [
+    "whale sharks",
+    "car-free",
+    "bioluminescence"
+  ],
+  "best_time_to_visit": "May-Sep",
+  "airport_code": "CUN",
+  "image_search": "Holbox Mexico travel"
+}

@@ -80,6 +80,26 @@
     "image_search": "Granada Spain travel"
   },
   {
+    "name": "Ibiza",
+    "slug": "ibiza",
+    "country": "Spain",
+    "country_slug": "spain",
+    "region": "Europe",
+    "lat": 38.9067,
+    "lng": 1.4206,
+    "population": 49768,
+    "safety_level": "safe",
+    "budget_per_day": "90-180",
+    "highlights": [
+      "nightlife",
+      "beaches",
+      "dj"
+    ],
+    "best_time_to_visit": "May-Oct",
+    "airport_code": "IBZ",
+    "image_search": "Ibiza Spain travel"
+  },
+  {
     "name": "Madrid",
     "slug": "madrid",
     "country": "Spain",
@@ -118,6 +138,26 @@
     "best_time_to_visit": "Apr-Oct",
     "airport_code": "AGP",
     "image_search": "Malaga Spain travel"
+  },
+  {
+    "name": "Palma de Mallorca",
+    "slug": "palma-de-mallorca",
+    "country": "Spain",
+    "country_slug": "spain",
+    "region": "Europe",
+    "lat": 39.5696,
+    "lng": 2.6502,
+    "population": 416065,
+    "safety_level": "safe",
+    "budget_per_day": "70-130",
+    "highlights": [
+      "beaches",
+      "cathedral",
+      "old town"
+    ],
+    "best_time_to_visit": "May-Oct",
+    "airport_code": "PMI",
+    "image_search": "Palma de Mallorca Spain travel"
   },
   {
     "name": "Salamanca",
@@ -170,6 +210,26 @@
     "population": 688592,
     "safety_level": "safe",
     "budget_per_day": "50-90",
+    "highlights": [
+      "flamenco",
+      "alcazar",
+      "tapas"
+    ],
+    "best_time_to_visit": "Mar-May, Sep-Nov",
+    "airport_code": "SVQ",
+    "image_search": "Seville Spain travel"
+  },
+  {
+    "name": "Seville",
+    "slug": "seville",
+    "country": "Spain",
+    "country_slug": "spain",
+    "region": "Europe",
+    "lat": 37.3891,
+    "lng": -5.9845,
+    "population": 688711,
+    "safety_level": "safe",
+    "budget_per_day": "55-100",
     "highlights": [
       "flamenco",
       "alcazar",

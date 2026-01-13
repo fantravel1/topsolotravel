@@ -1,0 +1,20 @@
+{
+  "name": "Lijiang",
+  "slug": "lijiang",
+  "country": "China",
+  "country_slug": "china",
+  "region": "Asia",
+  "lat": 26.8721,
+  "lng": 100.2299,
+  "population": 1244769,
+  "safety_level": "safe",
+  "budget_per_day": "35-70",
+  "highlights": [
+    "old town",
+    "naxi culture",
+    "tiger leaping"
+  ],
+  "best_time_to_visit": "Mar-May, Sep-Nov",
+  "airport_code": "LJG",
+  "image_search": "Lijiang China travel"
+}

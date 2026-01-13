@@ -48,6 +48,10 @@ topCities:
     url: "/destinations/sri-lanka/ella/"
     description: "Popular destination for solo travelers with great infrastructure."
     highlights: ["nine arch bridge", "hiking", "tea"]
+  - name: "Galle"
+    url: "/destinations/sri-lanka/galle/"
+    description: "Popular destination for solo travelers with great infrastructure."
+    highlights: ["fort", "colonial", "beaches"]
   - name: "Kandy"
     url: "/destinations/sri-lanka/kandy/"
     description: "Popular destination for solo travelers with great infrastructure."

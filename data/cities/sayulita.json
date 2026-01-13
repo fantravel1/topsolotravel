@@ -1,0 +1,20 @@
+{
+  "name": "Sayulita",
+  "slug": "sayulita",
+  "country": "Mexico",
+  "country_slug": "mexico",
+  "region": "Americas",
+  "lat": 20.8681,
+  "lng": -105.4378,
+  "population": 4500,
+  "safety_level": "safe",
+  "budget_per_day": "50-100",
+  "highlights": [
+    "surfing",
+    "bohemian",
+    "beaches"
+  ],
+  "best_time_to_visit": "Nov-May",
+  "airport_code": "PVR",
+  "image_search": "Sayulita Mexico travel"
+}

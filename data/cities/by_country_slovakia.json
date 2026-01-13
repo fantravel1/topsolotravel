@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Bratislava",
+    "slug": "bratislava",
+    "country": "Slovakia",
+    "country_slug": "slovakia",
+    "region": "Europe",
+    "lat": 48.1486,
+    "lng": 17.1077,
+    "population": 440948,
+    "safety_level": "safe",
+    "budget_per_day": "45-85",
+    "highlights": [
+      "old town",
+      "castle",
+      "danube"
+    ],
+    "best_time_to_visit": "May-Sep",
+    "airport_code": "BTS",
+    "image_search": "Bratislava Slovakia travel"
+  }
+]

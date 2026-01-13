@@ -44,18 +44,18 @@ topCities:
     url: "/destinations/croatia/dubrovnik/"
     description: "Popular destination for solo travelers with great infrastructure."
     highlights: ["old town", "game of thrones", "beaches"]
+  - name: "Dubrovnik"
+    url: "/destinations/croatia/dubrovnik/"
+    description: "Popular destination for solo travelers with great infrastructure."
+    highlights: ["walls", "beaches", "game of thrones"]
+  - name: "Dubrovnik Old Town"
+    url: "/destinations/croatia/dubrovnik-old-town/"
+    description: "Popular destination for solo travelers with great infrastructure."
+    highlights: ["walls", "game of thrones", "adriatic"]
   - name: "Hvar"
     url: "/destinations/croatia/hvar/"
     description: "Popular destination for solo travelers with great infrastructure."
     highlights: ["beaches", "nightlife", "lavender"]
-  - name: "Plitvice Lakes"
-    url: "/destinations/croatia/plitvice-lakes/"
-    description: "Popular destination for solo travelers with great infrastructure."
-    highlights: ["waterfalls", "lakes", "nature"]
-  - name: "Split"
-    url: "/destinations/croatia/split/"
-    description: "Popular destination for solo travelers with great infrastructure."
-    highlights: ["palace", "islands", "beaches"]
 
 
 budget:

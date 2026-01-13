@@ -1,0 +1,20 @@
+{
+  "name": "Aqaba",
+  "slug": "aqaba",
+  "country": "Jordan",
+  "country_slug": "jordan",
+  "region": "Asia",
+  "lat": 29.5266,
+  "lng": 35.0078,
+  "population": 148398,
+  "safety_level": "safe",
+  "budget_per_day": "50-100",
+  "highlights": [
+    "red sea",
+    "diving",
+    "beaches"
+  ],
+  "best_time_to_visit": "Year-round",
+  "airport_code": "AQJ",
+  "image_search": "Aqaba Jordan travel"
+}

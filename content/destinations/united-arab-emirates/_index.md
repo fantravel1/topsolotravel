@@ -48,6 +48,14 @@ topCities:
     url: "/destinations/united-arab-emirates/dubai/"
     description: "Popular destination for solo travelers with great infrastructure."
     highlights: ["skyscrapers", "shopping", "luxury"]
+  - name: "Ras Al Khaimah"
+    url: "/destinations/united-arab-emirates/ras-al-khaimah/"
+    description: "Popular destination for solo travelers with great infrastructure."
+    highlights: ["adventure", "mountains", "beaches"]
+  - name: "Sharjah"
+    url: "/destinations/united-arab-emirates/sharjah/"
+    description: "Popular destination for solo travelers with great infrastructure."
+    highlights: ["museums", "souks", "culture"]
 
 
 budget:

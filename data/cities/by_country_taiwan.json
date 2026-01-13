@@ -1,5 +1,25 @@
 [
   {
+    "name": "Alishan",
+    "slug": "alishan",
+    "country": "Taiwan",
+    "country_slug": "taiwan",
+    "region": "Asia",
+    "lat": 23.5109,
+    "lng": 120.8,
+    "population": 5000,
+    "safety_level": "safe",
+    "budget_per_day": "50-90",
+    "highlights": [
+      "sunrise",
+      "trains",
+      "forests"
+    ],
+    "best_time_to_visit": "Mar-May, Sep-Nov",
+    "airport_code": "RMQ",
+    "image_search": "Alishan Taiwan travel"
+  },
+  {
     "name": "Hualien",
     "slug": "hualien",
     "country": "Taiwan",
@@ -20,6 +40,26 @@
     "image_search": "Hualien Taiwan travel"
   },
   {
+    "name": "Jiufen",
+    "slug": "jiufen",
+    "country": "Taiwan",
+    "country_slug": "taiwan",
+    "region": "Asia",
+    "lat": 25.1097,
+    "lng": 121.8449,
+    "population": 4000,
+    "safety_level": "safe",
+    "budget_per_day": "40-70",
+    "highlights": [
+      "spirited away",
+      "tea houses",
+      "views"
+    ],
+    "best_time_to_visit": "Oct-Apr",
+    "airport_code": "TPE",
+    "image_search": "Jiufen Taiwan travel"
+  },
+  {
     "name": "Kaohsiung",
     "slug": "kaohsiung",
     "country": "Taiwan",
@@ -38,6 +78,46 @@
     "best_time_to_visit": "Oct-Apr",
     "airport_code": "KHH",
     "image_search": "Kaohsiung Taiwan travel"
+  },
+  {
+    "name": "Kenting",
+    "slug": "kenting",
+    "country": "Taiwan",
+    "country_slug": "taiwan",
+    "region": "Asia",
+    "lat": 21.9465,
+    "lng": 120.797,
+    "population": 5000,
+    "safety_level": "safe",
+    "budget_per_day": "45-85",
+    "highlights": [
+      "beaches",
+      "national park",
+      "surfing"
+    ],
+    "best_time_to_visit": "Apr-Oct",
+    "airport_code": "KHH",
+    "image_search": "Kenting Taiwan travel"
+  },
+  {
+    "name": "Sun Moon Lake",
+    "slug": "sun-moon-lake",
+    "country": "Taiwan",
+    "country_slug": "taiwan",
+    "region": "Asia",
+    "lat": 23.8651,
+    "lng": 120.9196,
+    "population": 5000,
+    "safety_level": "safe",
+    "budget_per_day": "50-90",
+    "highlights": [
+      "lake",
+      "cycling",
+      "temples"
+    ],
+    "best_time_to_visit": "Sep-Apr",
+    "airport_code": "RMQ",
+    "image_search": "Sun Moon Lake Taiwan travel"
   },
   {
     "name": "Taichung",

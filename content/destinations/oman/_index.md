@@ -44,6 +44,14 @@ topCities:
     url: "/destinations/oman/muscat/"
     description: "Popular destination for solo travelers with great infrastructure."
     highlights: ["souqs", "mosques", "beaches"]
+  - name: "Nizwa"
+    url: "/destinations/oman/nizwa/"
+    description: "Popular destination for solo travelers with great infrastructure."
+    highlights: ["fort", "souq", "mountains"]
+  - name: "Salalah"
+    url: "/destinations/oman/salalah/"
+    description: "Popular destination for solo travelers with great infrastructure."
+    highlights: ["monsoon", "frankincense", "beaches"]
 
 
 budget:

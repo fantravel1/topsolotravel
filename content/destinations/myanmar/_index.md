@@ -44,6 +44,14 @@ topCities:
     url: "/destinations/myanmar/bagan/"
     description: "Popular destination for solo travelers with great infrastructure."
     highlights: ["temples", "balloons", "sunrise"]
+  - name: "Inle Lake"
+    url: "/destinations/myanmar/inle-lake/"
+    description: "Popular destination for solo travelers with great infrastructure."
+    highlights: ["floating villages", "leg rowers", "temples"]
+  - name: "Mandalay"
+    url: "/destinations/myanmar/mandalay/"
+    description: "Popular destination for solo travelers with great infrastructure."
+    highlights: ["temples", "palace", "hill"]
   - name: "Yangon"
     url: "/destinations/myanmar/yangon/"
     description: "Popular destination for solo travelers with great infrastructure."

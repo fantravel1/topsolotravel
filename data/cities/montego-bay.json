@@ -1,0 +1,20 @@
+{
+  "name": "Montego Bay",
+  "slug": "montego-bay",
+  "country": "Jamaica",
+  "country_slug": "jamaica",
+  "region": "Americas",
+  "lat": 18.4762,
+  "lng": -77.8939,
+  "population": 82867,
+  "safety_level": "caution",
+  "budget_per_day": "70-140",
+  "highlights": [
+    "beaches",
+    "resorts",
+    "nightlife"
+  ],
+  "best_time_to_visit": "Dec-Apr",
+  "airport_code": "MBJ",
+  "image_search": "Montego Bay Jamaica travel"
+}

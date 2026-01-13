@@ -1,0 +1,20 @@
+{
+  "name": "Kingston",
+  "slug": "kingston",
+  "country": "Jamaica",
+  "country_slug": "jamaica",
+  "region": "Americas",
+  "lat": 18.0179,
+  "lng": -76.8099,
+  "population": 662426,
+  "safety_level": "warning",
+  "budget_per_day": "60-120",
+  "highlights": [
+    "bob marley",
+    "reggae",
+    "culture"
+  ],
+  "best_time_to_visit": "Dec-Apr",
+  "airport_code": "KIN",
+  "image_search": "Kingston Jamaica travel"
+}

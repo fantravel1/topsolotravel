@@ -1,5 +1,65 @@
 [
   {
+    "name": "Diani Beach",
+    "slug": "diani-beach",
+    "country": "Kenya",
+    "country_slug": "kenya",
+    "region": "Africa",
+    "lat": -4.3167,
+    "lng": 39.5667,
+    "population": 100000,
+    "safety_level": "caution",
+    "budget_per_day": "60-120",
+    "highlights": [
+      "beaches",
+      "diving",
+      "kitesurfing"
+    ],
+    "best_time_to_visit": "Dec-Mar, Jul-Oct",
+    "airport_code": "MBA",
+    "image_search": "Diani Beach Kenya travel"
+  },
+  {
+    "name": "Lamu",
+    "slug": "lamu",
+    "country": "Kenya",
+    "country_slug": "kenya",
+    "region": "Africa",
+    "lat": -2.2686,
+    "lng": 40.902,
+    "population": 18382,
+    "safety_level": "caution",
+    "budget_per_day": "50-100",
+    "highlights": [
+      "swahili",
+      "donkeys",
+      "dhows"
+    ],
+    "best_time_to_visit": "Dec-Mar",
+    "airport_code": "LAU",
+    "image_search": "Lamu Kenya travel"
+  },
+  {
+    "name": "Mombasa",
+    "slug": "mombasa",
+    "country": "Kenya",
+    "country_slug": "kenya",
+    "region": "Africa",
+    "lat": -4.0435,
+    "lng": 39.6682,
+    "population": 1208333,
+    "safety_level": "caution",
+    "budget_per_day": "40-80",
+    "highlights": [
+      "beaches",
+      "old town",
+      "fort jesus"
+    ],
+    "best_time_to_visit": "Dec-Mar",
+    "airport_code": "MBA",
+    "image_search": "Mombasa Kenya travel"
+  },
+  {
     "name": "Nairobi",
     "slug": "nairobi",
     "country": "Kenya",

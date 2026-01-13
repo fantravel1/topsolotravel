@@ -1,0 +1,20 @@
+{
+  "name": "Dumaguete",
+  "slug": "dumaguete",
+  "country": "Philippines",
+  "country_slug": "philippines",
+  "region": "Asia",
+  "lat": 9.3103,
+  "lng": 123.3081,
+  "population": 131377,
+  "safety_level": "safe",
+  "budget_per_day": "25-50",
+  "highlights": [
+    "apo island",
+    "university",
+    "diving"
+  ],
+  "best_time_to_visit": "Dec-May",
+  "airport_code": "DGT",
+  "image_search": "Dumaguete Philippines travel"
+}

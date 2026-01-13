@@ -48,6 +48,14 @@ topCities:
     url: "/destinations/romania/bucharest/"
     description: "Popular destination for solo travelers with great infrastructure."
     highlights: ["palace", "old town", "nightlife"]
+  - name: "Cluj-Napoca"
+    url: "/destinations/romania/cluj-napoca/"
+    description: "Popular destination for solo travelers with great infrastructure."
+    highlights: ["nightlife", "students", "tech"]
+  - name: "Sibiu"
+    url: "/destinations/romania/sibiu/"
+    description: "Popular destination for solo travelers with great infrastructure."
+    highlights: ["old town", "transylvania", "eyes"]
 
 
 budget:

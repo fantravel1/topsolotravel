@@ -48,14 +48,14 @@ topCities:
     url: "/destinations/austria/innsbruck/"
     description: "Popular destination for solo travelers with great infrastructure."
     highlights: ["alps", "skiing", "old town"]
+  - name: "Innsbruck"
+    url: "/destinations/austria/innsbruck/"
+    description: "Popular destination for solo travelers with great infrastructure."
+    highlights: ["alps", "skiing", "old town"]
   - name: "Salzburg"
     url: "/destinations/austria/salzburg/"
     description: "Popular destination for solo travelers with great infrastructure."
     highlights: ["mozart", "sound of music", "alps"]
-  - name: "Vienna"
-    url: "/destinations/austria/vienna/"
-    description: "Popular destination for solo travelers with great infrastructure."
-    highlights: ["music", "coffee houses", "palaces"]
 
 
 budget:

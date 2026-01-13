@@ -44,6 +44,10 @@ topCities:
     url: "/destinations/south-korea/busan/"
     description: "Popular destination for solo travelers with great infrastructure."
     highlights: ["beaches", "seafood", "temples"]
+  - name: "Busan"
+    url: "/destinations/south-korea/busan/"
+    description: "Popular destination for solo travelers with great infrastructure."
+    highlights: ["beaches", "temples", "food"]
   - name: "Gyeongju"
     url: "/destinations/south-korea/gyeongju/"
     description: "Popular destination for solo travelers with great infrastructure."
@@ -52,10 +56,6 @@ topCities:
     url: "/destinations/south-korea/incheon/"
     description: "Popular destination for solo travelers with great infrastructure."
     highlights: ["chinatown", "beaches", "airport"]
-  - name: "Jeju Island"
-    url: "/destinations/south-korea/jeju-island/"
-    description: "Popular destination for solo travelers with great infrastructure."
-    highlights: ["nature", "beaches", "food"]
 
 
 budget:

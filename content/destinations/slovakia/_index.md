@@ -41,9 +41,9 @@ safety:
 
 topCities:
   - name: "Bratislava"
-    url: "/destinations/slovakia/"
-    description: "The capital city offers diverse experiences for solo travelers."
-    highlights: ["culture", "food", "history"]
+    url: "/destinations/slovakia/bratislava/"
+    description: "Popular destination for solo travelers with great infrastructure."
+    highlights: ["old town", "castle", "danube"]
 
 
 budget:

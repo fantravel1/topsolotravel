@@ -1,5 +1,25 @@
 [
   {
+    "name": "Ayutthaya",
+    "slug": "ayutthaya",
+    "country": "Thailand",
+    "country_slug": "thailand",
+    "region": "Asia",
+    "lat": 14.3692,
+    "lng": 100.5877,
+    "population": 52215,
+    "safety_level": "safe",
+    "budget_per_day": "20-40",
+    "highlights": [
+      "ruins",
+      "temples",
+      "history"
+    ],
+    "best_time_to_visit": "Nov-Feb",
+    "airport_code": "BKK",
+    "image_search": "Ayutthaya Thailand travel"
+  },
+  {
     "name": "Bangkok",
     "slug": "bangkok",
     "country": "Thailand",
@@ -40,6 +60,126 @@
     "image_search": "Chiang Mai Thailand travel"
   },
   {
+    "name": "Chiang Rai",
+    "slug": "chiang-rai",
+    "country": "Thailand",
+    "country_slug": "thailand",
+    "region": "Asia",
+    "lat": 19.9071,
+    "lng": 99.8309,
+    "population": 74465,
+    "safety_level": "safe",
+    "budget_per_day": "25-50",
+    "highlights": [
+      "white temple",
+      "golden triangle",
+      "tribes"
+    ],
+    "best_time_to_visit": "Nov-Feb",
+    "airport_code": "CEI",
+    "image_search": "Chiang Rai Thailand travel"
+  },
+  {
+    "name": "Koh Phangan",
+    "slug": "koh-phangan",
+    "country": "Thailand",
+    "country_slug": "thailand",
+    "region": "Asia",
+    "lat": 9.7527,
+    "lng": 100.032,
+    "population": 15000,
+    "safety_level": "safe",
+    "budget_per_day": "30-60",
+    "highlights": [
+      "full moon party",
+      "beaches",
+      "yoga"
+    ],
+    "best_time_to_visit": "Jan-Sep",
+    "airport_code": "USM",
+    "image_search": "Koh Phangan Thailand travel"
+  },
+  {
+    "name": "Koh Samui",
+    "slug": "koh-samui",
+    "country": "Thailand",
+    "country_slug": "thailand",
+    "region": "Asia",
+    "lat": 9.512,
+    "lng": 100.0136,
+    "population": 63099,
+    "safety_level": "safe",
+    "budget_per_day": "40-80",
+    "highlights": [
+      "beaches",
+      "temples",
+      "parties"
+    ],
+    "best_time_to_visit": "Jan-Sep",
+    "airport_code": "USM",
+    "image_search": "Koh Samui Thailand travel"
+  },
+  {
+    "name": "Koh Tao",
+    "slug": "koh-tao",
+    "country": "Thailand",
+    "country_slug": "thailand",
+    "region": "Asia",
+    "lat": 10.0956,
+    "lng": 99.8403,
+    "population": 1382,
+    "safety_level": "safe",
+    "budget_per_day": "30-60",
+    "highlights": [
+      "diving",
+      "beaches",
+      "snorkeling"
+    ],
+    "best_time_to_visit": "Mar-Sep",
+    "airport_code": "USM",
+    "image_search": "Koh Tao Thailand travel"
+  },
+  {
+    "name": "Krabi",
+    "slug": "krabi",
+    "country": "Thailand",
+    "country_slug": "thailand",
+    "region": "Asia",
+    "lat": 8.0863,
+    "lng": 98.9063,
+    "population": 52867,
+    "safety_level": "safe",
+    "budget_per_day": "30-60",
+    "highlights": [
+      "islands",
+      "rock climbing",
+      "beaches"
+    ],
+    "best_time_to_visit": "Nov-Apr",
+    "airport_code": "KBV",
+    "image_search": "Krabi Thailand travel"
+  },
+  {
+    "name": "Pai",
+    "slug": "pai",
+    "country": "Thailand",
+    "country_slug": "thailand",
+    "region": "Asia",
+    "lat": 19.3572,
+    "lng": 98.4417,
+    "population": 2500,
+    "safety_level": "safe",
+    "budget_per_day": "20-40",
+    "highlights": [
+      "hippie town",
+      "waterfalls",
+      "pai canyon"
+    ],
+    "best_time_to_visit": "Nov-Feb",
+    "airport_code": "CNX",
+    "image_search": "Pai Thailand travel"
+  },
+  {
     "name": "Phuket",
     "slug": "phuket",
     "country": "Thailand",
@@ -58,5 +198,45 @@
     "best_time_to_visit": "Nov-Apr",
     "airport_code": "HKT",
     "image_search": "Phuket Thailand travel"
+  },
+  {
+    "name": "Phuket",
+    "slug": "phuket",
+    "country": "Thailand",
+    "country_slug": "thailand",
+    "region": "Asia",
+    "lat": 7.8804,
+    "lng": 98.3923,
+    "population": 416582,
+    "safety_level": "caution",
+    "budget_per_day": "40-90",
+    "highlights": [
+      "beaches",
+      "nightlife",
+      "islands"
+    ],
+    "best_time_to_visit": "Nov-Apr",
+    "airport_code": "HKT",
+    "image_search": "Phuket Thailand travel"
+  },
+  {
+    "name": "Sukhothai",
+    "slug": "sukhothai",
+    "country": "Thailand",
+    "country_slug": "thailand",
+    "region": "Asia",
+    "lat": 17.007,
+    "lng": 99.8237,
+    "population": 37000,
+    "safety_level": "safe",
+    "budget_per_day": "20-40",
+    "highlights": [
+      "historical park",
+      "temples",
+      "bicycles"
+    ],
+    "best_time_to_visit": "Nov-Feb",
+    "airport_code": "THS",
+    "image_search": "Sukhothai Thailand travel"
   }
 ]

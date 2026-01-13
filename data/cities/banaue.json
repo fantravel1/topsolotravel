@@ -1,0 +1,20 @@
+{
+  "name": "Banaue",
+  "slug": "banaue",
+  "country": "Philippines",
+  "country_slug": "philippines",
+  "region": "Asia",
+  "lat": 16.9121,
+  "lng": 121.0533,
+  "population": 20000,
+  "safety_level": "safe",
+  "budget_per_day": "25-50",
+  "highlights": [
+    "rice terraces",
+    "hiking",
+    "ifugao"
+  ],
+  "best_time_to_visit": "Dec-May",
+  "airport_code": "MNL",
+  "image_search": "Banaue Philippines travel"
+}

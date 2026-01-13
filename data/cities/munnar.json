@@ -1,0 +1,20 @@
+{
+  "name": "Munnar",
+  "slug": "munnar",
+  "country": "India",
+  "country_slug": "india",
+  "region": "Asia",
+  "lat": 10.0889,
+  "lng": 77.0595,
+  "population": 30000,
+  "safety_level": "safe",
+  "budget_per_day": "25-50",
+  "highlights": [
+    "tea",
+    "hill station",
+    "nature"
+  ],
+  "best_time_to_visit": "Sep-May",
+  "airport_code": "COK",
+  "image_search": "Munnar India travel"
+}

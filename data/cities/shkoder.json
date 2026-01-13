@@ -1,0 +1,20 @@
+{
+  "name": "Shkoder",
+  "slug": "shkoder",
+  "country": "Albania",
+  "country_slug": "albania",
+  "region": "Europe",
+  "lat": 42.0693,
+  "lng": 19.5033,
+  "population": 135612,
+  "safety_level": "caution",
+  "budget_per_day": "25-50",
+  "highlights": [
+    "castle",
+    "lake",
+    "alps"
+  ],
+  "best_time_to_visit": "May-Sep",
+  "airport_code": "TIA",
+  "image_search": "Shkoder Albania travel"
+}

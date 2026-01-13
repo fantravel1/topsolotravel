@@ -48,14 +48,14 @@ topCities:
     url: "/destinations/china/chengdu/"
     description: "Popular destination for solo travelers with great infrastructure."
     highlights: ["pandas", "hotpot", "teahouses"]
-  - name: "Guilin"
-    url: "/destinations/china/guilin/"
+  - name: "Dali"
+    url: "/destinations/china/dali/"
     description: "Popular destination for solo travelers with great infrastructure."
-    highlights: ["karst mountains", "li river", "rice terraces"]
-  - name: "Hangzhou"
-    url: "/destinations/china/hangzhou/"
+    highlights: ["old town", "erhai lake", "three pagodas"]
+  - name: "Guangzhou"
+    url: "/destinations/china/guangzhou/"
     description: "Popular destination for solo travelers with great infrastructure."
-    highlights: ["west lake", "tea", "temples"]
+    highlights: ["dim sum", "canton tower", "markets"]
 
 
 budget:

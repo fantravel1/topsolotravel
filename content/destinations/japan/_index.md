@@ -44,18 +44,18 @@ topCities:
     url: "/destinations/japan/fukuoka/"
     description: "Popular destination for solo travelers with great infrastructure."
     highlights: ["ramen", "temples", "food stalls"]
+  - name: "Hakone"
+    url: "/destinations/japan/hakone/"
+    description: "Popular destination for solo travelers with great infrastructure."
+    highlights: ["onsen", "fuji views", "museums"]
   - name: "Hiroshima"
     url: "/destinations/japan/hiroshima/"
     description: "Popular destination for solo travelers with great infrastructure."
     highlights: ["peace memorial", "miyajima", "okonomiyaki"]
-  - name: "Kanazawa"
-    url: "/destinations/japan/kanazawa/"
+  - name: "Kamakura"
+    url: "/destinations/japan/kamakura/"
     description: "Popular destination for solo travelers with great infrastructure."
-    highlights: ["gardens", "geisha", "samurai"]
-  - name: "Kobe"
-    url: "/destinations/japan/kobe/"
-    description: "Popular destination for solo travelers with great infrastructure."
-    highlights: ["beef", "harbor", "sake"]
+    highlights: ["big buddha", "temples", "beaches"]
 
 
 budget:

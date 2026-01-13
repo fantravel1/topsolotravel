@@ -1,0 +1,20 @@
+{
+  "name": "Franschhoek",
+  "slug": "franschhoek",
+  "country": "South Africa",
+  "country_slug": "south-africa",
+  "region": "Africa",
+  "lat": -33.9137,
+  "lng": 19.1162,
+  "population": 10000,
+  "safety_level": "safe",
+  "budget_per_day": "70-140",
+  "highlights": [
+    "wine",
+    "food",
+    "french heritage"
+  ],
+  "best_time_to_visit": "Sep-May",
+  "airport_code": "CPT",
+  "image_search": "Franschhoek South Africa travel"
+}

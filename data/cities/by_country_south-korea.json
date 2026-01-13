@@ -20,6 +20,26 @@
     "image_search": "Busan South Korea travel"
   },
   {
+    "name": "Busan",
+    "slug": "busan",
+    "country": "South Korea",
+    "country_slug": "south-korea",
+    "region": "Asia",
+    "lat": 35.1796,
+    "lng": 129.0756,
+    "population": 3448737,
+    "safety_level": "safe",
+    "budget_per_day": "55-100",
+    "highlights": [
+      "beaches",
+      "temples",
+      "food"
+    ],
+    "best_time_to_visit": "Apr-Jun, Sep-Nov",
+    "airport_code": "PUS",
+    "image_search": "Busan South Korea travel"
+  },
+  {
     "name": "Gyeongju",
     "slug": "gyeongju",
     "country": "South Korea",
@@ -80,6 +100,26 @@
     "image_search": "Jeju Island South Korea travel"
   },
   {
+    "name": "Jeonju",
+    "slug": "jeonju",
+    "country": "South Korea",
+    "country_slug": "south-korea",
+    "region": "Asia",
+    "lat": 35.8242,
+    "lng": 127.148,
+    "population": 658172,
+    "safety_level": "safe",
+    "budget_per_day": "45-85",
+    "highlights": [
+      "hanok village",
+      "bibimbap",
+      "traditional"
+    ],
+    "best_time_to_visit": "Apr-Jun, Sep-Nov",
+    "airport_code": "CJJ",
+    "image_search": "Jeonju South Korea travel"
+  },
+  {
     "name": "Seoul",
     "slug": "seoul",
     "country": "South Korea",
@@ -98,5 +138,25 @@
     "best_time_to_visit": "Apr-Jun, Sep-Nov",
     "airport_code": "ICN",
     "image_search": "Seoul South Korea travel"
+  },
+  {
+    "name": "Sokcho",
+    "slug": "sokcho",
+    "country": "South Korea",
+    "country_slug": "south-korea",
+    "region": "Asia",
+    "lat": 38.2069,
+    "lng": 128.591,
+    "population": 82491,
+    "safety_level": "safe",
+    "budget_per_day": "50-90",
+    "highlights": [
+      "seoraksan",
+      "seafood",
+      "beaches"
+    ],
+    "best_time_to_visit": "Apr-Jun, Sep-Nov",
+    "airport_code": "YNY",
+    "image_search": "Sokcho South Korea travel"
   }
 ]

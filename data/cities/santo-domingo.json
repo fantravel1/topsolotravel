@@ -1,0 +1,20 @@
+{
+  "name": "Santo Domingo",
+  "slug": "santo-domingo",
+  "country": "Dominican Republic",
+  "country_slug": "dominican-republic",
+  "region": "Americas",
+  "lat": 18.4861,
+  "lng": -69.9312,
+  "population": 2201941,
+  "safety_level": "caution",
+  "budget_per_day": "50-100",
+  "highlights": [
+    "colonial zone",
+    "history",
+    "nightlife"
+  ],
+  "best_time_to_visit": "Dec-Apr",
+  "airport_code": "SDQ",
+  "image_search": "Santo Domingo Dominican Republic travel"
+}

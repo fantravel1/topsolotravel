@@ -44,18 +44,18 @@ topCities:
     url: "/destinations/indonesia/bali/"
     description: "Popular destination for solo travelers with great infrastructure."
     highlights: ["temples", "beaches", "yoga"]
+  - name: "Flores"
+    url: "/destinations/indonesia/flores/"
+    description: "Popular destination for solo travelers with great infrastructure."
+    highlights: ["kelimutu", "komodo", "traditional villages"]
+  - name: "Gili Islands"
+    url: "/destinations/indonesia/gili-islands/"
+    description: "Popular destination for solo travelers with great infrastructure."
+    highlights: ["no cars", "diving", "parties"]
   - name: "Jakarta"
     url: "/destinations/indonesia/jakarta/"
     description: "Popular destination for solo travelers with great infrastructure."
     highlights: ["museums", "food", "history"]
-  - name: "Lombok"
-    url: "/destinations/indonesia/lombok/"
-    description: "Popular destination for solo travelers with great infrastructure."
-    highlights: ["gili islands", "beaches", "hiking"]
-  - name: "Ubud"
-    url: "/destinations/indonesia/ubud/"
-    description: "Popular destination for solo travelers with great infrastructure."
-    highlights: ["rice terraces", "yoga", "art"]
 
 
 budget:

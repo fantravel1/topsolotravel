@@ -1,0 +1,20 @@
+{
+  "name": "Koh Phangan",
+  "slug": "koh-phangan",
+  "country": "Thailand",
+  "country_slug": "thailand",
+  "region": "Asia",
+  "lat": 9.7527,
+  "lng": 100.032,
+  "population": 15000,
+  "safety_level": "safe",
+  "budget_per_day": "30-60",
+  "highlights": [
+    "full moon party",
+    "beaches",
+    "yoga"
+  ],
+  "best_time_to_visit": "Jan-Sep",
+  "airport_code": "USM",
+  "image_search": "Koh Phangan Thailand travel"
+}

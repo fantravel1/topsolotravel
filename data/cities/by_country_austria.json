@@ -40,6 +40,26 @@
     "image_search": "Innsbruck Austria travel"
   },
   {
+    "name": "Innsbruck",
+    "slug": "innsbruck",
+    "country": "Austria",
+    "country_slug": "austria",
+    "region": "Europe",
+    "lat": 47.2692,
+    "lng": 11.4041,
+    "population": 131961,
+    "safety_level": "safe",
+    "budget_per_day": "80-140",
+    "highlights": [
+      "alps",
+      "skiing",
+      "old town"
+    ],
+    "best_time_to_visit": "Jun-Sep, Dec-Mar",
+    "airport_code": "INN",
+    "image_search": "Innsbruck Austria travel"
+  },
+  {
     "name": "Salzburg",
     "slug": "salzburg",
     "country": "Austria",

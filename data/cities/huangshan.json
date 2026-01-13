@@ -1,0 +1,20 @@
+{
+  "name": "Huangshan",
+  "slug": "huangshan",
+  "country": "China",
+  "country_slug": "china",
+  "region": "Asia",
+  "lat": 30.1333,
+  "lng": 118.1667,
+  "population": 148000,
+  "safety_level": "safe",
+  "budget_per_day": "50-90",
+  "highlights": [
+    "yellow mountain",
+    "sunrise",
+    "sea of clouds"
+  ],
+  "best_time_to_visit": "Apr-Nov",
+  "airport_code": "TXN",
+  "image_search": "Huangshan China travel"
+}

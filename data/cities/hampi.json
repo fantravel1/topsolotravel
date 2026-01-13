@@ -1,0 +1,20 @@
+{
+  "name": "Hampi",
+  "slug": "hampi",
+  "country": "India",
+  "country_slug": "india",
+  "region": "Asia",
+  "lat": 15.335,
+  "lng": 76.46,
+  "population": 3000,
+  "safety_level": "safe",
+  "budget_per_day": "15-30",
+  "highlights": [
+    "ruins",
+    "boulders",
+    "temples"
+  ],
+  "best_time_to_visit": "Oct-Mar",
+  "airport_code": "HBX",
+  "image_search": "Hampi India travel"
+}

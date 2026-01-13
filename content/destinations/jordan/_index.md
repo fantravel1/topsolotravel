@@ -44,6 +44,14 @@ topCities:
     url: "/destinations/jordan/amman/"
     description: "Popular destination for solo travelers with great infrastructure."
     highlights: ["citadel", "roman ruins", "food"]
+  - name: "Aqaba"
+    url: "/destinations/jordan/aqaba/"
+    description: "Popular destination for solo travelers with great infrastructure."
+    highlights: ["red sea", "diving", "beaches"]
+  - name: "Dead Sea"
+    url: "/destinations/jordan/dead-sea/"
+    description: "Popular destination for solo travelers with great infrastructure."
+    highlights: ["floating", "mud", "lowest point"]
   - name: "Petra"
     url: "/destinations/jordan/petra/"
     description: "Popular destination for solo travelers with great infrastructure."

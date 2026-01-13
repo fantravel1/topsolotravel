@@ -1,0 +1,20 @@
+{
+  "name": "4000 Islands",
+  "slug": "4000-islands",
+  "country": "Laos",
+  "country_slug": "laos",
+  "region": "Asia",
+  "lat": 13.9577,
+  "lng": 105.9447,
+  "population": 3000,
+  "safety_level": "safe",
+  "budget_per_day": "15-30",
+  "highlights": [
+    "mekong",
+    "dolphins",
+    "waterfalls"
+  ],
+  "best_time_to_visit": "Nov-Feb",
+  "airport_code": "PKZ",
+  "image_search": "4000 Islands Laos travel"
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Nanjing",
+  "slug": "nanjing",
+  "country": "China",
+  "country_slug": "china",
+  "region": "Asia",
+  "lat": 32.0603,
+  "lng": 118.7969,
+  "population": 8505500,
+  "safety_level": "safe",
+  "budget_per_day": "40-80",
+  "highlights": [
+    "history",
+    "walls",
+    "memorial"
+  ],
+  "best_time_to_visit": "Mar-May, Sep-Nov",
+  "airport_code": "NKG",
+  "image_search": "Nanjing China travel"
+}

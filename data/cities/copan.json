@@ -1,0 +1,20 @@
+{
+  "name": "Copan",
+  "slug": "copan",
+  "country": "Honduras",
+  "country_slug": "honduras",
+  "region": "Americas",
+  "lat": 14.84,
+  "lng": -89.14,
+  "population": 35000,
+  "safety_level": "caution",
+  "budget_per_day": "30-60",
+  "highlights": [
+    "mayan ruins",
+    "macaws",
+    "history"
+  ],
+  "best_time_to_visit": "Nov-Apr",
+  "airport_code": "SAP",
+  "image_search": "Copan Honduras travel"
+}

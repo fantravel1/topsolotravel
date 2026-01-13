@@ -1,0 +1,20 @@
+{
+  "name": "Jeonju",
+  "slug": "jeonju",
+  "country": "South Korea",
+  "country_slug": "south-korea",
+  "region": "Asia",
+  "lat": 35.8242,
+  "lng": 127.148,
+  "population": 658172,
+  "safety_level": "safe",
+  "budget_per_day": "45-85",
+  "highlights": [
+    "hanok village",
+    "bibimbap",
+    "traditional"
+  ],
+  "best_time_to_visit": "Apr-Jun, Sep-Nov",
+  "airport_code": "CJJ",
+  "image_search": "Jeonju South Korea travel"
+}

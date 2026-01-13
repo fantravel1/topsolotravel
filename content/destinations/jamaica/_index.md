@@ -41,9 +41,17 @@ safety:
 
 topCities:
   - name: "Kingston"
-    url: "/destinations/jamaica/"
-    description: "The capital city offers diverse experiences for solo travelers."
-    highlights: ["culture", "food", "history"]
+    url: "/destinations/jamaica/kingston/"
+    description: "Popular destination for solo travelers with great infrastructure."
+    highlights: ["bob marley", "reggae", "culture"]
+  - name: "Montego Bay"
+    url: "/destinations/jamaica/montego-bay/"
+    description: "Popular destination for solo travelers with great infrastructure."
+    highlights: ["beaches", "resorts", "nightlife"]
+  - name: "Negril"
+    url: "/destinations/jamaica/negril/"
+    description: "Popular destination for solo travelers with great infrastructure."
+    highlights: ["seven mile beach", "cliffs", "reggae"]
 
 
 budget:
