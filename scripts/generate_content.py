@@ -792,6 +792,329 @@ faqs:
 {airport_section}
 '''
 
+VISA_GUIDE_TEMPLATE = '''---
+title: "Visa Guide for {name}"
+description: "Complete visa guide for {name}. Requirements, application process, costs, and tips for solo travelers."
+country: "{country_slug}"
+heroImage: "https://source.unsplash.com/1600x900/?{image_query}"
+
+visaOverview:
+  visaRequired: "{visa_required}"
+  visaOnArrival: "{visa_on_arrival}"
+  eVisa: "{e_visa}"
+  maxStay: "{max_stay}"
+
+requirements:
+{requirements_yaml}
+
+applicationProcess:
+{process_yaml}
+
+costs:
+  touristVisa: "${visa_cost}"
+  eVisa: "${evisa_cost}"
+  extension: "${extension_cost}"
+
+faqs:
+  - question: "Do I need a visa for {name}?"
+    answer: "{visa_answer}"
+  - question: "How long can I stay in {name}?"
+    answer: "{stay_answer}"
+  - question: "Can I extend my visa in {name}?"
+    answer: "{extension_answer}"
+---
+
+## Visa Guide for {name}
+
+{intro}
+
+## Do You Need a Visa?
+
+{visa_needed_section}
+
+## Visa Options
+
+{visa_options}
+
+## Requirements
+
+{requirements_section}
+
+## Application Process
+
+{process_section}
+
+## Costs
+
+{costs_section}
+
+## Tips for Solo Travelers
+
+1. Apply well in advance of your trip
+2. Have all documents ready before applying
+3. Keep copies of your visa and passport
+4. Know the rules for extensions
+5. Check entry requirements for your nationality
+'''
+
+HOSTEL_GUIDE_TEMPLATE = '''---
+title: "Best Hostels in {city_name}"
+description: "Complete hostel guide for {city_name}, {country}. Top-rated hostels, budget options, and tips for solo travelers."
+city: "{city_slug}"
+country: "{country_slug}"
+heroImage: "https://source.unsplash.com/1600x900/?{image_query}"
+
+priceRange:
+  dormBed: "${dorm_price}"
+  privateRoom: "${private_price}"
+
+topHostels:
+{hostels_yaml}
+
+tips:
+{tips_yaml}
+
+faqs:
+  - question: "What's the average hostel price in {city_name}?"
+    answer: "Dorm beds average ${dorm_price}/night, private rooms around ${private_price}/night."
+  - question: "Are hostels safe in {city_name}?"
+    answer: "{safety_answer}"
+  - question: "Best area for hostels in {city_name}?"
+    answer: "{area_answer}"
+---
+
+## Best Hostels in {city_name} for Solo Travelers
+
+{intro}
+
+## Price Overview
+
+{price_section}
+
+## Top Hostels
+
+{hostels_section}
+
+## Best Areas to Stay
+
+{areas_section}
+
+## Booking Tips
+
+{booking_tips}
+
+## Solo Traveler Tips
+
+1. Book hostels with common areas for socializing
+2. Check reviews specifically from solo travelers
+3. Look for hostels with organized activities
+4. Consider location for safety and convenience
+5. Book a few days in advance during peak season
+'''
+
+DAY_TRIP_TEMPLATE = '''---
+title: "Day Trips from {city_name}"
+description: "Best day trips from {city_name}, {country}. Top destinations, transport options, and tips for solo travelers."
+city: "{city_slug}"
+country: "{country_slug}"
+heroImage: "https://source.unsplash.com/1600x900/?{image_query}"
+
+topTrips:
+{trips_yaml}
+
+transportOptions:
+{transport_yaml}
+
+faqs:
+  - question: "What are the best day trips from {city_name}?"
+    answer: "{best_trips_answer}"
+  - question: "Can I do day trips solo from {city_name}?"
+    answer: "Absolutely! All these day trips are solo-friendly with public transport or organized tours."
+---
+
+## Best Day Trips from {city_name}
+
+{intro}
+
+## Top Day Trips
+
+{trips_section}
+
+## Getting There
+
+{transport_section}
+
+## Solo Day Trip Tips
+
+1. Start early to maximize your day
+2. Book tours for convenience or go independent for flexibility
+3. Download offline maps for navigation
+4. Bring snacks and water
+5. Check return transport times before heading out
+
+## Organized Tours vs Independent
+
+{tours_vs_independent}
+'''
+
+FOOD_GUIDE_TEMPLATE = '''---
+title: "Food Guide for {city_name}"
+description: "Complete food guide for {city_name}, {country}. Must-try dishes, best restaurants, street food, and tips for solo diners."
+city: "{city_slug}"
+country: "{country_slug}"
+heroImage: "https://source.unsplash.com/1600x900/?{image_query}"
+
+mustTry:
+{must_try_yaml}
+
+whereToEat:
+{where_yaml}
+
+budget:
+  streetFood: "${street_food}"
+  casualDining: "${casual}"
+  fineDining: "${fine}"
+
+faqs:
+  - question: "What food is {city_name} known for?"
+    answer: "{famous_food_answer}"
+  - question: "Is {city_name} good for solo dining?"
+    answer: "Yes! {city_name} has many solo-friendly dining options including counter seating, food markets, and casual eateries."
+---
+
+## Food Guide for Solo Travelers in {city_name}
+
+{intro}
+
+## Must-Try Foods
+
+{must_try_section}
+
+## Where to Eat
+
+{where_section}
+
+## Solo Dining Tips
+
+{solo_dining_tips}
+
+## Street Food
+
+{street_food_section}
+
+## Food Markets
+
+{markets_section}
+
+## Budget Eating
+
+{budget_section}
+'''
+
+NIGHTLIFE_GUIDE_TEMPLATE = '''---
+title: "Nightlife in {city_name}"
+description: "Complete nightlife guide for {city_name}, {country}. Best bars, clubs, and tips for solo travelers going out."
+city: "{city_slug}"
+country: "{country_slug}"
+heroImage: "https://source.unsplash.com/1600x900/?{image_query}"
+
+overview: "{nightlife_overview}"
+safetyRating: "{safety_rating}"
+
+topSpots:
+{spots_yaml}
+
+areas:
+{areas_yaml}
+
+tips:
+{tips_yaml}
+
+faqs:
+  - question: "Is {city_name} good for nightlife?"
+    answer: "{nightlife_answer}"
+  - question: "Is it safe to go out alone at night in {city_name}?"
+    answer: "{safety_answer}"
+---
+
+## Nightlife Guide for Solo Travelers in {city_name}
+
+{intro}
+
+## Nightlife Overview
+
+{overview_section}
+
+## Best Areas
+
+{areas_section}
+
+## Top Spots
+
+{spots_section}
+
+## Solo Nightlife Tips
+
+{solo_tips}
+
+## Safety Tips
+
+{safety_tips}
+
+## Meeting Other Travelers
+
+{social_section}
+'''
+
+LANGUAGE_GUIDE_TEMPLATE = '''---
+title: "Language Guide for {name}"
+description: "Essential phrases and language tips for {name}. Key words, pronunciation, and communication tips for solo travelers."
+country: "{country_slug}"
+mainLanguage: "{main_language}"
+heroImage: "https://source.unsplash.com/1600x900/?{image_query}"
+
+essentialPhrases:
+{phrases_yaml}
+
+tips:
+{tips_yaml}
+
+faqs:
+  - question: "What language is spoken in {name}?"
+    answer: "{language_answer}"
+  - question: "Do people speak English in {name}?"
+    answer: "{english_answer}"
+---
+
+## Language Guide for {name}
+
+{intro}
+
+## Main Language
+
+{language_section}
+
+## Essential Phrases
+
+{phrases_section}
+
+## Communication Tips
+
+{tips_section}
+
+## Language Apps
+
+{apps_section}
+
+## Solo Traveler Communication Tips
+
+1. Learn basic greetings - locals appreciate the effort
+2. Download offline translation apps
+3. Carry a phrasebook for backup
+4. Use body language and gestures
+5. Be patient and smile
+'''
+
 SAFETY_TEMPLATE = '''---
 title: "{name}"
 description: "{name} safety guide for solo travelers. Travel advisories, emergency contacts, scam alerts, and safety tips."
@@ -1781,6 +2104,334 @@ def generate_transport_guide_content(country: dict) -> str:
     return content
 
 
+def generate_visa_guide_content(country: dict) -> str:
+    """Generate visa guide content for a country."""
+    name = country["name"]
+    slug = country["slug"]
+    region = country.get("region", "")
+
+    # Determine visa requirements based on region (simplified)
+    visa_free_regions = ["Europe"]
+    voa_common = ["Asia", "Americas"]
+
+    if region in visa_free_regions:
+        visa_required = "Varies by nationality"
+        visa_on_arrival = "Not typically needed"
+        e_visa = "Not typically needed"
+    elif region in voa_common:
+        visa_required = "Required for most nationalities"
+        visa_on_arrival = "Available for many nationalities"
+        e_visa = "Often available"
+    else:
+        visa_required = "Check requirements"
+        visa_on_arrival = "May be available"
+        e_visa = "May be available"
+
+    requirements_yaml = '''  - "Valid passport (6+ months validity)"
+  - "Completed application form"
+  - "Passport-sized photos"
+  - "Proof of accommodation"
+  - "Return flight ticket"
+  - "Proof of sufficient funds"'''
+
+    process_yaml = '''  - step: 1
+    description: "Check requirements for your nationality"
+  - step: 2
+    description: "Gather required documents"
+  - step: 3
+    description: "Apply online or at embassy"
+  - step: 4
+    description: "Pay visa fee"
+  - step: 5
+    description: "Wait for processing"'''
+
+    content = VISA_GUIDE_TEMPLATE.format(
+        name=name,
+        country_slug=slug,
+        image_query=f"{name.lower().replace(' ', '+')}+visa+passport",
+        visa_required=visa_required,
+        visa_on_arrival=visa_on_arrival,
+        e_visa=e_visa,
+        max_stay="30-90 days typical",
+        requirements_yaml=requirements_yaml,
+        process_yaml=process_yaml,
+        visa_cost="30-100",
+        evisa_cost="20-80",
+        extension_cost="50-150",
+        visa_answer=f"Visa requirements for {name} depend on your nationality. Check with the embassy or official government website.",
+        stay_answer=f"Tourist visas for {name} typically allow 30-90 days. Check specific requirements for your visa type.",
+        extension_answer=f"Visa extensions in {name} are often possible. Apply before your current visa expires at immigration offices.",
+        intro=f"Planning your trip to {name}? Here's everything you need to know about visas and entry requirements.",
+        visa_needed_section=f"Visa requirements for {name} vary by nationality. Always check current requirements before traveling.",
+        visa_options=f"{name} offers various visa options including tourist visas, e-visas, and visa on arrival for eligible nationalities.",
+        requirements_section="Standard requirements include valid passport, photos, and proof of travel plans.",
+        process_section="Apply through the embassy, online portal, or on arrival depending on your nationality.",
+        costs_section="Visa costs vary by type and nationality. Budget accordingly."
+    )
+
+    return content
+
+
+def generate_hostel_guide_content(city: dict) -> str:
+    """Generate hostel guide content for a city."""
+    name = city["name"]
+    country = city["country"]
+    city_slug = city.get("slug", name.lower().replace(" ", "-"))
+    country_slug = city.get("country_slug", country.lower().replace(" ", "-"))
+    safety_level = city.get("safety_level", "caution")
+
+    # Budget calculations
+    budget = city.get("budget_per_day", "50-100")
+    if isinstance(budget, str):
+        daily = int(budget.split("-")[0])
+    else:
+        daily = 50
+
+    dorm_price = int(daily * 0.25)
+    private_price = int(daily * 0.5)
+
+    hostels_yaml = '''  - name: "Central Backpackers"
+    type: "Social Hostel"
+    priceFrom: "${dorm}"
+    rating: "Excellent"
+  - name: "City Stay Hostel"
+    type: "Boutique Hostel"
+    priceFrom: "${dorm}"
+    rating: "Great"
+  - name: "Budget Inn"
+    type: "Budget Option"
+    priceFrom: "${budget}"
+    rating: "Good"'''.replace("${dorm}", str(dorm_price)).replace("${budget}", str(int(dorm_price * 0.8)))
+
+    tips_yaml = '''  - "Book social hostels to meet other travelers"
+  - "Check for included breakfast"
+  - "Read recent reviews"
+  - "Consider location vs price"'''
+
+    content = HOSTEL_GUIDE_TEMPLATE.format(
+        city_name=name,
+        city_slug=city_slug,
+        country=country,
+        country_slug=country_slug,
+        image_query=f"{name.lower().replace(' ', '+')}+hostel+backpacker",
+        dorm_price=dorm_price,
+        private_price=private_price,
+        hostels_yaml=hostels_yaml,
+        tips_yaml=tips_yaml,
+        safety_answer=f"Hostels in {name} are {'generally very safe' if safety_level == 'safe' else 'safe with normal precautions'}. Use lockers for valuables.",
+        area_answer=f"The city center and main tourist areas have the best hostel options in {name}.",
+        intro=f"Find the perfect hostel in {name} for your solo adventure. Great options for meeting other travelers.",
+        price_section=f"Hostels in {name} range from ${int(dorm_price * 0.8)} for basic dorms to ${private_price} for private rooms.",
+        hostels_section="Top-rated hostels offer great social atmospheres, clean facilities, and helpful staff.",
+        areas_section="City center locations offer easy access to attractions and nightlife.",
+        booking_tips="Book a few days ahead during peak season. Look for hostels with good common areas and organized activities."
+    )
+
+    return content
+
+
+def generate_day_trip_content(city: dict) -> str:
+    """Generate day trip guide content for a city."""
+    name = city["name"]
+    country = city["country"]
+    city_slug = city.get("slug", name.lower().replace(" ", "-"))
+    country_slug = city.get("country_slug", country.lower().replace(" ", "-"))
+
+    trips_yaml = '''  - name: "Nearby Nature"
+    distance: "1-2 hours"
+    highlights: ["Scenic views", "Hiking", "Photography"]
+  - name: "Historic Town"
+    distance: "1-2 hours"
+    highlights: ["Architecture", "Local food", "Culture"]
+  - name: "Coastal/Mountain Escape"
+    distance: "2-3 hours"
+    highlights: ["Nature", "Adventure", "Relaxation"]'''
+
+    transport_yaml = '''  - type: "Public Bus"
+    cost: "Budget"
+    convenience: "Moderate"
+  - type: "Train"
+    cost: "Moderate"
+    convenience: "High"
+  - type: "Organized Tour"
+    cost: "Higher"
+    convenience: "Very High"'''
+
+    content = DAY_TRIP_TEMPLATE.format(
+        city_name=name,
+        city_slug=city_slug,
+        country=country,
+        country_slug=country_slug,
+        image_query=f"{name.lower().replace(' ', '+')}+day+trip+excursion",
+        trips_yaml=trips_yaml,
+        transport_yaml=transport_yaml,
+        best_trips_answer=f"Popular day trips from {name} include nearby nature spots, historic towns, and scenic areas.",
+        intro=f"Explore beyond {name} with these amazing day trip options perfect for solo travelers.",
+        trips_section="Each destination offers unique experiences accessible within a few hours.",
+        transport_section="Multiple options available from budget-friendly buses to convenient organized tours.",
+        tours_vs_independent="Tours offer convenience and guides. Independent travel gives flexibility and often costs less."
+    )
+
+    return content
+
+
+def generate_food_guide_content(city: dict) -> str:
+    """Generate food guide content for a city."""
+    name = city["name"]
+    country = city["country"]
+    city_slug = city.get("slug", name.lower().replace(" ", "-"))
+    country_slug = city.get("country_slug", country.lower().replace(" ", "-"))
+
+    # Budget calculations
+    budget = city.get("budget_per_day", "50-100")
+    if isinstance(budget, str):
+        daily = int(budget.split("-")[0])
+    else:
+        daily = 50
+
+    must_try_yaml = '''  - "Local specialty dish"
+  - "Street food favorites"
+  - "Traditional breakfast"
+  - "Regional dessert"'''
+
+    where_yaml = '''  - type: "Street Food"
+    priceRange: "Budget"
+    soloFriendly: "Very"
+  - type: "Local Markets"
+    priceRange: "Budget"
+    soloFriendly: "Very"
+  - type: "Casual Restaurants"
+    priceRange: "Moderate"
+    soloFriendly: "Very"'''
+
+    content = FOOD_GUIDE_TEMPLATE.format(
+        city_name=name,
+        city_slug=city_slug,
+        country=country,
+        country_slug=country_slug,
+        image_query=f"{name.lower().replace(' ', '+')}+food+cuisine",
+        must_try_yaml=must_try_yaml,
+        where_yaml=where_yaml,
+        street_food=int(daily * 0.1),
+        casual=int(daily * 0.2),
+        fine=int(daily * 0.4),
+        famous_food_answer=f"{name} is known for its local specialties, street food scene, and traditional cuisine.",
+        intro=f"Discover the best food experiences in {name} for solo travelers. From street food to local restaurants.",
+        must_try_section="Don't leave without trying these local favorites.",
+        where_section="Best spots for every budget and dining style.",
+        solo_dining_tips="Counter seating, food markets, and casual eateries are perfect for solo diners. Many restaurants welcome solo guests warmly.",
+        street_food_section="Street food offers authentic flavors at budget prices. Follow the locals for the best stalls.",
+        markets_section="Food markets combine shopping, eating, and people-watching - ideal for solo travelers.",
+        budget_section=f"Eat well in {name} on a budget with street food and local eateries."
+    )
+
+    return content
+
+
+def generate_nightlife_guide_content(city: dict) -> str:
+    """Generate nightlife guide content for a city."""
+    name = city["name"]
+    country = city["country"]
+    city_slug = city.get("slug", name.lower().replace(" ", "-"))
+    country_slug = city.get("country_slug", country.lower().replace(" ", "-"))
+    safety_level = city.get("safety_level", "caution")
+
+    nightlife_overview = f"{name} offers {'vibrant' if safety_level == 'safe' else 'interesting'} nightlife options for solo travelers."
+    safety_rating = "Good" if safety_level == "safe" else "Moderate"
+
+    spots_yaml = '''  - type: "Bars"
+    atmosphere: "Social"
+    soloFriendly: "Very"
+  - type: "Clubs"
+    atmosphere: "Energetic"
+    soloFriendly: "Moderate"
+  - type: "Live Music"
+    atmosphere: "Cultural"
+    soloFriendly: "Very"'''
+
+    areas_yaml = '''  - name: "Main Entertainment District"
+    vibe: "Diverse options"
+    safety: "Well-patrolled"
+  - name: "Tourist Area"
+    vibe: "International crowd"
+    safety: "Generally safe"'''
+
+    tips_yaml = '''  - "Start at hostel bars to meet other travelers"
+  - "Join organized pub crawls"
+  - "Stay aware of your surroundings"
+  - "Use ride-sharing apps for safe transport home"'''
+
+    content = NIGHTLIFE_GUIDE_TEMPLATE.format(
+        city_name=name,
+        city_slug=city_slug,
+        country=country,
+        country_slug=country_slug,
+        image_query=f"{name.lower().replace(' ', '+')}+nightlife+bar",
+        nightlife_overview=nightlife_overview,
+        safety_rating=safety_rating,
+        spots_yaml=spots_yaml,
+        areas_yaml=areas_yaml,
+        tips_yaml=tips_yaml,
+        nightlife_answer=f"Yes! {name} has {'excellent' if safety_level == 'safe' else 'enjoyable'} nightlife with options for every taste.",
+        safety_answer=f"Going out alone in {name} is {'generally safe' if safety_level == 'safe' else 'fine with precautions'}. Stick to busy areas and use trusted transport.",
+        intro=f"Experience {name}'s nightlife scene as a solo traveler. Here's your guide to the best spots and staying safe.",
+        overview_section=f"{name}'s nightlife ranges from casual bars to energetic clubs.",
+        areas_section="The main entertainment districts offer diverse options in well-traveled areas.",
+        spots_section="Bars, clubs, and live music venues cater to different tastes and budgets.",
+        solo_tips="Start at social hostels or organized events to meet other travelers before heading out.",
+        safety_tips="Stay in well-lit areas, watch your drinks, and use official transportation.",
+        social_section="Hostel bars, pub crawls, and social apps help solo travelers connect with others."
+    )
+
+    return content
+
+
+def generate_language_guide_content(country: dict) -> str:
+    """Generate language guide content for a country."""
+    name = country["name"]
+    slug = country["slug"]
+    language = country.get("language", "Local language")
+
+    phrases_yaml = '''  - phrase: "Hello"
+    local: "[Local greeting]"
+    pronunciation: "[Pronunciation guide]"
+  - phrase: "Thank you"
+    local: "[Local phrase]"
+    pronunciation: "[Pronunciation guide]"
+  - phrase: "Please"
+    local: "[Local phrase]"
+    pronunciation: "[Pronunciation guide]"
+  - phrase: "Excuse me"
+    local: "[Local phrase]"
+    pronunciation: "[Pronunciation guide]"
+  - phrase: "How much?"
+    local: "[Local phrase]"
+    pronunciation: "[Pronunciation guide]"'''
+
+    tips_yaml = '''  - "Learn basic greetings first"
+  - "Download offline translation apps"
+  - "Use gestures and pictures when needed"
+  - "Locals appreciate any effort to speak their language"'''
+
+    content = LANGUAGE_GUIDE_TEMPLATE.format(
+        name=name,
+        country_slug=slug,
+        main_language=language,
+        image_query=f"{name.lower().replace(' ', '+')}+language+culture",
+        phrases_yaml=phrases_yaml,
+        tips_yaml=tips_yaml,
+        language_answer=f"The main language in {name} is {language}. English is spoken in tourist areas.",
+        english_answer=f"English is commonly spoken in tourist areas of {name}. Learning basic phrases helps in local areas.",
+        intro=f"Communication tips for {name}. Essential phrases and language advice for solo travelers.",
+        language_section=f"{language} is the primary language. English proficiency varies by region.",
+        phrases_section="Master these essential phrases before your trip.",
+        tips_section="Communication goes beyond language - body language and patience help too.",
+        apps_section="Google Translate, iTranslate, and language-specific apps work well offline."
+    )
+
+    return content
+
+
 def save_content(content: str, filepath: Path):
     """Save content to file."""
     filepath.parent.mkdir(parents=True, exist_ok=True)
@@ -1976,11 +2627,105 @@ def generate_all_content():
 
     print(f"Generated {transport_count} transportation guide pages")
 
+    # Generate visa guides
+    visa_count = 0
+    for country in countries:
+        slug = country["slug"]
+        if not slug or "/" in slug:
+            continue
+
+        content = generate_visa_guide_content(country)
+        filepath = CONTENT_DIR / "visa" / slug / "_index.md"
+        save_content(content, filepath)
+        visa_count += 1
+
+    print(f"Generated {visa_count} visa guide pages")
+
+    # Generate hostel guides per city
+    hostel_count = 0
+    for city in cities:
+        country_slug = city.get("country_slug", "")
+        city_slug = city.get("slug", "")
+
+        if not country_slug or not city_slug:
+            continue
+
+        content = generate_hostel_guide_content(city)
+        filepath = CONTENT_DIR / "hostels" / country_slug / city_slug / "_index.md"
+        save_content(content, filepath)
+        hostel_count += 1
+
+    print(f"Generated {hostel_count} hostel guide pages")
+
+    # Generate day trip guides per city
+    day_trip_count = 0
+    for city in cities:
+        country_slug = city.get("country_slug", "")
+        city_slug = city.get("slug", "")
+
+        if not country_slug or not city_slug:
+            continue
+
+        content = generate_day_trip_content(city)
+        filepath = CONTENT_DIR / "day-trips" / country_slug / city_slug / "_index.md"
+        save_content(content, filepath)
+        day_trip_count += 1
+
+    print(f"Generated {day_trip_count} day trip guide pages")
+
+    # Generate food guides per city
+    food_count = 0
+    for city in cities:
+        country_slug = city.get("country_slug", "")
+        city_slug = city.get("slug", "")
+
+        if not country_slug or not city_slug:
+            continue
+
+        content = generate_food_guide_content(city)
+        filepath = CONTENT_DIR / "food" / country_slug / city_slug / "_index.md"
+        save_content(content, filepath)
+        food_count += 1
+
+    print(f"Generated {food_count} food guide pages")
+
+    # Generate nightlife guides per city
+    nightlife_count = 0
+    for city in cities:
+        country_slug = city.get("country_slug", "")
+        city_slug = city.get("slug", "")
+
+        if not country_slug or not city_slug:
+            continue
+
+        content = generate_nightlife_guide_content(city)
+        filepath = CONTENT_DIR / "nightlife" / country_slug / city_slug / "_index.md"
+        save_content(content, filepath)
+        nightlife_count += 1
+
+    print(f"Generated {nightlife_count} nightlife guide pages")
+
+    # Generate language guides per country
+    language_count = 0
+    for country in countries:
+        slug = country["slug"]
+        if not slug or "/" in slug:
+            continue
+
+        content = generate_language_guide_content(country)
+        filepath = CONTENT_DIR / "language" / slug / "_index.md"
+        save_content(content, filepath)
+        language_count += 1
+
+    print(f"Generated {language_count} language guide pages")
+
     # Calculate totals
     base_pages = len(countries) + city_count
     guide_pages = total_safety + itinerary_count + budget_count + female_count + activity_count
     new_pages = city_itinerary_count + monthly_count + packing_count + transport_count
-    total_pages = base_pages + guide_pages + new_pages
+    city_guides = hostel_count + day_trip_count + food_count + nightlife_count
+    country_guides = visa_count + language_count
+    total_pages = base_pages + guide_pages + new_pages + city_guides + country_guides
 
     print(f"\n{'='*50}")
     print("Content Generation Summary")
@@ -1996,6 +2741,12 @@ def generate_all_content():
     print(f"Monthly guides:      {monthly_count}")
     print(f"Packing guides:      {packing_count}")
     print(f"Transport guides:    {transport_count}")
+    print(f"Visa guides:         {visa_count}")
+    print(f"Hostel guides:       {hostel_count}")
+    print(f"Day trip guides:     {day_trip_count}")
+    print(f"Food guides:         {food_count}")
+    print(f"Nightlife guides:    {nightlife_count}")
+    print(f"Language guides:     {language_count}")
     print(f"{'='*50}")
     print(f"TOTAL PAGES:         {total_pages}")
     print(f"{'='*50}")
