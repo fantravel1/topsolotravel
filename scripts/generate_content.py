@@ -541,6 +541,257 @@ faqs:
 {season_text}
 '''
 
+CITY_ITINERARY_TEMPLATE = '''---
+title: "{duration} in {city_name}"
+description: "Perfect {duration} solo travel itinerary for {city_name}, {country}. Day-by-day guide with top attractions, food spots, and local tips."
+city: "{city_slug}"
+country: "{country_slug}"
+duration: "{duration}"
+days: {days}
+heroImage: "https://source.unsplash.com/1600x900/?{image_query}"
+
+quickInfo:
+  duration: "{duration}"
+  budget: "${budget_total}"
+  bestFor: "{best_for}"
+  walkability: "{walkability}"
+
+highlights:
+{highlights_yaml}
+
+dayByDay:
+{day_by_day_yaml}
+
+faqs:
+  - question: "Is {duration} enough time in {city_name}?"
+    answer: "{time_answer}"
+  - question: "What's the best area to stay for this itinerary?"
+    answer: "Stay in the city center for easy access to main attractions and walkability."
+---
+
+## {duration} Solo Itinerary for {city_name}
+
+{intro}
+
+## Day-by-Day Guide
+
+{daily_breakdown}
+
+## Where to Stay
+
+For this {duration} itinerary, staying in the city center maximizes your time and makes getting around easy.
+
+## Budget Tips
+
+- Walk when possible - {city_name} is {walkability_desc}
+- Eat at local markets for affordable, authentic food
+- Book accommodations with breakfast included
+
+## Solo Traveler Tips
+
+1. Join a free walking tour on your first day
+2. Download offline maps before exploring
+3. Ask locals for restaurant recommendations
+4. Take photos of your hotel address in local language
+'''
+
+MONTHLY_GUIDE_TEMPLATE = '''---
+title: "{name} in {month}"
+description: "Complete guide to visiting {name} in {month}. Weather, events, crowds, prices, and tips for solo travelers visiting in {month}."
+country: "{country_slug}"
+month: "{month}"
+monthNumber: {month_number}
+heroImage: "https://source.unsplash.com/1600x900/?{image_query}"
+
+weather:
+  temperature: "{temperature}"
+  rainfall: "{rainfall}"
+  conditions: "{conditions}"
+
+crowds: "{crowd_level}"
+prices: "{price_level}"
+overall: "{overall_rating}"
+
+events:
+{events_yaml}
+
+packingTips:
+{packing_yaml}
+
+faqs:
+  - question: "Is {month} a good time to visit {name}?"
+    answer: "{month_answer}"
+  - question: "What's the weather like in {name} in {month}?"
+    answer: "{weather_answer}"
+  - question: "Are there any festivals in {name} in {month}?"
+    answer: "{festival_answer}"
+---
+
+## Visiting {name} in {month}
+
+{intro}
+
+## Weather in {month}
+
+{weather_section}
+
+## Crowds & Prices
+
+{crowds_section}
+
+## What to Pack
+
+{packing_section}
+
+## Events & Festivals
+
+{events_section}
+
+## Best Activities in {month}
+
+{activities_section}
+
+## Solo Travel Tips for {month}
+
+{solo_tips}
+'''
+
+PACKING_GUIDE_TEMPLATE = '''---
+title: "Packing List for {name}"
+description: "Complete solo travel packing guide for {name}. Essential items, clothing tips, and what to leave at home."
+country: "{country_slug}"
+climate: "{climate}"
+heroImage: "https://source.unsplash.com/1600x900/?{image_query}"
+
+essentials:
+{essentials_yaml}
+
+clothing:
+{clothing_yaml}
+
+electronics:
+{electronics_yaml}
+
+toiletries:
+{toiletries_yaml}
+
+documents:
+{documents_yaml}
+
+optional:
+{optional_yaml}
+
+leaveAtHome:
+{leave_yaml}
+
+faqs:
+  - question: "What should I pack for {name}?"
+    answer: "{pack_answer}"
+  - question: "Do I need special clothing for {name}?"
+    answer: "{clothing_answer}"
+---
+
+## Solo Travel Packing List for {name}
+
+{intro}
+
+## Essential Items
+
+{essentials_section}
+
+## Clothing
+
+{clothing_section}
+
+## Electronics & Gadgets
+
+{electronics_section}
+
+## Toiletries
+
+{toiletries_section}
+
+## Documents & Money
+
+{documents_section}
+
+## Nice to Have
+
+{optional_section}
+
+## What to Leave at Home
+
+{leave_section}
+
+## Packing Tips for Solo Travelers
+
+1. Pack light - you'll carry everything yourself
+2. Choose versatile items that mix and match
+3. Roll clothes to save space
+4. Keep valuables in your carry-on
+5. Leave room for souvenirs
+'''
+
+TRANSPORT_GUIDE_TEMPLATE = '''---
+title: "Getting Around {name}"
+description: "Complete transportation guide for {name}. Public transit, taxis, trains, and tips for solo travelers getting around."
+country: "{country_slug}"
+heroImage: "https://source.unsplash.com/1600x900/?{image_query}"
+
+overview: "{transport_overview}"
+
+options:
+{options_yaml}
+
+apps:
+{apps_yaml}
+
+tips:
+{tips_yaml}
+
+costs:
+  publicTransit: "${transit_cost}"
+  taxi: "${taxi_cost}"
+  intercity: "${intercity_cost}"
+
+faqs:
+  - question: "What's the best way to get around {name}?"
+    answer: "{best_way_answer}"
+  - question: "Is public transportation safe in {name}?"
+    answer: "{safety_answer}"
+  - question: "Do I need a car in {name}?"
+    answer: "{car_answer}"
+---
+
+## Getting Around {name} as a Solo Traveler
+
+{intro}
+
+## Transportation Options
+
+{options_section}
+
+## Useful Apps
+
+{apps_section}
+
+## Costs
+
+{costs_section}
+
+## Safety Tips
+
+{safety_section}
+
+## Solo Traveler Tips
+
+{solo_tips}
+
+## Getting From the Airport
+
+{airport_section}
+'''
+
 SAFETY_TEMPLATE = '''---
 title: "{name}"
 description: "{name} safety guide for solo travelers. Travel advisories, emergency contacts, scam alerts, and safety tips."
@@ -1233,6 +1484,303 @@ def generate_activity_content(country: dict, activity: str) -> str:
     return content
 
 
+def generate_city_itinerary_content(city: dict, duration: str, days: int) -> str:
+    """Generate city-specific itinerary content."""
+    name = city["name"]
+    country = city["country"]
+    city_slug = city.get("slug", name.lower().replace(" ", "-"))
+    country_slug = city.get("country_slug", country.lower().replace(" ", "-"))
+
+    # Budget calculations
+    budget = city.get("budget_per_day", "50-100")
+    if isinstance(budget, str):
+        daily = int(budget.split("-")[0])
+    else:
+        daily = 50
+
+    budget_total = daily * days
+
+    # Highlights
+    highlights = city.get("highlights", ["culture", "food", "history"])
+    highlights_yaml = "\n".join([f'  - "Explore {h}"' for h in highlights[:4]])
+
+    # Day by day
+    day_by_day_yaml = ""
+    for d in range(1, days + 1):
+        day_by_day_yaml += f'''  - day: {d}
+    title: "Day {d}"
+    activities: ["Morning exploration", "Lunch at local spot", "Afternoon sightseeing"]
+'''
+
+    # Daily breakdown
+    daily_breakdown = ""
+    for d in range(1, days + 1):
+        if d == 1:
+            daily_breakdown += f"### Day {d}: Arrival & First Impressions\nSettle in, explore your neighborhood, and get oriented with the city layout.\n\n"
+        elif d == days:
+            daily_breakdown += f"### Day {d}: Final Explorations\nRevisit favorites, pick up souvenirs, and savor your last moments in {name}.\n\n"
+        else:
+            daily_breakdown += f"### Day {d}: Deep Exploration\nVisit top attractions, try local cuisine, and discover hidden gems.\n\n"
+
+    content = CITY_ITINERARY_TEMPLATE.format(
+        city_name=name,
+        city_slug=city_slug,
+        country=country,
+        country_slug=country_slug,
+        duration=duration,
+        days=days,
+        image_query=f"{name.lower().replace(' ', '+')}+{duration.lower().replace(' ', '+')}+itinerary",
+        budget_total=budget_total,
+        best_for="Quick visit" if days <= 2 else "In-depth exploration",
+        walkability="Very Walkable" if city.get("safety_level") == "safe" else "Moderately Walkable",
+        highlights_yaml=highlights_yaml,
+        day_by_day_yaml=day_by_day_yaml,
+        time_answer=f"{duration} is {'perfect for highlights' if days <= 2 else 'great for exploring'} in {name}.",
+        intro=f"Make the most of your {duration} in {name} with this solo traveler-focused itinerary.",
+        daily_breakdown=daily_breakdown,
+        walkability_desc="very walkable" if city.get("safety_level") == "safe" else "moderately walkable"
+    )
+
+    return content
+
+
+MONTHS = ["January", "February", "March", "April", "May", "June",
+          "July", "August", "September", "October", "November", "December"]
+
+MONTH_SEASONS = {
+    1: "winter", 2: "winter", 3: "spring", 4: "spring", 5: "spring", 6: "summer",
+    7: "summer", 8: "summer", 9: "fall", 10: "fall", 11: "fall", 12: "winter"
+}
+
+
+def generate_monthly_guide_content(country: dict, month: str, month_number: int) -> str:
+    """Generate monthly travel guide content for a country."""
+    name = country["name"]
+    slug = country["slug"]
+    region = country.get("region", "")
+
+    # Determine weather based on hemisphere and month
+    # Northern hemisphere default
+    season = MONTH_SEASONS[month_number]
+
+    # Flip for southern hemisphere
+    if region in ["Oceania"] or slug in ["australia", "new-zealand", "argentina", "chile", "south-africa"]:
+        season_map = {"winter": "summer", "summer": "winter", "spring": "fall", "fall": "spring"}
+        season = season_map.get(season, season)
+
+    # Weather descriptions
+    weather_by_season = {
+        "winter": {"temp": "Cold (0-10°C)", "rain": "Moderate", "cond": "Cold and possibly snowy"},
+        "spring": {"temp": "Mild (10-20°C)", "rain": "Moderate", "cond": "Pleasant with occasional rain"},
+        "summer": {"temp": "Warm (20-30°C)", "rain": "Low", "cond": "Warm and sunny"},
+        "fall": {"temp": "Cool (10-20°C)", "rain": "Moderate", "cond": "Cool with colorful foliage"}
+    }
+
+    weather = weather_by_season.get(season, weather_by_season["spring"])
+
+    # Crowds and prices
+    peak_months = [6, 7, 8, 12]  # Summer and Christmas
+    shoulder_months = [4, 5, 9, 10]
+    if month_number in peak_months:
+        crowd_level = "High"
+        price_level = "Peak Season Prices"
+        overall = "Popular but Busy"
+    elif month_number in shoulder_months:
+        crowd_level = "Moderate"
+        price_level = "Moderate Prices"
+        overall = "Great Time to Visit"
+    else:
+        crowd_level = "Low"
+        price_level = "Budget-Friendly"
+        overall = "Off-Season Value"
+
+    # Events
+    events_yaml = f'''  - name: "Local festivals"
+    description: "Check local listings for {month} events"
+  - name: "Cultural events"
+    description: "Museums and venues often have special exhibitions"'''
+
+    # Packing
+    packing_yaml = f'''  - "Weather-appropriate clothing for {season}"
+  - "Comfortable walking shoes"
+  - "Rain jacket or umbrella"
+  - "Layers for temperature changes"'''
+
+    content = MONTHLY_GUIDE_TEMPLATE.format(
+        name=name,
+        country_slug=slug,
+        month=month,
+        month_number=month_number,
+        image_query=f"{name.lower().replace(' ', '+')}+{month.lower()}+travel",
+        temperature=weather["temp"],
+        rainfall=weather["rain"],
+        conditions=weather["cond"],
+        crowd_level=crowd_level,
+        price_level=price_level,
+        overall_rating=overall,
+        events_yaml=events_yaml,
+        packing_yaml=packing_yaml,
+        month_answer=f"{month} is {overall.lower()} for {name}. {weather['cond']} with {crowd_level.lower()} crowds.",
+        weather_answer=f"Expect {weather['cond'].lower()} with temperatures around {weather['temp'].split('(')[1].replace(')', '')}.",
+        festival_answer=f"Check local event calendars for {month} festivals and celebrations in {name}.",
+        intro=f"Planning to visit {name} in {month}? Here's everything you need to know for a great solo trip.",
+        weather_section=f"In {month}, {name} experiences {weather['cond'].lower()}. Pack accordingly with {season} clothing.",
+        crowds_section=f"Expect {crowd_level.lower()} tourist crowds in {month}. {price_level} apply during this time.",
+        packing_section=f"Pack for {season} weather with layers, comfortable shoes, and rain protection.",
+        events_section=f"Check local listings for festivals and events happening in {name} during {month}.",
+        activities_section=f"{season.capitalize()} activities are ideal in {month}. Outdoor activities depend on weather conditions.",
+        solo_tips=f"1. Book accommodations early if visiting during {crowd_level.lower()} season\n2. Join group tours to meet other travelers\n3. Check weather forecasts before outdoor activities"
+    )
+
+    return content
+
+
+def generate_packing_guide_content(country: dict) -> str:
+    """Generate packing guide content for a country."""
+    name = country["name"]
+    slug = country["slug"]
+    region = country.get("region", "")
+
+    # Determine climate
+    climate_map = {
+        "Asia": "Tropical to Temperate",
+        "Europe": "Temperate",
+        "Americas": "Varied",
+        "Africa": "Tropical to Arid",
+        "Oceania": "Temperate to Tropical"
+    }
+    climate = climate_map.get(region, "Varied")
+
+    essentials_yaml = '''  - "Passport and copies"
+  - "Travel insurance documents"
+  - "Credit/debit cards"
+  - "Phone and charger"
+  - "Universal adapter"'''
+
+    clothing_yaml = '''  - "Comfortable walking shoes"
+  - "Light layers"
+  - "Rain jacket"
+  - "Modest clothing for religious sites"
+  - "Sleepwear"'''
+
+    electronics_yaml = '''  - "Smartphone"
+  - "Universal power adapter"
+  - "Portable charger"
+  - "Headphones"
+  - "Camera (optional)"'''
+
+    toiletries_yaml = '''  - "Toothbrush and toothpaste"
+  - "Deodorant"
+  - "Sunscreen"
+  - "Basic medications"
+  - "Hand sanitizer"'''
+
+    documents_yaml = '''  - "Passport (valid 6+ months)"
+  - "Visa (if required)"
+  - "Travel insurance"
+  - "Flight confirmations"
+  - "Accommodation bookings"'''
+
+    optional_yaml = '''  - "Guidebook or phrasebook"
+  - "Journal"
+  - "Reusable water bottle"
+  - "Daypack"
+  - "Travel pillow"'''
+
+    leave_yaml = '''  - "Expensive jewelry"
+  - "Excessive cash"
+  - "Too many shoes"
+  - "Full-size toiletries"
+  - "Items easily bought locally"'''
+
+    content = PACKING_GUIDE_TEMPLATE.format(
+        name=name,
+        country_slug=slug,
+        climate=climate,
+        image_query=f"{name.lower().replace(' ', '+')}+packing+travel",
+        essentials_yaml=essentials_yaml,
+        clothing_yaml=clothing_yaml,
+        electronics_yaml=electronics_yaml,
+        toiletries_yaml=toiletries_yaml,
+        documents_yaml=documents_yaml,
+        optional_yaml=optional_yaml,
+        leave_yaml=leave_yaml,
+        pack_answer=f"Pack light layers, comfortable shoes, and essentials for {climate.lower()} climate. Most items can be bought locally.",
+        clothing_answer=f"Pack modest clothing for religious sites, comfortable walking shoes, and layers for {name}'s {climate.lower()} climate.",
+        intro=f"Packing smart for {name} means traveling light while being prepared. Here's your complete packing guide.",
+        essentials_section="Never leave without these crucial items that are hard to replace while traveling.",
+        clothing_section=f"Pack versatile pieces suitable for {name}'s {climate.lower()} climate. Layers are key.",
+        electronics_section="Keep electronics minimal but functional. A universal adapter is essential.",
+        toiletries_section="Pack travel-sized items. Most toiletries are available locally if needed.",
+        documents_section="Keep digital and physical copies of all important documents.",
+        optional_section="Nice to have but not essential - decide based on your travel style.",
+        leave_section="Save space and reduce risk by leaving these items at home."
+    )
+
+    return content
+
+
+def generate_transport_guide_content(country: dict) -> str:
+    """Generate transportation guide content for a country."""
+    name = country["name"]
+    slug = country["slug"]
+    safety_level = country.get("safety_level", "caution")
+
+    transport_overview = f"Getting around {name} is {'straightforward' if safety_level == 'safe' else 'manageable with planning'}."
+
+    options_yaml = '''  - name: "Public Transit"
+    description: "Buses, metros, and trams in major cities"
+    cost: "Budget-friendly"
+    safety: "Generally safe"
+  - name: "Taxis/Ride-sharing"
+    description: "Uber, Grab, or local taxi services"
+    cost: "Moderate"
+    safety: "Use official services"
+  - name: "Trains"
+    description: "Intercity rail connections"
+    cost: "Varies by class"
+    safety: "Safe and scenic"
+  - name: "Rental Car"
+    description: "Available at airports and cities"
+    cost: "Higher but flexible"
+    safety: "Research local driving conditions"'''
+
+    apps_yaml = '''  - "Google Maps for navigation"
+  - "Local transit apps"
+  - "Uber or local ride-sharing"
+  - "Rome2Rio for route planning"'''
+
+    tips_yaml = '''  - "Download offline maps before arriving"
+  - "Learn basic phrases for directions"
+  - "Keep small change for public transit"
+  - "Book intercity travel in advance during peak times"'''
+
+    content = TRANSPORT_GUIDE_TEMPLATE.format(
+        name=name,
+        country_slug=slug,
+        image_query=f"{name.lower().replace(' ', '+')}+transportation+travel",
+        transport_overview=transport_overview,
+        options_yaml=options_yaml,
+        apps_yaml=apps_yaml,
+        tips_yaml=tips_yaml,
+        transit_cost="2-5",
+        taxi_cost="10-30",
+        intercity_cost="20-100",
+        best_way_answer=f"Public transit and walking work best in cities. Use trains or buses for intercity travel in {name}.",
+        safety_answer=f"Public transportation in {name} is {'generally safe' if safety_level == 'safe' else 'safe with normal precautions'}. Use official services.",
+        car_answer=f"A car isn't necessary in most cities but useful for rural areas. Research local driving conditions first.",
+        intro=f"Navigate {name} like a pro with this complete transportation guide for solo travelers.",
+        options_section="From metros to taxis, here are your options for getting around.",
+        apps_section="Download these apps before your trip for seamless navigation.",
+        costs_section="Budget for transportation based on your travel style and destinations.",
+        safety_section="Stay safe by using official transportation and staying aware of your surroundings.",
+        solo_tips="1. Share your route with someone back home\n2. Keep phone charged for navigation\n3. Have backup payment methods\n4. Learn key phrases in local language",
+        airport_section=f"Research airport transfers before arrival. Options typically include shuttle buses, taxis, and ride-sharing services."
+    )
+
+    return content
+
+
 def save_content(content: str, filepath: Path):
     """Save content to file."""
     filepath.parent.mkdir(parents=True, exist_ok=True)
@@ -1365,10 +1913,74 @@ def generate_all_content():
 
     print(f"Generated {activity_count} activity pages")
 
+    # Generate city itineraries (Weekend, 3 Days, 5 Days)
+    city_itinerary_count = 0
+    city_durations = [("Weekend", 2), ("3 Days", 3), ("5 Days", 5)]
+    for city in cities:
+        country_slug = city.get("country_slug", "")
+        city_slug = city.get("slug", "")
+
+        if not country_slug or not city_slug:
+            continue
+
+        for duration, days in city_durations:
+            content = generate_city_itinerary_content(city, duration, days)
+            duration_slug = duration.lower().replace(" ", "-")
+            filepath = CONTENT_DIR / "itineraries" / country_slug / city_slug / duration_slug / "_index.md"
+            save_content(content, filepath)
+            city_itinerary_count += 1
+
+    print(f"Generated {city_itinerary_count} city itinerary pages")
+
+    # Generate monthly travel guides (12 months per country)
+    monthly_count = 0
+    for country in countries:
+        slug = country["slug"]
+        if not slug or "/" in slug:
+            continue
+
+        for month_num, month in enumerate(MONTHS, 1):
+            content = generate_monthly_guide_content(country, month, month_num)
+            month_slug = month.lower()
+            filepath = CONTENT_DIR / "when-to-visit" / slug / month_slug / "_index.md"
+            save_content(content, filepath)
+            monthly_count += 1
+
+    print(f"Generated {monthly_count} monthly guide pages")
+
+    # Generate packing guides
+    packing_count = 0
+    for country in countries:
+        slug = country["slug"]
+        if not slug or "/" in slug:
+            continue
+
+        content = generate_packing_guide_content(country)
+        filepath = CONTENT_DIR / "packing" / slug / "_index.md"
+        save_content(content, filepath)
+        packing_count += 1
+
+    print(f"Generated {packing_count} packing guide pages")
+
+    # Generate transportation guides
+    transport_count = 0
+    for country in countries:
+        slug = country["slug"]
+        if not slug or "/" in slug:
+            continue
+
+        content = generate_transport_guide_content(country)
+        filepath = CONTENT_DIR / "transportation" / slug / "_index.md"
+        save_content(content, filepath)
+        transport_count += 1
+
+    print(f"Generated {transport_count} transportation guide pages")
+
     # Calculate totals
     base_pages = len(countries) + city_count
     guide_pages = total_safety + itinerary_count + budget_count + female_count + activity_count
-    total_pages = base_pages + guide_pages
+    new_pages = city_itinerary_count + monthly_count + packing_count + transport_count
+    total_pages = base_pages + guide_pages + new_pages
 
     print(f"\n{'='*50}")
     print("Content Generation Summary")
@@ -1377,9 +1989,13 @@ def generate_all_content():
     print(f"City pages:          {city_count}")
     print(f"Safety pages:        {total_safety}")
     print(f"Itinerary pages:     {itinerary_count}")
+    print(f"City itineraries:    {city_itinerary_count}")
     print(f"Budget guides:       {budget_count}")
     print(f"Solo female guides:  {female_count}")
     print(f"Activity pages:      {activity_count}")
+    print(f"Monthly guides:      {monthly_count}")
+    print(f"Packing guides:      {packing_count}")
+    print(f"Transport guides:    {transport_count}")
     print(f"{'='*50}")
     print(f"TOTAL PAGES:         {total_pages}")
     print(f"{'='*50}")
