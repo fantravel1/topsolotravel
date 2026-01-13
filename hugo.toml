@@ -1,0 +1,118 @@
+baseURL = "https://topsolotravel.com/"
+languageCode = "en-us"
+title = "Top Solo Travel - Your Ultimate Solo Travel Guide"
+theme = ""
+enableRobotsTXT = true
+enableGitInfo = true
+
+# Build settings
+timeout = "300s"
+disableKinds = ["taxonomy", "term"]
+
+[params]
+  description = "The ultimate guide for solo travelers. Discover destinations, safety tips, dining guides, and practical travel information for traveling alone."
+  author = "Top Solo Travel"
+  keywords = ["solo travel", "travel alone", "solo traveler", "travel guide", "solo female travel", "backpacking", "digital nomad"]
+  ogImage = "/images/og-default.jpg"
+  twitterHandle = "@topsolotravel"
+
+  # Schema.org
+  organizationName = "Top Solo Travel"
+  organizationLogo = "/images/logo.png"
+
+  # Analytics (add your IDs)
+  googleAnalytics = ""
+
+[menu]
+  [[menu.main]]
+    name = "Destinations"
+    url = "/destinations/"
+    weight = 1
+  [[menu.main]]
+    name = "Safety"
+    url = "/safety/"
+    weight = 2
+  [[menu.main]]
+    name = "Eat Solo"
+    url = "/eat/"
+    weight = 3
+  [[menu.main]]
+    name = "Stay"
+    url = "/stay/"
+    weight = 4
+  [[menu.main]]
+    name = "Nightlife"
+    url = "/nightlife/"
+    weight = 5
+  [[menu.main]]
+    name = "Cafes"
+    url = "/cafes/"
+    weight = 6
+  [[menu.main]]
+    name = "Visas"
+    url = "/visas/"
+    weight = 7
+  [[menu.main]]
+    name = "Best Of"
+    url = "/best/"
+    weight = 8
+
+  [[menu.footer]]
+    name = "About"
+    url = "/about/"
+    weight = 1
+  [[menu.footer]]
+    name = "Privacy"
+    url = "/privacy/"
+    weight = 2
+  [[menu.footer]]
+    name = "Contact"
+    url = "/contact/"
+    weight = 3
+
+[sitemap]
+  changefreq = "weekly"
+  priority = 0.5
+  filename = "sitemap.xml"
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+  section = ["HTML", "RSS"]
+  page = ["HTML"]
+
+[outputFormats]
+  [outputFormats.RSS]
+    mediaType = "application/rss+xml"
+    baseName = "feed"
+  [outputFormats.JSON]
+    mediaType = "application/json"
+    baseName = "index"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+  [markup.highlight]
+    codeFences = true
+    lineNos = false
+    style = "monokai"
+
+[minify]
+  disableCSS = false
+  disableHTML = false
+  disableJS = false
+  disableJSON = false
+  disableSVG = false
+  disableXML = false
+  minifyOutput = true
+  [minify.tdewolff]
+    [minify.tdewolff.html]
+      keepWhitespace = false
+    [minify.tdewolff.css]
+      precision = 0
+    [minify.tdewolff.js]
+      precision = 0
+
+[security]
+  [security.funcs]
+    getenv = ["^HUGO_", "^CI$"]

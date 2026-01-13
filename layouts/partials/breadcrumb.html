@@ -1,0 +1,64 @@
+{{/* Breadcrumb navigation with Schema.org markup */}}
+{{ if not .IsHome }}
+<nav class="breadcrumb" aria-label="Breadcrumb">
+  <ol itemscope itemtype="https://schema.org/BreadcrumbList">
+    <li class="breadcrumb__item" itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+      <a href="/" class="breadcrumb__link" itemprop="item">
+        <span itemprop="name">Home</span>
+      </a>
+      <meta itemprop="position" content="1">
+    </li>
+
+    {{ $url := "" }}
+    {{ $position := 2 }}
+    {{ range $i, $part := (split .RelPermalink "/") }}
+      {{ if ne $part "" }}
+        {{ $url = printf "%s/%s" $url $part }}
+        {{ $isLast := eq (add $i 1) (len (split $.RelPermalink "/")) }}
+        <li class="breadcrumb__item" itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+          {{ if $isLast }}
+            <span class="breadcrumb__current" itemprop="name">{{ $.Title }}</span>
+          {{ else }}
+            <a href="{{ $url }}/" class="breadcrumb__link" itemprop="item">
+              <span itemprop="name">{{ $part | humanize | title }}</span>
+            </a>
+          {{ end }}
+          <meta itemprop="position" content="{{ $position }}">
+        </li>
+        {{ $position = add $position 1 }}
+      {{ end }}
+    {{ end }}
+  </ol>
+</nav>
+
+{{/* Breadcrumb Schema.org JSON-LD */}}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "@id": "{{ .Permalink }}#breadcrumb",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Home",
+      "item": "{{ .Site.BaseURL }}"
+    }
+    {{ $url := "" }}
+    {{ $position := 2 }}
+    {{ range $i, $part := (split .RelPermalink "/") }}
+      {{ if ne $part "" }}
+        {{ $url = printf "%s/%s" $url $part }},
+        {
+          "@type": "ListItem",
+          "position": {{ $position }},
+          "name": "{{ if eq (add $i 1) (len (split $.RelPermalink "/")) }}{{ $.Title }}{{ else }}{{ $part | humanize | title }}{{ end }}",
+          "item": "{{ printf "%s%s/" $.Site.BaseURL (strings.TrimPrefix "/" $url) }}"
+        }
+        {{ $position = add $position 1 }}
+      {{ end }}
+    {{ end }}
+  ]
+}
+</script>
+{{ end }}

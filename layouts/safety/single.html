@@ -1,0 +1,352 @@
+{{ define "title" }}{{ .Title }} Safety Guide for Solo Travelers {{ now.Year }} | {{ .Site.Title }}{{ end }}
+
+{{ define "meta-description" }}Is {{ .Title }} safe for solo travelers? Complete safety guide with travel advisories, scam alerts, emergency contacts, and safety tips for {{ .Title }}.{{ end }}
+
+{{ define "main" }}
+{{/* Hero */}}
+<section class="hero hero--destination">
+  {{ with .Params.heroImage }}
+  <div class="hero__bg" style="background-image: url('{{ . }}');"></div>
+  {{ end }}
+  <div class="hero__content">
+    {{ with .Params.safetyLevel }}
+    <div class="mb-4">
+      {{ partial "safety-badge.html" (dict "level" . "text" (printf "%s for Solo Travelers" (. | title))) }}
+    </div>
+    {{ end }}
+    <h1 class="hero__title">{{ .Title }} Safety Guide</h1>
+    <p class="hero__subtitle">Everything solo travelers need to know about staying safe in {{ .Title }}</p>
+  </div>
+</section>
+
+<div class="container">
+  {{ partial "breadcrumb.html" . }}
+
+  <div class="page-layout">
+    <article class="page-layout__main">
+      {{/* Travel Advisory Alert */}}
+      {{ with .Params.travelAdvisory }}
+      <div class="callout callout--{{ .level | default "warning" }}">
+        <h3 class="callout__title">Current Travel Advisory</h3>
+        <p><strong>Level {{ .advisoryLevel }}:</strong> {{ .message }}</p>
+        <p class="text-muted" style="font-size: var(--text-sm);">Source: {{ .source }} ({{ .date }})</p>
+      </div>
+      {{ end }}
+
+      {{/* Safety Overview */}}
+      <section class="section--sm">
+        <h2>Safety Overview</h2>
+        {{ with .Params.safetyLevel }}
+        <div class="safety-meter safety-meter--{{ . }}" style="max-width: 300px; margin-bottom: var(--space-4);">
+          {{ if eq . "safe" }}
+          <div class="safety-meter__bar is-active"></div>
+          <div class="safety-meter__bar is-active"></div>
+          <div class="safety-meter__bar is-active"></div>
+          <div class="safety-meter__bar is-active"></div>
+          <div class="safety-meter__bar is-active"></div>
+          {{ else if eq . "caution" }}
+          <div class="safety-meter__bar is-active"></div>
+          <div class="safety-meter__bar is-active"></div>
+          <div class="safety-meter__bar is-active"></div>
+          <div class="safety-meter__bar"></div>
+          <div class="safety-meter__bar"></div>
+          {{ else if eq . "warning" }}
+          <div class="safety-meter__bar is-active"></div>
+          <div class="safety-meter__bar is-active"></div>
+          <div class="safety-meter__bar"></div>
+          <div class="safety-meter__bar"></div>
+          <div class="safety-meter__bar"></div>
+          {{ else }}
+          <div class="safety-meter__bar is-active"></div>
+          <div class="safety-meter__bar"></div>
+          <div class="safety-meter__bar"></div>
+          <div class="safety-meter__bar"></div>
+          <div class="safety-meter__bar"></div>
+          {{ end }}
+        </div>
+        {{ end }}
+
+        <div class="content">
+          {{ .Content }}
+        </div>
+      </section>
+
+      {{/* Safety Ratings Grid */}}
+      {{ with .Params.safetyRatings }}
+      <section class="section--sm">
+        <h2>Safety Ratings</h2>
+        <div class="grid grid-cols-2 grid-cols-4 gap-4">
+          {{ range . }}
+          <div class="widget text-center">
+            <span class="quick-fact__label">{{ .category }}</span>
+            <div class="mt-2">
+              {{ partial "safety-badge.html" (dict "level" .level "text" (.rating | title)) }}
+            </div>
+          </div>
+          {{ end }}
+        </div>
+      </section>
+      {{ end }}
+
+      {{/* Solo Traveler Safety */}}
+      {{ with .Params.soloSafety }}
+      <section class="section--sm">
+        <h2>Is {{ $.Title }} Safe for Solo Travelers?</h2>
+        <p>{{ .overview }}</p>
+
+        {{ with .dosList }}
+        <h3>Do's</h3>
+        <ul class="list list--check">
+          {{ range . }}
+          <li>{{ . }}</li>
+          {{ end }}
+        </ul>
+        {{ end }}
+
+        {{ with .dontsList }}
+        <h3>Don'ts</h3>
+        <ul class="list">
+          {{ range . }}
+          <li>{{ . }}</li>
+          {{ end }}
+        </ul>
+        {{ end }}
+      </section>
+      {{ end }}
+
+      {{/* Solo Female Safety */}}
+      {{ with .Params.femaleSafety }}
+      <section class="section--sm">
+        <h2>Solo Female Traveler Safety</h2>
+        <p>{{ .overview }}</p>
+
+        {{ with .tips }}
+        <h3>Tips for Women Traveling Alone</h3>
+        <ul class="list list--check">
+          {{ range . }}
+          <li>{{ . }}</li>
+          {{ end }}
+        </ul>
+        {{ end }}
+
+        {{ with .dresscode }}
+        <h3>Dress Code Considerations</h3>
+        <p>{{ . }}</p>
+        {{ end }}
+
+        <p class="mt-4"><a href="/safety/{{ $.File.ContentBaseName }}/solo-female/" class="btn btn--secondary btn--sm">Full Solo Female Safety Guide</a></p>
+      </section>
+      {{ end }}
+
+      {{/* Common Scams */}}
+      {{ with .Params.scams }}
+      <section class="section--sm">
+        <h2>Common Scams to Avoid</h2>
+        <div class="grid grid-cols-1 gap-4">
+          {{ range . }}
+          <div class="callout callout--warning">
+            <h4 class="callout__title">{{ .name }}</h4>
+            <p>{{ .description }}</p>
+            <p class="text-muted" style="font-size: var(--text-sm);"><strong>How to avoid:</strong> {{ .avoidance }}</p>
+          </div>
+          {{ end }}
+        </div>
+      </section>
+      {{ end }}
+
+      {{/* Areas to Avoid */}}
+      {{ with .Params.areasToAvoid }}
+      <section class="section--sm">
+        <h2>Areas to Exercise Caution</h2>
+        <ul class="list">
+          {{ range . }}
+          <li><strong>{{ .area }}:</strong> {{ .reason }}</li>
+          {{ end }}
+        </ul>
+      </section>
+      {{ end }}
+
+      {{/* Safe Areas */}}
+      {{ with .Params.safeAreas }}
+      <section class="section--sm">
+        <h2>Safest Areas for Solo Travelers</h2>
+        <div class="grid grid-cols-1 grid-cols-2 gap-4">
+          {{ range . }}
+          <div class="widget">
+            <h3 class="widget__title">{{ .name }}</h3>
+            <p style="font-size: var(--text-sm);">{{ .description }}</p>
+            {{ partial "safety-badge.html" (dict "level" "safe" "text" "Safe") }}
+          </div>
+          {{ end }}
+        </div>
+      </section>
+      {{ end }}
+
+      {{/* Transportation Safety */}}
+      {{ with .Params.transportSafety }}
+      <section class="section--sm">
+        <h2>Transportation Safety</h2>
+        <p>{{ .overview }}</p>
+        {{ with .tips }}
+        <ul class="list list--check">
+          {{ range . }}
+          <li>{{ . }}</li>
+          {{ end }}
+        </ul>
+        {{ end }}
+      </section>
+      {{ end }}
+
+      {{/* Emergency Information */}}
+      {{ with .Params.emergency }}
+      <section class="section--sm">
+        <h2>Emergency Contacts</h2>
+        <div class="callout callout--info">
+          <div class="grid grid-cols-2 gap-4">
+            <div class="quick-fact">
+              <span class="quick-fact__label">Police</span>
+              <span class="quick-fact__value" style="font-size: var(--text-xl);">{{ .police }}</span>
+            </div>
+            <div class="quick-fact">
+              <span class="quick-fact__label">Ambulance</span>
+              <span class="quick-fact__value" style="font-size: var(--text-xl);">{{ .ambulance }}</span>
+            </div>
+            <div class="quick-fact">
+              <span class="quick-fact__label">Fire</span>
+              <span class="quick-fact__value" style="font-size: var(--text-xl);">{{ .fire }}</span>
+            </div>
+            <div class="quick-fact">
+              <span class="quick-fact__label">Tourist Police</span>
+              <span class="quick-fact__value" style="font-size: var(--text-xl);">{{ .touristPolice }}</span>
+            </div>
+          </div>
+          {{ with .usEmbassy }}
+          <div class="mt-4">
+            <p><strong>US Embassy:</strong> {{ . }}</p>
+          </div>
+          {{ end }}
+        </div>
+      </section>
+      {{ end }}
+
+      {{/* Health & Medical */}}
+      {{ with .Params.health }}
+      <section class="section--sm">
+        <h2>Health & Medical</h2>
+        <p>{{ .overview }}</p>
+        {{ with .vaccinations }}
+        <h3>Recommended Vaccinations</h3>
+        <ul class="list">
+          {{ range . }}
+          <li>{{ . }}</li>
+          {{ end }}
+        </ul>
+        {{ end }}
+        {{ with .hospitals }}
+        <h3>Major Hospitals</h3>
+        <ul class="list">
+          {{ range . }}
+          <li>{{ . }}</li>
+          {{ end }}
+        </ul>
+        {{ end }}
+      </section>
+      {{ end }}
+
+      {{/* FAQs */}}
+      {{ with .Params.faqs }}
+      <section class="section--sm">
+        <h2>Safety FAQs</h2>
+        {{ range . }}
+        <details style="margin-bottom: var(--space-3); padding: var(--space-3); background: var(--color-gray-50); border-radius: var(--radius-lg);">
+          <summary style="cursor: pointer; font-weight: var(--font-semibold);">{{ .question }}</summary>
+          <p style="margin-top: var(--space-2);">{{ .answer }}</p>
+        </details>
+        {{ end }}
+      </section>
+      {{ end }}
+
+      <p class="text-muted" style="font-size: var(--text-sm);">Last updated: {{ .Lastmod.Format "January 2, 2006" }}</p>
+    </article>
+
+    <aside class="page-layout__sidebar">
+      {{/* Safety Score */}}
+      {{ with .Params.safetyLevel }}
+      <div class="widget">
+        <h3 class="widget__title">Overall Safety Rating</h3>
+        {{ partial "safety-badge.html" (dict "level" . "text" (. | title)) }}
+      </div>
+      {{ end }}
+
+      {{/* Quick Emergency Numbers */}}
+      {{ with .Params.emergency }}
+      <div class="widget" style="background: #fee2e2;">
+        <h3 class="widget__title" style="color: #991b1b;">Emergency Numbers</h3>
+        <p style="font-size: var(--text-2xl); font-weight: bold;">{{ .police }}</p>
+        <p style="font-size: var(--text-sm);">Police Emergency</p>
+      </div>
+      {{ end }}
+
+      {{/* Related Safety Guides */}}
+      <div class="widget">
+        <h3 class="widget__title">Related Guides</h3>
+        <ul class="footer__links">
+          <li><a href="/safety/{{ .File.ContentBaseName }}/solo-female/">Solo Female Safety</a></li>
+          <li><a href="/safety/{{ .File.ContentBaseName }}/lgbtq/">LGBTQ+ Safety</a></li>
+          <li><a href="/health/{{ .File.ContentBaseName }}/">Health Guide</a></li>
+          <li><a href="/destinations/{{ .File.ContentBaseName }}/">{{ .Title }} Travel Guide</a></li>
+        </ul>
+      </div>
+
+      {{/* Travel Insurance CTA */}}
+      <div class="widget" style="background: var(--color-primary-bg);">
+        <h3 class="widget__title">Travel Insurance</h3>
+        <p style="font-size: var(--text-sm);">Don't travel without coverage. Compare travel insurance options for solo travelers.</p>
+        <a href="/resources/travel-insurance/" class="btn btn--primary btn--block btn--sm mt-2">Learn More</a>
+      </div>
+    </aside>
+  </div>
+</div>
+{{ end }}
+
+{{ define "schema" }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "TravelGuide",
+  "name": "{{ .Title }} Safety Guide for Solo Travelers",
+  "description": "{{ with .Params.description }}{{ . }}{{ else }}Complete safety guide for solo travelers visiting {{ .Title }}{{ end }}",
+  "url": "{{ .Permalink }}",
+  "about": {
+    "@type": "{{ if .Params.isCity }}City{{ else }}Country{{ end }}",
+    "name": "{{ .Title }}"
+  },
+  "author": {
+    "@type": "Organization",
+    "name": "{{ .Site.Params.organizationName }}"
+  },
+  "dateModified": "{{ .Lastmod.Format "2006-01-02" }}"
+}
+</script>
+
+{{ with .Params.faqs }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {{ range $i, $faq := . }}{{ if $i }},{{ end }}
+    {
+      "@type": "Question",
+      "name": "{{ $faq.question }}",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "{{ $faq.answer }}"
+      }
+    }
+    {{ end }}
+  ]
+}
+</script>
+{{ end }}
+{{ end }}

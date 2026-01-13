@@ -1,0 +1,30 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "CollectionPage",
+  "name": "{{ .Title }}",
+  "description": "{{ with .Description }}{{ . }}{{ else }}{{ .Params.description }}{{ end }}",
+  "url": "{{ .Permalink }}",
+  "mainEntity": {
+    "@type": "ItemList",
+    "itemListElement": [
+      {{ range $i, $page := .Pages }}{{ if $i }},{{ end }}
+      {
+        "@type": "ListItem",
+        "position": {{ add $i 1 }},
+        "url": "{{ $page.Permalink }}",
+        "name": "{{ $page.Title }}"
+      }
+      {{ end }}
+    ]
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "{{ .Site.Params.organizationName }}",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "{{ .Site.Params.organizationLogo | absURL }}"
+    }
+  }
+}
+</script>

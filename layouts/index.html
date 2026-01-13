@@ -1,0 +1,254 @@
+{{ define "title" }}{{ .Site.Title }} - Solo Travel Guides, Safety Tips & Destination Advice{{ end }}
+
+{{ define "meta-description" }}The ultimate resource for solo travelers. Discover safe destinations, dining guides, accommodation tips, and expert advice for traveling alone around the world.{{ end }}
+
+{{ define "body-class" }}home{{ end }}
+
+{{ define "main" }}
+{{/* Hero Section */}}
+<section class="hero" style="min-height: 70vh; display: flex; align-items: center;">
+  <div class="hero__bg" style="background-image: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url('/images/hero-solo-travel.jpg'); opacity: 1;"></div>
+  <div class="hero__content" style="max-width: 800px;">
+    <h1 class="hero__title" style="font-size: clamp(2rem, 5vw, 4rem);">Travel Solo,<br>Travel Smart</h1>
+    <p class="hero__subtitle" style="font-size: clamp(1rem, 2.5vw, 1.5rem);">
+      Your ultimate guide to exploring the world on your own. Safety tips, destination guides, and solo-friendly recommendations.
+    </p>
+    <div class="flex flex-wrap gap-4 justify-center mt-6">
+      <a href="/destinations/" class="btn btn--primary btn--lg">Explore Destinations</a>
+      <a href="/safety/" class="btn btn--secondary btn--lg" style="background: transparent; border-color: white; color: white;">Safety Guides</a>
+    </div>
+
+    {{/* Search */}}
+    <div class="search mt-8" style="max-width: 500px; margin-left: auto; margin-right: auto;">
+      <svg class="search__icon" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+        <circle cx="11" cy="11" r="8"></circle>
+        <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
+      </svg>
+      <input type="search" class="search__input" placeholder="Search destinations, guides, tips..." aria-label="Search">
+    </div>
+  </div>
+</section>
+
+{{/* Featured Destinations */}}
+<section class="section bg-light">
+  <div class="container">
+    <div class="text-center mb-8">
+      <h2>Popular Destinations for Solo Travelers</h2>
+      <p class="lead">Top picks from our community of solo adventurers</p>
+    </div>
+
+    <div class="grid grid-cols-1 grid-cols-2 grid-cols-4 gap-4">
+      {{ range first 8 (where .Site.RegularPages "Section" "destinations") }}
+      <a href="{{ .Permalink }}" class="card destination-card">
+        {{ with .Params.heroImage }}
+        <img src="{{ . }}" alt="{{ $.Title }}" class="card__image" loading="lazy">
+        {{ else }}
+        <div class="card__image" style="background: linear-gradient(135deg, var(--color-primary) 0%, var(--color-primary-dark) 100%); display: flex; align-items: center; justify-content: center;">
+          <svg width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="white" stroke-width="1.5" style="opacity: 0.5;">
+            <circle cx="12" cy="12" r="10"></circle>
+            <line x1="2" y1="12" x2="22" y2="12"></line>
+            <path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"></path>
+          </svg>
+        </div>
+        {{ end }}
+        {{ with .Params.safetyLevel }}
+        <div class="destination-card__badge">
+          {{ partial "safety-badge.html" (dict "level" . "text" (. | title)) }}
+        </div>
+        {{ end }}
+        <div class="card__body">
+          <h3 class="card__title" style="margin-bottom: 0;">{{ .Title }}</h3>
+        </div>
+      </a>
+      {{ end }}
+    </div>
+
+    <div class="text-center mt-8">
+      <a href="/destinations/" class="btn btn--primary">View All Destinations</a>
+    </div>
+  </div>
+</section>
+
+{{/* Why Solo Travel */}}
+<section class="section">
+  <div class="container">
+    <div class="text-center mb-8">
+      <h2>Everything You Need for Solo Travel</h2>
+      <p class="lead">Comprehensive guides to help you travel confidently alone</p>
+    </div>
+
+    <div class="grid grid-cols-1 grid-cols-2 grid-cols-4 gap-6">
+      <div class="text-center">
+        <div style="width: 64px; height: 64px; background: var(--color-primary-bg); border-radius: var(--radius-full); display: flex; align-items: center; justify-content: center; margin: 0 auto var(--space-4);">
+          <svg width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="var(--color-primary)" stroke-width="2">
+            <path d="M12 22s-8-4.5-8-11.8A8 8 0 0 1 12 2a8 8 0 0 1 8 8.2c0 7.3-8 11.8-8 11.8z"></path>
+            <circle cx="12" cy="10" r="3"></circle>
+          </svg>
+        </div>
+        <h3 style="font-size: var(--text-lg);">Destination Guides</h3>
+        <p style="font-size: var(--text-sm); color: var(--color-gray-600);">In-depth guides to 200+ countries and 5,000+ cities optimized for solo travelers.</p>
+        <a href="/destinations/" style="font-size: var(--text-sm);">Explore &rarr;</a>
+      </div>
+
+      <div class="text-center">
+        <div style="width: 64px; height: 64px; background: #dcfce7; border-radius: var(--radius-full); display: flex; align-items: center; justify-content: center; margin: 0 auto var(--space-4);">
+          <svg width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="#166534" stroke-width="2">
+            <path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"></path>
+          </svg>
+        </div>
+        <h3 style="font-size: var(--text-lg);">Safety Information</h3>
+        <p style="font-size: var(--text-sm); color: var(--color-gray-600);">Up-to-date safety guides, travel advisories, and tips for staying safe abroad.</p>
+        <a href="/safety/" style="font-size: var(--text-sm);">Stay Safe &rarr;</a>
+      </div>
+
+      <div class="text-center">
+        <div style="width: 64px; height: 64px; background: #fef3c7; border-radius: var(--radius-full); display: flex; align-items: center; justify-content: center; margin: 0 auto var(--space-4);">
+          <svg width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="#92400e" stroke-width="2">
+            <path d="M18 8h1a4 4 0 0 1 0 8h-1"></path>
+            <path d="M2 8h16v9a4 4 0 0 1-4 4H6a4 4 0 0 1-4-4V8z"></path>
+            <line x1="6" y1="1" x2="6" y2="4"></line>
+            <line x1="10" y1="1" x2="10" y2="4"></line>
+            <line x1="14" y1="1" x2="14" y2="4"></line>
+          </svg>
+        </div>
+        <h3 style="font-size: var(--text-lg);">Solo Dining</h3>
+        <p style="font-size: var(--text-sm); color: var(--color-gray-600);">Restaurant recommendations with bar seating, counter dining, and solo-friendly vibes.</p>
+        <a href="/eat/" style="font-size: var(--text-sm);">Find Restaurants &rarr;</a>
+      </div>
+
+      <div class="text-center">
+        <div style="width: 64px; height: 64px; background: #fce7f3; border-radius: var(--radius-full); display: flex; align-items: center; justify-content: center; margin: 0 auto var(--space-4);">
+          <svg width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="#9d174d" stroke-width="2">
+            <path d="M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"></path>
+            <polyline points="9 22 9 12 15 12 15 22"></polyline>
+          </svg>
+        </div>
+        <h3 style="font-size: var(--text-lg);">Accommodation</h3>
+        <p style="font-size: var(--text-sm); color: var(--color-gray-600);">Social hostels, boutique hotels, and stays without single supplements.</p>
+        <a href="/stay/" style="font-size: var(--text-sm);">Find Stays &rarr;</a>
+      </div>
+    </div>
+  </div>
+</section>
+
+{{/* Safety Spotlight */}}
+<section class="section" style="background: linear-gradient(135deg, #166534 0%, #22c55e 100%); color: white;">
+  <div class="container">
+    <div class="grid grid-cols-1 grid-cols-2 gap-8 items-center">
+      <div>
+        <h2 style="color: white;">Safety First, Always</h2>
+        <p style="opacity: 0.9; font-size: var(--text-lg);">
+          Our safety guides cover everything from travel advisories and local scams to emergency contacts and healthcare information.
+        </p>
+        <ul style="margin: var(--space-4) 0; opacity: 0.9;">
+          <li style="margin-bottom: var(--space-2);">Real-time travel advisories from US, UK, Canada & Australia</li>
+          <li style="margin-bottom: var(--space-2);">Solo female traveler safety guides</li>
+          <li style="margin-bottom: var(--space-2);">LGBTQ+ safety information</li>
+          <li>Health & vaccination requirements</li>
+        </ul>
+        <a href="/safety/" class="btn" style="background: white; color: #166534;">Browse Safety Guides</a>
+      </div>
+      <div class="text-center hidden" style="display: none;">
+        {{/* Placeholder for illustration */}}
+      </div>
+    </div>
+  </div>
+</section>
+
+{{/* Latest Guides */}}
+<section class="section">
+  <div class="container">
+    <div class="text-center mb-8">
+      <h2>Latest Travel Guides</h2>
+      <p class="lead">Fresh content to fuel your wanderlust</p>
+    </div>
+
+    <div class="grid grid-cols-1 grid-cols-2 grid-cols-3 gap-6">
+      {{ range first 6 .Site.RegularPages.ByLastmod.Reverse }}
+      <article class="card">
+        {{ with .Params.heroImage }}
+        <img src="{{ . }}" alt="{{ $.Title }}" class="card__image" loading="lazy">
+        {{ end }}
+        <div class="card__body">
+          <div class="tags mb-2">
+            <span class="tag tag--primary">{{ .Section | humanize }}</span>
+          </div>
+          <h3 class="card__title"><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
+          <p class="card__excerpt">{{ .Summary | plainify | truncate 100 }}</p>
+          <div class="card__meta">
+            {{ .Lastmod.Format "Jan 2, 2006" }}
+          </div>
+        </div>
+      </article>
+      {{ end }}
+    </div>
+  </div>
+</section>
+
+{{/* Quick Links */}}
+<section class="section bg-light">
+  <div class="container">
+    <div class="text-center mb-8">
+      <h2>Quick Access</h2>
+    </div>
+
+    <div class="grid grid-cols-2 grid-cols-4 gap-4">
+      <a href="/best/solo-travel-destinations-{{ now.Year }}/" class="widget text-center" style="text-decoration: none;">
+        <h3 class="widget__title">Best of {{ now.Year }}</h3>
+        <p style="font-size: var(--text-sm); margin: 0;">Top destinations</p>
+      </a>
+      <a href="/best/safest-countries-solo-travel/" class="widget text-center" style="text-decoration: none;">
+        <h3 class="widget__title">Safest Countries</h3>
+        <p style="font-size: var(--text-sm); margin: 0;">For peace of mind</p>
+      </a>
+      <a href="/best/cheapest-solo-destinations/" class="widget text-center" style="text-decoration: none;">
+        <h3 class="widget__title">Budget Travel</h3>
+        <p style="font-size: var(--text-sm); margin: 0;">Travel for less</p>
+      </a>
+      <a href="/best/solo-female-destinations/" class="widget text-center" style="text-decoration: none;">
+        <h3 class="widget__title">Solo Female</h3>
+        <p style="font-size: var(--text-sm); margin: 0;">Top picks for women</p>
+      </a>
+    </div>
+  </div>
+</section>
+
+{{/* CTA Section */}}
+<section class="section" style="background: var(--color-primary); color: white; text-align: center;">
+  <div class="container">
+    <h2 style="color: white;">Ready to Start Your Solo Adventure?</h2>
+    <p style="opacity: 0.9; max-width: 600px; margin: 0 auto var(--space-6);">
+      Join thousands of solo travelers who use TopSoloTravel to plan their adventures. Get weekly tips, destination guides, and exclusive content.
+    </p>
+    <a href="/newsletter/" class="btn btn--lg" style="background: white; color: var(--color-primary);">Get Solo Travel Tips</a>
+  </div>
+</section>
+{{ end }}
+
+{{ define "schema" }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": "{{ .Site.Title }}",
+  "description": "{{ .Site.Params.description }}",
+  "url": "{{ .Site.BaseURL }}",
+  "potentialAction": {
+    "@type": "SearchAction",
+    "target": {
+      "@type": "EntryPoint",
+      "urlTemplate": "{{ .Site.BaseURL }}search?q={search_term_string}"
+    },
+    "query-input": "required name=search_term_string"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "{{ .Site.Params.organizationName }}",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "{{ .Site.Params.organizationLogo | absURL }}"
+    }
+  }
+}
+</script>
+{{ end }}

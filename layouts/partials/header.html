@@ -1,0 +1,30 @@
+<header class="header" role="banner">
+  <div class="header__inner">
+    <a href="/" class="logo" aria-label="{{ .Site.Title }} - Home">
+      <svg class="logo__icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+        <circle cx="12" cy="12" r="10"></circle>
+        <line x1="2" y1="12" x2="22" y2="12"></line>
+        <path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"></path>
+      </svg>
+      <span>TopSoloTravel</span>
+    </a>
+
+    <button class="nav-toggle" aria-label="Toggle navigation" aria-expanded="false" aria-controls="main-nav">
+      <span></span>
+      <span></span>
+      <span></span>
+    </button>
+
+    <nav class="nav" id="main-nav" role="navigation" aria-label="Main navigation">
+      <ul class="nav__list">
+        {{ range .Site.Menus.main }}
+        <li>
+          <a href="{{ .URL }}" class="nav__link{{ if $.IsMenuCurrent "main" . }} is-active{{ end }}">
+            {{ .Name }}
+          </a>
+        </li>
+        {{ end }}
+      </ul>
+    </nav>
+  </div>
+</header>

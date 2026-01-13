@@ -1,0 +1,77 @@
+{{/* Quick Facts Box - reusable component for destinations, cities, etc. */}}
+{{ with . }}
+<aside class="quick-facts" aria-label="Quick Facts">
+  <h2 class="quick-facts__title">Quick Facts</h2>
+  <div class="quick-facts__grid">
+    {{ with .capital }}
+    <div class="quick-fact">
+      <span class="quick-fact__label">Capital</span>
+      <span class="quick-fact__value">{{ . }}</span>
+    </div>
+    {{ end }}
+
+    {{ with .currency }}
+    <div class="quick-fact">
+      <span class="quick-fact__label">Currency</span>
+      <span class="quick-fact__value">{{ . }}</span>
+    </div>
+    {{ end }}
+
+    {{ with .language }}
+    <div class="quick-fact">
+      <span class="quick-fact__label">Language</span>
+      <span class="quick-fact__value">{{ . }}</span>
+    </div>
+    {{ end }}
+
+    {{ with .timezone }}
+    <div class="quick-fact">
+      <span class="quick-fact__label">Timezone</span>
+      <span class="quick-fact__value">{{ . }}</span>
+    </div>
+    {{ end }}
+
+    {{ with .population }}
+    <div class="quick-fact">
+      <span class="quick-fact__label">Population</span>
+      <span class="quick-fact__value">{{ . }}</span>
+    </div>
+    {{ end }}
+
+    {{ with .area }}
+    <div class="quick-fact">
+      <span class="quick-fact__label">Area</span>
+      <span class="quick-fact__value">{{ . }}</span>
+    </div>
+    {{ end }}
+
+    {{ with .bestTime }}
+    <div class="quick-fact">
+      <span class="quick-fact__label">Best Time to Visit</span>
+      <span class="quick-fact__value">{{ . }}</span>
+    </div>
+    {{ end }}
+
+    {{ with .budget }}
+    <div class="quick-fact">
+      <span class="quick-fact__label">Daily Budget</span>
+      <span class="quick-fact__value">{{ . }}</span>
+    </div>
+    {{ end }}
+
+    {{ with .visaFree }}
+    <div class="quick-fact">
+      <span class="quick-fact__label">Visa-Free Access</span>
+      <span class="quick-fact__value">{{ . }}</span>
+    </div>
+    {{ end }}
+
+    {{ with .safety }}
+    <div class="quick-fact">
+      <span class="quick-fact__label">Safety Rating</span>
+      <span class="quick-fact__value">{{ . }}</span>
+    </div>
+    {{ end }}
+  </div>
+</aside>
+{{ end }}

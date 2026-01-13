@@ -1,0 +1,29 @@
+{{ define "title" }}Page Not Found | {{ .Site.Title }}{{ end }}
+
+{{ define "meta-description" }}The page you're looking for doesn't exist or has been moved.{{ end }}
+
+{{ define "main" }}
+<section class="section" style="min-height: 60vh; display: flex; align-items: center;">
+  <div class="container text-center">
+    <h1 style="font-size: clamp(4rem, 15vw, 10rem); color: var(--color-gray-200); margin-bottom: 0;">404</h1>
+    <h2>Page Not Found</h2>
+    <p class="lead mb-6">Sorry, the page you're looking for doesn't exist or has been moved.</p>
+
+    <div class="flex flex-wrap gap-4 justify-center mb-8">
+      <a href="/" class="btn btn--primary">Go Home</a>
+      <a href="/destinations/" class="btn btn--secondary">Browse Destinations</a>
+    </div>
+
+    <div class="mt-8">
+      <h3>Popular Pages</h3>
+      <div class="flex flex-wrap gap-2 justify-center mt-4">
+        <a href="/destinations/japan/" class="tag">Japan</a>
+        <a href="/destinations/thailand/" class="tag">Thailand</a>
+        <a href="/destinations/portugal/" class="tag">Portugal</a>
+        <a href="/safety/" class="tag">Safety Guides</a>
+        <a href="/best/solo-travel-destinations-2025/" class="tag">Best of 2025</a>
+      </div>
+    </div>
+  </div>
+</section>
+{{ end }}
