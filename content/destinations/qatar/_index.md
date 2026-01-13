@@ -41,9 +41,9 @@ safety:
 
 topCities:
   - name: "Doha"
-    url: "/destinations/qatar/"
-    description: "The capital city offers diverse experiences for solo travelers."
-    highlights: ["culture", "food", "history"]
+    url: "/destinations/qatar/doha/"
+    description: "Popular destination for solo travelers with great infrastructure."
+    highlights: ["museums", "souq", "skyline"]
 
 
 budget:

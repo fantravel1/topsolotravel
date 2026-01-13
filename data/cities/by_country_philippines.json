@@ -1,0 +1,102 @@
+[
+  {
+    "name": "Boracay",
+    "slug": "boracay",
+    "country": "Philippines",
+    "country_slug": "philippines",
+    "region": "Asia",
+    "lat": 11.9674,
+    "lng": 121.9248,
+    "population": 32267,
+    "safety_level": "safe",
+    "budget_per_day": "40-80",
+    "highlights": [
+      "white beach",
+      "watersports",
+      "nightlife"
+    ],
+    "best_time_to_visit": "Nov-May",
+    "airport_code": "MPH",
+    "image_search": "Boracay Philippines travel"
+  },
+  {
+    "name": "Cebu",
+    "slug": "cebu",
+    "country": "Philippines",
+    "country_slug": "philippines",
+    "region": "Asia",
+    "lat": 10.3157,
+    "lng": 123.8854,
+    "population": 964169,
+    "safety_level": "caution",
+    "budget_per_day": "30-55",
+    "highlights": [
+      "diving",
+      "beaches",
+      "lechon"
+    ],
+    "best_time_to_visit": "Dec-May",
+    "airport_code": "CEB",
+    "image_search": "Cebu Philippines travel"
+  },
+  {
+    "name": "Manila",
+    "slug": "manila",
+    "country": "Philippines",
+    "country_slug": "philippines",
+    "region": "Asia",
+    "lat": 14.5995,
+    "lng": 120.9842,
+    "population": 1780148,
+    "safety_level": "caution",
+    "budget_per_day": "30-60",
+    "highlights": [
+      "intramuros",
+      "food",
+      "nightlife"
+    ],
+    "best_time_to_visit": "Dec-May",
+    "airport_code": "MNL",
+    "image_search": "Manila Philippines travel"
+  },
+  {
+    "name": "Palawan",
+    "slug": "palawan",
+    "country": "Philippines",
+    "country_slug": "philippines",
+    "region": "Asia",
+    "lat": 10.0,
+    "lng": 118.75,
+    "population": 849469,
+    "safety_level": "safe",
+    "budget_per_day": "35-70",
+    "highlights": [
+      "el nido",
+      "underground river",
+      "beaches"
+    ],
+    "best_time_to_visit": "Dec-May",
+    "airport_code": "PPS",
+    "image_search": "Palawan Philippines travel"
+  },
+  {
+    "name": "Siargao",
+    "slug": "siargao",
+    "country": "Philippines",
+    "country_slug": "philippines",
+    "region": "Asia",
+    "lat": 9.85,
+    "lng": 126.0427,
+    "population": 28400,
+    "safety_level": "safe",
+    "budget_per_day": "35-65",
+    "highlights": [
+      "surfing",
+      "islands",
+      "lagoons"
+    ],
+    "best_time_to_visit": "Mar-Oct",
+    "airport_code": "IAO",
+    "image_search": "Siargao Philippines travel"
+  }
+]

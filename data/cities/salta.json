@@ -1,0 +1,20 @@
+{
+  "name": "Salta",
+  "slug": "salta",
+  "country": "Argentina",
+  "country_slug": "argentina",
+  "region": "Americas",
+  "lat": -24.7821,
+  "lng": -65.4232,
+  "population": 535303,
+  "safety_level": "safe",
+  "budget_per_day": "35-65",
+  "highlights": [
+    "wine",
+    "landscapes",
+    "colonial"
+  ],
+  "best_time_to_visit": "Apr-Nov",
+  "airport_code": "SLA",
+  "image_search": "Salta Argentina travel"
+}

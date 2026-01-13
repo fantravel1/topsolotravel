@@ -1,0 +1,20 @@
+{
+  "name": "Accra",
+  "slug": "accra",
+  "country": "Ghana",
+  "country_slug": "ghana",
+  "region": "Africa",
+  "lat": 5.6037,
+  "lng": -0.187,
+  "population": 2291352,
+  "safety_level": "caution",
+  "budget_per_day": "40-80",
+  "highlights": [
+    "history",
+    "beaches",
+    "food"
+  ],
+  "best_time_to_visit": "Nov-Mar",
+  "airport_code": "ACC",
+  "image_search": "Accra Ghana travel"
+}

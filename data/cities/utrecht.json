@@ -1,0 +1,20 @@
+{
+  "name": "Utrecht",
+  "slug": "utrecht",
+  "country": "Netherlands",
+  "country_slug": "netherlands",
+  "region": "Europe",
+  "lat": 52.0893,
+  "lng": 5.1101,
+  "population": 357597,
+  "safety_level": "safe",
+  "budget_per_day": "70-120",
+  "highlights": [
+    "canals",
+    "university",
+    "cafes"
+  ],
+  "best_time_to_visit": "Apr-Sep",
+  "airport_code": "AMS",
+  "image_search": "Utrecht Netherlands travel"
+}

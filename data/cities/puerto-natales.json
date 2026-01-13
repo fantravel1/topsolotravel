@@ -1,0 +1,20 @@
+{
+  "name": "Puerto Natales",
+  "slug": "puerto-natales",
+  "country": "Chile",
+  "country_slug": "chile",
+  "region": "Americas",
+  "lat": -51.7305,
+  "lng": -72.5151,
+  "population": 19116,
+  "safety_level": "safe",
+  "budget_per_day": "70-130",
+  "highlights": [
+    "torres del paine",
+    "hiking",
+    "glaciers"
+  ],
+  "best_time_to_visit": "Oct-Apr",
+  "airport_code": "PNT",
+  "image_search": "Puerto Natales Chile travel"
+}

@@ -41,9 +41,9 @@ safety:
 
 topCities:
   - name: "Tallinn"
-    url: "/destinations/estonia/"
-    description: "The capital city offers diverse experiences for solo travelers."
-    highlights: ["culture", "food", "history"]
+    url: "/destinations/estonia/tallinn/"
+    description: "Popular destination for solo travelers with great infrastructure."
+    highlights: ["old town", "digital", "nightlife"]
 
 
 budget:

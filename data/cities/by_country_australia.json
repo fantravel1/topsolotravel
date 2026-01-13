@@ -1,5 +1,125 @@
 [
   {
+    "name": "Adelaide",
+    "slug": "adelaide",
+    "country": "Australia",
+    "country_slug": "australia",
+    "region": "Oceania",
+    "lat": -34.9285,
+    "lng": 138.6007,
+    "population": 1345777,
+    "safety_level": "safe",
+    "budget_per_day": "80-140",
+    "highlights": [
+      "wine",
+      "festivals",
+      "food"
+    ],
+    "best_time_to_visit": "Mar-May, Sep-Nov",
+    "airport_code": "ADL",
+    "image_search": "Adelaide Australia travel"
+  },
+  {
+    "name": "Brisbane",
+    "slug": "brisbane",
+    "country": "Australia",
+    "country_slug": "australia",
+    "region": "Oceania",
+    "lat": -27.4698,
+    "lng": 153.0251,
+    "population": 2514184,
+    "safety_level": "safe",
+    "budget_per_day": "85-150",
+    "highlights": [
+      "south bank",
+      "koalas",
+      "gateway"
+    ],
+    "best_time_to_visit": "Apr-Nov",
+    "airport_code": "BNE",
+    "image_search": "Brisbane Australia travel"
+  },
+  {
+    "name": "Cairns",
+    "slug": "cairns",
+    "country": "Australia",
+    "country_slug": "australia",
+    "region": "Oceania",
+    "lat": -16.9186,
+    "lng": 145.7781,
+    "population": 152729,
+    "safety_level": "safe",
+    "budget_per_day": "80-150",
+    "highlights": [
+      "great barrier reef",
+      "rainforest",
+      "diving"
+    ],
+    "best_time_to_visit": "Jun-Nov",
+    "airport_code": "CNS",
+    "image_search": "Cairns Australia travel"
+  },
+  {
+    "name": "Darwin",
+    "slug": "darwin",
+    "country": "Australia",
+    "country_slug": "australia",
+    "region": "Oceania",
+    "lat": -12.4634,
+    "lng": 130.8456,
+    "population": 147255,
+    "safety_level": "safe",
+    "budget_per_day": "85-150",
+    "highlights": [
+      "crocodiles",
+      "kakadu",
+      "outback"
+    ],
+    "best_time_to_visit": "May-Oct",
+    "airport_code": "DRW",
+    "image_search": "Darwin Australia travel"
+  },
+  {
+    "name": "Gold Coast",
+    "slug": "gold-coast",
+    "country": "Australia",
+    "country_slug": "australia",
+    "region": "Oceania",
+    "lat": -28.0167,
+    "lng": 153.4,
+    "population": 679127,
+    "safety_level": "safe",
+    "budget_per_day": "80-150",
+    "highlights": [
+      "beaches",
+      "theme parks",
+      "surfing"
+    ],
+    "best_time_to_visit": "Apr-Nov",
+    "airport_code": "OOL",
+    "image_search": "Gold Coast Australia travel"
+  },
+  {
+    "name": "Hobart",
+    "slug": "hobart",
+    "country": "Australia",
+    "country_slug": "australia",
+    "region": "Oceania",
+    "lat": -42.8821,
+    "lng": 147.3272,
+    "population": 238834,
+    "safety_level": "safe",
+    "budget_per_day": "80-140",
+    "highlights": [
+      "mona",
+      "nature",
+      "food"
+    ],
+    "best_time_to_visit": "Dec-Mar",
+    "airport_code": "HBA",
+    "image_search": "Hobart Australia travel"
+  },
+  {
     "name": "Melbourne",
     "slug": "melbourne",
     "country": "Australia",
@@ -18,6 +138,26 @@
     "best_time_to_visit": "Mar-May, Sep-Nov",
     "airport_code": "MEL",
     "image_search": "Melbourne Australia travel"
+  },
+  {
+    "name": "Perth",
+    "slug": "perth",
+    "country": "Australia",
+    "country_slug": "australia",
+    "region": "Oceania",
+    "lat": -31.9505,
+    "lng": 115.8605,
+    "population": 2085973,
+    "safety_level": "safe",
+    "budget_per_day": "85-150",
+    "highlights": [
+      "beaches",
+      "wine",
+      "isolated"
+    ],
+    "best_time_to_visit": "Sep-Nov, Mar-May",
+    "airport_code": "PER",
+    "image_search": "Perth Australia travel"
   },
   {
     "name": "Sydney",

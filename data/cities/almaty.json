@@ -1,0 +1,20 @@
+{
+  "name": "Almaty",
+  "slug": "almaty",
+  "country": "Kazakhstan",
+  "country_slug": "kazakhstan",
+  "region": "Asia",
+  "lat": 43.222,
+  "lng": 76.8512,
+  "population": 1916822,
+  "safety_level": "safe",
+  "budget_per_day": "40-75",
+  "highlights": [
+    "mountains",
+    "bazaars",
+    "apples"
+  ],
+  "best_time_to_visit": "Apr-Jun, Sep-Oct",
+  "airport_code": "ALA",
+  "image_search": "Almaty Kazakhstan travel"
+}

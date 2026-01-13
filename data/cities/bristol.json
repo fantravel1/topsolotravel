@@ -1,0 +1,20 @@
+{
+  "name": "Bristol",
+  "slug": "bristol",
+  "country": "United Kingdom",
+  "country_slug": "united-kingdom",
+  "region": "Europe",
+  "lat": 51.4545,
+  "lng": -2.5879,
+  "population": 463400,
+  "safety_level": "safe",
+  "budget_per_day": "70-130",
+  "highlights": [
+    "street art",
+    "music",
+    "harbourside"
+  ],
+  "best_time_to_visit": "May-Sep",
+  "airport_code": "BRS",
+  "image_search": "Bristol United Kingdom travel"
+}

@@ -44,10 +44,18 @@ topCities:
     url: "/destinations/germany/berlin/"
     description: "Popular destination for solo travelers with great infrastructure."
     highlights: ["history", "nightlife", "art"]
-  - name: "Munich"
-    url: "/destinations/germany/munich/"
+  - name: "Cologne"
+    url: "/destinations/germany/cologne/"
     description: "Popular destination for solo travelers with great infrastructure."
-    highlights: ["beer gardens", "oktoberfest", "alps"]
+    highlights: ["cathedral", "beer", "carnival"]
+  - name: "Dresden"
+    url: "/destinations/germany/dresden/"
+    description: "Popular destination for solo travelers with great infrastructure."
+    highlights: ["baroque", "art", "history"]
+  - name: "Dusseldorf"
+    url: "/destinations/germany/dusseldorf/"
+    description: "Popular destination for solo travelers with great infrastructure."
+    highlights: ["fashion", "beer", "old town"]
 
 
 budget:

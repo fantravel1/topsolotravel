@@ -1,0 +1,20 @@
+{
+  "name": "Apia",
+  "slug": "apia",
+  "country": "Samoa",
+  "country_slug": "samoa",
+  "region": "Oceania",
+  "lat": -13.8507,
+  "lng": -171.7514,
+  "population": 36735,
+  "safety_level": "safe",
+  "budget_per_day": "60-110",
+  "highlights": [
+    "fales",
+    "beaches",
+    "culture"
+  ],
+  "best_time_to_visit": "May-Oct",
+  "airport_code": "APW",
+  "image_search": "Apia Samoa travel"
+}

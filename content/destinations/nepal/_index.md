@@ -41,9 +41,13 @@ safety:
 
 topCities:
   - name: "Kathmandu"
-    url: "/destinations/nepal/"
-    description: "The capital city offers diverse experiences for solo travelers."
-    highlights: ["culture", "food", "history"]
+    url: "/destinations/nepal/kathmandu/"
+    description: "Popular destination for solo travelers with great infrastructure."
+    highlights: ["temples", "trekking", "culture"]
+  - name: "Pokhara"
+    url: "/destinations/nepal/pokhara/"
+    description: "Popular destination for solo travelers with great infrastructure."
+    highlights: ["annapurna", "lake", "paragliding"]
 
 
 budget:

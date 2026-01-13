@@ -1,0 +1,50 @@
+{
+  "name": "Sao Tome and Principe",
+  "slug": "sao-tome-and-principe",
+  "official_name": "Sao Tome and Principe",
+  "cca2": "",
+  "cca3": "",
+  "region": "Africa",
+  "subregion": "Middle Africa",
+  "region_slug": "africa",
+  "capital": "Sao Tome",
+  "population": 219159,
+  "area": 0,
+  "currency": "Sao Tome and Principe Dobra (STN)",
+  "languages": [
+    "Portuguese"
+  ],
+  "language": "Portuguese",
+  "timezone": "UTC+0",
+  "timezones": [
+    "UTC+0"
+  ],
+  "flag_emoji": "",
+  "flag_svg": "",
+  "flag_png": "",
+  "coat_of_arms": "",
+  "maps_google": "",
+  "maps_osm": "",
+  "landlocked": false,
+  "borders": [],
+  "driving_side": "right",
+  "calling_code": "",
+  "safety_level": "safe",
+  "budget_per_day": {
+    "budget": "60-80",
+    "midrange": "100-160",
+    "luxury": "280+"
+  },
+  "best_time_to_visit": "Jun-Sep",
+  "latlng": [
+    0,
+    0
+  ],
+  "capital_latlng": [
+    0,
+    0
+  ],
+  "un_member": true,
+  "independent": true,
+  "featured": false
+}

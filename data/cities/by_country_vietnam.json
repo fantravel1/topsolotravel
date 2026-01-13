@@ -1,5 +1,25 @@
 [
   {
+    "name": "Da Nang",
+    "slug": "da-nang",
+    "country": "Vietnam",
+    "country_slug": "vietnam",
+    "region": "Asia",
+    "lat": 16.0544,
+    "lng": 108.2022,
+    "population": 1134310,
+    "safety_level": "safe",
+    "budget_per_day": "25-50",
+    "highlights": [
+      "beaches",
+      "marble mountains",
+      "ba na hills"
+    ],
+    "best_time_to_visit": "Feb-May",
+    "airport_code": "DAD",
+    "image_search": "Da Nang Vietnam travel"
+  },
+  {
     "name": "Hanoi",
     "slug": "hanoi",
     "country": "Vietnam",
@@ -58,5 +78,85 @@
     "best_time_to_visit": "Feb-May",
     "airport_code": "DAD",
     "image_search": "Hoi An Vietnam travel"
+  },
+  {
+    "name": "Hue",
+    "slug": "hue",
+    "country": "Vietnam",
+    "country_slug": "vietnam",
+    "region": "Asia",
+    "lat": 16.4637,
+    "lng": 107.5909,
+    "population": 455230,
+    "safety_level": "safe",
+    "budget_per_day": "20-40",
+    "highlights": [
+      "imperial city",
+      "tombs",
+      "food"
+    ],
+    "best_time_to_visit": "Feb-May",
+    "airport_code": "HUI",
+    "image_search": "Hue Vietnam travel"
+  },
+  {
+    "name": "Nha Trang",
+    "slug": "nha-trang",
+    "country": "Vietnam",
+    "country_slug": "vietnam",
+    "region": "Asia",
+    "lat": 12.2388,
+    "lng": 109.1967,
+    "population": 535900,
+    "safety_level": "safe",
+    "budget_per_day": "25-50",
+    "highlights": [
+      "beaches",
+      "islands",
+      "diving"
+    ],
+    "best_time_to_visit": "Feb-May",
+    "airport_code": "CXR",
+    "image_search": "Nha Trang Vietnam travel"
+  },
+  {
+    "name": "Phu Quoc",
+    "slug": "phu-quoc",
+    "country": "Vietnam",
+    "country_slug": "vietnam",
+    "region": "Asia",
+    "lat": 10.227,
+    "lng": 103.9662,
+    "population": 179480,
+    "safety_level": "safe",
+    "budget_per_day": "30-60",
+    "highlights": [
+      "beaches",
+      "fish sauce",
+      "night market"
+    ],
+    "best_time_to_visit": "Nov-Mar",
+    "airport_code": "PQC",
+    "image_search": "Phu Quoc Vietnam travel"
+  },
+  {
+    "name": "Sapa",
+    "slug": "sapa",
+    "country": "Vietnam",
+    "country_slug": "vietnam",
+    "region": "Asia",
+    "lat": 22.3364,
+    "lng": 103.844,
+    "population": 61498,
+    "safety_level": "safe",
+    "budget_per_day": "25-45",
+    "highlights": [
+      "rice terraces",
+      "trekking",
+      "ethnic villages"
+    ],
+    "best_time_to_visit": "Mar-May, Sep-Nov",
+    "airport_code": "HAN",
+    "image_search": "Sapa Vietnam travel"
   }
 ]

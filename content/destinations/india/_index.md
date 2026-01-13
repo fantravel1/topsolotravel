@@ -40,18 +40,22 @@ safety:
     - "Walking alone in unfamiliar areas late at night"
 
 topCities:
+  - name: "Agra"
+    url: "/destinations/india/agra/"
+    description: "Popular destination for solo travelers with great infrastructure."
+    highlights: ["taj mahal", "fort", "food"]
+  - name: "Amritsar"
+    url: "/destinations/india/amritsar/"
+    description: "Popular destination for solo travelers with great infrastructure."
+    highlights: ["golden temple", "wagah border", "food"]
   - name: "Delhi"
     url: "/destinations/india/delhi/"
     description: "Popular destination for solo travelers with great infrastructure."
     highlights: ["monuments", "food", "history"]
-  - name: "Jaipur"
-    url: "/destinations/india/jaipur/"
+  - name: "Goa"
+    url: "/destinations/india/goa/"
     description: "Popular destination for solo travelers with great infrastructure."
-    highlights: ["pink city", "palaces", "shopping"]
-  - name: "Mumbai"
-    url: "/destinations/india/mumbai/"
-    description: "Popular destination for solo travelers with great infrastructure."
-    highlights: ["gateway", "bollywood", "street food"]
+    highlights: ["beaches", "parties", "portuguese heritage"]
 
 
 budget:

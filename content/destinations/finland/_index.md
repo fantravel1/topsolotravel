@@ -41,9 +41,13 @@ safety:
 
 topCities:
   - name: "Helsinki"
-    url: "/destinations/finland/"
-    description: "The capital city offers diverse experiences for solo travelers."
-    highlights: ["culture", "food", "history"]
+    url: "/destinations/finland/helsinki/"
+    description: "Popular destination for solo travelers with great infrastructure."
+    highlights: ["design", "saunas", "islands"]
+  - name: "Rovaniemi"
+    url: "/destinations/finland/rovaniemi/"
+    description: "Popular destination for solo travelers with great infrastructure."
+    highlights: ["santa claus", "northern lights", "arctic"]
 
 
 budget:

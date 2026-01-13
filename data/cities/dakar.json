@@ -1,0 +1,20 @@
+{
+  "name": "Dakar",
+  "slug": "dakar",
+  "country": "Senegal",
+  "country_slug": "senegal",
+  "region": "Africa",
+  "lat": 14.7167,
+  "lng": -17.4677,
+  "population": 1146053,
+  "safety_level": "caution",
+  "budget_per_day": "45-90",
+  "highlights": [
+    "music",
+    "beaches",
+    "goree island"
+  ],
+  "best_time_to_visit": "Nov-May",
+  "airport_code": "DSS",
+  "image_search": "Dakar Senegal travel"
+}

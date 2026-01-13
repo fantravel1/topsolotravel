@@ -1,5 +1,25 @@
 [
   {
+    "name": "Kota Kinabalu",
+    "slug": "kota-kinabalu",
+    "country": "Malaysia",
+    "country_slug": "malaysia",
+    "region": "Asia",
+    "lat": 5.9804,
+    "lng": 116.0735,
+    "population": 452058,
+    "safety_level": "safe",
+    "budget_per_day": "35-70",
+    "highlights": [
+      "mt kinabalu",
+      "islands",
+      "diving"
+    ],
+    "best_time_to_visit": "Mar-Sep",
+    "airport_code": "BKI",
+    "image_search": "Kota Kinabalu Malaysia travel"
+  },
+  {
     "name": "Kuala Lumpur",
     "slug": "kuala-lumpur",
     "country": "Malaysia",
@@ -18,5 +38,65 @@
     "best_time_to_visit": "May-Jul, Dec-Feb",
     "airport_code": "KUL",
     "image_search": "Kuala Lumpur Malaysia travel"
+  },
+  {
+    "name": "Langkawi",
+    "slug": "langkawi",
+    "country": "Malaysia",
+    "country_slug": "malaysia",
+    "region": "Asia",
+    "lat": 6.35,
+    "lng": 99.8,
+    "population": 99392,
+    "safety_level": "safe",
+    "budget_per_day": "40-80",
+    "highlights": [
+      "beaches",
+      "duty free",
+      "cable car"
+    ],
+    "best_time_to_visit": "Dec-Mar",
+    "airport_code": "LGK",
+    "image_search": "Langkawi Malaysia travel"
+  },
+  {
+    "name": "Melaka",
+    "slug": "melaka",
+    "country": "Malaysia",
+    "country_slug": "malaysia",
+    "region": "Asia",
+    "lat": 2.1896,
+    "lng": 102.2501,
+    "population": 579000,
+    "safety_level": "safe",
+    "budget_per_day": "30-55",
+    "highlights": [
+      "history",
+      "jonker street",
+      "food"
+    ],
+    "best_time_to_visit": "Mar-Oct",
+    "airport_code": "KUL",
+    "image_search": "Melaka Malaysia travel"
+  },
+  {
+    "name": "Penang",
+    "slug": "penang",
+    "country": "Malaysia",
+    "country_slug": "malaysia",
+    "region": "Asia",
+    "lat": 5.4164,
+    "lng": 100.3327,
+    "population": 708127,
+    "safety_level": "safe",
+    "budget_per_day": "30-60",
+    "highlights": [
+      "street art",
+      "food",
+      "temples"
+    ],
+    "best_time_to_visit": "Dec-Mar",
+    "airport_code": "PEN",
+    "image_search": "Penang Malaysia travel"
   }
 ]

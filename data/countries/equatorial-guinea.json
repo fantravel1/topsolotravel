@@ -1,0 +1,50 @@
+{
+  "name": "Equatorial Guinea",
+  "slug": "equatorial-guinea",
+  "official_name": "Equatorial Guinea",
+  "cca2": "",
+  "cca3": "",
+  "region": "Africa",
+  "subregion": "Middle Africa",
+  "region_slug": "africa",
+  "capital": "Malabo",
+  "population": 1403000,
+  "area": 0,
+  "currency": "Central African CFA Franc (XAF)",
+  "languages": [
+    "Spanish"
+  ],
+  "language": "Spanish",
+  "timezone": "UTC+1",
+  "timezones": [
+    "UTC+1"
+  ],
+  "flag_emoji": "",
+  "flag_svg": "",
+  "flag_png": "",
+  "coat_of_arms": "",
+  "maps_google": "",
+  "maps_osm": "",
+  "landlocked": false,
+  "borders": [],
+  "driving_side": "right",
+  "calling_code": "",
+  "safety_level": "caution",
+  "budget_per_day": {
+    "budget": "100-140",
+    "midrange": "180-280",
+    "luxury": "450+"
+  },
+  "best_time_to_visit": "Jun-Sep",
+  "latlng": [
+    0,
+    0
+  ],
+  "capital_latlng": [
+    0,
+    0
+  ],
+  "un_member": true,
+  "independent": true,
+  "featured": false
+}

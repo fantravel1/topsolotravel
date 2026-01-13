@@ -1,5 +1,25 @@
 [
   {
+    "name": "Bogota",
+    "slug": "bogota",
+    "country": "Colombia",
+    "country_slug": "colombia",
+    "region": "Americas",
+    "lat": 4.711,
+    "lng": -74.0721,
+    "population": 7181469,
+    "safety_level": "caution",
+    "budget_per_day": "35-70",
+    "highlights": [
+      "museums",
+      "food",
+      "graffiti"
+    ],
+    "best_time_to_visit": "Dec-Mar",
+    "airport_code": "BOG",
+    "image_search": "Bogota Colombia travel"
+  },
+  {
     "name": "Cartagena",
     "slug": "cartagena",
     "country": "Colombia",

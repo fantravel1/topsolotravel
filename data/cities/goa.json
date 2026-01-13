@@ -1,0 +1,20 @@
+{
+  "name": "Goa",
+  "slug": "goa",
+  "country": "India",
+  "country_slug": "india",
+  "region": "Asia",
+  "lat": 15.2993,
+  "lng": 74.124,
+  "population": 1458545,
+  "safety_level": "caution",
+  "budget_per_day": "25-55",
+  "highlights": [
+    "beaches",
+    "parties",
+    "portuguese heritage"
+  ],
+  "best_time_to_visit": "Nov-Feb",
+  "airport_code": "GOI",
+  "image_search": "Goa India travel"
+}

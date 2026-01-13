@@ -40,10 +40,14 @@ safety:
     - "Walking alone in unfamiliar areas late at night"
 
 topCities:
+  - name: "Lake Bled"
+    url: "/destinations/slovenia/lake-bled/"
+    description: "Popular destination for solo travelers with great infrastructure."
+    highlights: ["lake", "island", "castle"]
   - name: "Ljubljana"
-    url: "/destinations/slovenia/"
-    description: "The capital city offers diverse experiences for solo travelers."
-    highlights: ["culture", "food", "history"]
+    url: "/destinations/slovenia/ljubljana/"
+    description: "Popular destination for solo travelers with great infrastructure."
+    highlights: ["green", "castle", "dragons"]
 
 
 budget:

@@ -1,0 +1,20 @@
+{
+  "name": "Hamburg",
+  "slug": "hamburg",
+  "country": "Germany",
+  "country_slug": "germany",
+  "region": "Europe",
+  "lat": 53.5511,
+  "lng": 9.9937,
+  "population": 1841179,
+  "safety_level": "safe",
+  "budget_per_day": "70-130",
+  "highlights": [
+    "harbour",
+    "nightlife",
+    "architecture"
+  ],
+  "best_time_to_visit": "May-Sep",
+  "airport_code": "HAM",
+  "image_search": "Hamburg Germany travel"
+}

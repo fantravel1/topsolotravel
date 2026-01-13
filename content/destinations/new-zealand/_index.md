@@ -44,10 +44,18 @@ topCities:
     url: "/destinations/new-zealand/auckland/"
     description: "Popular destination for solo travelers with great infrastructure."
     highlights: ["harbour", "islands", "wine"]
-  - name: "Queenstown"
-    url: "/destinations/new-zealand/queenstown/"
+  - name: "Bay of Islands"
+    url: "/destinations/new-zealand/bay-of-islands/"
     description: "Popular destination for solo travelers with great infrastructure."
-    highlights: ["adventure sports", "scenery", "skiing"]
+    highlights: ["islands", "dolphins", "sailing"]
+  - name: "Christchurch"
+    url: "/destinations/new-zealand/christchurch/"
+    description: "Popular destination for solo travelers with great infrastructure."
+    highlights: ["garden city", "rebuild", "gateway south"]
+  - name: "Milford Sound"
+    url: "/destinations/new-zealand/milford-sound/"
+    description: "Popular destination for solo travelers with great infrastructure."
+    highlights: ["fjord", "cruises", "scenery"]
 
 
 budget:

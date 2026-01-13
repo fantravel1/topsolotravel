@@ -1,0 +1,20 @@
+{
+  "name": "Bodrum",
+  "slug": "bodrum",
+  "country": "Turkey",
+  "country_slug": "turkey",
+  "region": "Europe",
+  "lat": 37.0344,
+  "lng": 27.4305,
+  "population": 36317,
+  "safety_level": "safe",
+  "budget_per_day": "50-100",
+  "highlights": [
+    "beaches",
+    "nightlife",
+    "castle"
+  ],
+  "best_time_to_visit": "May-Sep",
+  "airport_code": "BJV",
+  "image_search": "Bodrum Turkey travel"
+}

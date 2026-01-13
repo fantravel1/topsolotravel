@@ -1,0 +1,122 @@
+[
+  {
+    "name": "Bariloche",
+    "slug": "bariloche",
+    "country": "Argentina",
+    "country_slug": "argentina",
+    "region": "Americas",
+    "lat": -41.1335,
+    "lng": -71.3103,
+    "population": 133500,
+    "safety_level": "safe",
+    "budget_per_day": "50-100",
+    "highlights": [
+      "lakes",
+      "chocolate",
+      "skiing"
+    ],
+    "best_time_to_visit": "Dec-Mar, Jun-Sep",
+    "airport_code": "BRC",
+    "image_search": "Bariloche Argentina travel"
+  },
+  {
+    "name": "Buenos Aires",
+    "slug": "buenos-aires",
+    "country": "Argentina",
+    "country_slug": "argentina",
+    "region": "Americas",
+    "lat": -34.6037,
+    "lng": -58.3816,
+    "population": 2891082,
+    "safety_level": "caution",
+    "budget_per_day": "40-80",
+    "highlights": [
+      "tango",
+      "steak",
+      "neighborhoods"
+    ],
+    "best_time_to_visit": "Oct-Apr",
+    "airport_code": "EZE",
+    "image_search": "Buenos Aires Argentina travel"
+  },
+  {
+    "name": "Iguazu",
+    "slug": "iguazu",
+    "country": "Argentina",
+    "country_slug": "argentina",
+    "region": "Americas",
+    "lat": -25.6868,
+    "lng": -54.4438,
+    "population": 82049,
+    "safety_level": "safe",
+    "budget_per_day": "50-90",
+    "highlights": [
+      "waterfalls",
+      "jungle",
+      "wildlife"
+    ],
+    "best_time_to_visit": "Mar-Nov",
+    "airport_code": "IGR",
+    "image_search": "Iguazu Argentina travel"
+  },
+  {
+    "name": "Mendoza",
+    "slug": "mendoza",
+    "country": "Argentina",
+    "country_slug": "argentina",
+    "region": "Americas",
+    "lat": -32.8908,
+    "lng": -68.8272,
+    "population": 115041,
+    "safety_level": "safe",
+    "budget_per_day": "40-75",
+    "highlights": [
+      "wine",
+      "andes",
+      "adventure"
+    ],
+    "best_time_to_visit": "Mar-May, Sep-Nov",
+    "airport_code": "MDZ",
+    "image_search": "Mendoza Argentina travel"
+  },
+  {
+    "name": "Salta",
+    "slug": "salta",
+    "country": "Argentina",
+    "country_slug": "argentina",
+    "region": "Americas",
+    "lat": -24.7821,
+    "lng": -65.4232,
+    "population": 535303,
+    "safety_level": "safe",
+    "budget_per_day": "35-65",
+    "highlights": [
+      "wine",
+      "landscapes",
+      "colonial"
+    ],
+    "best_time_to_visit": "Apr-Nov",
+    "airport_code": "SLA",
+    "image_search": "Salta Argentina travel"
+  },
+  {
+    "name": "Ushuaia",
+    "slug": "ushuaia",
+    "country": "Argentina",
+    "country_slug": "argentina",
+    "region": "Americas",
+    "lat": -54.8019,
+    "lng": -68.303,
+    "population": 56956,
+    "safety_level": "safe",
+    "budget_per_day": "60-120",
+    "highlights": [
+      "end of world",
+      "antarctica",
+      "nature"
+    ],
+    "best_time_to_visit": "Nov-Mar",
+    "airport_code": "USH",
+    "image_search": "Ushuaia Argentina travel"
+  }
+]

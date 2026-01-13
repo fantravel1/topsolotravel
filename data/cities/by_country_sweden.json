@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Gothenburg",
+    "slug": "gothenburg",
+    "country": "Sweden",
+    "country_slug": "sweden",
+    "region": "Europe",
+    "lat": 57.7089,
+    "lng": 11.9746,
+    "population": 583056,
+    "safety_level": "safe",
+    "budget_per_day": "100-160",
+    "highlights": [
+      "seafood",
+      "islands",
+      "trams"
+    ],
+    "best_time_to_visit": "May-Sep",
+    "airport_code": "GOT",
+    "image_search": "Gothenburg Sweden travel"
+  },
+  {
+    "name": "Malmo",
+    "slug": "malmo",
+    "country": "Sweden",
+    "country_slug": "sweden",
+    "region": "Europe",
+    "lat": 55.605,
+    "lng": 13.0038,
+    "population": 316588,
+    "safety_level": "safe",
+    "budget_per_day": "90-150",
+    "highlights": [
+      "bridge",
+      "parks",
+      "beaches"
+    ],
+    "best_time_to_visit": "May-Sep",
+    "airport_code": "MMX",
+    "image_search": "Malmo Sweden travel"
+  },
+  {
+    "name": "Stockholm",
+    "slug": "stockholm",
+    "country": "Sweden",
+    "country_slug": "sweden",
+    "region": "Europe",
+    "lat": 59.3293,
+    "lng": 18.0686,
+    "population": 975904,
+    "safety_level": "safe",
+    "budget_per_day": "110-180",
+    "highlights": [
+      "gamla stan",
+      "museums",
+      "islands"
+    ],
+    "best_time_to_visit": "May-Sep",
+    "airport_code": "ARN",
+    "image_search": "Stockholm Sweden travel"
+  }
+]

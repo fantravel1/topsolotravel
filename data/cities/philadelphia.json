@@ -1,0 +1,20 @@
+{
+  "name": "Philadelphia",
+  "slug": "philadelphia",
+  "country": "United States",
+  "country_slug": "united-states",
+  "region": "Americas",
+  "lat": 39.9526,
+  "lng": -75.1652,
+  "population": 1584064,
+  "safety_level": "caution",
+  "budget_per_day": "100-160",
+  "highlights": [
+    "history",
+    "food",
+    "art"
+  ],
+  "best_time_to_visit": "Mar-May, Sep-Nov",
+  "airport_code": "PHL",
+  "image_search": "Philadelphia United States travel"
+}

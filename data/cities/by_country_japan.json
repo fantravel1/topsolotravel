@@ -1,5 +1,85 @@
 [
   {
+    "name": "Fukuoka",
+    "slug": "fukuoka",
+    "country": "Japan",
+    "country_slug": "japan",
+    "region": "Asia",
+    "lat": 33.5904,
+    "lng": 130.4017,
+    "population": 1592657,
+    "safety_level": "safe",
+    "budget_per_day": "60-110",
+    "highlights": [
+      "ramen",
+      "temples",
+      "food stalls"
+    ],
+    "best_time_to_visit": "Mar-May, Sep-Nov",
+    "airport_code": "FUK",
+    "image_search": "Fukuoka Japan travel"
+  },
+  {
+    "name": "Hiroshima",
+    "slug": "hiroshima",
+    "country": "Japan",
+    "country_slug": "japan",
+    "region": "Asia",
+    "lat": 34.3853,
+    "lng": 132.4553,
+    "population": 1199391,
+    "safety_level": "safe",
+    "budget_per_day": "65-120",
+    "highlights": [
+      "peace memorial",
+      "miyajima",
+      "okonomiyaki"
+    ],
+    "best_time_to_visit": "Mar-May, Oct-Nov",
+    "airport_code": "HIJ",
+    "image_search": "Hiroshima Japan travel"
+  },
+  {
+    "name": "Kanazawa",
+    "slug": "kanazawa",
+    "country": "Japan",
+    "country_slug": "japan",
+    "region": "Asia",
+    "lat": 36.5944,
+    "lng": 136.6256,
+    "population": 465699,
+    "safety_level": "safe",
+    "budget_per_day": "65-115",
+    "highlights": [
+      "gardens",
+      "geisha",
+      "samurai"
+    ],
+    "best_time_to_visit": "Mar-May, Oct-Nov",
+    "airport_code": "KMQ",
+    "image_search": "Kanazawa Japan travel"
+  },
+  {
+    "name": "Kobe",
+    "slug": "kobe",
+    "country": "Japan",
+    "country_slug": "japan",
+    "region": "Asia",
+    "lat": 34.6901,
+    "lng": 135.1955,
+    "population": 1544200,
+    "safety_level": "safe",
+    "budget_per_day": "65-115",
+    "highlights": [
+      "beef",
+      "harbor",
+      "sake"
+    ],
+    "best_time_to_visit": "Mar-May, Sep-Nov",
+    "airport_code": "KIX",
+    "image_search": "Kobe Japan travel"
+  },
+  {
     "name": "Kyoto",
     "slug": "kyoto",
     "country": "Japan",
@@ -20,6 +100,46 @@
     "image_search": "Kyoto Japan travel"
   },
   {
+    "name": "Nagoya",
+    "slug": "nagoya",
+    "country": "Japan",
+    "country_slug": "japan",
+    "region": "Asia",
+    "lat": 35.1815,
+    "lng": 136.9066,
+    "population": 2320361,
+    "safety_level": "safe",
+    "budget_per_day": "60-110",
+    "highlights": [
+      "castle",
+      "cars",
+      "food"
+    ],
+    "best_time_to_visit": "Mar-May, Sep-Nov",
+    "airport_code": "NGO",
+    "image_search": "Nagoya Japan travel"
+  },
+  {
+    "name": "Nara",
+    "slug": "nara",
+    "country": "Japan",
+    "country_slug": "japan",
+    "region": "Asia",
+    "lat": 34.6851,
+    "lng": 135.8048,
+    "population": 360310,
+    "safety_level": "safe",
+    "budget_per_day": "60-100",
+    "highlights": [
+      "deer",
+      "temples",
+      "history"
+    ],
+    "best_time_to_visit": "Mar-May, Oct-Nov",
+    "airport_code": "KIX",
+    "image_search": "Nara Japan travel"
+  },
+  {
     "name": "Osaka",
     "slug": "osaka",
     "country": "Japan",
@@ -38,6 +158,26 @@
     "best_time_to_visit": "Mar-May, Oct-Nov",
     "airport_code": "KIX",
     "image_search": "Osaka Japan travel"
+  },
+  {
+    "name": "Sapporo",
+    "slug": "sapporo",
+    "country": "Japan",
+    "country_slug": "japan",
+    "region": "Asia",
+    "lat": 43.0618,
+    "lng": 141.3545,
+    "population": 1973395,
+    "safety_level": "safe",
+    "budget_per_day": "65-120",
+    "highlights": [
+      "skiing",
+      "ramen",
+      "beer"
+    ],
+    "best_time_to_visit": "Jun-Aug, Dec-Feb",
+    "airport_code": "CTS",
+    "image_search": "Sapporo Japan travel"
   },
   {
     "name": "Tokyo",

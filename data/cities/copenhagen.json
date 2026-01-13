@@ -1,0 +1,20 @@
+{
+  "name": "Copenhagen",
+  "slug": "copenhagen",
+  "country": "Denmark",
+  "country_slug": "denmark",
+  "region": "Europe",
+  "lat": 55.6761,
+  "lng": 12.5683,
+  "population": 644431,
+  "safety_level": "safe",
+  "budget_per_day": "110-180",
+  "highlights": [
+    "hygge",
+    "design",
+    "nyhavn"
+  ],
+  "best_time_to_visit": "May-Sep",
+  "airport_code": "CPH",
+  "image_search": "Copenhagen Denmark travel"
+}

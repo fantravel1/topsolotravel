@@ -1,0 +1,20 @@
+{
+  "name": "Merida",
+  "slug": "merida",
+  "country": "Mexico",
+  "country_slug": "mexico",
+  "region": "Americas",
+  "lat": 20.9674,
+  "lng": -89.5926,
+  "population": 892363,
+  "safety_level": "safe",
+  "budget_per_day": "35-65",
+  "highlights": [
+    "yucatan food",
+    "cenotes",
+    "colonial"
+  ],
+  "best_time_to_visit": "Nov-Apr",
+  "airport_code": "MID",
+  "image_search": "Merida Mexico travel"
+}

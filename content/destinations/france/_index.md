@@ -40,18 +40,22 @@ safety:
     - "Walking alone in unfamiliar areas late at night"
 
 topCities:
+  - name: "Avignon"
+    url: "/destinations/france/avignon/"
+    description: "Popular destination for solo travelers with great infrastructure."
+    highlights: ["papal palace", "bridges", "provence"]
+  - name: "Bordeaux"
+    url: "/destinations/france/bordeaux/"
+    description: "Popular destination for solo travelers with great infrastructure."
+    highlights: ["wine", "architecture", "food"]
+  - name: "Cannes"
+    url: "/destinations/france/cannes/"
+    description: "Popular destination for solo travelers with great infrastructure."
+    highlights: ["film festival", "beaches", "luxury"]
   - name: "Lyon"
     url: "/destinations/france/lyon/"
     description: "Popular destination for solo travelers with great infrastructure."
     highlights: ["gastronomy", "old town", "traboules"]
-  - name: "Nice"
-    url: "/destinations/france/nice/"
-    description: "Popular destination for solo travelers with great infrastructure."
-    highlights: ["beaches", "old town", "riviera"]
-  - name: "Paris"
-    url: "/destinations/france/paris/"
-    description: "Popular destination for solo travelers with great infrastructure."
-    highlights: ["eiffel tower", "louvre", "cafes"]
 
 
 budget:

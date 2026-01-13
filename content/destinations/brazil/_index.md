@@ -40,10 +40,22 @@ safety:
     - "Walking alone in unfamiliar areas late at night"
 
 topCities:
-  - name: "Brasilia"
-    url: "/destinations/brazil/"
-    description: "The capital city offers diverse experiences for solo travelers."
-    highlights: ["culture", "food", "history"]
+  - name: "Florianopolis"
+    url: "/destinations/brazil/florianopolis/"
+    description: "Popular destination for solo travelers with great infrastructure."
+    highlights: ["beaches", "surfing", "nightlife"]
+  - name: "Foz do Iguacu"
+    url: "/destinations/brazil/foz-do-iguacu/"
+    description: "Popular destination for solo travelers with great infrastructure."
+    highlights: ["waterfalls", "bird park", "border"]
+  - name: "Rio de Janeiro"
+    url: "/destinations/brazil/rio-de-janeiro/"
+    description: "Popular destination for solo travelers with great infrastructure."
+    highlights: ["beaches", "christ", "carnival"]
+  - name: "Salvador"
+    url: "/destinations/brazil/salvador/"
+    description: "Popular destination for solo travelers with great infrastructure."
+    highlights: ["afro-brazilian culture", "beaches", "music"]
 
 
 budget:

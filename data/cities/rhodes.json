@@ -1,0 +1,20 @@
+{
+  "name": "Rhodes",
+  "slug": "rhodes",
+  "country": "Greece",
+  "country_slug": "greece",
+  "region": "Europe",
+  "lat": 36.4346,
+  "lng": 28.2176,
+  "population": 50636,
+  "safety_level": "safe",
+  "budget_per_day": "55-95",
+  "highlights": [
+    "old town",
+    "beaches",
+    "history"
+  ],
+  "best_time_to_visit": "May-Oct",
+  "airport_code": "RHO",
+  "image_search": "Rhodes Greece travel"
+}

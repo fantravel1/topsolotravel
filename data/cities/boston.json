@@ -1,0 +1,20 @@
+{
+  "name": "Boston",
+  "slug": "boston",
+  "country": "United States",
+  "country_slug": "united-states",
+  "region": "Americas",
+  "lat": 42.3601,
+  "lng": -71.0589,
+  "population": 692600,
+  "safety_level": "safe",
+  "budget_per_day": "120-190",
+  "highlights": [
+    "history",
+    "universities",
+    "seafood"
+  ],
+  "best_time_to_visit": "Apr-Jun, Sep-Nov",
+  "airport_code": "BOS",
+  "image_search": "Boston United States travel"
+}

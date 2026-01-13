@@ -1,0 +1,20 @@
+{
+  "name": "Dresden",
+  "slug": "dresden",
+  "country": "Germany",
+  "country_slug": "germany",
+  "region": "Europe",
+  "lat": 51.0504,
+  "lng": 13.7373,
+  "population": 556780,
+  "safety_level": "safe",
+  "budget_per_day": "50-100",
+  "highlights": [
+    "baroque",
+    "art",
+    "history"
+  ],
+  "best_time_to_visit": "May-Sep",
+  "airport_code": "DRS",
+  "image_search": "Dresden Germany travel"
+}

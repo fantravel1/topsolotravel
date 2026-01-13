@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Galapagos",
+    "slug": "galapagos",
+    "country": "Ecuador",
+    "country_slug": "ecuador",
+    "region": "Americas",
+    "lat": -0.9538,
+    "lng": -90.9656,
+    "population": 25124,
+    "safety_level": "safe",
+    "budget_per_day": "150-300",
+    "highlights": [
+      "wildlife",
+      "diving",
+      "nature"
+    ],
+    "best_time_to_visit": "Jun-Sep",
+    "airport_code": "GPS",
+    "image_search": "Galapagos Ecuador travel"
+  },
+  {
+    "name": "Guayaquil",
+    "slug": "guayaquil",
+    "country": "Ecuador",
+    "country_slug": "ecuador",
+    "region": "Americas",
+    "lat": -2.1894,
+    "lng": -79.8891,
+    "population": 2698077,
+    "safety_level": "caution",
+    "budget_per_day": "30-60",
+    "highlights": [
+      "malecon",
+      "galapagos gateway",
+      "food"
+    ],
+    "best_time_to_visit": "Jul-Nov",
+    "airport_code": "GYE",
+    "image_search": "Guayaquil Ecuador travel"
+  },
+  {
+    "name": "Quito",
+    "slug": "quito",
+    "country": "Ecuador",
+    "country_slug": "ecuador",
+    "region": "Americas",
+    "lat": -0.1807,
+    "lng": -78.4678,
+    "population": 1978376,
+    "safety_level": "caution",
+    "budget_per_day": "35-65",
+    "highlights": [
+      "old town",
+      "equator",
+      "altitude"
+    ],
+    "best_time_to_visit": "Jun-Sep",
+    "airport_code": "UIO",
+    "image_search": "Quito Ecuador travel"
+  }
+]

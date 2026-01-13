@@ -40,18 +40,22 @@ safety:
     - "Walking alone in unfamiliar areas late at night"
 
 topCities:
-  - name: "Lagos"
-    url: "/destinations/portugal/lagos/"
+  - name: "Aveiro"
+    url: "/destinations/portugal/aveiro/"
     description: "Popular destination for solo travelers with great infrastructure."
-    highlights: ["beaches", "cliffs", "surfing"]
-  - name: "Lisbon"
-    url: "/destinations/portugal/lisbon/"
+    highlights: ["canals", "moliceiros", "pastries"]
+  - name: "Braga"
+    url: "/destinations/portugal/braga/"
     description: "Popular destination for solo travelers with great infrastructure."
-    highlights: ["tram 28", "pasteis de nata", "alfama"]
-  - name: "Porto"
-    url: "/destinations/portugal/porto/"
+    highlights: ["churches", "history", "bom jesus"]
+  - name: "Coimbra"
+    url: "/destinations/portugal/coimbra/"
     description: "Popular destination for solo travelers with great infrastructure."
-    highlights: ["port wine", "bridges", "ribeira"]
+    highlights: ["university", "fado", "history"]
+  - name: "Faro"
+    url: "/destinations/portugal/faro/"
+    description: "Popular destination for solo travelers with great infrastructure."
+    highlights: ["algarve", "beaches", "old town"]
 
 
 budget:

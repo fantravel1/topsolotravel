@@ -1,0 +1,20 @@
+{
+  "name": "Sapporo",
+  "slug": "sapporo",
+  "country": "Japan",
+  "country_slug": "japan",
+  "region": "Asia",
+  "lat": 43.0618,
+  "lng": 141.3545,
+  "population": 1973395,
+  "safety_level": "safe",
+  "budget_per_day": "65-120",
+  "highlights": [
+    "skiing",
+    "ramen",
+    "beer"
+  ],
+  "best_time_to_visit": "Jun-Aug, Dec-Feb",
+  "airport_code": "CTS",
+  "image_search": "Sapporo Japan travel"
+}

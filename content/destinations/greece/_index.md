@@ -44,10 +44,18 @@ topCities:
     url: "/destinations/greece/athens/"
     description: "Popular destination for solo travelers with great infrastructure."
     highlights: ["acropolis", "history", "islands"]
-  - name: "Santorini"
-    url: "/destinations/greece/santorini/"
+  - name: "Corfu"
+    url: "/destinations/greece/corfu/"
     description: "Popular destination for solo travelers with great infrastructure."
-    highlights: ["sunsets", "views", "wine"]
+    highlights: ["old town", "beaches", "venetian"]
+  - name: "Crete"
+    url: "/destinations/greece/crete/"
+    description: "Popular destination for solo travelers with great infrastructure."
+    highlights: ["beaches", "history", "food"]
+  - name: "Mykonos"
+    url: "/destinations/greece/mykonos/"
+    description: "Popular destination for solo travelers with great infrastructure."
+    highlights: ["nightlife", "beaches", "windmills"]
 
 
 budget:

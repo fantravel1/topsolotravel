@@ -40,14 +40,22 @@ safety:
     - "Walking alone in unfamiliar areas late at night"
 
 topCities:
-  - name: "Mexico City"
-    url: "/destinations/mexico/mexico-city/"
+  - name: "Cancun"
+    url: "/destinations/mexico/cancun/"
     description: "Popular destination for solo travelers with great infrastructure."
-    highlights: ["museums", "food", "history"]
-  - name: "Oaxaca"
-    url: "/destinations/mexico/oaxaca/"
+    highlights: ["beaches", "ruins", "nightlife"]
+  - name: "Guadalajara"
+    url: "/destinations/mexico/guadalajara/"
     description: "Popular destination for solo travelers with great infrastructure."
-    highlights: ["food", "crafts", "mezcal"]
+    highlights: ["tequila", "mariachi", "architecture"]
+  - name: "Guanajuato"
+    url: "/destinations/mexico/guanajuato/"
+    description: "Popular destination for solo travelers with great infrastructure."
+    highlights: ["colorful", "tunnels", "mummies"]
+  - name: "Merida"
+    url: "/destinations/mexico/merida/"
+    description: "Popular destination for solo travelers with great infrastructure."
+    highlights: ["yucatan food", "cenotes", "colonial"]
 
 
 budget:

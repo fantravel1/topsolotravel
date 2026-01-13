@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Hong Kong",
+    "slug": "hong-kong",
+    "country": "Hong Kong",
+    "country_slug": "hong-kong",
+    "region": "Asia",
+    "lat": 22.3193,
+    "lng": 114.1694,
+    "population": 7496981,
+    "safety_level": "safe",
+    "budget_per_day": "80-150",
+    "highlights": [
+      "skyline",
+      "dim sum",
+      "markets"
+    ],
+    "best_time_to_visit": "Oct-Dec",
+    "airport_code": "HKG",
+    "image_search": "Hong Kong Hong Kong travel"
+  }
+]

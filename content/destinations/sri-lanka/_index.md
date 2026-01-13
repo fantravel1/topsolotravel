@@ -41,9 +41,17 @@ safety:
 
 topCities:
   - name: "Colombo"
-    url: "/destinations/sri-lanka/"
-    description: "The capital city offers diverse experiences for solo travelers."
-    highlights: ["culture", "food", "history"]
+    url: "/destinations/sri-lanka/colombo/"
+    description: "Popular destination for solo travelers with great infrastructure."
+    highlights: ["temples", "food", "markets"]
+  - name: "Ella"
+    url: "/destinations/sri-lanka/ella/"
+    description: "Popular destination for solo travelers with great infrastructure."
+    highlights: ["nine arch bridge", "hiking", "tea"]
+  - name: "Kandy"
+    url: "/destinations/sri-lanka/kandy/"
+    description: "Popular destination for solo travelers with great infrastructure."
+    highlights: ["temple of tooth", "tea", "culture"]
 
 
 budget:

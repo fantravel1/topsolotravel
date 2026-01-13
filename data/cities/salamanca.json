@@ -1,0 +1,20 @@
+{
+  "name": "Salamanca",
+  "slug": "salamanca",
+  "country": "Spain",
+  "country_slug": "spain",
+  "region": "Europe",
+  "lat": 40.9701,
+  "lng": -5.6635,
+  "population": 144228,
+  "safety_level": "safe",
+  "budget_per_day": "45-85",
+  "highlights": [
+    "university",
+    "plaza mayor",
+    "history"
+  ],
+  "best_time_to_visit": "Apr-Jun, Sep-Oct",
+  "airport_code": "SLM",
+  "image_search": "Salamanca Spain travel"
+}

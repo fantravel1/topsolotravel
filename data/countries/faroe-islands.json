@@ -1,0 +1,50 @@
+{
+  "name": "Faroe Islands",
+  "slug": "faroe-islands",
+  "official_name": "Faroe Islands",
+  "cca2": "",
+  "cca3": "",
+  "region": "Europe",
+  "subregion": "Northern Europe",
+  "region_slug": "europe",
+  "capital": "Torshavn",
+  "population": 52903,
+  "area": 0,
+  "currency": "Danish Krone (DKK)",
+  "languages": [
+    "Faroese"
+  ],
+  "language": "Faroese",
+  "timezone": "UTC+0",
+  "timezones": [
+    "UTC+0"
+  ],
+  "flag_emoji": "",
+  "flag_svg": "",
+  "flag_png": "",
+  "coat_of_arms": "",
+  "maps_google": "",
+  "maps_osm": "",
+  "landlocked": false,
+  "borders": [],
+  "driving_side": "right",
+  "calling_code": "",
+  "safety_level": "safe",
+  "budget_per_day": {
+    "budget": "100-140",
+    "midrange": "180-270",
+    "luxury": "450+"
+  },
+  "best_time_to_visit": "Jun-Aug",
+  "latlng": [
+    0,
+    0
+  ],
+  "capital_latlng": [
+    0,
+    0
+  ],
+  "un_member": true,
+  "independent": true,
+  "featured": false
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Panama City",
+  "slug": "panama-city",
+  "country": "Panama",
+  "country_slug": "panama",
+  "region": "Americas",
+  "lat": 8.9824,
+  "lng": -79.5199,
+  "population": 880691,
+  "safety_level": "caution",
+  "budget_per_day": "50-100",
+  "highlights": [
+    "canal",
+    "casco viejo",
+    "skyline"
+  ],
+  "best_time_to_visit": "Dec-Apr",
+  "airport_code": "PTY",
+  "image_search": "Panama City Panama travel"
+}

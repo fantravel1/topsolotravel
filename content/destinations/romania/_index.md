@@ -40,10 +40,14 @@ safety:
     - "Walking alone in unfamiliar areas late at night"
 
 topCities:
+  - name: "Brasov"
+    url: "/destinations/romania/brasov/"
+    description: "Popular destination for solo travelers with great infrastructure."
+    highlights: ["old town", "dracula", "mountains"]
   - name: "Bucharest"
-    url: "/destinations/romania/"
-    description: "The capital city offers diverse experiences for solo travelers."
-    highlights: ["culture", "food", "history"]
+    url: "/destinations/romania/bucharest/"
+    description: "Popular destination for solo travelers with great infrastructure."
+    highlights: ["palace", "old town", "nightlife"]
 
 
 budget:

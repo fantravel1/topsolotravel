@@ -41,9 +41,9 @@ safety:
 
 topCities:
   - name: "Accra"
-    url: "/destinations/ghana/"
-    description: "The capital city offers diverse experiences for solo travelers."
-    highlights: ["culture", "food", "history"]
+    url: "/destinations/ghana/accra/"
+    description: "Popular destination for solo travelers with great infrastructure."
+    highlights: ["history", "beaches", "food"]
 
 
 budget:

@@ -41,9 +41,9 @@ safety:
 
 topCities:
   - name: "Tirana"
-    url: "/destinations/albania/"
-    description: "The capital city offers diverse experiences for solo travelers."
-    highlights: ["culture", "food", "history"]
+    url: "/destinations/albania/tirana/"
+    description: "Popular destination for solo travelers with great infrastructure."
+    highlights: ["colorful", "history", "bunkers"]
 
 
 budget:

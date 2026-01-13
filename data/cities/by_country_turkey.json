@@ -1,5 +1,85 @@
 [
   {
+    "name": "Ankara",
+    "slug": "ankara",
+    "country": "Turkey",
+    "country_slug": "turkey",
+    "region": "Europe",
+    "lat": 39.9334,
+    "lng": 32.8597,
+    "population": 5503985,
+    "safety_level": "safe",
+    "budget_per_day": "35-65",
+    "highlights": [
+      "museums",
+      "history",
+      "capital"
+    ],
+    "best_time_to_visit": "Apr-Jun, Sep-Oct",
+    "airport_code": "ESB",
+    "image_search": "Ankara Turkey travel"
+  },
+  {
+    "name": "Antalya",
+    "slug": "antalya",
+    "country": "Turkey",
+    "country_slug": "turkey",
+    "region": "Europe",
+    "lat": 36.8969,
+    "lng": 30.7133,
+    "population": 1203994,
+    "safety_level": "caution",
+    "budget_per_day": "35-70",
+    "highlights": [
+      "beaches",
+      "old town",
+      "ruins"
+    ],
+    "best_time_to_visit": "Apr-Jun, Sep-Oct",
+    "airport_code": "AYT",
+    "image_search": "Antalya Turkey travel"
+  },
+  {
+    "name": "Bodrum",
+    "slug": "bodrum",
+    "country": "Turkey",
+    "country_slug": "turkey",
+    "region": "Europe",
+    "lat": 37.0344,
+    "lng": 27.4305,
+    "population": 36317,
+    "safety_level": "safe",
+    "budget_per_day": "50-100",
+    "highlights": [
+      "beaches",
+      "nightlife",
+      "castle"
+    ],
+    "best_time_to_visit": "May-Sep",
+    "airport_code": "BJV",
+    "image_search": "Bodrum Turkey travel"
+  },
+  {
+    "name": "Cappadocia",
+    "slug": "cappadocia",
+    "country": "Turkey",
+    "country_slug": "turkey",
+    "region": "Europe",
+    "lat": 38.6431,
+    "lng": 34.8289,
+    "population": 50000,
+    "safety_level": "safe",
+    "budget_per_day": "45-90",
+    "highlights": [
+      "balloons",
+      "caves",
+      "fairy chimneys"
+    ],
+    "best_time_to_visit": "Apr-Jun, Sep-Oct",
+    "airport_code": "NAV",
+    "image_search": "Cappadocia Turkey travel"
+  },
+  {
     "name": "Istanbul",
     "slug": "istanbul",
     "country": "Turkey",
@@ -18,5 +98,25 @@
     "best_time_to_visit": "Apr-May, Sep-Nov",
     "airport_code": "IST",
     "image_search": "Istanbul Turkey travel"
+  },
+  {
+    "name": "Izmir",
+    "slug": "izmir",
+    "country": "Turkey",
+    "country_slug": "turkey",
+    "region": "Europe",
+    "lat": 38.4192,
+    "lng": 27.1287,
+    "population": 2937685,
+    "safety_level": "safe",
+    "budget_per_day": "35-65",
+    "highlights": [
+      "ephesus",
+      "bazaar",
+      "seafront"
+    ],
+    "best_time_to_visit": "Apr-Jun, Sep-Oct",
+    "airport_code": "ADB",
+    "image_search": "Izmir Turkey travel"
   }
 ]

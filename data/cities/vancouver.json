@@ -1,0 +1,20 @@
+{
+  "name": "Vancouver",
+  "slug": "vancouver",
+  "country": "Canada",
+  "country_slug": "canada",
+  "region": "Americas",
+  "lat": 49.2827,
+  "lng": -123.1207,
+  "population": 675218,
+  "safety_level": "safe",
+  "budget_per_day": "100-170",
+  "highlights": [
+    "nature",
+    "food",
+    "outdoors"
+  ],
+  "best_time_to_visit": "Jun-Sep",
+  "airport_code": "YVR",
+  "image_search": "Vancouver Canada travel"
+}

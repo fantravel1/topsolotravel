@@ -1,0 +1,20 @@
+{
+  "name": "Hiroshima",
+  "slug": "hiroshima",
+  "country": "Japan",
+  "country_slug": "japan",
+  "region": "Asia",
+  "lat": 34.3853,
+  "lng": 132.4553,
+  "population": 1199391,
+  "safety_level": "safe",
+  "budget_per_day": "65-120",
+  "highlights": [
+    "peace memorial",
+    "miyajima",
+    "okonomiyaki"
+  ],
+  "best_time_to_visit": "Mar-May, Oct-Nov",
+  "airport_code": "HIJ",
+  "image_search": "Hiroshima Japan travel"
+}

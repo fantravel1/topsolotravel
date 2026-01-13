@@ -1,0 +1,50 @@
+{
+  "name": "Bahamas",
+  "slug": "bahamas",
+  "official_name": "Bahamas",
+  "cca2": "",
+  "cca3": "",
+  "region": "Americas",
+  "subregion": "Caribbean",
+  "region_slug": "americas",
+  "capital": "Nassau",
+  "population": 393244,
+  "area": 0,
+  "currency": "Bahamian Dollar (BSD)",
+  "languages": [
+    "English"
+  ],
+  "language": "English",
+  "timezone": "UTC-5",
+  "timezones": [
+    "UTC-5"
+  ],
+  "flag_emoji": "",
+  "flag_svg": "",
+  "flag_png": "",
+  "coat_of_arms": "",
+  "maps_google": "",
+  "maps_osm": "",
+  "landlocked": false,
+  "borders": [],
+  "driving_side": "right",
+  "calling_code": "",
+  "safety_level": "caution",
+  "budget_per_day": {
+    "budget": "100-150",
+    "midrange": "200-300",
+    "luxury": "500+"
+  },
+  "best_time_to_visit": "Dec-May",
+  "latlng": [
+    0,
+    0
+  ],
+  "capital_latlng": [
+    0,
+    0
+  ],
+  "un_member": true,
+  "independent": true,
+  "featured": false
+}

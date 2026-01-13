@@ -1,0 +1,20 @@
+{
+  "name": "Rotorua",
+  "slug": "rotorua",
+  "country": "New Zealand",
+  "country_slug": "new-zealand",
+  "region": "Oceania",
+  "lat": -38.1368,
+  "lng": 176.2497,
+  "population": 57800,
+  "safety_level": "safe",
+  "budget_per_day": "80-140",
+  "highlights": [
+    "geothermal",
+    "maori culture",
+    "adventure"
+  ],
+  "best_time_to_visit": "Dec-Mar",
+  "airport_code": "ROT",
+  "image_search": "Rotorua New Zealand travel"
+}

@@ -40,18 +40,22 @@ safety:
     - "Walking alone in unfamiliar areas late at night"
 
 topCities:
+  - name: "Amalfi"
+    url: "/destinations/italy/amalfi/"
+    description: "Popular destination for solo travelers with great infrastructure."
+    highlights: ["coast", "lemons", "beaches"]
+  - name: "Bologna"
+    url: "/destinations/italy/bologna/"
+    description: "Popular destination for solo travelers with great infrastructure."
+    highlights: ["food", "porticos", "university"]
+  - name: "Cinque Terre"
+    url: "/destinations/italy/cinque-terre/"
+    description: "Popular destination for solo travelers with great infrastructure."
+    highlights: ["colorful villages", "hiking", "sea"]
   - name: "Florence"
     url: "/destinations/italy/florence/"
     description: "Popular destination for solo travelers with great infrastructure."
     highlights: ["art", "duomo", "tuscany"]
-  - name: "Rome"
-    url: "/destinations/italy/rome/"
-    description: "Popular destination for solo travelers with great infrastructure."
-    highlights: ["colosseum", "vatican", "pasta"]
-  - name: "Venice"
-    url: "/destinations/italy/venice/"
-    description: "Popular destination for solo travelers with great infrastructure."
-    highlights: ["canals", "architecture", "islands"]
 
 
 budget:

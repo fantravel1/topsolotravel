@@ -1,0 +1,20 @@
+{
+  "name": "Ljubljana",
+  "slug": "ljubljana",
+  "country": "Slovenia",
+  "country_slug": "slovenia",
+  "region": "Europe",
+  "lat": 46.0569,
+  "lng": 14.5058,
+  "population": 284355,
+  "safety_level": "safe",
+  "budget_per_day": "55-95",
+  "highlights": [
+    "green",
+    "castle",
+    "dragons"
+  ],
+  "best_time_to_visit": "May-Sep",
+  "airport_code": "LJU",
+  "image_search": "Ljubljana Slovenia travel"
+}

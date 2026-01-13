@@ -1,5 +1,85 @@
 [
   {
+    "name": "Cancun",
+    "slug": "cancun",
+    "country": "Mexico",
+    "country_slug": "mexico",
+    "region": "Americas",
+    "lat": 21.1619,
+    "lng": -86.8515,
+    "population": 888797,
+    "safety_level": "caution",
+    "budget_per_day": "60-120",
+    "highlights": [
+      "beaches",
+      "ruins",
+      "nightlife"
+    ],
+    "best_time_to_visit": "Dec-Apr",
+    "airport_code": "CUN",
+    "image_search": "Cancun Mexico travel"
+  },
+  {
+    "name": "Guadalajara",
+    "slug": "guadalajara",
+    "country": "Mexico",
+    "country_slug": "mexico",
+    "region": "Americas",
+    "lat": 20.6597,
+    "lng": -103.3496,
+    "population": 1495182,
+    "safety_level": "caution",
+    "budget_per_day": "40-75",
+    "highlights": [
+      "tequila",
+      "mariachi",
+      "architecture"
+    ],
+    "best_time_to_visit": "Oct-May",
+    "airport_code": "GDL",
+    "image_search": "Guadalajara Mexico travel"
+  },
+  {
+    "name": "Guanajuato",
+    "slug": "guanajuato",
+    "country": "Mexico",
+    "country_slug": "mexico",
+    "region": "Americas",
+    "lat": 21.019,
+    "lng": -101.2574,
+    "population": 184239,
+    "safety_level": "safe",
+    "budget_per_day": "35-65",
+    "highlights": [
+      "colorful",
+      "tunnels",
+      "mummies"
+    ],
+    "best_time_to_visit": "Oct-May",
+    "airport_code": "BJX",
+    "image_search": "Guanajuato Mexico travel"
+  },
+  {
+    "name": "Merida",
+    "slug": "merida",
+    "country": "Mexico",
+    "country_slug": "mexico",
+    "region": "Americas",
+    "lat": 20.9674,
+    "lng": -89.5926,
+    "population": 892363,
+    "safety_level": "safe",
+    "budget_per_day": "35-65",
+    "highlights": [
+      "yucatan food",
+      "cenotes",
+      "colonial"
+    ],
+    "best_time_to_visit": "Nov-Apr",
+    "airport_code": "MID",
+    "image_search": "Merida Mexico travel"
+  },
+  {
     "name": "Mexico City",
     "slug": "mexico-city",
     "country": "Mexico",
@@ -38,5 +118,85 @@
     "best_time_to_visit": "Oct-May",
     "airport_code": "OAX",
     "image_search": "Oaxaca Mexico travel"
+  },
+  {
+    "name": "Playa del Carmen",
+    "slug": "playa-del-carmen",
+    "country": "Mexico",
+    "country_slug": "mexico",
+    "region": "Americas",
+    "lat": 20.6296,
+    "lng": -87.0739,
+    "population": 149923,
+    "safety_level": "caution",
+    "budget_per_day": "50-100",
+    "highlights": [
+      "beaches",
+      "cenotes",
+      "quinta avenida"
+    ],
+    "best_time_to_visit": "Dec-Apr",
+    "airport_code": "CUN",
+    "image_search": "Playa del Carmen Mexico travel"
+  },
+  {
+    "name": "Puerto Vallarta",
+    "slug": "puerto-vallarta",
+    "country": "Mexico",
+    "country_slug": "mexico",
+    "region": "Americas",
+    "lat": 20.6534,
+    "lng": -105.2253,
+    "population": 275640,
+    "safety_level": "safe",
+    "budget_per_day": "50-95",
+    "highlights": [
+      "beaches",
+      "nightlife",
+      "lgbtq friendly"
+    ],
+    "best_time_to_visit": "Nov-May",
+    "airport_code": "PVR",
+    "image_search": "Puerto Vallarta Mexico travel"
+  },
+  {
+    "name": "San Miguel de Allende",
+    "slug": "san-miguel-de-allende",
+    "country": "Mexico",
+    "country_slug": "mexico",
+    "region": "Americas",
+    "lat": 20.9144,
+    "lng": -100.7452,
+    "population": 171117,
+    "safety_level": "safe",
+    "budget_per_day": "45-85",
+    "highlights": [
+      "colonial",
+      "art",
+      "expats"
+    ],
+    "best_time_to_visit": "Oct-May",
+    "airport_code": "BJX",
+    "image_search": "San Miguel de Allende Mexico travel"
+  },
+  {
+    "name": "Tulum",
+    "slug": "tulum",
+    "country": "Mexico",
+    "country_slug": "mexico",
+    "region": "Americas",
+    "lat": 20.2114,
+    "lng": -87.4654,
+    "population": 18233,
+    "safety_level": "safe",
+    "budget_per_day": "60-120",
+    "highlights": [
+      "ruins",
+      "cenotes",
+      "wellness"
+    ],
+    "best_time_to_visit": "Dec-Apr",
+    "airport_code": "CUN",
+    "image_search": "Tulum Mexico travel"
   }
 ]

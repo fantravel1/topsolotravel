@@ -1,0 +1,20 @@
+{
+  "name": "Guayaquil",
+  "slug": "guayaquil",
+  "country": "Ecuador",
+  "country_slug": "ecuador",
+  "region": "Americas",
+  "lat": -2.1894,
+  "lng": -79.8891,
+  "population": 2698077,
+  "safety_level": "caution",
+  "budget_per_day": "30-60",
+  "highlights": [
+    "malecon",
+    "galapagos gateway",
+    "food"
+  ],
+  "best_time_to_visit": "Jul-Nov",
+  "airport_code": "GYE",
+  "image_search": "Guayaquil Ecuador travel"
+}

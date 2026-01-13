@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Kotor",
+    "slug": "kotor",
+    "country": "Montenegro",
+    "country_slug": "montenegro",
+    "region": "Europe",
+    "lat": 42.4247,
+    "lng": 18.7712,
+    "population": 13510,
+    "safety_level": "safe",
+    "budget_per_day": "50-90",
+    "highlights": [
+      "old town",
+      "bay",
+      "walls"
+    ],
+    "best_time_to_visit": "May-Sep",
+    "airport_code": "TIV",
+    "image_search": "Kotor Montenegro travel"
+  }
+]

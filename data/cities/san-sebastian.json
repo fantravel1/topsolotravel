@@ -1,0 +1,20 @@
+{
+  "name": "San Sebastian",
+  "slug": "san-sebastian",
+  "country": "Spain",
+  "country_slug": "spain",
+  "region": "Europe",
+  "lat": 43.3183,
+  "lng": -1.9812,
+  "population": 186665,
+  "safety_level": "safe",
+  "budget_per_day": "70-130",
+  "highlights": [
+    "pintxos",
+    "beaches",
+    "food"
+  ],
+  "best_time_to_visit": "May-Sep",
+  "airport_code": "EAS",
+  "image_search": "San Sebastian Spain travel"
+}

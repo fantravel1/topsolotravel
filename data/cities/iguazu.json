@@ -1,0 +1,20 @@
+{
+  "name": "Iguazu",
+  "slug": "iguazu",
+  "country": "Argentina",
+  "country_slug": "argentina",
+  "region": "Americas",
+  "lat": -25.6868,
+  "lng": -54.4438,
+  "population": 82049,
+  "safety_level": "safe",
+  "budget_per_day": "50-90",
+  "highlights": [
+    "waterfalls",
+    "jungle",
+    "wildlife"
+  ],
+  "best_time_to_visit": "Mar-Nov",
+  "airport_code": "IGR",
+  "image_search": "Iguazu Argentina travel"
+}

@@ -40,10 +40,18 @@ safety:
     - "Walking alone in unfamiliar areas late at night"
 
 topCities:
+  - name: "Galapagos"
+    url: "/destinations/ecuador/galapagos/"
+    description: "Popular destination for solo travelers with great infrastructure."
+    highlights: ["wildlife", "diving", "nature"]
+  - name: "Guayaquil"
+    url: "/destinations/ecuador/guayaquil/"
+    description: "Popular destination for solo travelers with great infrastructure."
+    highlights: ["malecon", "galapagos gateway", "food"]
   - name: "Quito"
-    url: "/destinations/ecuador/"
-    description: "The capital city offers diverse experiences for solo travelers."
-    highlights: ["culture", "food", "history"]
+    url: "/destinations/ecuador/quito/"
+    description: "Popular destination for solo travelers with great infrastructure."
+    highlights: ["old town", "equator", "altitude"]
 
 
 budget:

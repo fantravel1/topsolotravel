@@ -1,0 +1,20 @@
+{
+  "name": "Kaohsiung",
+  "slug": "kaohsiung",
+  "country": "Taiwan",
+  "country_slug": "taiwan",
+  "region": "Asia",
+  "lat": 22.6273,
+  "lng": 120.3014,
+  "population": 2773000,
+  "safety_level": "safe",
+  "budget_per_day": "45-85",
+  "highlights": [
+    "pier-2",
+    "lotus pond",
+    "seafood"
+  ],
+  "best_time_to_visit": "Oct-Apr",
+  "airport_code": "KHH",
+  "image_search": "Kaohsiung Taiwan travel"
+}

@@ -1,0 +1,50 @@
+{
+  "name": "French Guiana",
+  "slug": "french-guiana",
+  "official_name": "French Guiana",
+  "cca2": "",
+  "cca3": "",
+  "region": "Americas",
+  "subregion": "South America",
+  "region_slug": "americas",
+  "capital": "Cayenne",
+  "population": 298682,
+  "area": 0,
+  "currency": "Euro (EUR)",
+  "languages": [
+    "French"
+  ],
+  "language": "French",
+  "timezone": "UTC-3",
+  "timezones": [
+    "UTC-3"
+  ],
+  "flag_emoji": "",
+  "flag_svg": "",
+  "flag_png": "",
+  "coat_of_arms": "",
+  "maps_google": "",
+  "maps_osm": "",
+  "landlocked": false,
+  "borders": [],
+  "driving_side": "right",
+  "calling_code": "",
+  "safety_level": "caution",
+  "budget_per_day": {
+    "budget": "80-120",
+    "midrange": "160-240",
+    "luxury": "400+"
+  },
+  "best_time_to_visit": "Jul-Nov",
+  "latlng": [
+    0,
+    0
+  ],
+  "capital_latlng": [
+    0,
+    0
+  ],
+  "un_member": true,
+  "independent": true,
+  "featured": false
+}

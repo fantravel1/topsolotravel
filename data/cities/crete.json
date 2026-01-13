@@ -1,0 +1,20 @@
+{
+  "name": "Crete",
+  "slug": "crete",
+  "country": "Greece",
+  "country_slug": "greece",
+  "region": "Europe",
+  "lat": 35.2401,
+  "lng": 24.8093,
+  "population": 623065,
+  "safety_level": "safe",
+  "budget_per_day": "55-100",
+  "highlights": [
+    "beaches",
+    "history",
+    "food"
+  ],
+  "best_time_to_visit": "May-Oct",
+  "airport_code": "HER",
+  "image_search": "Crete Greece travel"
+}

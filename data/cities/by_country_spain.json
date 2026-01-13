@@ -20,6 +20,66 @@
     "image_search": "Barcelona Spain travel"
   },
   {
+    "name": "Bilbao",
+    "slug": "bilbao",
+    "country": "Spain",
+    "country_slug": "spain",
+    "region": "Europe",
+    "lat": 43.263,
+    "lng": -2.935,
+    "population": 345821,
+    "safety_level": "safe",
+    "budget_per_day": "60-110",
+    "highlights": [
+      "guggenheim",
+      "pintxos",
+      "basque"
+    ],
+    "best_time_to_visit": "May-Sep",
+    "airport_code": "BIO",
+    "image_search": "Bilbao Spain travel"
+  },
+  {
+    "name": "Cordoba",
+    "slug": "cordoba",
+    "country": "Spain",
+    "country_slug": "spain",
+    "region": "Europe",
+    "lat": 37.8882,
+    "lng": -4.7794,
+    "population": 325708,
+    "safety_level": "safe",
+    "budget_per_day": "45-90",
+    "highlights": [
+      "mezquita",
+      "patios",
+      "history"
+    ],
+    "best_time_to_visit": "Apr-Jun, Sep-Oct",
+    "airport_code": "ODB",
+    "image_search": "Cordoba Spain travel"
+  },
+  {
+    "name": "Granada",
+    "slug": "granada",
+    "country": "Spain",
+    "country_slug": "spain",
+    "region": "Europe",
+    "lat": 37.1773,
+    "lng": -3.5986,
+    "population": 232770,
+    "safety_level": "safe",
+    "budget_per_day": "45-90",
+    "highlights": [
+      "alhambra",
+      "tapas",
+      "flamenco"
+    ],
+    "best_time_to_visit": "Apr-Jun, Sep-Oct",
+    "airport_code": "GRX",
+    "image_search": "Granada Spain travel"
+  },
+  {
     "name": "Madrid",
     "slug": "madrid",
     "country": "Spain",
@@ -40,6 +100,66 @@
     "image_search": "Madrid Spain travel"
   },
   {
+    "name": "Malaga",
+    "slug": "malaga",
+    "country": "Spain",
+    "country_slug": "spain",
+    "region": "Europe",
+    "lat": 36.7213,
+    "lng": -4.4213,
+    "population": 574654,
+    "safety_level": "safe",
+    "budget_per_day": "50-100",
+    "highlights": [
+      "picasso",
+      "beaches",
+      "tapas"
+    ],
+    "best_time_to_visit": "Apr-Oct",
+    "airport_code": "AGP",
+    "image_search": "Malaga Spain travel"
+  },
+  {
+    "name": "Salamanca",
+    "slug": "salamanca",
+    "country": "Spain",
+    "country_slug": "spain",
+    "region": "Europe",
+    "lat": 40.9701,
+    "lng": -5.6635,
+    "population": 144228,
+    "safety_level": "safe",
+    "budget_per_day": "45-85",
+    "highlights": [
+      "university",
+      "plaza mayor",
+      "history"
+    ],
+    "best_time_to_visit": "Apr-Jun, Sep-Oct",
+    "airport_code": "SLM",
+    "image_search": "Salamanca Spain travel"
+  },
+  {
+    "name": "San Sebastian",
+    "slug": "san-sebastian",
+    "country": "Spain",
+    "country_slug": "spain",
+    "region": "Europe",
+    "lat": 43.3183,
+    "lng": -1.9812,
+    "population": 186665,
+    "safety_level": "safe",
+    "budget_per_day": "70-130",
+    "highlights": [
+      "pintxos",
+      "beaches",
+      "food"
+    ],
+    "best_time_to_visit": "May-Sep",
+    "airport_code": "EAS",
+    "image_search": "San Sebastian Spain travel"
+  },
+  {
     "name": "Seville",
     "slug": "seville",
     "country": "Spain",
@@ -58,5 +178,45 @@
     "best_time_to_visit": "Mar-May, Sep-Nov",
     "airport_code": "SVQ",
     "image_search": "Seville Spain travel"
+  },
+  {
+    "name": "Toledo",
+    "slug": "toledo",
+    "country": "Spain",
+    "country_slug": "spain",
+    "region": "Europe",
+    "lat": 39.8628,
+    "lng": -4.0273,
+    "population": 84282,
+    "safety_level": "safe",
+    "budget_per_day": "50-95",
+    "highlights": [
+      "medieval city",
+      "history",
+      "el greco"
+    ],
+    "best_time_to_visit": "Apr-Jun, Sep-Oct",
+    "airport_code": "MAD",
+    "image_search": "Toledo Spain travel"
+  },
+  {
+    "name": "Valencia",
+    "slug": "valencia",
+    "country": "Spain",
+    "country_slug": "spain",
+    "region": "Europe",
+    "lat": 39.4699,
+    "lng": -0.3763,
+    "population": 791413,
+    "safety_level": "safe",
+    "budget_per_day": "55-100",
+    "highlights": [
+      "paella",
+      "city of arts",
+      "beaches"
+    ],
+    "best_time_to_visit": "Apr-Jun, Sep-Oct",
+    "airport_code": "VLC",
+    "image_search": "Valencia Spain travel"
   }
 ]

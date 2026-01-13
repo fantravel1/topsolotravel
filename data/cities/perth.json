@@ -1,0 +1,20 @@
+{
+  "name": "Perth",
+  "slug": "perth",
+  "country": "Australia",
+  "country_slug": "australia",
+  "region": "Oceania",
+  "lat": -31.9505,
+  "lng": 115.8605,
+  "population": 2085973,
+  "safety_level": "safe",
+  "budget_per_day": "85-150",
+  "highlights": [
+    "beaches",
+    "wine",
+    "isolated"
+  ],
+  "best_time_to_visit": "Sep-Nov, Mar-May",
+  "airport_code": "PER",
+  "image_search": "Perth Australia travel"
+}

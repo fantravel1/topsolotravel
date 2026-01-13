@@ -1,0 +1,50 @@
+{
+  "name": "Ukraine",
+  "slug": "ukraine",
+  "official_name": "Ukraine",
+  "cca2": "",
+  "cca3": "",
+  "region": "Europe",
+  "subregion": "Eastern Europe",
+  "region_slug": "europe",
+  "capital": "Kyiv",
+  "population": 43730000,
+  "area": 0,
+  "currency": "Ukrainian Hryvnia (UAH)",
+  "languages": [
+    "Ukrainian"
+  ],
+  "language": "Ukrainian",
+  "timezone": "UTC+2",
+  "timezones": [
+    "UTC+2"
+  ],
+  "flag_emoji": "",
+  "flag_svg": "",
+  "flag_png": "",
+  "coat_of_arms": "",
+  "maps_google": "",
+  "maps_osm": "",
+  "landlocked": false,
+  "borders": [],
+  "driving_side": "right",
+  "calling_code": "",
+  "safety_level": "danger",
+  "budget_per_day": {
+    "budget": "30-45",
+    "midrange": "55-90",
+    "luxury": "150+"
+  },
+  "best_time_to_visit": "May-Sep",
+  "latlng": [
+    0,
+    0
+  ],
+  "capital_latlng": [
+    0,
+    0
+  ],
+  "un_member": true,
+  "independent": true,
+  "featured": false
+}

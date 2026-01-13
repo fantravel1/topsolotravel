@@ -1,0 +1,20 @@
+{
+  "name": "New Orleans",
+  "slug": "new-orleans",
+  "country": "United States",
+  "country_slug": "united-states",
+  "region": "Americas",
+  "lat": 29.9511,
+  "lng": -90.0715,
+  "population": 390144,
+  "safety_level": "caution",
+  "budget_per_day": "90-150",
+  "highlights": [
+    "jazz",
+    "food",
+    "culture"
+  ],
+  "best_time_to_visit": "Feb-May, Oct-Nov",
+  "airport_code": "MSY",
+  "image_search": "New Orleans United States travel"
+}

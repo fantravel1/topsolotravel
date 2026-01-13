@@ -41,9 +41,9 @@ safety:
 
 topCities:
   - name: "Riga"
-    url: "/destinations/latvia/"
-    description: "The capital city offers diverse experiences for solo travelers."
-    highlights: ["culture", "food", "history"]
+    url: "/destinations/latvia/riga/"
+    description: "Popular destination for solo travelers with great infrastructure."
+    highlights: ["art nouveau", "old town", "nightlife"]
 
 
 budget:

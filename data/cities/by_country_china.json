@@ -1,0 +1,122 @@
+[
+  {
+    "name": "Beijing",
+    "slug": "beijing",
+    "country": "China",
+    "country_slug": "china",
+    "region": "Asia",
+    "lat": 39.9042,
+    "lng": 116.4074,
+    "population": 21540000,
+    "safety_level": "safe",
+    "budget_per_day": "50-100",
+    "highlights": [
+      "great wall",
+      "forbidden city",
+      "temples"
+    ],
+    "best_time_to_visit": "Apr-May, Sep-Oct",
+    "airport_code": "PEK",
+    "image_search": "Beijing China travel"
+  },
+  {
+    "name": "Chengdu",
+    "slug": "chengdu",
+    "country": "China",
+    "country_slug": "china",
+    "region": "Asia",
+    "lat": 30.5728,
+    "lng": 104.0668,
+    "population": 16330000,
+    "safety_level": "safe",
+    "budget_per_day": "40-80",
+    "highlights": [
+      "pandas",
+      "hotpot",
+      "teahouses"
+    ],
+    "best_time_to_visit": "Mar-Jun, Sep-Nov",
+    "airport_code": "CTU",
+    "image_search": "Chengdu China travel"
+  },
+  {
+    "name": "Guilin",
+    "slug": "guilin",
+    "country": "China",
+    "country_slug": "china",
+    "region": "Asia",
+    "lat": 25.2736,
+    "lng": 110.2906,
+    "population": 5387000,
+    "safety_level": "safe",
+    "budget_per_day": "35-70",
+    "highlights": [
+      "karst mountains",
+      "li river",
+      "rice terraces"
+    ],
+    "best_time_to_visit": "Apr-Oct",
+    "airport_code": "KWL",
+    "image_search": "Guilin China travel"
+  },
+  {
+    "name": "Hangzhou",
+    "slug": "hangzhou",
+    "country": "China",
+    "country_slug": "china",
+    "region": "Asia",
+    "lat": 30.2741,
+    "lng": 120.1551,
+    "population": 11936010,
+    "safety_level": "safe",
+    "budget_per_day": "50-100",
+    "highlights": [
+      "west lake",
+      "tea",
+      "temples"
+    ],
+    "best_time_to_visit": "Mar-May, Sep-Nov",
+    "airport_code": "HGH",
+    "image_search": "Hangzhou China travel"
+  },
+  {
+    "name": "Shanghai",
+    "slug": "shanghai",
+    "country": "China",
+    "country_slug": "china",
+    "region": "Asia",
+    "lat": 31.2304,
+    "lng": 121.4737,
+    "population": 24256800,
+    "safety_level": "safe",
+    "budget_per_day": "60-120",
+    "highlights": [
+      "bund",
+      "skyscrapers",
+      "food"
+    ],
+    "best_time_to_visit": "Apr-May, Sep-Oct",
+    "airport_code": "PVG",
+    "image_search": "Shanghai China travel"
+  },
+  {
+    "name": "Xian",
+    "slug": "xian",
+    "country": "China",
+    "country_slug": "china",
+    "region": "Asia",
+    "lat": 34.3416,
+    "lng": 108.9398,
+    "population": 12952907,
+    "safety_level": "safe",
+    "budget_per_day": "40-80",
+    "highlights": [
+      "terracotta army",
+      "walls",
+      "muslim quarter"
+    ],
+    "best_time_to_visit": "Apr-May, Sep-Oct",
+    "airport_code": "XIY",
+    "image_search": "Xian China travel"
+  }
+]

@@ -1,0 +1,20 @@
+{
+  "name": "Miami",
+  "slug": "miami",
+  "country": "United States",
+  "country_slug": "united-states",
+  "region": "Americas",
+  "lat": 25.7617,
+  "lng": -80.1918,
+  "population": 467963,
+  "safety_level": "caution",
+  "budget_per_day": "110-180",
+  "highlights": [
+    "beaches",
+    "nightlife",
+    "art deco"
+  ],
+  "best_time_to_visit": "Dec-May",
+  "airport_code": "MIA",
+  "image_search": "Miami United States travel"
+}

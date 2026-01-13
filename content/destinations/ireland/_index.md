@@ -40,10 +40,18 @@ safety:
     - "Walking alone in unfamiliar areas late at night"
 
 topCities:
+  - name: "Cork"
+    url: "/destinations/ireland/cork/"
+    description: "Popular destination for solo travelers with great infrastructure."
+    highlights: ["food", "history", "english market"]
   - name: "Dublin"
-    url: "/destinations/ireland/"
-    description: "The capital city offers diverse experiences for solo travelers."
-    highlights: ["culture", "food", "history"]
+    url: "/destinations/ireland/dublin/"
+    description: "Popular destination for solo travelers with great infrastructure."
+    highlights: ["pubs", "history", "culture"]
+  - name: "Galway"
+    url: "/destinations/ireland/galway/"
+    description: "Popular destination for solo travelers with great infrastructure."
+    highlights: ["culture", "music", "coastal"]
 
 
 budget:

@@ -41,9 +41,9 @@ safety:
 
 topCities:
   - name: "Budapest"
-    url: "/destinations/hungary/"
-    description: "The capital city offers diverse experiences for solo travelers."
-    highlights: ["culture", "food", "history"]
+    url: "/destinations/hungary/budapest/"
+    description: "Popular destination for solo travelers with great infrastructure."
+    highlights: ["baths", "ruin bars", "parliament"]
 
 
 budget:

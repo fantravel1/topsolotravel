@@ -41,9 +41,9 @@ safety:
 
 topCities:
   - name: "Muscat"
-    url: "/destinations/oman/"
-    description: "The capital city offers diverse experiences for solo travelers."
-    highlights: ["culture", "food", "history"]
+    url: "/destinations/oman/muscat/"
+    description: "Popular destination for solo travelers with great infrastructure."
+    highlights: ["souqs", "mosques", "beaches"]
 
 
 budget:

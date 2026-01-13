@@ -40,10 +40,10 @@ safety:
     - "Walking alone in unfamiliar areas late at night"
 
 topCities:
-  - name: "Suva"
-    url: "/destinations/fiji/"
-    description: "The capital city offers diverse experiences for solo travelers."
-    highlights: ["culture", "food", "history"]
+  - name: "Nadi"
+    url: "/destinations/fiji/nadi/"
+    description: "Popular destination for solo travelers with great infrastructure."
+    highlights: ["islands", "diving", "resorts"]
 
 
 budget:

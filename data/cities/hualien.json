@@ -1,0 +1,20 @@
+{
+  "name": "Hualien",
+  "slug": "hualien",
+  "country": "Taiwan",
+  "country_slug": "taiwan",
+  "region": "Asia",
+  "lat": 23.991,
+  "lng": 121.6011,
+  "population": 106368,
+  "safety_level": "safe",
+  "budget_per_day": "45-80",
+  "highlights": [
+    "taroko gorge",
+    "nature",
+    "coast"
+  ],
+  "best_time_to_visit": "Oct-Apr",
+  "airport_code": "HUN",
+  "image_search": "Hualien Taiwan travel"
+}

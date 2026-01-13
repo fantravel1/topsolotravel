@@ -40,10 +40,22 @@ safety:
     - "Walking alone in unfamiliar areas late at night"
 
 topCities:
-  - name: "Bern"
-    url: "/destinations/switzerland/"
-    description: "The capital city offers diverse experiences for solo travelers."
-    highlights: ["culture", "food", "history"]
+  - name: "Geneva"
+    url: "/destinations/switzerland/geneva/"
+    description: "Popular destination for solo travelers with great infrastructure."
+    highlights: ["lake", "UN", "chocolate"]
+  - name: "Interlaken"
+    url: "/destinations/switzerland/interlaken/"
+    description: "Popular destination for solo travelers with great infrastructure."
+    highlights: ["adventure", "alps", "lakes"]
+  - name: "Lucerne"
+    url: "/destinations/switzerland/lucerne/"
+    description: "Popular destination for solo travelers with great infrastructure."
+    highlights: ["lake", "bridge", "alps"]
+  - name: "Zermatt"
+    url: "/destinations/switzerland/zermatt/"
+    description: "Popular destination for solo travelers with great infrastructure."
+    highlights: ["matterhorn", "skiing", "hiking"]
 
 
 budget:

@@ -40,10 +40,10 @@ safety:
     - "Walking alone in unfamiliar areas late at night"
 
 topCities:
-  - name: "Harare"
-    url: "/destinations/zimbabwe/"
-    description: "The capital city offers diverse experiences for solo travelers."
-    highlights: ["culture", "food", "history"]
+  - name: "Victoria Falls"
+    url: "/destinations/zimbabwe/victoria-falls/"
+    description: "Popular destination for solo travelers with great infrastructure."
+    highlights: ["falls", "bungee", "rafting"]
 
 
 budget:

@@ -1,0 +1,20 @@
+{
+  "name": "Zagreb",
+  "slug": "zagreb",
+  "country": "Croatia",
+  "country_slug": "croatia",
+  "region": "Europe",
+  "lat": 45.815,
+  "lng": 15.9819,
+  "population": 806341,
+  "safety_level": "safe",
+  "budget_per_day": "50-90",
+  "highlights": [
+    "old town",
+    "museums",
+    "cafes"
+  ],
+  "best_time_to_visit": "May-Sep",
+  "airport_code": "ZAG",
+  "image_search": "Zagreb Croatia travel"
+}

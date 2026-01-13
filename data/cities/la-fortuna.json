@@ -1,0 +1,20 @@
+{
+  "name": "La Fortuna",
+  "slug": "la-fortuna",
+  "country": "Costa Rica",
+  "country_slug": "costa-rica",
+  "region": "Americas",
+  "lat": 10.4678,
+  "lng": -84.6428,
+  "population": 16000,
+  "safety_level": "safe",
+  "budget_per_day": "55-100",
+  "highlights": [
+    "arenal volcano",
+    "hot springs",
+    "adventure"
+  ],
+  "best_time_to_visit": "Dec-Apr",
+  "airport_code": "SJO",
+  "image_search": "La Fortuna Costa Rica travel"
+}

@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Nadi",
+    "slug": "nadi",
+    "country": "Fiji",
+    "country_slug": "fiji",
+    "region": "Oceania",
+    "lat": -17.7765,
+    "lng": 177.4356,
+    "population": 67649,
+    "safety_level": "safe",
+    "budget_per_day": "70-130",
+    "highlights": [
+      "islands",
+      "diving",
+      "resorts"
+    ],
+    "best_time_to_visit": "May-Oct",
+    "airport_code": "NAN",
+    "image_search": "Nadi Fiji travel"
+  }
+]

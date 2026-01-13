@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Tirana",
+    "slug": "tirana",
+    "country": "Albania",
+    "country_slug": "albania",
+    "region": "Europe",
+    "lat": 41.3275,
+    "lng": 19.8187,
+    "population": 418495,
+    "safety_level": "caution",
+    "budget_per_day": "30-55",
+    "highlights": [
+      "colorful",
+      "history",
+      "bunkers"
+    ],
+    "best_time_to_visit": "May-Sep",
+    "airport_code": "TIA",
+    "image_search": "Tirana Albania travel"
+  }
+]

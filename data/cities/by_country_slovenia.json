@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Lake Bled",
+    "slug": "lake-bled",
+    "country": "Slovenia",
+    "country_slug": "slovenia",
+    "region": "Europe",
+    "lat": 46.3634,
+    "lng": 14.0936,
+    "population": 4800,
+    "safety_level": "safe",
+    "budget_per_day": "60-100",
+    "highlights": [
+      "lake",
+      "island",
+      "castle"
+    ],
+    "best_time_to_visit": "May-Sep",
+    "airport_code": "LJU",
+    "image_search": "Lake Bled Slovenia travel"
+  },
+  {
+    "name": "Ljubljana",
+    "slug": "ljubljana",
+    "country": "Slovenia",
+    "country_slug": "slovenia",
+    "region": "Europe",
+    "lat": 46.0569,
+    "lng": 14.5058,
+    "population": 284355,
+    "safety_level": "safe",
+    "budget_per_day": "55-95",
+    "highlights": [
+      "green",
+      "castle",
+      "dragons"
+    ],
+    "best_time_to_visit": "May-Sep",
+    "airport_code": "LJU",
+    "image_search": "Ljubljana Slovenia travel"
+  }
+]

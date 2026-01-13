@@ -1,0 +1,50 @@
+{
+  "name": "Liberia",
+  "slug": "liberia",
+  "official_name": "Liberia",
+  "cca2": "",
+  "cca3": "",
+  "region": "Africa",
+  "subregion": "Western Africa",
+  "region_slug": "africa",
+  "capital": "Monrovia",
+  "population": 5060000,
+  "area": 0,
+  "currency": "Liberian Dollar (LRD)",
+  "languages": [
+    "English"
+  ],
+  "language": "English",
+  "timezone": "UTC+0",
+  "timezones": [
+    "UTC+0"
+  ],
+  "flag_emoji": "",
+  "flag_svg": "",
+  "flag_png": "",
+  "coat_of_arms": "",
+  "maps_google": "",
+  "maps_osm": "",
+  "landlocked": false,
+  "borders": [],
+  "driving_side": "right",
+  "calling_code": "",
+  "safety_level": "warning",
+  "budget_per_day": {
+    "budget": "50-70",
+    "midrange": "90-140",
+    "luxury": "240+"
+  },
+  "best_time_to_visit": "Nov-Apr",
+  "latlng": [
+    0,
+    0
+  ],
+  "capital_latlng": [
+    0,
+    0
+  ],
+  "un_member": true,
+  "independent": true,
+  "featured": false
+}

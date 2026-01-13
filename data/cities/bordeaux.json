@@ -1,0 +1,20 @@
+{
+  "name": "Bordeaux",
+  "slug": "bordeaux",
+  "country": "France",
+  "country_slug": "france",
+  "region": "Europe",
+  "lat": 44.8378,
+  "lng": -0.5792,
+  "population": 257068,
+  "safety_level": "safe",
+  "budget_per_day": "70-130",
+  "highlights": [
+    "wine",
+    "architecture",
+    "food"
+  ],
+  "best_time_to_visit": "May-Oct",
+  "airport_code": "BOD",
+  "image_search": "Bordeaux France travel"
+}

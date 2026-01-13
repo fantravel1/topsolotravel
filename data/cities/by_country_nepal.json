@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Kathmandu",
+    "slug": "kathmandu",
+    "country": "Nepal",
+    "country_slug": "nepal",
+    "region": "Asia",
+    "lat": 27.7172,
+    "lng": 85.324,
+    "population": 1442271,
+    "safety_level": "safe",
+    "budget_per_day": "20-40",
+    "highlights": [
+      "temples",
+      "trekking",
+      "culture"
+    ],
+    "best_time_to_visit": "Oct-Nov, Mar-May",
+    "airport_code": "KTM",
+    "image_search": "Kathmandu Nepal travel"
+  },
+  {
+    "name": "Pokhara",
+    "slug": "pokhara",
+    "country": "Nepal",
+    "country_slug": "nepal",
+    "region": "Asia",
+    "lat": 28.2096,
+    "lng": 83.9856,
+    "population": 264991,
+    "safety_level": "safe",
+    "budget_per_day": "20-35",
+    "highlights": [
+      "annapurna",
+      "lake",
+      "paragliding"
+    ],
+    "best_time_to_visit": "Oct-Nov, Mar-May",
+    "airport_code": "PKR",
+    "image_search": "Pokhara Nepal travel"
+  }
+]

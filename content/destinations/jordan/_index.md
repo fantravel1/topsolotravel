@@ -41,9 +41,13 @@ safety:
 
 topCities:
   - name: "Amman"
-    url: "/destinations/jordan/"
-    description: "The capital city offers diverse experiences for solo travelers."
-    highlights: ["culture", "food", "history"]
+    url: "/destinations/jordan/amman/"
+    description: "Popular destination for solo travelers with great infrastructure."
+    highlights: ["citadel", "roman ruins", "food"]
+  - name: "Petra"
+    url: "/destinations/jordan/petra/"
+    description: "Popular destination for solo travelers with great infrastructure."
+    highlights: ["treasury", "tombs", "hiking"]
 
 
 budget:

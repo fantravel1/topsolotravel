@@ -1,0 +1,20 @@
+{
+  "name": "Marseille",
+  "slug": "marseille",
+  "country": "France",
+  "country_slug": "france",
+  "region": "Europe",
+  "lat": 43.2965,
+  "lng": 5.3698,
+  "population": 861635,
+  "safety_level": "caution",
+  "budget_per_day": "70-130",
+  "highlights": [
+    "harbour",
+    "bouillabaisse",
+    "calanques"
+  ],
+  "best_time_to_visit": "Apr-Oct",
+  "airport_code": "MRS",
+  "image_search": "Marseille France travel"
+}

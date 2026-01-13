@@ -40,14 +40,22 @@ safety:
     - "Walking alone in unfamiliar areas late at night"
 
 topCities:
-  - name: "Melbourne"
-    url: "/destinations/australia/melbourne/"
+  - name: "Adelaide"
+    url: "/destinations/australia/adelaide/"
     description: "Popular destination for solo travelers with great infrastructure."
-    highlights: ["coffee", "laneways", "culture"]
-  - name: "Sydney"
-    url: "/destinations/australia/sydney/"
+    highlights: ["wine", "festivals", "food"]
+  - name: "Brisbane"
+    url: "/destinations/australia/brisbane/"
     description: "Popular destination for solo travelers with great infrastructure."
-    highlights: ["opera house", "beaches", "harbour"]
+    highlights: ["south bank", "koalas", "gateway"]
+  - name: "Cairns"
+    url: "/destinations/australia/cairns/"
+    description: "Popular destination for solo travelers with great infrastructure."
+    highlights: ["great barrier reef", "rainforest", "diving"]
+  - name: "Darwin"
+    url: "/destinations/australia/darwin/"
+    description: "Popular destination for solo travelers with great infrastructure."
+    highlights: ["crocodiles", "kakadu", "outback"]
 
 
 budget:

@@ -1,0 +1,20 @@
+{
+  "name": "Langkawi",
+  "slug": "langkawi",
+  "country": "Malaysia",
+  "country_slug": "malaysia",
+  "region": "Asia",
+  "lat": 6.35,
+  "lng": 99.8,
+  "population": 99392,
+  "safety_level": "safe",
+  "budget_per_day": "40-80",
+  "highlights": [
+    "beaches",
+    "duty free",
+    "cable car"
+  ],
+  "best_time_to_visit": "Dec-Mar",
+  "airport_code": "LGK",
+  "image_search": "Langkawi Malaysia travel"
+}

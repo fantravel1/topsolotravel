@@ -1,0 +1,20 @@
+{
+  "name": "Kerala",
+  "slug": "kerala",
+  "country": "India",
+  "country_slug": "india",
+  "region": "Asia",
+  "lat": 10.8505,
+  "lng": 76.2711,
+  "population": 33406061,
+  "safety_level": "safe",
+  "budget_per_day": "30-60",
+  "highlights": [
+    "backwaters",
+    "ayurveda",
+    "tea"
+  ],
+  "best_time_to_visit": "Sep-Mar",
+  "airport_code": "COK",
+  "image_search": "Kerala India travel"
+}

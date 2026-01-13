@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Addis Ababa",
+    "slug": "addis-ababa",
+    "country": "Ethiopia",
+    "country_slug": "ethiopia",
+    "region": "Africa",
+    "lat": 8.9806,
+    "lng": 38.7578,
+    "population": 3352000,
+    "safety_level": "caution",
+    "budget_per_day": "30-60",
+    "highlights": [
+      "coffee",
+      "history",
+      "injera"
+    ],
+    "best_time_to_visit": "Oct-Mar",
+    "airport_code": "ADD",
+    "image_search": "Addis Ababa Ethiopia travel"
+  }
+]

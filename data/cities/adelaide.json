@@ -1,0 +1,20 @@
+{
+  "name": "Adelaide",
+  "slug": "adelaide",
+  "country": "Australia",
+  "country_slug": "australia",
+  "region": "Oceania",
+  "lat": -34.9285,
+  "lng": 138.6007,
+  "population": 1345777,
+  "safety_level": "safe",
+  "budget_per_day": "80-140",
+  "highlights": [
+    "wine",
+    "festivals",
+    "food"
+  ],
+  "best_time_to_visit": "Mar-May, Sep-Nov",
+  "airport_code": "ADL",
+  "image_search": "Adelaide Australia travel"
+}

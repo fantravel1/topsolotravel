@@ -1,0 +1,50 @@
+{
+  "name": "Eritrea",
+  "slug": "eritrea",
+  "official_name": "Eritrea",
+  "cca2": "",
+  "cca3": "",
+  "region": "Africa",
+  "subregion": "Eastern Africa",
+  "region_slug": "africa",
+  "capital": "Asmara",
+  "population": 3550000,
+  "area": 0,
+  "currency": "Eritrean Nakfa (ERN)",
+  "languages": [
+    "Tigrinya"
+  ],
+  "language": "Tigrinya",
+  "timezone": "UTC+3",
+  "timezones": [
+    "UTC+3"
+  ],
+  "flag_emoji": "",
+  "flag_svg": "",
+  "flag_png": "",
+  "coat_of_arms": "",
+  "maps_google": "",
+  "maps_osm": "",
+  "landlocked": false,
+  "borders": [],
+  "driving_side": "right",
+  "calling_code": "",
+  "safety_level": "warning",
+  "budget_per_day": {
+    "budget": "35-50",
+    "midrange": "60-100",
+    "luxury": "170+"
+  },
+  "best_time_to_visit": "Oct-Mar",
+  "latlng": [
+    0,
+    0
+  ],
+  "capital_latlng": [
+    0,
+    0
+  ],
+  "un_member": true,
+  "independent": true,
+  "featured": false
+}

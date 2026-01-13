@@ -1,0 +1,20 @@
+{
+  "name": "Chicago",
+  "slug": "chicago",
+  "country": "United States",
+  "country_slug": "united-states",
+  "region": "Americas",
+  "lat": 41.8781,
+  "lng": -87.6298,
+  "population": 2693976,
+  "safety_level": "caution",
+  "budget_per_day": "100-170",
+  "highlights": [
+    "architecture",
+    "food",
+    "music"
+  ],
+  "best_time_to_visit": "May-Oct",
+  "airport_code": "ORD",
+  "image_search": "Chicago United States travel"
+}

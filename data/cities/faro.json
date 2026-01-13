@@ -1,0 +1,20 @@
+{
+  "name": "Faro",
+  "slug": "faro",
+  "country": "Portugal",
+  "country_slug": "portugal",
+  "region": "Europe",
+  "lat": 37.0194,
+  "lng": -7.9322,
+  "population": 64560,
+  "safety_level": "safe",
+  "budget_per_day": "45-85",
+  "highlights": [
+    "algarve",
+    "beaches",
+    "old town"
+  ],
+  "best_time_to_visit": "May-Oct",
+  "airport_code": "FAO",
+  "image_search": "Faro Portugal travel"
+}

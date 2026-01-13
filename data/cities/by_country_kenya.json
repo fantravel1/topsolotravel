@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Nairobi",
+    "slug": "nairobi",
+    "country": "Kenya",
+    "country_slug": "kenya",
+    "region": "Africa",
+    "lat": -1.2921,
+    "lng": 36.8219,
+    "population": 4397073,
+    "safety_level": "caution",
+    "budget_per_day": "45-90",
+    "highlights": [
+      "safari",
+      "national park",
+      "food"
+    ],
+    "best_time_to_visit": "Jul-Oct",
+    "airport_code": "NBO",
+    "image_search": "Nairobi Kenya travel"
+  }
+]

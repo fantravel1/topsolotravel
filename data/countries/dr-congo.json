@@ -1,0 +1,50 @@
+{
+  "name": "DR Congo",
+  "slug": "dr-congo",
+  "official_name": "DR Congo",
+  "cca2": "",
+  "cca3": "",
+  "region": "Africa",
+  "subregion": "Middle Africa",
+  "region_slug": "africa",
+  "capital": "Kinshasa",
+  "population": 89560000,
+  "area": 0,
+  "currency": "Congolese Franc (CDF)",
+  "languages": [
+    "French"
+  ],
+  "language": "French",
+  "timezone": "UTC+1",
+  "timezones": [
+    "UTC+1"
+  ],
+  "flag_emoji": "",
+  "flag_svg": "",
+  "flag_png": "",
+  "coat_of_arms": "",
+  "maps_google": "",
+  "maps_osm": "",
+  "landlocked": false,
+  "borders": [],
+  "driving_side": "right",
+  "calling_code": "",
+  "safety_level": "warning",
+  "budget_per_day": {
+    "budget": "50-80",
+    "midrange": "100-160",
+    "luxury": "280+"
+  },
+  "best_time_to_visit": "Jun-Sep",
+  "latlng": [
+    0,
+    0
+  ],
+  "capital_latlng": [
+    0,
+    0
+  ],
+  "un_member": true,
+  "independent": true,
+  "featured": false
+}

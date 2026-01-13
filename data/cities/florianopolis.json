@@ -1,0 +1,20 @@
+{
+  "name": "Florianopolis",
+  "slug": "florianopolis",
+  "country": "Brazil",
+  "country_slug": "brazil",
+  "region": "Americas",
+  "lat": -27.5969,
+  "lng": -48.5495,
+  "population": 477798,
+  "safety_level": "safe",
+  "budget_per_day": "45-85",
+  "highlights": [
+    "beaches",
+    "surfing",
+    "nightlife"
+  ],
+  "best_time_to_visit": "Dec-Mar",
+  "airport_code": "FLN",
+  "image_search": "Florianopolis Brazil travel"
+}

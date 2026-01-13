@@ -1,0 +1,20 @@
+{
+  "name": "Xian",
+  "slug": "xian",
+  "country": "China",
+  "country_slug": "china",
+  "region": "Asia",
+  "lat": 34.3416,
+  "lng": 108.9398,
+  "population": 12952907,
+  "safety_level": "safe",
+  "budget_per_day": "40-80",
+  "highlights": [
+    "terracotta army",
+    "walls",
+    "muslim quarter"
+  ],
+  "best_time_to_visit": "Apr-May, Sep-Oct",
+  "airport_code": "XIY",
+  "image_search": "Xian China travel"
+}

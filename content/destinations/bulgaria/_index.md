@@ -41,9 +41,9 @@ safety:
 
 topCities:
   - name: "Sofia"
-    url: "/destinations/bulgaria/"
-    description: "The capital city offers diverse experiences for solo travelers."
-    highlights: ["culture", "food", "history"]
+    url: "/destinations/bulgaria/sofia/"
+    description: "Popular destination for solo travelers with great infrastructure."
+    highlights: ["history", "mountains", "nightlife"]
 
 
 budget:

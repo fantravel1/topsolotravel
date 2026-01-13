@@ -1,0 +1,20 @@
+{
+  "name": "Da Nang",
+  "slug": "da-nang",
+  "country": "Vietnam",
+  "country_slug": "vietnam",
+  "region": "Asia",
+  "lat": 16.0544,
+  "lng": 108.2022,
+  "population": 1134310,
+  "safety_level": "safe",
+  "budget_per_day": "25-50",
+  "highlights": [
+    "beaches",
+    "marble mountains",
+    "ba na hills"
+  ],
+  "best_time_to_visit": "Feb-May",
+  "airport_code": "DAD",
+  "image_search": "Da Nang Vietnam travel"
+}

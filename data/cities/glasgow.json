@@ -1,0 +1,20 @@
+{
+  "name": "Glasgow",
+  "slug": "glasgow",
+  "country": "United Kingdom",
+  "country_slug": "united-kingdom",
+  "region": "Europe",
+  "lat": 55.8642,
+  "lng": -4.2518,
+  "population": 626410,
+  "safety_level": "safe",
+  "budget_per_day": "70-130",
+  "highlights": [
+    "art",
+    "music",
+    "architecture"
+  ],
+  "best_time_to_visit": "May-Sep",
+  "airport_code": "GLA",
+  "image_search": "Glasgow United Kingdom travel"
+}

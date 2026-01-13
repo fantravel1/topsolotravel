@@ -1,0 +1,20 @@
+{
+  "name": "Fukuoka",
+  "slug": "fukuoka",
+  "country": "Japan",
+  "country_slug": "japan",
+  "region": "Asia",
+  "lat": 33.5904,
+  "lng": 130.4017,
+  "population": 1592657,
+  "safety_level": "safe",
+  "budget_per_day": "60-110",
+  "highlights": [
+    "ramen",
+    "temples",
+    "food stalls"
+  ],
+  "best_time_to_visit": "Mar-May, Sep-Nov",
+  "airport_code": "FUK",
+  "image_search": "Fukuoka Japan travel"
+}

@@ -40,10 +40,14 @@ safety:
     - "Walking alone in unfamiliar areas late at night"
 
 topCities:
+  - name: "Swakopmund"
+    url: "/destinations/namibia/swakopmund/"
+    description: "Popular destination for solo travelers with great infrastructure."
+    highlights: ["dunes", "adventure", "coast"]
   - name: "Windhoek"
-    url: "/destinations/namibia/"
-    description: "The capital city offers diverse experiences for solo travelers."
-    highlights: ["culture", "food", "history"]
+    url: "/destinations/namibia/windhoek/"
+    description: "Popular destination for solo travelers with great infrastructure."
+    highlights: ["german heritage", "safari", "desert"]
 
 
 budget:

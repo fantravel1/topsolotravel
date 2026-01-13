@@ -41,9 +41,9 @@ safety:
 
 topCities:
   - name: "Hong Kong"
-    url: "/destinations/hong-kong/"
-    description: "The capital city offers diverse experiences for solo travelers."
-    highlights: ["culture", "food", "history"]
+    url: "/destinations/hong-kong/hong-kong/"
+    description: "Popular destination for solo travelers with great infrastructure."
+    highlights: ["skyline", "dim sum", "markets"]
 
 
 budget:

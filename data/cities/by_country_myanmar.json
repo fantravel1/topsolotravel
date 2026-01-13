@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Bagan",
+    "slug": "bagan",
+    "country": "Myanmar",
+    "country_slug": "myanmar",
+    "region": "Asia",
+    "lat": 21.1717,
+    "lng": 94.8585,
+    "population": 24990,
+    "safety_level": "warning",
+    "budget_per_day": "30-55",
+    "highlights": [
+      "temples",
+      "balloons",
+      "sunrise"
+    ],
+    "best_time_to_visit": "Nov-Feb",
+    "airport_code": "NYU",
+    "image_search": "Bagan Myanmar travel"
+  },
+  {
+    "name": "Yangon",
+    "slug": "yangon",
+    "country": "Myanmar",
+    "country_slug": "myanmar",
+    "region": "Asia",
+    "lat": 16.8661,
+    "lng": 96.1951,
+    "population": 5209541,
+    "safety_level": "warning",
+    "budget_per_day": "30-60",
+    "highlights": [
+      "shwedagon",
+      "colonial",
+      "food"
+    ],
+    "best_time_to_visit": "Nov-Feb",
+    "airport_code": "RGN",
+    "image_search": "Yangon Myanmar travel"
+  }
+]

@@ -1,0 +1,50 @@
+{
+  "name": "San Marino",
+  "slug": "san-marino",
+  "official_name": "San Marino",
+  "cca2": "",
+  "cca3": "",
+  "region": "Europe",
+  "subregion": "Southern Europe",
+  "region_slug": "europe",
+  "capital": "San Marino",
+  "population": 33931,
+  "area": 0,
+  "currency": "Euro (EUR)",
+  "languages": [
+    "Italian"
+  ],
+  "language": "Italian",
+  "timezone": "UTC+1",
+  "timezones": [
+    "UTC+1"
+  ],
+  "flag_emoji": "",
+  "flag_svg": "",
+  "flag_png": "",
+  "coat_of_arms": "",
+  "maps_google": "",
+  "maps_osm": "",
+  "landlocked": false,
+  "borders": [],
+  "driving_side": "right",
+  "calling_code": "",
+  "safety_level": "safe",
+  "budget_per_day": {
+    "budget": "70-100",
+    "midrange": "130-200",
+    "luxury": "330+"
+  },
+  "best_time_to_visit": "Apr-Oct",
+  "latlng": [
+    0,
+    0
+  ],
+  "capital_latlng": [
+    0,
+    0
+  ],
+  "un_member": true,
+  "independent": true,
+  "featured": false
+}

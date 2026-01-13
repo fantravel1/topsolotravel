@@ -40,18 +40,22 @@ safety:
     - "Walking alone in unfamiliar areas late at night"
 
 topCities:
-  - name: "Los Angeles"
-    url: "/destinations/united-states/los-angeles/"
+  - name: "Austin"
+    url: "/destinations/united-states/austin/"
     description: "Popular destination for solo travelers with great infrastructure."
-    highlights: ["beaches", "hollywood", "food"]
-  - name: "New York City"
-    url: "/destinations/united-states/new-york-city/"
+    highlights: ["live music", "food", "tech"]
+  - name: "Boston"
+    url: "/destinations/united-states/boston/"
     description: "Popular destination for solo travelers with great infrastructure."
-    highlights: ["broadway", "museums", "food"]
-  - name: "San Francisco"
-    url: "/destinations/united-states/san-francisco/"
+    highlights: ["history", "universities", "seafood"]
+  - name: "Chicago"
+    url: "/destinations/united-states/chicago/"
     description: "Popular destination for solo travelers with great infrastructure."
-    highlights: ["golden gate", "tech", "food"]
+    highlights: ["architecture", "food", "music"]
+  - name: "Denver"
+    url: "/destinations/united-states/denver/"
+    description: "Popular destination for solo travelers with great infrastructure."
+    highlights: ["mountains", "beer", "outdoors"]
 
 
 budget:

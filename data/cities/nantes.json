@@ -1,0 +1,20 @@
+{
+  "name": "Nantes",
+  "slug": "nantes",
+  "country": "France",
+  "country_slug": "france",
+  "region": "Europe",
+  "lat": 47.2184,
+  "lng": -1.5536,
+  "population": 309346,
+  "safety_level": "safe",
+  "budget_per_day": "60-110",
+  "highlights": [
+    "machines",
+    "art",
+    "loire"
+  ],
+  "best_time_to_visit": "May-Sep",
+  "airport_code": "NTE",
+  "image_search": "Nantes France travel"
+}

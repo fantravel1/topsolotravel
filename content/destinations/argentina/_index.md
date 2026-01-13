@@ -40,10 +40,22 @@ safety:
     - "Walking alone in unfamiliar areas late at night"
 
 topCities:
+  - name: "Bariloche"
+    url: "/destinations/argentina/bariloche/"
+    description: "Popular destination for solo travelers with great infrastructure."
+    highlights: ["lakes", "chocolate", "skiing"]
   - name: "Buenos Aires"
-    url: "/destinations/argentina/"
-    description: "The capital city offers diverse experiences for solo travelers."
-    highlights: ["culture", "food", "history"]
+    url: "/destinations/argentina/buenos-aires/"
+    description: "Popular destination for solo travelers with great infrastructure."
+    highlights: ["tango", "steak", "neighborhoods"]
+  - name: "Iguazu"
+    url: "/destinations/argentina/iguazu/"
+    description: "Popular destination for solo travelers with great infrastructure."
+    highlights: ["waterfalls", "jungle", "wildlife"]
+  - name: "Mendoza"
+    url: "/destinations/argentina/mendoza/"
+    description: "Popular destination for solo travelers with great infrastructure."
+    highlights: ["wine", "andes", "adventure"]
 
 
 budget:

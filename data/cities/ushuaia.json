@@ -1,0 +1,20 @@
+{
+  "name": "Ushuaia",
+  "slug": "ushuaia",
+  "country": "Argentina",
+  "country_slug": "argentina",
+  "region": "Americas",
+  "lat": -54.8019,
+  "lng": -68.303,
+  "population": 56956,
+  "safety_level": "safe",
+  "budget_per_day": "60-120",
+  "highlights": [
+    "end of world",
+    "antarctica",
+    "nature"
+  ],
+  "best_time_to_visit": "Nov-Mar",
+  "airport_code": "USH",
+  "image_search": "Ushuaia Argentina travel"
+}

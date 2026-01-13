@@ -1,0 +1,20 @@
+{
+  "name": "Mendoza",
+  "slug": "mendoza",
+  "country": "Argentina",
+  "country_slug": "argentina",
+  "region": "Americas",
+  "lat": -32.8908,
+  "lng": -68.8272,
+  "population": 115041,
+  "safety_level": "safe",
+  "budget_per_day": "40-75",
+  "highlights": [
+    "wine",
+    "andes",
+    "adventure"
+  ],
+  "best_time_to_visit": "Mar-May, Sep-Nov",
+  "airport_code": "MDZ",
+  "image_search": "Mendoza Argentina travel"
+}

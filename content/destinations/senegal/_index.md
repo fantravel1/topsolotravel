@@ -41,9 +41,9 @@ safety:
 
 topCities:
   - name: "Dakar"
-    url: "/destinations/senegal/"
-    description: "The capital city offers diverse experiences for solo travelers."
-    highlights: ["culture", "food", "history"]
+    url: "/destinations/senegal/dakar/"
+    description: "Popular destination for solo travelers with great infrastructure."
+    highlights: ["music", "beaches", "goree island"]
 
 
 budget:

@@ -41,9 +41,13 @@ safety:
 
 topCities:
   - name: "Abu Dhabi"
-    url: "/destinations/united-arab-emirates/"
-    description: "The capital city offers diverse experiences for solo travelers."
-    highlights: ["culture", "food", "history"]
+    url: "/destinations/united-arab-emirates/abu-dhabi/"
+    description: "Popular destination for solo travelers with great infrastructure."
+    highlights: ["mosque", "louvre", "islands"]
+  - name: "Dubai"
+    url: "/destinations/united-arab-emirates/dubai/"
+    description: "Popular destination for solo travelers with great infrastructure."
+    highlights: ["skyscrapers", "shopping", "luxury"]
 
 
 budget:

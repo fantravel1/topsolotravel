@@ -1,0 +1,2402 @@
+[
+  {
+    "name": "Albania",
+    "slug": "albania",
+    "official_name": "Albania",
+    "cca2": "",
+    "cca3": "",
+    "region": "Europe",
+    "subregion": "Southeastern Europe",
+    "region_slug": "europe",
+    "capital": "Tirana",
+    "population": 2880000,
+    "area": 0,
+    "currency": "Albanian Lek (ALL)",
+    "languages": [
+      "Albanian"
+    ],
+    "language": "Albanian",
+    "timezone": "UTC+1",
+    "timezones": [
+      "UTC+1"
+    ],
+    "flag_emoji": "",
+    "flag_svg": "",
+    "flag_png": "",
+    "coat_of_arms": "",
+    "maps_google": "",
+    "maps_osm": "",
+    "landlocked": false,
+    "borders": [],
+    "driving_side": "right",
+    "calling_code": "",
+    "safety_level": "caution",
+    "budget_per_day": {
+      "budget": "35-50",
+      "midrange": "60-100",
+      "luxury": "160+"
+    },
+    "best_time_to_visit": "May-Sep",
+    "latlng": [
+      0,
+      0
+    ],
+    "capital_latlng": [
+      0,
+      0
+    ],
+    "un_member": true,
+    "independent": true,
+    "featured": false
+  },
+  {
+    "name": "Andorra",
+    "slug": "andorra",
+    "official_name": "Andorra",
+    "cca2": "",
+    "cca3": "",
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "region_slug": "europe",
+    "capital": "Andorra la Vella",
+    "population": 77265,
+    "area": 0,
+    "currency": "Euro (EUR)",
+    "languages": [
+      "Catalan"
+    ],
+    "language": "Catalan",
+    "timezone": "UTC+1",
+    "timezones": [
+      "UTC+1"
+    ],
+    "flag_emoji": "",
+    "flag_svg": "",
+    "flag_png": "",
+    "coat_of_arms": "",
+    "maps_google": "",
+    "maps_osm": "",
+    "landlocked": false,
+    "borders": [],
+    "driving_side": "right",
+    "calling_code": "",
+    "safety_level": "safe",
+    "budget_per_day": {
+      "budget": "80-110",
+      "midrange": "140-210",
+      "luxury": "350+"
+    },
+    "best_time_to_visit": "Jun-Sep, Dec-Mar",
+    "latlng": [
+      0,
+      0
+    ],
+    "capital_latlng": [
+      0,
+      0
+    ],
+    "un_member": true,
+    "independent": true,
+    "featured": false
+  },
+  {
+    "name": "Austria",
+    "slug": "austria",
+    "official_name": "Austria",
+    "cca2": "",
+    "cca3": "",
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "region_slug": "europe",
+    "capital": "Vienna",
+    "population": 9010000,
+    "area": 0,
+    "currency": "Euro (EUR)",
+    "languages": [
+      "German"
+    ],
+    "language": "German",
+    "timezone": "UTC+1",
+    "timezones": [
+      "UTC+1"
+    ],
+    "flag_emoji": "",
+    "flag_svg": "",
+    "flag_png": "",
+    "coat_of_arms": "",
+    "maps_google": "",
+    "maps_osm": "",
+    "landlocked": false,
+    "borders": [],
+    "driving_side": "right",
+    "calling_code": "",
+    "safety_level": "safe",
+    "budget_per_day": {
+      "budget": "70-90",
+      "midrange": "120-180",
+      "luxury": "320+"
+    },
+    "best_time_to_visit": "Jun-Sep, Dec-Mar",
+    "latlng": [
+      0,
+      0
+    ],
+    "capital_latlng": [
+      0,
+      0
+    ],
+    "un_member": true,
+    "independent": true,
+    "featured": false
+  },
+  {
+    "name": "Belarus",
+    "slug": "belarus",
+    "official_name": "Belarus",
+    "cca2": "",
+    "cca3": "",
+    "region": "Europe",
+    "subregion": "Eastern Europe",
+    "region_slug": "europe",
+    "capital": "Minsk",
+    "population": 9410000,
+    "area": 0,
+    "currency": "Belarusian Ruble (BYN)",
+    "languages": [
+      "Belarusian"
+    ],
+    "language": "Belarusian",
+    "timezone": "UTC+3",
+    "timezones": [
+      "UTC+3"
+    ],
+    "flag_emoji": "",
+    "flag_svg": "",
+    "flag_png": "",
+    "coat_of_arms": "",
+    "maps_google": "",
+    "maps_osm": "",
+    "landlocked": false,
+    "borders": [],
+    "driving_side": "right",
+    "calling_code": "",
+    "safety_level": "caution",
+    "budget_per_day": {
+      "budget": "35-50",
+      "midrange": "60-100",
+      "luxury": "180+"
+    },
+    "best_time_to_visit": "May-Sep",
+    "latlng": [
+      0,
+      0
+    ],
+    "capital_latlng": [
+      0,
+      0
+    ],
+    "un_member": true,
+    "independent": true,
+    "featured": false
+  },
+  {
+    "name": "Belgium",
+    "slug": "belgium",
+    "official_name": "Belgium",
+    "cca2": "",
+    "cca3": "",
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "region_slug": "europe",
+    "capital": "Brussels",
+    "population": 11590000,
+    "area": 0,
+    "currency": "Euro (EUR)",
+    "languages": [
+      "Dutch"
+    ],
+    "language": "Dutch",
+    "timezone": "UTC+1",
+    "timezones": [
+      "UTC+1"
+    ],
+    "flag_emoji": "",
+    "flag_svg": "",
+    "flag_png": "",
+    "coat_of_arms": "",
+    "maps_google": "",
+    "maps_osm": "",
+    "landlocked": false,
+    "borders": [],
+    "driving_side": "right",
+    "calling_code": "",
+    "safety_level": "safe",
+    "budget_per_day": {
+      "budget": "70-90",
+      "midrange": "120-180",
+      "luxury": "320+"
+    },
+    "best_time_to_visit": "May-Sep",
+    "latlng": [
+      0,
+      0
+    ],
+    "capital_latlng": [
+      0,
+      0
+    ],
+    "un_member": true,
+    "independent": true,
+    "featured": false
+  },
+  {
+    "name": "Bosnia and Herzegovina",
+    "slug": "bosnia-and-herzegovina",
+    "official_name": "Bosnia and Herzegovina",
+    "cca2": "",
+    "cca3": "",
+    "region": "Europe",
+    "subregion": "Southeastern Europe",
+    "region_slug": "europe",
+    "capital": "Sarajevo",
+    "population": 3280000,
+    "area": 0,
+    "currency": "Convertible Mark (BAM)",
+    "languages": [
+      "Bosnian"
+    ],
+    "language": "Bosnian",
+    "timezone": "UTC+1",
+    "timezones": [
+      "UTC+1"
+    ],
+    "flag_emoji": "",
+    "flag_svg": "",
+    "flag_png": "",
+    "coat_of_arms": "",
+    "maps_google": "",
+    "maps_osm": "",
+    "landlocked": false,
+    "borders": [],
+    "driving_side": "right",
+    "calling_code": "",
+    "safety_level": "safe",
+    "budget_per_day": {
+      "budget": "35-50",
+      "midrange": "60-100",
+      "luxury": "160+"
+    },
+    "best_time_to_visit": "May-Sep",
+    "latlng": [
+      0,
+      0
+    ],
+    "capital_latlng": [
+      0,
+      0
+    ],
+    "un_member": true,
+    "independent": true,
+    "featured": false
+  },
+  {
+    "name": "Bulgaria",
+    "slug": "bulgaria",
+    "official_name": "Bulgaria",
+    "cca2": "",
+    "cca3": "",
+    "region": "Europe",
+    "subregion": "Southeastern Europe",
+    "region_slug": "europe",
+    "capital": "Sofia",
+    "population": 6930000,
+    "area": 0,
+    "currency": "Bulgarian Lev (BGN)",
+    "languages": [
+      "Bulgarian"
+    ],
+    "language": "Bulgarian",
+    "timezone": "UTC+2",
+    "timezones": [
+      "UTC+2"
+    ],
+    "flag_emoji": "",
+    "flag_svg": "",
+    "flag_png": "",
+    "coat_of_arms": "",
+    "maps_google": "",
+    "maps_osm": "",
+    "landlocked": false,
+    "borders": [],
+    "driving_side": "right",
+    "calling_code": "",
+    "safety_level": "safe",
+    "budget_per_day": {
+      "budget": "35-50",
+      "midrange": "60-100",
+      "luxury": "160+"
+    },
+    "best_time_to_visit": "May-Sep",
+    "latlng": [
+      0,
+      0
+    ],
+    "capital_latlng": [
+      0,
+      0
+    ],
+    "un_member": true,
+    "independent": true,
+    "featured": false
+  },
+  {
+    "name": "Croatia",
+    "slug": "croatia",
+    "official_name": "Croatia",
+    "cca2": "",
+    "cca3": "",
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "region_slug": "europe",
+    "capital": "Zagreb",
+    "population": 4050000,
+    "area": 0,
+    "currency": "Euro (EUR)",
+    "languages": [
+      "Croatian"
+    ],
+    "language": "Croatian",
+    "timezone": "UTC+1",
+    "timezones": [
+      "UTC+1"
+    ],
+    "flag_emoji": "",
+    "flag_svg": "",
+    "flag_png": "",
+    "coat_of_arms": "",
+    "maps_google": "",
+    "maps_osm": "",
+    "landlocked": false,
+    "borders": [],
+    "driving_side": "right",
+    "calling_code": "",
+    "safety_level": "safe",
+    "budget_per_day": {
+      "budget": "55-75",
+      "midrange": "100-150",
+      "luxury": "280+"
+    },
+    "best_time_to_visit": "May-Sep",
+    "latlng": [
+      0,
+      0
+    ],
+    "capital_latlng": [
+      0,
+      0
+    ],
+    "un_member": true,
+    "independent": true,
+    "featured": true
+  },
+  {
+    "name": "Cyprus",
+    "slug": "cyprus",
+    "official_name": "Cyprus",
+    "cca2": "",
+    "cca3": "",
+    "region": "Europe",
+    "subregion": "Eastern Europe",
+    "region_slug": "europe",
+    "capital": "Nicosia",
+    "population": 1210000,
+    "area": 0,
+    "currency": "Euro (EUR)",
+    "languages": [
+      "Greek"
+    ],
+    "language": "Greek",
+    "timezone": "UTC+2",
+    "timezones": [
+      "UTC+2"
+    ],
+    "flag_emoji": "",
+    "flag_svg": "",
+    "flag_png": "",
+    "coat_of_arms": "",
+    "maps_google": "",
+    "maps_osm": "",
+    "landlocked": false,
+    "borders": [],
+    "driving_side": "right",
+    "calling_code": "",
+    "safety_level": "safe",
+    "budget_per_day": {
+      "budget": "55-75",
+      "midrange": "100-150",
+      "luxury": "280+"
+    },
+    "best_time_to_visit": "Apr-Jun, Sep-Nov",
+    "latlng": [
+      0,
+      0
+    ],
+    "capital_latlng": [
+      0,
+      0
+    ],
+    "un_member": true,
+    "independent": true,
+    "featured": false
+  },
+  {
+    "name": "Czech Republic",
+    "slug": "czech-republic",
+    "official_name": "Czech Republic",
+    "cca2": "",
+    "cca3": "",
+    "region": "Europe",
+    "subregion": "Central Europe",
+    "region_slug": "europe",
+    "capital": "Prague",
+    "population": 10700000,
+    "area": 0,
+    "currency": "Czech Koruna (CZK)",
+    "languages": [
+      "Czech"
+    ],
+    "language": "Czech",
+    "timezone": "UTC+1",
+    "timezones": [
+      "UTC+1"
+    ],
+    "flag_emoji": "",
+    "flag_svg": "",
+    "flag_png": "",
+    "coat_of_arms": "",
+    "maps_google": "",
+    "maps_osm": "",
+    "landlocked": false,
+    "borders": [],
+    "driving_side": "right",
+    "calling_code": "",
+    "safety_level": "safe",
+    "budget_per_day": {
+      "budget": "50-70",
+      "midrange": "90-140",
+      "luxury": "250+"
+    },
+    "best_time_to_visit": "May-Sep",
+    "latlng": [
+      0,
+      0
+    ],
+    "capital_latlng": [
+      0,
+      0
+    ],
+    "un_member": true,
+    "independent": true,
+    "featured": true
+  },
+  {
+    "name": "Denmark",
+    "slug": "denmark",
+    "official_name": "Denmark",
+    "cca2": "",
+    "cca3": "",
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "region_slug": "europe",
+    "capital": "Copenhagen",
+    "population": 5830000,
+    "area": 0,
+    "currency": "Danish Krone (DKK)",
+    "languages": [
+      "Danish"
+    ],
+    "language": "Danish",
+    "timezone": "UTC+1",
+    "timezones": [
+      "UTC+1"
+    ],
+    "flag_emoji": "",
+    "flag_svg": "",
+    "flag_png": "",
+    "coat_of_arms": "",
+    "maps_google": "",
+    "maps_osm": "",
+    "landlocked": false,
+    "borders": [],
+    "driving_side": "right",
+    "calling_code": "",
+    "safety_level": "safe",
+    "budget_per_day": {
+      "budget": "100-140",
+      "midrange": "170-260",
+      "luxury": "450+"
+    },
+    "best_time_to_visit": "May-Sep",
+    "latlng": [
+      0,
+      0
+    ],
+    "capital_latlng": [
+      0,
+      0
+    ],
+    "un_member": true,
+    "independent": true,
+    "featured": false
+  },
+  {
+    "name": "Estonia",
+    "slug": "estonia",
+    "official_name": "Estonia",
+    "cca2": "",
+    "cca3": "",
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "region_slug": "europe",
+    "capital": "Tallinn",
+    "population": 1330000,
+    "area": 0,
+    "currency": "Euro (EUR)",
+    "languages": [
+      "Estonian"
+    ],
+    "language": "Estonian",
+    "timezone": "UTC+2",
+    "timezones": [
+      "UTC+2"
+    ],
+    "flag_emoji": "",
+    "flag_svg": "",
+    "flag_png": "",
+    "coat_of_arms": "",
+    "maps_google": "",
+    "maps_osm": "",
+    "landlocked": false,
+    "borders": [],
+    "driving_side": "right",
+    "calling_code": "",
+    "safety_level": "safe",
+    "budget_per_day": {
+      "budget": "50-70",
+      "midrange": "90-140",
+      "luxury": "240+"
+    },
+    "best_time_to_visit": "May-Sep",
+    "latlng": [
+      0,
+      0
+    ],
+    "capital_latlng": [
+      0,
+      0
+    ],
+    "un_member": true,
+    "independent": true,
+    "featured": false
+  },
+  {
+    "name": "Faroe Islands",
+    "slug": "faroe-islands",
+    "official_name": "Faroe Islands",
+    "cca2": "",
+    "cca3": "",
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "region_slug": "europe",
+    "capital": "Torshavn",
+    "population": 52903,
+    "area": 0,
+    "currency": "Danish Krone (DKK)",
+    "languages": [
+      "Faroese"
+    ],
+    "language": "Faroese",
+    "timezone": "UTC+0",
+    "timezones": [
+      "UTC+0"
+    ],
+    "flag_emoji": "",
+    "flag_svg": "",
+    "flag_png": "",
+    "coat_of_arms": "",
+    "maps_google": "",
+    "maps_osm": "",
+    "landlocked": false,
+    "borders": [],
+    "driving_side": "right",
+    "calling_code": "",
+    "safety_level": "safe",
+    "budget_per_day": {
+      "budget": "100-140",
+      "midrange": "180-270",
+      "luxury": "450+"
+    },
+    "best_time_to_visit": "Jun-Aug",
+    "latlng": [
+      0,
+      0
+    ],
+    "capital_latlng": [
+      0,
+      0
+    ],
+    "un_member": true,
+    "independent": true,
+    "featured": false
+  },
+  {
+    "name": "Finland",
+    "slug": "finland",
+    "official_name": "Finland",
+    "cca2": "",
+    "cca3": "",
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "region_slug": "europe",
+    "capital": "Helsinki",
+    "population": 5540000,
+    "area": 0,
+    "currency": "Euro (EUR)",
+    "languages": [
+      "Finnish"
+    ],
+    "language": "Finnish",
+    "timezone": "UTC+2",
+    "timezones": [
+      "UTC+2"
+    ],
+    "flag_emoji": "",
+    "flag_svg": "",
+    "flag_png": "",
+    "coat_of_arms": "",
+    "maps_google": "",
+    "maps_osm": "",
+    "landlocked": false,
+    "borders": [],
+    "driving_side": "right",
+    "calling_code": "",
+    "safety_level": "safe",
+    "budget_per_day": {
+      "budget": "100-140",
+      "midrange": "170-250",
+      "luxury": "420+"
+    },
+    "best_time_to_visit": "Jun-Aug, Dec-Mar",
+    "latlng": [
+      0,
+      0
+    ],
+    "capital_latlng": [
+      0,
+      0
+    ],
+    "un_member": true,
+    "independent": true,
+    "featured": false
+  },
+  {
+    "name": "France",
+    "slug": "france",
+    "official_name": "France",
+    "cca2": "",
+    "cca3": "",
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "region_slug": "europe",
+    "capital": "Paris",
+    "population": 67390000,
+    "area": 0,
+    "currency": "Euro (EUR)",
+    "languages": [
+      "French"
+    ],
+    "language": "French",
+    "timezone": "UTC+1",
+    "timezones": [
+      "UTC+1"
+    ],
+    "flag_emoji": "",
+    "flag_svg": "",
+    "flag_png": "",
+    "coat_of_arms": "",
+    "maps_google": "",
+    "maps_osm": "",
+    "landlocked": false,
+    "borders": [],
+    "driving_side": "right",
+    "calling_code": "",
+    "safety_level": "caution",
+    "budget_per_day": {
+      "budget": "80-100",
+      "midrange": "140-200",
+      "luxury": "400+"
+    },
+    "best_time_to_visit": "Apr-Jun, Sep-Oct",
+    "latlng": [
+      0,
+      0
+    ],
+    "capital_latlng": [
+      0,
+      0
+    ],
+    "un_member": true,
+    "independent": true,
+    "featured": true
+  },
+  {
+    "name": "Germany",
+    "slug": "germany",
+    "official_name": "Germany",
+    "cca2": "",
+    "cca3": "",
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "region_slug": "europe",
+    "capital": "Berlin",
+    "population": 83240000,
+    "area": 0,
+    "currency": "Euro (EUR)",
+    "languages": [
+      "German"
+    ],
+    "language": "German",
+    "timezone": "UTC+1",
+    "timezones": [
+      "UTC+1"
+    ],
+    "flag_emoji": "",
+    "flag_svg": "",
+    "flag_png": "",
+    "coat_of_arms": "",
+    "maps_google": "",
+    "maps_osm": "",
+    "landlocked": false,
+    "borders": [],
+    "driving_side": "right",
+    "calling_code": "",
+    "safety_level": "safe",
+    "budget_per_day": {
+      "budget": "70-90",
+      "midrange": "110-170",
+      "luxury": "300+"
+    },
+    "best_time_to_visit": "May-Sep",
+    "latlng": [
+      0,
+      0
+    ],
+    "capital_latlng": [
+      0,
+      0
+    ],
+    "un_member": true,
+    "independent": true,
+    "featured": true
+  },
+  {
+    "name": "Gibraltar",
+    "slug": "gibraltar",
+    "official_name": "Gibraltar",
+    "cca2": "",
+    "cca3": "",
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "region_slug": "europe",
+    "capital": "Gibraltar",
+    "population": 33691,
+    "area": 0,
+    "currency": "Gibraltar Pound (GIP)",
+    "languages": [
+      "English"
+    ],
+    "language": "English",
+    "timezone": "UTC+1",
+    "timezones": [
+      "UTC+1"
+    ],
+    "flag_emoji": "",
+    "flag_svg": "",
+    "flag_png": "",
+    "coat_of_arms": "",
+    "maps_google": "",
+    "maps_osm": "",
+    "landlocked": false,
+    "borders": [],
+    "driving_side": "right",
+    "calling_code": "",
+    "safety_level": "safe",
+    "budget_per_day": {
+      "budget": "80-110",
+      "midrange": "140-210",
+      "luxury": "350+"
+    },
+    "best_time_to_visit": "Apr-Oct",
+    "latlng": [
+      0,
+      0
+    ],
+    "capital_latlng": [
+      0,
+      0
+    ],
+    "un_member": true,
+    "independent": true,
+    "featured": false
+  },
+  {
+    "name": "Greece",
+    "slug": "greece",
+    "official_name": "Greece",
+    "cca2": "",
+    "cca3": "",
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "region_slug": "europe",
+    "capital": "Athens",
+    "population": 10420000,
+    "area": 0,
+    "currency": "Euro (EUR)",
+    "languages": [
+      "Greek"
+    ],
+    "language": "Greek",
+    "timezone": "UTC+2",
+    "timezones": [
+      "UTC+2"
+    ],
+    "flag_emoji": "",
+    "flag_svg": "",
+    "flag_png": "",
+    "coat_of_arms": "",
+    "maps_google": "",
+    "maps_osm": "",
+    "landlocked": false,
+    "borders": [],
+    "driving_side": "right",
+    "calling_code": "",
+    "safety_level": "safe",
+    "budget_per_day": {
+      "budget": "50-70",
+      "midrange": "90-140",
+      "luxury": "250+"
+    },
+    "best_time_to_visit": "Apr-Jun, Sep-Oct",
+    "latlng": [
+      0,
+      0
+    ],
+    "capital_latlng": [
+      0,
+      0
+    ],
+    "un_member": true,
+    "independent": true,
+    "featured": true
+  },
+  {
+    "name": "Hungary",
+    "slug": "hungary",
+    "official_name": "Hungary",
+    "cca2": "",
+    "cca3": "",
+    "region": "Europe",
+    "subregion": "Central Europe",
+    "region_slug": "europe",
+    "capital": "Budapest",
+    "population": 9660000,
+    "area": 0,
+    "currency": "Hungarian Forint (HUF)",
+    "languages": [
+      "Hungarian"
+    ],
+    "language": "Hungarian",
+    "timezone": "UTC+1",
+    "timezones": [
+      "UTC+1"
+    ],
+    "flag_emoji": "",
+    "flag_svg": "",
+    "flag_png": "",
+    "coat_of_arms": "",
+    "maps_google": "",
+    "maps_osm": "",
+    "landlocked": false,
+    "borders": [],
+    "driving_side": "right",
+    "calling_code": "",
+    "safety_level": "safe",
+    "budget_per_day": {
+      "budget": "45-65",
+      "midrange": "80-130",
+      "luxury": "220+"
+    },
+    "best_time_to_visit": "Apr-Jun, Sep-Oct",
+    "latlng": [
+      0,
+      0
+    ],
+    "capital_latlng": [
+      0,
+      0
+    ],
+    "un_member": true,
+    "independent": true,
+    "featured": false
+  },
+  {
+    "name": "Iceland",
+    "slug": "iceland",
+    "official_name": "Iceland",
+    "cca2": "",
+    "cca3": "",
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "region_slug": "europe",
+    "capital": "Reykjavik",
+    "population": 366000,
+    "area": 0,
+    "currency": "Icelandic Krona (ISK)",
+    "languages": [
+      "Icelandic"
+    ],
+    "language": "Icelandic",
+    "timezone": "UTC+0",
+    "timezones": [
+      "UTC+0"
+    ],
+    "flag_emoji": "",
+    "flag_svg": "",
+    "flag_png": "",
+    "coat_of_arms": "",
+    "maps_google": "",
+    "maps_osm": "",
+    "landlocked": false,
+    "borders": [],
+    "driving_side": "right",
+    "calling_code": "",
+    "safety_level": "safe",
+    "budget_per_day": {
+      "budget": "130-170",
+      "midrange": "220-320",
+      "luxury": "550+"
+    },
+    "best_time_to_visit": "Jun-Aug, Sep-Mar",
+    "latlng": [
+      0,
+      0
+    ],
+    "capital_latlng": [
+      0,
+      0
+    ],
+    "un_member": true,
+    "independent": true,
+    "featured": true
+  },
+  {
+    "name": "Ireland",
+    "slug": "ireland",
+    "official_name": "Ireland",
+    "cca2": "",
+    "cca3": "",
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "region_slug": "europe",
+    "capital": "Dublin",
+    "population": 4940000,
+    "area": 0,
+    "currency": "Euro (EUR)",
+    "languages": [
+      "English"
+    ],
+    "language": "English",
+    "timezone": "UTC+0",
+    "timezones": [
+      "UTC+0"
+    ],
+    "flag_emoji": "",
+    "flag_svg": "",
+    "flag_png": "",
+    "coat_of_arms": "",
+    "maps_google": "",
+    "maps_osm": "",
+    "landlocked": false,
+    "borders": [],
+    "driving_side": "right",
+    "calling_code": "",
+    "safety_level": "safe",
+    "budget_per_day": {
+      "budget": "70-100",
+      "midrange": "130-190",
+      "luxury": "350+"
+    },
+    "best_time_to_visit": "May-Sep",
+    "latlng": [
+      0,
+      0
+    ],
+    "capital_latlng": [
+      0,
+      0
+    ],
+    "un_member": true,
+    "independent": true,
+    "featured": false
+  },
+  {
+    "name": "Italy",
+    "slug": "italy",
+    "official_name": "Italy",
+    "cca2": "",
+    "cca3": "",
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "region_slug": "europe",
+    "capital": "Rome",
+    "population": 60360000,
+    "area": 0,
+    "currency": "Euro (EUR)",
+    "languages": [
+      "Italian"
+    ],
+    "language": "Italian",
+    "timezone": "UTC+1",
+    "timezones": [
+      "UTC+1"
+    ],
+    "flag_emoji": "",
+    "flag_svg": "",
+    "flag_png": "",
+    "coat_of_arms": "",
+    "maps_google": "",
+    "maps_osm": "",
+    "landlocked": false,
+    "borders": [],
+    "driving_side": "right",
+    "calling_code": "",
+    "safety_level": "safe",
+    "budget_per_day": {
+      "budget": "70-90",
+      "midrange": "120-180",
+      "luxury": "350+"
+    },
+    "best_time_to_visit": "Apr-Jun, Sep-Oct",
+    "latlng": [
+      0,
+      0
+    ],
+    "capital_latlng": [
+      0,
+      0
+    ],
+    "un_member": true,
+    "independent": true,
+    "featured": true
+  },
+  {
+    "name": "Kosovo",
+    "slug": "kosovo",
+    "official_name": "Kosovo",
+    "cca2": "",
+    "cca3": "",
+    "region": "Europe",
+    "subregion": "Southeastern Europe",
+    "region_slug": "europe",
+    "capital": "Pristina",
+    "population": 1870000,
+    "area": 0,
+    "currency": "Euro (EUR)",
+    "languages": [
+      "Albanian"
+    ],
+    "language": "Albanian",
+    "timezone": "UTC+1",
+    "timezones": [
+      "UTC+1"
+    ],
+    "flag_emoji": "",
+    "flag_svg": "",
+    "flag_png": "",
+    "coat_of_arms": "",
+    "maps_google": "",
+    "maps_osm": "",
+    "landlocked": false,
+    "borders": [],
+    "driving_side": "right",
+    "calling_code": "",
+    "safety_level": "caution",
+    "budget_per_day": {
+      "budget": "30-45",
+      "midrange": "55-90",
+      "luxury": "150+"
+    },
+    "best_time_to_visit": "May-Sep",
+    "latlng": [
+      0,
+      0
+    ],
+    "capital_latlng": [
+      0,
+      0
+    ],
+    "un_member": true,
+    "independent": true,
+    "featured": false
+  },
+  {
+    "name": "Latvia",
+    "slug": "latvia",
+    "official_name": "Latvia",
+    "cca2": "",
+    "cca3": "",
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "region_slug": "europe",
+    "capital": "Riga",
+    "population": 1880000,
+    "area": 0,
+    "currency": "Euro (EUR)",
+    "languages": [
+      "Latvian"
+    ],
+    "language": "Latvian",
+    "timezone": "UTC+2",
+    "timezones": [
+      "UTC+2"
+    ],
+    "flag_emoji": "",
+    "flag_svg": "",
+    "flag_png": "",
+    "coat_of_arms": "",
+    "maps_google": "",
+    "maps_osm": "",
+    "landlocked": false,
+    "borders": [],
+    "driving_side": "right",
+    "calling_code": "",
+    "safety_level": "safe",
+    "budget_per_day": {
+      "budget": "45-65",
+      "midrange": "80-130",
+      "luxury": "220+"
+    },
+    "best_time_to_visit": "May-Sep",
+    "latlng": [
+      0,
+      0
+    ],
+    "capital_latlng": [
+      0,
+      0
+    ],
+    "un_member": true,
+    "independent": true,
+    "featured": false
+  },
+  {
+    "name": "Liechtenstein",
+    "slug": "liechtenstein",
+    "official_name": "Liechtenstein",
+    "cca2": "",
+    "cca3": "",
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "region_slug": "europe",
+    "capital": "Vaduz",
+    "population": 38128,
+    "area": 0,
+    "currency": "Swiss Franc (CHF)",
+    "languages": [
+      "German"
+    ],
+    "language": "German",
+    "timezone": "UTC+1",
+    "timezones": [
+      "UTC+1"
+    ],
+    "flag_emoji": "",
+    "flag_svg": "",
+    "flag_png": "",
+    "coat_of_arms": "",
+    "maps_google": "",
+    "maps_osm": "",
+    "landlocked": false,
+    "borders": [],
+    "driving_side": "right",
+    "calling_code": "",
+    "safety_level": "safe",
+    "budget_per_day": {
+      "budget": "120-160",
+      "midrange": "200-300",
+      "luxury": "550+"
+    },
+    "best_time_to_visit": "Jun-Sep, Dec-Mar",
+    "latlng": [
+      0,
+      0
+    ],
+    "capital_latlng": [
+      0,
+      0
+    ],
+    "un_member": true,
+    "independent": true,
+    "featured": false
+  },
+  {
+    "name": "Lithuania",
+    "slug": "lithuania",
+    "official_name": "Lithuania",
+    "cca2": "",
+    "cca3": "",
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "region_slug": "europe",
+    "capital": "Vilnius",
+    "population": 2790000,
+    "area": 0,
+    "currency": "Euro (EUR)",
+    "languages": [
+      "Lithuanian"
+    ],
+    "language": "Lithuanian",
+    "timezone": "UTC+2",
+    "timezones": [
+      "UTC+2"
+    ],
+    "flag_emoji": "",
+    "flag_svg": "",
+    "flag_png": "",
+    "coat_of_arms": "",
+    "maps_google": "",
+    "maps_osm": "",
+    "landlocked": false,
+    "borders": [],
+    "driving_side": "right",
+    "calling_code": "",
+    "safety_level": "safe",
+    "budget_per_day": {
+      "budget": "45-65",
+      "midrange": "80-130",
+      "luxury": "220+"
+    },
+    "best_time_to_visit": "May-Sep",
+    "latlng": [
+      0,
+      0
+    ],
+    "capital_latlng": [
+      0,
+      0
+    ],
+    "un_member": true,
+    "independent": true,
+    "featured": false
+  },
+  {
+    "name": "Luxembourg",
+    "slug": "luxembourg",
+    "official_name": "Luxembourg",
+    "cca2": "",
+    "cca3": "",
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "region_slug": "europe",
+    "capital": "Luxembourg",
+    "population": 634000,
+    "area": 0,
+    "currency": "Euro (EUR)",
+    "languages": [
+      "Luxembourgish"
+    ],
+    "language": "Luxembourgish",
+    "timezone": "UTC+1",
+    "timezones": [
+      "UTC+1"
+    ],
+    "flag_emoji": "",
+    "flag_svg": "",
+    "flag_png": "",
+    "coat_of_arms": "",
+    "maps_google": "",
+    "maps_osm": "",
+    "landlocked": false,
+    "borders": [],
+    "driving_side": "right",
+    "calling_code": "",
+    "safety_level": "safe",
+    "budget_per_day": {
+      "budget": "100-130",
+      "midrange": "170-250",
+      "luxury": "450+"
+    },
+    "best_time_to_visit": "May-Sep",
+    "latlng": [
+      0,
+      0
+    ],
+    "capital_latlng": [
+      0,
+      0
+    ],
+    "un_member": true,
+    "independent": true,
+    "featured": false
+  },
+  {
+    "name": "Malta",
+    "slug": "malta",
+    "official_name": "Malta",
+    "cca2": "",
+    "cca3": "",
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "region_slug": "europe",
+    "capital": "Valletta",
+    "population": 514000,
+    "area": 0,
+    "currency": "Euro (EUR)",
+    "languages": [
+      "Maltese"
+    ],
+    "language": "Maltese",
+    "timezone": "UTC+1",
+    "timezones": [
+      "UTC+1"
+    ],
+    "flag_emoji": "",
+    "flag_svg": "",
+    "flag_png": "",
+    "coat_of_arms": "",
+    "maps_google": "",
+    "maps_osm": "",
+    "landlocked": false,
+    "borders": [],
+    "driving_side": "right",
+    "calling_code": "",
+    "safety_level": "safe",
+    "budget_per_day": {
+      "budget": "60-80",
+      "midrange": "100-160",
+      "luxury": "300+"
+    },
+    "best_time_to_visit": "Apr-Jun, Sep-Nov",
+    "latlng": [
+      0,
+      0
+    ],
+    "capital_latlng": [
+      0,
+      0
+    ],
+    "un_member": true,
+    "independent": true,
+    "featured": false
+  },
+  {
+    "name": "Moldova",
+    "slug": "moldova",
+    "official_name": "Moldova",
+    "cca2": "",
+    "cca3": "",
+    "region": "Europe",
+    "subregion": "Eastern Europe",
+    "region_slug": "europe",
+    "capital": "Chisinau",
+    "population": 2620000,
+    "area": 0,
+    "currency": "Moldovan Leu (MDL)",
+    "languages": [
+      "Romanian"
+    ],
+    "language": "Romanian",
+    "timezone": "UTC+2",
+    "timezones": [
+      "UTC+2"
+    ],
+    "flag_emoji": "",
+    "flag_svg": "",
+    "flag_png": "",
+    "coat_of_arms": "",
+    "maps_google": "",
+    "maps_osm": "",
+    "landlocked": false,
+    "borders": [],
+    "driving_side": "right",
+    "calling_code": "",
+    "safety_level": "caution",
+    "budget_per_day": {
+      "budget": "30-45",
+      "midrange": "55-90",
+      "luxury": "150+"
+    },
+    "best_time_to_visit": "May-Sep",
+    "latlng": [
+      0,
+      0
+    ],
+    "capital_latlng": [
+      0,
+      0
+    ],
+    "un_member": true,
+    "independent": true,
+    "featured": false
+  },
+  {
+    "name": "Monaco",
+    "slug": "monaco",
+    "official_name": "Monaco",
+    "cca2": "",
+    "cca3": "",
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "region_slug": "europe",
+    "capital": "Monaco",
+    "population": 39240,
+    "area": 0,
+    "currency": "Euro (EUR)",
+    "languages": [
+      "French"
+    ],
+    "language": "French",
+    "timezone": "UTC+1",
+    "timezones": [
+      "UTC+1"
+    ],
+    "flag_emoji": "",
+    "flag_svg": "",
+    "flag_png": "",
+    "coat_of_arms": "",
+    "maps_google": "",
+    "maps_osm": "",
+    "landlocked": false,
+    "borders": [],
+    "driving_side": "right",
+    "calling_code": "",
+    "safety_level": "safe",
+    "budget_per_day": {
+      "budget": "150-200",
+      "midrange": "300-500",
+      "luxury": "1000+"
+    },
+    "best_time_to_visit": "Year-round",
+    "latlng": [
+      0,
+      0
+    ],
+    "capital_latlng": [
+      0,
+      0
+    ],
+    "un_member": true,
+    "independent": true,
+    "featured": false
+  },
+  {
+    "name": "Montenegro",
+    "slug": "montenegro",
+    "official_name": "Montenegro",
+    "cca2": "",
+    "cca3": "",
+    "region": "Europe",
+    "subregion": "Southeastern Europe",
+    "region_slug": "europe",
+    "capital": "Podgorica",
+    "population": 628000,
+    "area": 0,
+    "currency": "Euro (EUR)",
+    "languages": [
+      "Montenegrin"
+    ],
+    "language": "Montenegrin",
+    "timezone": "UTC+1",
+    "timezones": [
+      "UTC+1"
+    ],
+    "flag_emoji": "",
+    "flag_svg": "",
+    "flag_png": "",
+    "coat_of_arms": "",
+    "maps_google": "",
+    "maps_osm": "",
+    "landlocked": false,
+    "borders": [],
+    "driving_side": "right",
+    "calling_code": "",
+    "safety_level": "safe",
+    "budget_per_day": {
+      "budget": "50-70",
+      "midrange": "90-140",
+      "luxury": "240+"
+    },
+    "best_time_to_visit": "May-Sep",
+    "latlng": [
+      0,
+      0
+    ],
+    "capital_latlng": [
+      0,
+      0
+    ],
+    "un_member": true,
+    "independent": true,
+    "featured": false
+  },
+  {
+    "name": "Netherlands",
+    "slug": "netherlands",
+    "official_name": "Netherlands",
+    "cca2": "",
+    "cca3": "",
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "region_slug": "europe",
+    "capital": "Amsterdam",
+    "population": 17440000,
+    "area": 0,
+    "currency": "Euro (EUR)",
+    "languages": [
+      "Dutch"
+    ],
+    "language": "Dutch",
+    "timezone": "UTC+1",
+    "timezones": [
+      "UTC+1"
+    ],
+    "flag_emoji": "",
+    "flag_svg": "",
+    "flag_png": "",
+    "coat_of_arms": "",
+    "maps_google": "",
+    "maps_osm": "",
+    "landlocked": false,
+    "borders": [],
+    "driving_side": "right",
+    "calling_code": "",
+    "safety_level": "safe",
+    "budget_per_day": {
+      "budget": "80-100",
+      "midrange": "130-190",
+      "luxury": "350+"
+    },
+    "best_time_to_visit": "Apr-Sep",
+    "latlng": [
+      0,
+      0
+    ],
+    "capital_latlng": [
+      0,
+      0
+    ],
+    "un_member": true,
+    "independent": true,
+    "featured": true
+  },
+  {
+    "name": "North Macedonia",
+    "slug": "north-macedonia",
+    "official_name": "North Macedonia",
+    "cca2": "",
+    "cca3": "",
+    "region": "Europe",
+    "subregion": "Southeastern Europe",
+    "region_slug": "europe",
+    "capital": "Skopje",
+    "population": 2080000,
+    "area": 0,
+    "currency": "Macedonian Denar (MKD)",
+    "languages": [
+      "Macedonian"
+    ],
+    "language": "Macedonian",
+    "timezone": "UTC+1",
+    "timezones": [
+      "UTC+1"
+    ],
+    "flag_emoji": "",
+    "flag_svg": "",
+    "flag_png": "",
+    "coat_of_arms": "",
+    "maps_google": "",
+    "maps_osm": "",
+    "landlocked": false,
+    "borders": [],
+    "driving_side": "right",
+    "calling_code": "",
+    "safety_level": "safe",
+    "budget_per_day": {
+      "budget": "30-45",
+      "midrange": "55-90",
+      "luxury": "150+"
+    },
+    "best_time_to_visit": "May-Sep",
+    "latlng": [
+      0,
+      0
+    ],
+    "capital_latlng": [
+      0,
+      0
+    ],
+    "un_member": true,
+    "independent": true,
+    "featured": false
+  },
+  {
+    "name": "Norway",
+    "slug": "norway",
+    "official_name": "Norway",
+    "cca2": "",
+    "cca3": "",
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "region_slug": "europe",
+    "capital": "Oslo",
+    "population": 5420000,
+    "area": 0,
+    "currency": "Norwegian Krone (NOK)",
+    "languages": [
+      "Norwegian"
+    ],
+    "language": "Norwegian",
+    "timezone": "UTC+1",
+    "timezones": [
+      "UTC+1"
+    ],
+    "flag_emoji": "",
+    "flag_svg": "",
+    "flag_png": "",
+    "coat_of_arms": "",
+    "maps_google": "",
+    "maps_osm": "",
+    "landlocked": false,
+    "borders": [],
+    "driving_side": "right",
+    "calling_code": "",
+    "safety_level": "safe",
+    "budget_per_day": {
+      "budget": "110-150",
+      "midrange": "180-280",
+      "luxury": "500+"
+    },
+    "best_time_to_visit": "Jun-Aug, Dec-Mar",
+    "latlng": [
+      0,
+      0
+    ],
+    "capital_latlng": [
+      0,
+      0
+    ],
+    "un_member": true,
+    "independent": true,
+    "featured": false
+  },
+  {
+    "name": "Poland",
+    "slug": "poland",
+    "official_name": "Poland",
+    "cca2": "",
+    "cca3": "",
+    "region": "Europe",
+    "subregion": "Central Europe",
+    "region_slug": "europe",
+    "capital": "Warsaw",
+    "population": 37950000,
+    "area": 0,
+    "currency": "Polish Zloty (PLN)",
+    "languages": [
+      "Polish"
+    ],
+    "language": "Polish",
+    "timezone": "UTC+1",
+    "timezones": [
+      "UTC+1"
+    ],
+    "flag_emoji": "",
+    "flag_svg": "",
+    "flag_png": "",
+    "coat_of_arms": "",
+    "maps_google": "",
+    "maps_osm": "",
+    "landlocked": false,
+    "borders": [],
+    "driving_side": "right",
+    "calling_code": "",
+    "safety_level": "safe",
+    "budget_per_day": {
+      "budget": "40-60",
+      "midrange": "70-120",
+      "luxury": "200+"
+    },
+    "best_time_to_visit": "May-Sep",
+    "latlng": [
+      0,
+      0
+    ],
+    "capital_latlng": [
+      0,
+      0
+    ],
+    "un_member": true,
+    "independent": true,
+    "featured": false
+  },
+  {
+    "name": "Portugal",
+    "slug": "portugal",
+    "official_name": "Portugal",
+    "cca2": "",
+    "cca3": "",
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "region_slug": "europe",
+    "capital": "Lisbon",
+    "population": 10200000,
+    "area": 0,
+    "currency": "Euro (EUR)",
+    "languages": [
+      "Portuguese"
+    ],
+    "language": "Portuguese",
+    "timezone": "UTC+0",
+    "timezones": [
+      "UTC+0"
+    ],
+    "flag_emoji": "",
+    "flag_svg": "",
+    "flag_png": "",
+    "coat_of_arms": "",
+    "maps_google": "",
+    "maps_osm": "",
+    "landlocked": false,
+    "borders": [],
+    "driving_side": "right",
+    "calling_code": "",
+    "safety_level": "safe",
+    "budget_per_day": {
+      "budget": "50-70",
+      "midrange": "90-140",
+      "luxury": "250+"
+    },
+    "best_time_to_visit": "Apr-Oct",
+    "latlng": [
+      0,
+      0
+    ],
+    "capital_latlng": [
+      0,
+      0
+    ],
+    "un_member": true,
+    "independent": true,
+    "featured": true
+  },
+  {
+    "name": "Romania",
+    "slug": "romania",
+    "official_name": "Romania",
+    "cca2": "",
+    "cca3": "",
+    "region": "Europe",
+    "subregion": "Southeastern Europe",
+    "region_slug": "europe",
+    "capital": "Bucharest",
+    "population": 19240000,
+    "area": 0,
+    "currency": "Romanian Leu (RON)",
+    "languages": [
+      "Romanian"
+    ],
+    "language": "Romanian",
+    "timezone": "UTC+2",
+    "timezones": [
+      "UTC+2"
+    ],
+    "flag_emoji": "",
+    "flag_svg": "",
+    "flag_png": "",
+    "coat_of_arms": "",
+    "maps_google": "",
+    "maps_osm": "",
+    "landlocked": false,
+    "borders": [],
+    "driving_side": "right",
+    "calling_code": "",
+    "safety_level": "safe",
+    "budget_per_day": {
+      "budget": "40-55",
+      "midrange": "70-110",
+      "luxury": "180+"
+    },
+    "best_time_to_visit": "May-Sep",
+    "latlng": [
+      0,
+      0
+    ],
+    "capital_latlng": [
+      0,
+      0
+    ],
+    "un_member": true,
+    "independent": true,
+    "featured": false
+  },
+  {
+    "name": "Russia",
+    "slug": "russia",
+    "official_name": "Russia",
+    "cca2": "",
+    "cca3": "",
+    "region": "Europe",
+    "subregion": "Eastern Europe",
+    "region_slug": "europe",
+    "capital": "Moscow",
+    "population": 145900000,
+    "area": 0,
+    "currency": "Russian Ruble (RUB)",
+    "languages": [
+      "Russian"
+    ],
+    "language": "Russian",
+    "timezone": "UTC+3 to +12",
+    "timezones": [
+      "UTC+3 to +12"
+    ],
+    "flag_emoji": "",
+    "flag_svg": "",
+    "flag_png": "",
+    "coat_of_arms": "",
+    "maps_google": "",
+    "maps_osm": "",
+    "landlocked": false,
+    "borders": [],
+    "driving_side": "right",
+    "calling_code": "",
+    "safety_level": "caution",
+    "budget_per_day": {
+      "budget": "50-70",
+      "midrange": "90-140",
+      "luxury": "280+"
+    },
+    "best_time_to_visit": "May-Sep",
+    "latlng": [
+      0,
+      0
+    ],
+    "capital_latlng": [
+      0,
+      0
+    ],
+    "un_member": true,
+    "independent": true,
+    "featured": false
+  },
+  {
+    "name": "San Marino",
+    "slug": "san-marino",
+    "official_name": "San Marino",
+    "cca2": "",
+    "cca3": "",
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "region_slug": "europe",
+    "capital": "San Marino",
+    "population": 33931,
+    "area": 0,
+    "currency": "Euro (EUR)",
+    "languages": [
+      "Italian"
+    ],
+    "language": "Italian",
+    "timezone": "UTC+1",
+    "timezones": [
+      "UTC+1"
+    ],
+    "flag_emoji": "",
+    "flag_svg": "",
+    "flag_png": "",
+    "coat_of_arms": "",
+    "maps_google": "",
+    "maps_osm": "",
+    "landlocked": false,
+    "borders": [],
+    "driving_side": "right",
+    "calling_code": "",
+    "safety_level": "safe",
+    "budget_per_day": {
+      "budget": "70-100",
+      "midrange": "130-200",
+      "luxury": "330+"
+    },
+    "best_time_to_visit": "Apr-Oct",
+    "latlng": [
+      0,
+      0
+    ],
+    "capital_latlng": [
+      0,
+      0
+    ],
+    "un_member": true,
+    "independent": true,
+    "featured": false
+  },
+  {
+    "name": "Serbia",
+    "slug": "serbia",
+    "official_name": "Serbia",
+    "cca2": "",
+    "cca3": "",
+    "region": "Europe",
+    "subregion": "Southeastern Europe",
+    "region_slug": "europe",
+    "capital": "Belgrade",
+    "population": 6910000,
+    "area": 0,
+    "currency": "Serbian Dinar (RSD)",
+    "languages": [
+      "Serbian"
+    ],
+    "language": "Serbian",
+    "timezone": "UTC+1",
+    "timezones": [
+      "UTC+1"
+    ],
+    "flag_emoji": "",
+    "flag_svg": "",
+    "flag_png": "",
+    "coat_of_arms": "",
+    "maps_google": "",
+    "maps_osm": "",
+    "landlocked": false,
+    "borders": [],
+    "driving_side": "right",
+    "calling_code": "",
+    "safety_level": "safe",
+    "budget_per_day": {
+      "budget": "35-50",
+      "midrange": "60-100",
+      "luxury": "160+"
+    },
+    "best_time_to_visit": "May-Sep",
+    "latlng": [
+      0,
+      0
+    ],
+    "capital_latlng": [
+      0,
+      0
+    ],
+    "un_member": true,
+    "independent": true,
+    "featured": false
+  },
+  {
+    "name": "Slovakia",
+    "slug": "slovakia",
+    "official_name": "Slovakia",
+    "cca2": "",
+    "cca3": "",
+    "region": "Europe",
+    "subregion": "Central Europe",
+    "region_slug": "europe",
+    "capital": "Bratislava",
+    "population": 5460000,
+    "area": 0,
+    "currency": "Euro (EUR)",
+    "languages": [
+      "Slovak"
+    ],
+    "language": "Slovak",
+    "timezone": "UTC+1",
+    "timezones": [
+      "UTC+1"
+    ],
+    "flag_emoji": "",
+    "flag_svg": "",
+    "flag_png": "",
+    "coat_of_arms": "",
+    "maps_google": "",
+    "maps_osm": "",
+    "landlocked": false,
+    "borders": [],
+    "driving_side": "right",
+    "calling_code": "",
+    "safety_level": "safe",
+    "budget_per_day": {
+      "budget": "45-65",
+      "midrange": "80-130",
+      "luxury": "220+"
+    },
+    "best_time_to_visit": "May-Sep",
+    "latlng": [
+      0,
+      0
+    ],
+    "capital_latlng": [
+      0,
+      0
+    ],
+    "un_member": true,
+    "independent": true,
+    "featured": false
+  },
+  {
+    "name": "Slovenia",
+    "slug": "slovenia",
+    "official_name": "Slovenia",
+    "cca2": "",
+    "cca3": "",
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "region_slug": "europe",
+    "capital": "Ljubljana",
+    "population": 2100000,
+    "area": 0,
+    "currency": "Euro (EUR)",
+    "languages": [
+      "Slovenian"
+    ],
+    "language": "Slovenian",
+    "timezone": "UTC+1",
+    "timezones": [
+      "UTC+1"
+    ],
+    "flag_emoji": "",
+    "flag_svg": "",
+    "flag_png": "",
+    "coat_of_arms": "",
+    "maps_google": "",
+    "maps_osm": "",
+    "landlocked": false,
+    "borders": [],
+    "driving_side": "right",
+    "calling_code": "",
+    "safety_level": "safe",
+    "budget_per_day": {
+      "budget": "55-75",
+      "midrange": "100-150",
+      "luxury": "280+"
+    },
+    "best_time_to_visit": "May-Sep",
+    "latlng": [
+      0,
+      0
+    ],
+    "capital_latlng": [
+      0,
+      0
+    ],
+    "un_member": true,
+    "independent": true,
+    "featured": true
+  },
+  {
+    "name": "Spain",
+    "slug": "spain",
+    "official_name": "Spain",
+    "cca2": "",
+    "cca3": "",
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "region_slug": "europe",
+    "capital": "Madrid",
+    "population": 46940000,
+    "area": 0,
+    "currency": "Euro (EUR)",
+    "languages": [
+      "Spanish"
+    ],
+    "language": "Spanish",
+    "timezone": "UTC+1",
+    "timezones": [
+      "UTC+1"
+    ],
+    "flag_emoji": "",
+    "flag_svg": "",
+    "flag_png": "",
+    "coat_of_arms": "",
+    "maps_google": "",
+    "maps_osm": "",
+    "landlocked": false,
+    "borders": [],
+    "driving_side": "right",
+    "calling_code": "",
+    "safety_level": "safe",
+    "budget_per_day": {
+      "budget": "60-80",
+      "midrange": "100-160",
+      "luxury": "300+"
+    },
+    "best_time_to_visit": "Apr-Jun, Sep-Oct",
+    "latlng": [
+      0,
+      0
+    ],
+    "capital_latlng": [
+      0,
+      0
+    ],
+    "un_member": true,
+    "independent": true,
+    "featured": true
+  },
+  {
+    "name": "Sweden",
+    "slug": "sweden",
+    "official_name": "Sweden",
+    "cca2": "",
+    "cca3": "",
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "region_slug": "europe",
+    "capital": "Stockholm",
+    "population": 10350000,
+    "area": 0,
+    "currency": "Swedish Krona (SEK)",
+    "languages": [
+      "Swedish"
+    ],
+    "language": "Swedish",
+    "timezone": "UTC+1",
+    "timezones": [
+      "UTC+1"
+    ],
+    "flag_emoji": "",
+    "flag_svg": "",
+    "flag_png": "",
+    "coat_of_arms": "",
+    "maps_google": "",
+    "maps_osm": "",
+    "landlocked": false,
+    "borders": [],
+    "driving_side": "right",
+    "calling_code": "",
+    "safety_level": "safe",
+    "budget_per_day": {
+      "budget": "100-140",
+      "midrange": "170-260",
+      "luxury": "450+"
+    },
+    "best_time_to_visit": "May-Sep",
+    "latlng": [
+      0,
+      0
+    ],
+    "capital_latlng": [
+      0,
+      0
+    ],
+    "un_member": true,
+    "independent": true,
+    "featured": false
+  },
+  {
+    "name": "Switzerland",
+    "slug": "switzerland",
+    "official_name": "Switzerland",
+    "cca2": "",
+    "cca3": "",
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "region_slug": "europe",
+    "capital": "Bern",
+    "population": 8650000,
+    "area": 0,
+    "currency": "Swiss Franc (CHF)",
+    "languages": [
+      "German"
+    ],
+    "language": "German",
+    "timezone": "UTC+1",
+    "timezones": [
+      "UTC+1"
+    ],
+    "flag_emoji": "",
+    "flag_svg": "",
+    "flag_png": "",
+    "coat_of_arms": "",
+    "maps_google": "",
+    "maps_osm": "",
+    "landlocked": false,
+    "borders": [],
+    "driving_side": "right",
+    "calling_code": "",
+    "safety_level": "safe",
+    "budget_per_day": {
+      "budget": "120-160",
+      "midrange": "200-300",
+      "luxury": "550+"
+    },
+    "best_time_to_visit": "Jun-Sep, Dec-Mar",
+    "latlng": [
+      0,
+      0
+    ],
+    "capital_latlng": [
+      0,
+      0
+    ],
+    "un_member": true,
+    "independent": true,
+    "featured": true
+  },
+  {
+    "name": "Turkey",
+    "slug": "turkey",
+    "official_name": "Turkey",
+    "cca2": "",
+    "cca3": "",
+    "region": "Europe",
+    "subregion": "Western Asia",
+    "region_slug": "europe",
+    "capital": "Ankara",
+    "population": 84340000,
+    "area": 0,
+    "currency": "Turkish Lira (TRY)",
+    "languages": [
+      "Turkish"
+    ],
+    "language": "Turkish",
+    "timezone": "UTC+3",
+    "timezones": [
+      "UTC+3"
+    ],
+    "flag_emoji": "",
+    "flag_svg": "",
+    "flag_png": "",
+    "coat_of_arms": "",
+    "maps_google": "",
+    "maps_osm": "",
+    "landlocked": false,
+    "borders": [],
+    "driving_side": "right",
+    "calling_code": "",
+    "safety_level": "caution",
+    "budget_per_day": {
+      "budget": "35-50",
+      "midrange": "70-120",
+      "luxury": "200+"
+    },
+    "best_time_to_visit": "Apr-May, Sep-Nov",
+    "latlng": [
+      0,
+      0
+    ],
+    "capital_latlng": [
+      0,
+      0
+    ],
+    "un_member": true,
+    "independent": true,
+    "featured": true
+  },
+  {
+    "name": "Ukraine",
+    "slug": "ukraine",
+    "official_name": "Ukraine",
+    "cca2": "",
+    "cca3": "",
+    "region": "Europe",
+    "subregion": "Eastern Europe",
+    "region_slug": "europe",
+    "capital": "Kyiv",
+    "population": 43730000,
+    "area": 0,
+    "currency": "Ukrainian Hryvnia (UAH)",
+    "languages": [
+      "Ukrainian"
+    ],
+    "language": "Ukrainian",
+    "timezone": "UTC+2",
+    "timezones": [
+      "UTC+2"
+    ],
+    "flag_emoji": "",
+    "flag_svg": "",
+    "flag_png": "",
+    "coat_of_arms": "",
+    "maps_google": "",
+    "maps_osm": "",
+    "landlocked": false,
+    "borders": [],
+    "driving_side": "right",
+    "calling_code": "",
+    "safety_level": "danger",
+    "budget_per_day": {
+      "budget": "30-45",
+      "midrange": "55-90",
+      "luxury": "150+"
+    },
+    "best_time_to_visit": "May-Sep",
+    "latlng": [
+      0,
+      0
+    ],
+    "capital_latlng": [
+      0,
+      0
+    ],
+    "un_member": true,
+    "independent": true,
+    "featured": false
+  },
+  {
+    "name": "United Kingdom",
+    "slug": "united-kingdom",
+    "official_name": "United Kingdom",
+    "cca2": "",
+    "cca3": "",
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "region_slug": "europe",
+    "capital": "London",
+    "population": 67890000,
+    "area": 0,
+    "currency": "British Pound (GBP)",
+    "languages": [
+      "English"
+    ],
+    "language": "English",
+    "timezone": "UTC+0",
+    "timezones": [
+      "UTC+0"
+    ],
+    "flag_emoji": "",
+    "flag_svg": "",
+    "flag_png": "",
+    "coat_of_arms": "",
+    "maps_google": "",
+    "maps_osm": "",
+    "landlocked": false,
+    "borders": [],
+    "driving_side": "right",
+    "calling_code": "",
+    "safety_level": "caution",
+    "budget_per_day": {
+      "budget": "80-110",
+      "midrange": "150-220",
+      "luxury": "400+"
+    },
+    "best_time_to_visit": "May-Sep",
+    "latlng": [
+      0,
+      0
+    ],
+    "capital_latlng": [
+      0,
+      0
+    ],
+    "un_member": true,
+    "independent": true,
+    "featured": true
+  }
+]

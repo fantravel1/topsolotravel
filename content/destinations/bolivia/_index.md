@@ -40,10 +40,18 @@ safety:
     - "Walking alone in unfamiliar areas late at night"
 
 topCities:
+  - name: "La Paz"
+    url: "/destinations/bolivia/la-paz/"
+    description: "Popular destination for solo travelers with great infrastructure."
+    highlights: ["altitude", "witches market", "cable cars"]
   - name: "Sucre"
-    url: "/destinations/bolivia/"
-    description: "The capital city offers diverse experiences for solo travelers."
-    highlights: ["culture", "food", "history"]
+    url: "/destinations/bolivia/sucre/"
+    description: "Popular destination for solo travelers with great infrastructure."
+    highlights: ["white city", "colonial", "dinosaur tracks"]
+  - name: "Uyuni"
+    url: "/destinations/bolivia/uyuni/"
+    description: "Popular destination for solo travelers with great infrastructure."
+    highlights: ["salt flats", "desert", "photography"]
 
 
 budget:

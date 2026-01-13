@@ -1,0 +1,20 @@
+{
+  "name": "Gdansk",
+  "slug": "gdansk",
+  "country": "Poland",
+  "country_slug": "poland",
+  "region": "Europe",
+  "lat": 54.352,
+  "lng": 18.6466,
+  "population": 470907,
+  "safety_level": "safe",
+  "budget_per_day": "40-75",
+  "highlights": [
+    "old town",
+    "amber",
+    "beaches"
+  ],
+  "best_time_to_visit": "May-Sep",
+  "airport_code": "GDN",
+  "image_search": "Gdansk Poland travel"
+}

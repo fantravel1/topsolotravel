@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Ulaanbaatar",
+    "slug": "ulaanbaatar",
+    "country": "Mongolia",
+    "country_slug": "mongolia",
+    "region": "Asia",
+    "lat": 47.9212,
+    "lng": 106.9062,
+    "population": 1514000,
+    "safety_level": "caution",
+    "budget_per_day": "40-75",
+    "highlights": [
+      "nomads",
+      "gobi",
+      "buddhism"
+    ],
+    "best_time_to_visit": "Jun-Sep",
+    "airport_code": "ULN",
+    "image_search": "Ulaanbaatar Mongolia travel"
+  }
+]

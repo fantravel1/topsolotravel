@@ -1,0 +1,20 @@
+{
+  "name": "Gothenburg",
+  "slug": "gothenburg",
+  "country": "Sweden",
+  "country_slug": "sweden",
+  "region": "Europe",
+  "lat": 57.7089,
+  "lng": 11.9746,
+  "population": 583056,
+  "safety_level": "safe",
+  "budget_per_day": "100-160",
+  "highlights": [
+    "seafood",
+    "islands",
+    "trams"
+  ],
+  "best_time_to_visit": "May-Sep",
+  "airport_code": "GOT",
+  "image_search": "Gothenburg Sweden travel"
+}

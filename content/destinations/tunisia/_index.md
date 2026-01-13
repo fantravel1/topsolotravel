@@ -41,9 +41,9 @@ safety:
 
 topCities:
   - name: "Tunis"
-    url: "/destinations/tunisia/"
-    description: "The capital city offers diverse experiences for solo travelers."
-    highlights: ["culture", "food", "history"]
+    url: "/destinations/tunisia/tunis/"
+    description: "Popular destination for solo travelers with great infrastructure."
+    highlights: ["medina", "carthage", "beaches"]
 
 
 budget:

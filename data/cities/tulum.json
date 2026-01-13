@@ -1,0 +1,20 @@
+{
+  "name": "Tulum",
+  "slug": "tulum",
+  "country": "Mexico",
+  "country_slug": "mexico",
+  "region": "Americas",
+  "lat": 20.2114,
+  "lng": -87.4654,
+  "population": 18233,
+  "safety_level": "safe",
+  "budget_per_day": "60-120",
+  "highlights": [
+    "ruins",
+    "cenotes",
+    "wellness"
+  ],
+  "best_time_to_visit": "Dec-Apr",
+  "airport_code": "CUN",
+  "image_search": "Tulum Mexico travel"
+}

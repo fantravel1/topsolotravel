@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Batumi",
+    "slug": "batumi",
+    "country": "Georgia",
+    "country_slug": "georgia",
+    "region": "Asia",
+    "lat": 41.6168,
+    "lng": 41.6367,
+    "population": 169095,
+    "safety_level": "safe",
+    "budget_per_day": "30-55",
+    "highlights": [
+      "beach",
+      "nightlife",
+      "architecture"
+    ],
+    "best_time_to_visit": "Jun-Sep",
+    "airport_code": "BUS",
+    "image_search": "Batumi Georgia travel"
+  },
+  {
+    "name": "Tbilisi",
+    "slug": "tbilisi",
+    "country": "Georgia",
+    "country_slug": "georgia",
+    "region": "Asia",
+    "lat": 41.7151,
+    "lng": 44.8271,
+    "population": 1171100,
+    "safety_level": "safe",
+    "budget_per_day": "35-65",
+    "highlights": [
+      "wine",
+      "old town",
+      "sulfur baths"
+    ],
+    "best_time_to_visit": "May-Jun, Sep-Oct",
+    "airport_code": "TBS",
+    "image_search": "Tbilisi Georgia travel"
+  }
+]

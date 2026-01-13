@@ -1,0 +1,50 @@
+{
+  "name": "Nauru",
+  "slug": "nauru",
+  "official_name": "Nauru",
+  "cca2": "",
+  "cca3": "",
+  "region": "Oceania",
+  "subregion": "Micronesia",
+  "region_slug": "oceania",
+  "capital": "Yaren",
+  "population": 10834,
+  "area": 0,
+  "currency": "Australian Dollar (AUD)",
+  "languages": [
+    "Nauruan"
+  ],
+  "language": "Nauruan",
+  "timezone": "UTC+12",
+  "timezones": [
+    "UTC+12"
+  ],
+  "flag_emoji": "",
+  "flag_svg": "",
+  "flag_png": "",
+  "coat_of_arms": "",
+  "maps_google": "",
+  "maps_osm": "",
+  "landlocked": false,
+  "borders": [],
+  "driving_side": "right",
+  "calling_code": "",
+  "safety_level": "safe",
+  "budget_per_day": {
+    "budget": "100-140",
+    "midrange": "180-260",
+    "luxury": "400+"
+  },
+  "best_time_to_visit": "Year-round",
+  "latlng": [
+    0,
+    0
+  ],
+  "capital_latlng": [
+    0,
+    0
+  ],
+  "un_member": true,
+  "independent": true,
+  "featured": false
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Palawan",
+  "slug": "palawan",
+  "country": "Philippines",
+  "country_slug": "philippines",
+  "region": "Asia",
+  "lat": 10.0,
+  "lng": 118.75,
+  "population": 849469,
+  "safety_level": "safe",
+  "budget_per_day": "35-70",
+  "highlights": [
+    "el nido",
+    "underground river",
+    "beaches"
+  ],
+  "best_time_to_visit": "Dec-May",
+  "airport_code": "PPS",
+  "image_search": "Palawan Philippines travel"
+}

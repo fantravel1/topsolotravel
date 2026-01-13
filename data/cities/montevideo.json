@@ -1,0 +1,20 @@
+{
+  "name": "Montevideo",
+  "slug": "montevideo",
+  "country": "Uruguay",
+  "country_slug": "uruguay",
+  "region": "Americas",
+  "lat": -34.9011,
+  "lng": -56.1645,
+  "population": 1319108,
+  "safety_level": "safe",
+  "budget_per_day": "50-90",
+  "highlights": [
+    "old town",
+    "beaches",
+    "mate"
+  ],
+  "best_time_to_visit": "Dec-Mar",
+  "airport_code": "MVD",
+  "image_search": "Montevideo Uruguay travel"
+}

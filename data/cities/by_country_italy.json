@@ -1,5 +1,65 @@
 [
   {
+    "name": "Amalfi",
+    "slug": "amalfi",
+    "country": "Italy",
+    "country_slug": "italy",
+    "region": "Europe",
+    "lat": 40.634,
+    "lng": 14.6027,
+    "population": 5145,
+    "safety_level": "safe",
+    "budget_per_day": "100-180",
+    "highlights": [
+      "coast",
+      "lemons",
+      "beaches"
+    ],
+    "best_time_to_visit": "Apr-Jun, Sep-Oct",
+    "airport_code": "NAP",
+    "image_search": "Amalfi Italy travel"
+  },
+  {
+    "name": "Bologna",
+    "slug": "bologna",
+    "country": "Italy",
+    "country_slug": "italy",
+    "region": "Europe",
+    "lat": 44.4949,
+    "lng": 11.3426,
+    "population": 391671,
+    "safety_level": "safe",
+    "budget_per_day": "60-110",
+    "highlights": [
+      "food",
+      "porticos",
+      "university"
+    ],
+    "best_time_to_visit": "Apr-Jun, Sep-Oct",
+    "airport_code": "BLQ",
+    "image_search": "Bologna Italy travel"
+  },
+  {
+    "name": "Cinque Terre",
+    "slug": "cinque-terre",
+    "country": "Italy",
+    "country_slug": "italy",
+    "region": "Europe",
+    "lat": 44.127,
+    "lng": 9.71,
+    "population": 4000,
+    "safety_level": "safe",
+    "budget_per_day": "80-150",
+    "highlights": [
+      "colorful villages",
+      "hiking",
+      "sea"
+    ],
+    "best_time_to_visit": "Apr-Jun, Sep-Oct",
+    "airport_code": "GOA",
+    "image_search": "Cinque Terre Italy travel"
+  },
+  {
     "name": "Florence",
     "slug": "florence",
     "country": "Italy",
@@ -18,6 +78,86 @@
     "best_time_to_visit": "Apr-Jun, Sep-Oct",
     "airport_code": "FLR",
     "image_search": "Florence Italy travel"
+  },
+  {
+    "name": "Genoa",
+    "slug": "genoa",
+    "country": "Italy",
+    "country_slug": "italy",
+    "region": "Europe",
+    "lat": 44.4056,
+    "lng": 8.9463,
+    "population": 580097,
+    "safety_level": "safe",
+    "budget_per_day": "60-100",
+    "highlights": [
+      "harbour",
+      "pesto",
+      "aquarium"
+    ],
+    "best_time_to_visit": "Apr-Oct",
+    "airport_code": "GOA",
+    "image_search": "Genoa Italy travel"
+  },
+  {
+    "name": "Milan",
+    "slug": "milan",
+    "country": "Italy",
+    "country_slug": "italy",
+    "region": "Europe",
+    "lat": 45.4642,
+    "lng": 9.19,
+    "population": 1378689,
+    "safety_level": "safe",
+    "budget_per_day": "80-150",
+    "highlights": [
+      "fashion",
+      "duomo",
+      "food"
+    ],
+    "best_time_to_visit": "Apr-Jun, Sep-Oct",
+    "airport_code": "MXP",
+    "image_search": "Milan Italy travel"
+  },
+  {
+    "name": "Naples",
+    "slug": "naples",
+    "country": "Italy",
+    "country_slug": "italy",
+    "region": "Europe",
+    "lat": 40.8518,
+    "lng": 14.2681,
+    "population": 967069,
+    "safety_level": "caution",
+    "budget_per_day": "50-100",
+    "highlights": [
+      "pizza",
+      "pompeii",
+      "coast"
+    ],
+    "best_time_to_visit": "Apr-Jun, Sep-Oct",
+    "airport_code": "NAP",
+    "image_search": "Naples Italy travel"
+  },
+  {
+    "name": "Palermo",
+    "slug": "palermo",
+    "country": "Italy",
+    "country_slug": "italy",
+    "region": "Europe",
+    "lat": 38.1157,
+    "lng": 13.3615,
+    "population": 657561,
+    "safety_level": "caution",
+    "budget_per_day": "50-90",
+    "highlights": [
+      "street food",
+      "history",
+      "beaches"
+    ],
+    "best_time_to_visit": "Apr-Jun, Sep-Oct",
+    "airport_code": "PMO",
+    "image_search": "Palermo Italy travel"
   },
   {
     "name": "Rome",
@@ -40,6 +180,26 @@
     "image_search": "Rome Italy travel"
   },
   {
+    "name": "Turin",
+    "slug": "turin",
+    "country": "Italy",
+    "country_slug": "italy",
+    "region": "Europe",
+    "lat": 45.0703,
+    "lng": 7.6869,
+    "population": 875698,
+    "safety_level": "safe",
+    "budget_per_day": "60-110",
+    "highlights": [
+      "chocolate",
+      "shroud",
+      "cars"
+    ],
+    "best_time_to_visit": "Apr-Jun, Sep-Oct",
+    "airport_code": "TRN",
+    "image_search": "Turin Italy travel"
+  },
+  {
     "name": "Venice",
     "slug": "venice",
     "country": "Italy",
@@ -58,5 +218,25 @@
     "best_time_to_visit": "Apr-Jun, Sep-Oct",
     "airport_code": "VCE",
     "image_search": "Venice Italy travel"
+  },
+  {
+    "name": "Verona",
+    "slug": "verona",
+    "country": "Italy",
+    "country_slug": "italy",
+    "region": "Europe",
+    "lat": 45.4384,
+    "lng": 10.9916,
+    "population": 257831,
+    "safety_level": "safe",
+    "budget_per_day": "70-120",
+    "highlights": [
+      "romeo juliet",
+      "arena",
+      "wine"
+    ],
+    "best_time_to_visit": "Apr-Jun, Sep-Oct",
+    "airport_code": "VRN",
+    "image_search": "Verona Italy travel"
   }
 ]

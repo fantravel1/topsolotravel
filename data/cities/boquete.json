@@ -1,0 +1,20 @@
+{
+  "name": "Boquete",
+  "slug": "boquete",
+  "country": "Panama",
+  "country_slug": "panama",
+  "region": "Americas",
+  "lat": 8.7804,
+  "lng": -82.4411,
+  "population": 6901,
+  "safety_level": "safe",
+  "budget_per_day": "45-80",
+  "highlights": [
+    "coffee",
+    "hiking",
+    "cloud forest"
+  ],
+  "best_time_to_visit": "Dec-Apr",
+  "airport_code": "DAV",
+  "image_search": "Boquete Panama travel"
+}

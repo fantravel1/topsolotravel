@@ -44,6 +44,14 @@ topCities:
     url: "/destinations/south-africa/cape-town/"
     description: "Popular destination for solo travelers with great infrastructure."
     highlights: ["table mountain", "wine", "beaches"]
+  - name: "Durban"
+    url: "/destinations/south-africa/durban/"
+    description: "Popular destination for solo travelers with great infrastructure."
+    highlights: ["beaches", "curry", "surfing"]
+  - name: "Johannesburg"
+    url: "/destinations/south-africa/johannesburg/"
+    description: "Popular destination for solo travelers with great infrastructure."
+    highlights: ["apartheid museum", "soweto", "food"]
 
 
 budget:

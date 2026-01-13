@@ -1,0 +1,20 @@
+{
+  "name": "Montpellier",
+  "slug": "montpellier",
+  "country": "France",
+  "country_slug": "france",
+  "region": "Europe",
+  "lat": 43.6108,
+  "lng": 3.8767,
+  "population": 285121,
+  "safety_level": "safe",
+  "budget_per_day": "60-110",
+  "highlights": [
+    "old town",
+    "beaches",
+    "students"
+  ],
+  "best_time_to_visit": "Apr-Oct",
+  "airport_code": "MPL",
+  "image_search": "Montpellier France travel"
+}

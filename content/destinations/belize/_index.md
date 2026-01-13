@@ -40,10 +40,14 @@ safety:
     - "Walking alone in unfamiliar areas late at night"
 
 topCities:
-  - name: "Belmopan"
-    url: "/destinations/belize/"
-    description: "The capital city offers diverse experiences for solo travelers."
-    highlights: ["culture", "food", "history"]
+  - name: "Caye Caulker"
+    url: "/destinations/belize/caye-caulker/"
+    description: "Popular destination for solo travelers with great infrastructure."
+    highlights: ["go slow", "snorkeling", "laid back"]
+  - name: "San Ignacio"
+    url: "/destinations/belize/san-ignacio/"
+    description: "Popular destination for solo travelers with great infrastructure."
+    highlights: ["ruins", "caves", "jungle"]
 
 
 budget:

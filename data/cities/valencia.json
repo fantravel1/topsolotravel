@@ -1,0 +1,20 @@
+{
+  "name": "Valencia",
+  "slug": "valencia",
+  "country": "Spain",
+  "country_slug": "spain",
+  "region": "Europe",
+  "lat": 39.4699,
+  "lng": -0.3763,
+  "population": 791413,
+  "safety_level": "safe",
+  "budget_per_day": "55-100",
+  "highlights": [
+    "paella",
+    "city of arts",
+    "beaches"
+  ],
+  "best_time_to_visit": "Apr-Jun, Sep-Oct",
+  "airport_code": "VLC",
+  "image_search": "Valencia Spain travel"
+}

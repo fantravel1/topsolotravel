@@ -40,10 +40,14 @@ safety:
     - "Walking alone in unfamiliar areas late at night"
 
 topCities:
+  - name: "Luang Prabang"
+    url: "/destinations/laos/luang-prabang/"
+    description: "Popular destination for solo travelers with great infrastructure."
+    highlights: ["temples", "monks", "waterfalls"]
   - name: "Vientiane"
-    url: "/destinations/laos/"
-    description: "The capital city offers diverse experiences for solo travelers."
-    highlights: ["culture", "food", "history"]
+    url: "/destinations/laos/vientiane/"
+    description: "Popular destination for solo travelers with great infrastructure."
+    highlights: ["temples", "french colonial", "mekong"]
 
 
 budget:

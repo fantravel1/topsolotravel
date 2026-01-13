@@ -1,0 +1,20 @@
+{
+  "name": "Playa del Carmen",
+  "slug": "playa-del-carmen",
+  "country": "Mexico",
+  "country_slug": "mexico",
+  "region": "Americas",
+  "lat": 20.6296,
+  "lng": -87.0739,
+  "population": 149923,
+  "safety_level": "caution",
+  "budget_per_day": "50-100",
+  "highlights": [
+    "beaches",
+    "cenotes",
+    "quinta avenida"
+  ],
+  "best_time_to_visit": "Dec-Apr",
+  "airport_code": "CUN",
+  "image_search": "Playa del Carmen Mexico travel"
+}

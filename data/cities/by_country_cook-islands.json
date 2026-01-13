@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Rarotonga",
+    "slug": "rarotonga",
+    "country": "Cook Islands",
+    "country_slug": "cook-islands",
+    "region": "Oceania",
+    "lat": -21.2367,
+    "lng": -159.7777,
+    "population": 13007,
+    "safety_level": "safe",
+    "budget_per_day": "90-160",
+    "highlights": [
+      "beaches",
+      "lagoon",
+      "polynesian"
+    ],
+    "best_time_to_visit": "Apr-Nov",
+    "airport_code": "RAR",
+    "image_search": "Rarotonga Cook Islands travel"
+  }
+]

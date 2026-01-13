@@ -1,0 +1,20 @@
+{
+  "name": "Nagoya",
+  "slug": "nagoya",
+  "country": "Japan",
+  "country_slug": "japan",
+  "region": "Asia",
+  "lat": 35.1815,
+  "lng": 136.9066,
+  "population": 2320361,
+  "safety_level": "safe",
+  "budget_per_day": "60-110",
+  "highlights": [
+    "castle",
+    "cars",
+    "food"
+  ],
+  "best_time_to_visit": "Mar-May, Sep-Nov",
+  "airport_code": "NGO",
+  "image_search": "Nagoya Japan travel"
+}

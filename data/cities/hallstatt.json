@@ -1,0 +1,20 @@
+{
+  "name": "Hallstatt",
+  "slug": "hallstatt",
+  "country": "Austria",
+  "country_slug": "austria",
+  "region": "Europe",
+  "lat": 47.5622,
+  "lng": 13.6493,
+  "population": 778,
+  "safety_level": "safe",
+  "budget_per_day": "90-160",
+  "highlights": [
+    "lake",
+    "mountains",
+    "salt mines"
+  ],
+  "best_time_to_visit": "May-Oct",
+  "airport_code": "SZG",
+  "image_search": "Hallstatt Austria travel"
+}

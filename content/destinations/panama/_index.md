@@ -40,10 +40,18 @@ safety:
     - "Walking alone in unfamiliar areas late at night"
 
 topCities:
+  - name: "Bocas del Toro"
+    url: "/destinations/panama/bocas-del-toro/"
+    description: "Popular destination for solo travelers with great infrastructure."
+    highlights: ["beaches", "diving", "party"]
+  - name: "Boquete"
+    url: "/destinations/panama/boquete/"
+    description: "Popular destination for solo travelers with great infrastructure."
+    highlights: ["coffee", "hiking", "cloud forest"]
   - name: "Panama City"
-    url: "/destinations/panama/"
-    description: "The capital city offers diverse experiences for solo travelers."
-    highlights: ["culture", "food", "history"]
+    url: "/destinations/panama/panama-city/"
+    description: "Popular destination for solo travelers with great infrastructure."
+    highlights: ["canal", "casco viejo", "skyline"]
 
 
 budget:

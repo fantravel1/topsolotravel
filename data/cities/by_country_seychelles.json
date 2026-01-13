@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Victoria",
+    "slug": "victoria",
+    "country": "Seychelles",
+    "country_slug": "seychelles",
+    "region": "Africa",
+    "lat": -4.6191,
+    "lng": 55.4513,
+    "population": 26450,
+    "safety_level": "safe",
+    "budget_per_day": "100-200",
+    "highlights": [
+      "beaches",
+      "nature",
+      "diving"
+    ],
+    "best_time_to_visit": "Apr-May, Oct-Nov",
+    "airport_code": "SEZ",
+    "image_search": "Victoria Seychelles travel"
+  }
+]

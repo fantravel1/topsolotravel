@@ -1,0 +1,20 @@
+{
+  "name": "Stockholm",
+  "slug": "stockholm",
+  "country": "Sweden",
+  "country_slug": "sweden",
+  "region": "Europe",
+  "lat": 59.3293,
+  "lng": 18.0686,
+  "population": 975904,
+  "safety_level": "safe",
+  "budget_per_day": "110-180",
+  "highlights": [
+    "gamla stan",
+    "museums",
+    "islands"
+  ],
+  "best_time_to_visit": "May-Sep",
+  "airport_code": "ARN",
+  "image_search": "Stockholm Sweden travel"
+}

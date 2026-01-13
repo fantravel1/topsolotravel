@@ -41,9 +41,13 @@ safety:
 
 topCities:
   - name: "Jerusalem"
-    url: "/destinations/israel/"
-    description: "The capital city offers diverse experiences for solo travelers."
-    highlights: ["culture", "food", "history"]
+    url: "/destinations/israel/jerusalem/"
+    description: "Popular destination for solo travelers with great infrastructure."
+    highlights: ["old city", "holy sites", "history"]
+  - name: "Tel Aviv"
+    url: "/destinations/israel/tel-aviv/"
+    description: "Popular destination for solo travelers with great infrastructure."
+    highlights: ["beaches", "nightlife", "bauhaus"]
 
 
 budget:

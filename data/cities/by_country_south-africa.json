@@ -18,5 +18,45 @@
     "best_time_to_visit": "Nov-Mar",
     "airport_code": "CPT",
     "image_search": "Cape Town South Africa travel"
+  },
+  {
+    "name": "Durban",
+    "slug": "durban",
+    "country": "South Africa",
+    "country_slug": "south-africa",
+    "region": "Africa",
+    "lat": -29.8587,
+    "lng": 31.0218,
+    "population": 595061,
+    "safety_level": "caution",
+    "budget_per_day": "40-80",
+    "highlights": [
+      "beaches",
+      "curry",
+      "surfing"
+    ],
+    "best_time_to_visit": "Apr-Sep",
+    "airport_code": "DUR",
+    "image_search": "Durban South Africa travel"
+  },
+  {
+    "name": "Johannesburg",
+    "slug": "johannesburg",
+    "country": "South Africa",
+    "country_slug": "south-africa",
+    "region": "Africa",
+    "lat": -26.2041,
+    "lng": 28.0473,
+    "population": 957441,
+    "safety_level": "caution",
+    "budget_per_day": "45-90",
+    "highlights": [
+      "apartheid museum",
+      "soweto",
+      "food"
+    ],
+    "best_time_to_visit": "May-Sep",
+    "airport_code": "JNB",
+    "image_search": "Johannesburg South Africa travel"
   }
 ]

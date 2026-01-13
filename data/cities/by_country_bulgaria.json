@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Sofia",
+    "slug": "sofia",
+    "country": "Bulgaria",
+    "country_slug": "bulgaria",
+    "region": "Europe",
+    "lat": 42.6977,
+    "lng": 23.3219,
+    "population": 1268000,
+    "safety_level": "safe",
+    "budget_per_day": "35-65",
+    "highlights": [
+      "history",
+      "mountains",
+      "nightlife"
+    ],
+    "best_time_to_visit": "May-Sep",
+    "airport_code": "SOF",
+    "image_search": "Sofia Bulgaria travel"
+  }
+]

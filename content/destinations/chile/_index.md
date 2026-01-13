@@ -40,10 +40,22 @@ safety:
     - "Walking alone in unfamiliar areas late at night"
 
 topCities:
+  - name: "Puerto Natales"
+    url: "/destinations/chile/puerto-natales/"
+    description: "Popular destination for solo travelers with great infrastructure."
+    highlights: ["torres del paine", "hiking", "glaciers"]
+  - name: "San Pedro de Atacama"
+    url: "/destinations/chile/san-pedro-de-atacama/"
+    description: "Popular destination for solo travelers with great infrastructure."
+    highlights: ["desert", "geysers", "stars"]
   - name: "Santiago"
-    url: "/destinations/chile/"
-    description: "The capital city offers diverse experiences for solo travelers."
-    highlights: ["culture", "food", "history"]
+    url: "/destinations/chile/santiago/"
+    description: "Popular destination for solo travelers with great infrastructure."
+    highlights: ["wine", "andes", "food"]
+  - name: "Valparaiso"
+    url: "/destinations/chile/valparaiso/"
+    description: "Popular destination for solo travelers with great infrastructure."
+    highlights: ["street art", "hills", "port"]
 
 
 budget:

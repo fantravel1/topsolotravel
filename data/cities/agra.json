@@ -1,0 +1,20 @@
+{
+  "name": "Agra",
+  "slug": "agra",
+  "country": "India",
+  "country_slug": "india",
+  "region": "Asia",
+  "lat": 27.1767,
+  "lng": 78.0081,
+  "population": 1746467,
+  "safety_level": "caution",
+  "budget_per_day": "20-40",
+  "highlights": [
+    "taj mahal",
+    "fort",
+    "food"
+  ],
+  "best_time_to_visit": "Oct-Mar",
+  "airport_code": "AGR",
+  "image_search": "Agra India travel"
+}

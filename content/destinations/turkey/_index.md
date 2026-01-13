@@ -40,10 +40,22 @@ safety:
     - "Walking alone in unfamiliar areas late at night"
 
 topCities:
-  - name: "Istanbul"
-    url: "/destinations/turkey/istanbul/"
+  - name: "Ankara"
+    url: "/destinations/turkey/ankara/"
     description: "Popular destination for solo travelers with great infrastructure."
-    highlights: ["hagia sophia", "bazaars", "bosphorus"]
+    highlights: ["museums", "history", "capital"]
+  - name: "Antalya"
+    url: "/destinations/turkey/antalya/"
+    description: "Popular destination for solo travelers with great infrastructure."
+    highlights: ["beaches", "old town", "ruins"]
+  - name: "Bodrum"
+    url: "/destinations/turkey/bodrum/"
+    description: "Popular destination for solo travelers with great infrastructure."
+    highlights: ["beaches", "nightlife", "castle"]
+  - name: "Cappadocia"
+    url: "/destinations/turkey/cappadocia/"
+    description: "Popular destination for solo travelers with great infrastructure."
+    highlights: ["balloons", "caves", "fairy chimneys"]
 
 
 budget:

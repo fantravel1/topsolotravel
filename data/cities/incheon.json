@@ -1,0 +1,20 @@
+{
+  "name": "Incheon",
+  "slug": "incheon",
+  "country": "South Korea",
+  "country_slug": "south-korea",
+  "region": "Asia",
+  "lat": 37.4563,
+  "lng": 126.7052,
+  "population": 2942828,
+  "safety_level": "safe",
+  "budget_per_day": "55-100",
+  "highlights": [
+    "chinatown",
+    "beaches",
+    "airport"
+  ],
+  "best_time_to_visit": "Apr-Jun, Sep-Nov",
+  "airport_code": "ICN",
+  "image_search": "Incheon South Korea travel"
+}

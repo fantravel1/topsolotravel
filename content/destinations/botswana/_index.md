@@ -41,9 +41,9 @@ safety:
 
 topCities:
   - name: "Gaborone"
-    url: "/destinations/botswana/"
-    description: "The capital city offers diverse experiences for solo travelers."
-    highlights: ["culture", "food", "history"]
+    url: "/destinations/botswana/gaborone/"
+    description: "Popular destination for solo travelers with great infrastructure."
+    highlights: ["safaris", "nature", "diamonds"]
 
 
 budget:

@@ -41,9 +41,13 @@ safety:
 
 topCities:
   - name: "Montevideo"
-    url: "/destinations/uruguay/"
-    description: "The capital city offers diverse experiences for solo travelers."
-    highlights: ["culture", "food", "history"]
+    url: "/destinations/uruguay/montevideo/"
+    description: "Popular destination for solo travelers with great infrastructure."
+    highlights: ["old town", "beaches", "mate"]
+  - name: "Punta del Este"
+    url: "/destinations/uruguay/punta-del-este/"
+    description: "Popular destination for solo travelers with great infrastructure."
+    highlights: ["beaches", "nightlife", "luxury"]
 
 
 budget:

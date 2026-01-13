@@ -1,0 +1,62 @@
+[
+  {
+    "name": "La Paz",
+    "slug": "la-paz",
+    "country": "Bolivia",
+    "country_slug": "bolivia",
+    "region": "Americas",
+    "lat": -16.4897,
+    "lng": -68.1193,
+    "population": 789585,
+    "safety_level": "caution",
+    "budget_per_day": "25-50",
+    "highlights": [
+      "altitude",
+      "witches market",
+      "cable cars"
+    ],
+    "best_time_to_visit": "May-Oct",
+    "airport_code": "LPB",
+    "image_search": "La Paz Bolivia travel"
+  },
+  {
+    "name": "Sucre",
+    "slug": "sucre",
+    "country": "Bolivia",
+    "country_slug": "bolivia",
+    "region": "Americas",
+    "lat": -19.0196,
+    "lng": -65.2619,
+    "population": 300000,
+    "safety_level": "safe",
+    "budget_per_day": "25-45",
+    "highlights": [
+      "white city",
+      "colonial",
+      "dinosaur tracks"
+    ],
+    "best_time_to_visit": "May-Oct",
+    "airport_code": "SRE",
+    "image_search": "Sucre Bolivia travel"
+  },
+  {
+    "name": "Uyuni",
+    "slug": "uyuni",
+    "country": "Bolivia",
+    "country_slug": "bolivia",
+    "region": "Americas",
+    "lat": -20.4637,
+    "lng": -66.8253,
+    "population": 29672,
+    "safety_level": "safe",
+    "budget_per_day": "30-60",
+    "highlights": [
+      "salt flats",
+      "desert",
+      "photography"
+    ],
+    "best_time_to_visit": "May-Oct",
+    "airport_code": "UYU",
+    "image_search": "Uyuni Bolivia travel"
+  }
+]

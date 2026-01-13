@@ -41,9 +41,13 @@ safety:
 
 topCities:
   - name: "Phnom Penh"
-    url: "/destinations/cambodia/"
-    description: "The capital city offers diverse experiences for solo travelers."
-    highlights: ["culture", "food", "history"]
+    url: "/destinations/cambodia/phnom-penh/"
+    description: "Popular destination for solo travelers with great infrastructure."
+    highlights: ["palace", "history", "riverside"]
+  - name: "Siem Reap"
+    url: "/destinations/cambodia/siem-reap/"
+    description: "Popular destination for solo travelers with great infrastructure."
+    highlights: ["angkor wat", "temples", "nightlife"]
 
 
 budget:

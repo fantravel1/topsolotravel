@@ -40,10 +40,18 @@ safety:
     - "Walking alone in unfamiliar areas late at night"
 
 topCities:
+  - name: "Gothenburg"
+    url: "/destinations/sweden/gothenburg/"
+    description: "Popular destination for solo travelers with great infrastructure."
+    highlights: ["seafood", "islands", "trams"]
+  - name: "Malmo"
+    url: "/destinations/sweden/malmo/"
+    description: "Popular destination for solo travelers with great infrastructure."
+    highlights: ["bridge", "parks", "beaches"]
   - name: "Stockholm"
-    url: "/destinations/sweden/"
-    description: "The capital city offers diverse experiences for solo travelers."
-    highlights: ["culture", "food", "history"]
+    url: "/destinations/sweden/stockholm/"
+    description: "Popular destination for solo travelers with great infrastructure."
+    highlights: ["gamla stan", "museums", "islands"]
 
 
 budget:

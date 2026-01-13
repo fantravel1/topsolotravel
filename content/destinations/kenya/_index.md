@@ -41,9 +41,9 @@ safety:
 
 topCities:
   - name: "Nairobi"
-    url: "/destinations/kenya/"
-    description: "The capital city offers diverse experiences for solo travelers."
-    highlights: ["culture", "food", "history"]
+    url: "/destinations/kenya/nairobi/"
+    description: "Popular destination for solo travelers with great infrastructure."
+    highlights: ["safari", "national park", "food"]
 
 
 budget:

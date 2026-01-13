@@ -1,0 +1,20 @@
+{
+  "name": "Quebec City",
+  "slug": "quebec-city",
+  "country": "Canada",
+  "country_slug": "canada",
+  "region": "Americas",
+  "lat": 46.8139,
+  "lng": -71.208,
+  "population": 542298,
+  "safety_level": "safe",
+  "budget_per_day": "90-150",
+  "highlights": [
+    "old town",
+    "history",
+    "french culture"
+  ],
+  "best_time_to_visit": "May-Oct",
+  "airport_code": "YQB",
+  "image_search": "Quebec City Canada travel"
+}

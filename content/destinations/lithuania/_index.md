@@ -41,9 +41,9 @@ safety:
 
 topCities:
   - name: "Vilnius"
-    url: "/destinations/lithuania/"
-    description: "The capital city offers diverse experiences for solo travelers."
-    highlights: ["culture", "food", "history"]
+    url: "/destinations/lithuania/vilnius/"
+    description: "Popular destination for solo travelers with great infrastructure."
+    highlights: ["old town", "baroque", "hip"]
 
 
 budget:

@@ -48,6 +48,14 @@ topCities:
     url: "/destinations/indonesia/jakarta/"
     description: "Popular destination for solo travelers with great infrastructure."
     highlights: ["museums", "food", "history"]
+  - name: "Lombok"
+    url: "/destinations/indonesia/lombok/"
+    description: "Popular destination for solo travelers with great infrastructure."
+    highlights: ["gili islands", "beaches", "hiking"]
+  - name: "Ubud"
+    url: "/destinations/indonesia/ubud/"
+    description: "Popular destination for solo travelers with great infrastructure."
+    highlights: ["rice terraces", "yoga", "art"]
 
 
 budget:

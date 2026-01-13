@@ -41,9 +41,9 @@ safety:
 
 topCities:
   - name: "Belgrade"
-    url: "/destinations/serbia/"
-    description: "The capital city offers diverse experiences for solo travelers."
-    highlights: ["culture", "food", "history"]
+    url: "/destinations/serbia/belgrade/"
+    description: "Popular destination for solo travelers with great infrastructure."
+    highlights: ["nightlife", "history", "food"]
 
 
 budget:

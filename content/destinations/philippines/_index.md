@@ -40,10 +40,22 @@ safety:
     - "Walking alone in unfamiliar areas late at night"
 
 topCities:
+  - name: "Boracay"
+    url: "/destinations/philippines/boracay/"
+    description: "Popular destination for solo travelers with great infrastructure."
+    highlights: ["white beach", "watersports", "nightlife"]
+  - name: "Cebu"
+    url: "/destinations/philippines/cebu/"
+    description: "Popular destination for solo travelers with great infrastructure."
+    highlights: ["diving", "beaches", "lechon"]
   - name: "Manila"
-    url: "/destinations/philippines/"
-    description: "The capital city offers diverse experiences for solo travelers."
-    highlights: ["culture", "food", "history"]
+    url: "/destinations/philippines/manila/"
+    description: "Popular destination for solo travelers with great infrastructure."
+    highlights: ["intramuros", "food", "nightlife"]
+  - name: "Palawan"
+    url: "/destinations/philippines/palawan/"
+    description: "Popular destination for solo travelers with great infrastructure."
+    highlights: ["el nido", "underground river", "beaches"]
 
 
 budget:

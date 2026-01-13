@@ -1,5 +1,85 @@
 [
   {
+    "name": "Bath",
+    "slug": "bath",
+    "country": "United Kingdom",
+    "country_slug": "united-kingdom",
+    "region": "Europe",
+    "lat": 51.3758,
+    "lng": -2.3599,
+    "population": 88859,
+    "safety_level": "safe",
+    "budget_per_day": "80-140",
+    "highlights": [
+      "roman baths",
+      "architecture",
+      "history"
+    ],
+    "best_time_to_visit": "Apr-Oct",
+    "airport_code": "BRS",
+    "image_search": "Bath United Kingdom travel"
+  },
+  {
+    "name": "Belfast",
+    "slug": "belfast",
+    "country": "United Kingdom",
+    "country_slug": "united-kingdom",
+    "region": "Europe",
+    "lat": 54.5973,
+    "lng": -5.9301,
+    "population": 341877,
+    "safety_level": "safe",
+    "budget_per_day": "60-120",
+    "highlights": [
+      "titanic",
+      "history",
+      "nightlife"
+    ],
+    "best_time_to_visit": "May-Sep",
+    "airport_code": "BFS",
+    "image_search": "Belfast United Kingdom travel"
+  },
+  {
+    "name": "Bristol",
+    "slug": "bristol",
+    "country": "United Kingdom",
+    "country_slug": "united-kingdom",
+    "region": "Europe",
+    "lat": 51.4545,
+    "lng": -2.5879,
+    "population": 463400,
+    "safety_level": "safe",
+    "budget_per_day": "70-130",
+    "highlights": [
+      "street art",
+      "music",
+      "harbourside"
+    ],
+    "best_time_to_visit": "May-Sep",
+    "airport_code": "BRS",
+    "image_search": "Bristol United Kingdom travel"
+  },
+  {
+    "name": "Cambridge",
+    "slug": "cambridge",
+    "country": "United Kingdom",
+    "country_slug": "united-kingdom",
+    "region": "Europe",
+    "lat": 52.2053,
+    "lng": 0.1218,
+    "population": 145700,
+    "safety_level": "safe",
+    "budget_per_day": "80-140",
+    "highlights": [
+      "university",
+      "punting",
+      "history"
+    ],
+    "best_time_to_visit": "Apr-Oct",
+    "airport_code": "STN",
+    "image_search": "Cambridge United Kingdom travel"
+  },
+  {
     "name": "Edinburgh",
     "slug": "edinburgh",
     "country": "United Kingdom",
@@ -20,6 +100,46 @@
     "image_search": "Edinburgh United Kingdom travel"
   },
   {
+    "name": "Glasgow",
+    "slug": "glasgow",
+    "country": "United Kingdom",
+    "country_slug": "united-kingdom",
+    "region": "Europe",
+    "lat": 55.8642,
+    "lng": -4.2518,
+    "population": 626410,
+    "safety_level": "safe",
+    "budget_per_day": "70-130",
+    "highlights": [
+      "art",
+      "music",
+      "architecture"
+    ],
+    "best_time_to_visit": "May-Sep",
+    "airport_code": "GLA",
+    "image_search": "Glasgow United Kingdom travel"
+  },
+  {
+    "name": "Liverpool",
+    "slug": "liverpool",
+    "country": "United Kingdom",
+    "country_slug": "united-kingdom",
+    "region": "Europe",
+    "lat": 53.4084,
+    "lng": -2.9916,
+    "population": 496784,
+    "safety_level": "safe",
+    "budget_per_day": "60-120",
+    "highlights": [
+      "beatles",
+      "football",
+      "culture"
+    ],
+    "best_time_to_visit": "May-Sep",
+    "airport_code": "LPL",
+    "image_search": "Liverpool United Kingdom travel"
+  },
+  {
     "name": "London",
     "slug": "london",
     "country": "United Kingdom",
@@ -38,5 +158,65 @@
     "best_time_to_visit": "May-Sep",
     "airport_code": "LHR",
     "image_search": "London United Kingdom travel"
+  },
+  {
+    "name": "Manchester",
+    "slug": "manchester",
+    "country": "United Kingdom",
+    "country_slug": "united-kingdom",
+    "region": "Europe",
+    "lat": 53.4808,
+    "lng": -2.2426,
+    "population": 547627,
+    "safety_level": "safe",
+    "budget_per_day": "70-130",
+    "highlights": [
+      "music",
+      "football",
+      "nightlife"
+    ],
+    "best_time_to_visit": "May-Sep",
+    "airport_code": "MAN",
+    "image_search": "Manchester United Kingdom travel"
+  },
+  {
+    "name": "Oxford",
+    "slug": "oxford",
+    "country": "United Kingdom",
+    "country_slug": "united-kingdom",
+    "region": "Europe",
+    "lat": 51.752,
+    "lng": -1.2577,
+    "population": 152450,
+    "safety_level": "safe",
+    "budget_per_day": "80-140",
+    "highlights": [
+      "university",
+      "history",
+      "pubs"
+    ],
+    "best_time_to_visit": "Apr-Oct",
+    "airport_code": "LHR",
+    "image_search": "Oxford United Kingdom travel"
+  },
+  {
+    "name": "York",
+    "slug": "york",
+    "country": "United Kingdom",
+    "country_slug": "united-kingdom",
+    "region": "Europe",
+    "lat": 53.96,
+    "lng": -1.0873,
+    "population": 210618,
+    "safety_level": "safe",
+    "budget_per_day": "70-130",
+    "highlights": [
+      "minster",
+      "walls",
+      "history"
+    ],
+    "best_time_to_visit": "Apr-Oct",
+    "airport_code": "LBA",
+    "image_search": "York United Kingdom travel"
   }
 ]

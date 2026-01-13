@@ -1,0 +1,20 @@
+{
+  "name": "Manila",
+  "slug": "manila",
+  "country": "Philippines",
+  "country_slug": "philippines",
+  "region": "Asia",
+  "lat": 14.5995,
+  "lng": 120.9842,
+  "population": 1780148,
+  "safety_level": "caution",
+  "budget_per_day": "30-60",
+  "highlights": [
+    "intramuros",
+    "food",
+    "nightlife"
+  ],
+  "best_time_to_visit": "Dec-May",
+  "airport_code": "MNL",
+  "image_search": "Manila Philippines travel"
+}

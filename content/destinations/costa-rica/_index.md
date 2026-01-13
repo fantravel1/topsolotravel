@@ -40,10 +40,22 @@ safety:
     - "Walking alone in unfamiliar areas late at night"
 
 topCities:
+  - name: "La Fortuna"
+    url: "/destinations/costa-rica/la-fortuna/"
+    description: "Popular destination for solo travelers with great infrastructure."
+    highlights: ["arenal volcano", "hot springs", "adventure"]
+  - name: "Manuel Antonio"
+    url: "/destinations/costa-rica/manuel-antonio/"
+    description: "Popular destination for solo travelers with great infrastructure."
+    highlights: ["national park", "beaches", "wildlife"]
+  - name: "Monteverde"
+    url: "/destinations/costa-rica/monteverde/"
+    description: "Popular destination for solo travelers with great infrastructure."
+    highlights: ["cloud forest", "zip lines", "wildlife"]
   - name: "San Jose"
-    url: "/destinations/costa-rica/"
-    description: "The capital city offers diverse experiences for solo travelers."
-    highlights: ["culture", "food", "history"]
+    url: "/destinations/costa-rica/san-jose/"
+    description: "Popular destination for solo travelers with great infrastructure."
+    highlights: ["museums", "markets", "gateway"]
 
 
 budget:

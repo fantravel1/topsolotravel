@@ -1,0 +1,20 @@
+{
+  "name": "Zurich",
+  "slug": "zurich",
+  "country": "Switzerland",
+  "country_slug": "switzerland",
+  "region": "Europe",
+  "lat": 47.3769,
+  "lng": 8.5417,
+  "population": 415367,
+  "safety_level": "safe",
+  "budget_per_day": "130-200",
+  "highlights": [
+    "finance",
+    "lake",
+    "old town"
+  ],
+  "best_time_to_visit": "Jun-Sep",
+  "airport_code": "ZRH",
+  "image_search": "Zurich Switzerland travel"
+}

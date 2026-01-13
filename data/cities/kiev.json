@@ -1,0 +1,20 @@
+{
+  "name": "Kiev",
+  "slug": "kiev",
+  "country": "Ukraine",
+  "country_slug": "ukraine",
+  "region": "Europe",
+  "lat": 50.4501,
+  "lng": 30.5234,
+  "population": 2884000,
+  "safety_level": "danger",
+  "budget_per_day": "30-60",
+  "highlights": [
+    "history",
+    "churches",
+    "food"
+  ],
+  "best_time_to_visit": "May-Sep",
+  "airport_code": "KBP",
+  "image_search": "Kiev Ukraine travel"
+}

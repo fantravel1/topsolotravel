@@ -1,0 +1,20 @@
+{
+  "name": "Nashville",
+  "slug": "nashville",
+  "country": "United States",
+  "country_slug": "united-states",
+  "region": "Americas",
+  "lat": 36.1627,
+  "lng": -86.7816,
+  "population": 689447,
+  "safety_level": "safe",
+  "budget_per_day": "90-150",
+  "highlights": [
+    "music",
+    "food",
+    "nightlife"
+  ],
+  "best_time_to_visit": "Apr-Jun, Sep-Nov",
+  "airport_code": "BNA",
+  "image_search": "Nashville United States travel"
+}

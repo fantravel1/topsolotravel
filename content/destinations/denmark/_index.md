@@ -41,9 +41,9 @@ safety:
 
 topCities:
   - name: "Copenhagen"
-    url: "/destinations/denmark/"
-    description: "The capital city offers diverse experiences for solo travelers."
-    highlights: ["culture", "food", "history"]
+    url: "/destinations/denmark/copenhagen/"
+    description: "Popular destination for solo travelers with great infrastructure."
+    highlights: ["hygge", "design", "nyhavn"]
 
 
 budget:

@@ -1,0 +1,20 @@
+{
+  "name": "Bocas del Toro",
+  "slug": "bocas-del-toro",
+  "country": "Panama",
+  "country_slug": "panama",
+  "region": "Americas",
+  "lat": 9.3403,
+  "lng": -82.2419,
+  "population": 12996,
+  "safety_level": "safe",
+  "budget_per_day": "50-90",
+  "highlights": [
+    "beaches",
+    "diving",
+    "party"
+  ],
+  "best_time_to_visit": "Mar-May, Sep-Nov",
+  "airport_code": "BOC",
+  "image_search": "Bocas del Toro Panama travel"
+}

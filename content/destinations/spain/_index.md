@@ -44,14 +44,18 @@ topCities:
     url: "/destinations/spain/barcelona/"
     description: "Popular destination for solo travelers with great infrastructure."
     highlights: ["gaudi", "beaches", "tapas"]
-  - name: "Madrid"
-    url: "/destinations/spain/madrid/"
+  - name: "Bilbao"
+    url: "/destinations/spain/bilbao/"
     description: "Popular destination for solo travelers with great infrastructure."
-    highlights: ["museums", "nightlife", "tapas"]
-  - name: "Seville"
-    url: "/destinations/spain/seville/"
+    highlights: ["guggenheim", "pintxos", "basque"]
+  - name: "Cordoba"
+    url: "/destinations/spain/cordoba/"
     description: "Popular destination for solo travelers with great infrastructure."
-    highlights: ["flamenco", "alcazar", "tapas"]
+    highlights: ["mezquita", "patios", "history"]
+  - name: "Granada"
+    url: "/destinations/spain/granada/"
+    description: "Popular destination for solo travelers with great infrastructure."
+    highlights: ["alhambra", "tapas", "flamenco"]
 
 
 budget:

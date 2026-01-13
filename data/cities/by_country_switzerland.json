@@ -1,0 +1,102 @@
+[
+  {
+    "name": "Geneva",
+    "slug": "geneva",
+    "country": "Switzerland",
+    "country_slug": "switzerland",
+    "region": "Europe",
+    "lat": 46.2044,
+    "lng": 6.1432,
+    "population": 201818,
+    "safety_level": "safe",
+    "budget_per_day": "140-220",
+    "highlights": [
+      "lake",
+      "UN",
+      "chocolate"
+    ],
+    "best_time_to_visit": "Jun-Sep",
+    "airport_code": "GVA",
+    "image_search": "Geneva Switzerland travel"
+  },
+  {
+    "name": "Interlaken",
+    "slug": "interlaken",
+    "country": "Switzerland",
+    "country_slug": "switzerland",
+    "region": "Europe",
+    "lat": 46.6863,
+    "lng": 7.8632,
+    "population": 5765,
+    "safety_level": "safe",
+    "budget_per_day": "140-220",
+    "highlights": [
+      "adventure",
+      "alps",
+      "lakes"
+    ],
+    "best_time_to_visit": "Jun-Sep, Dec-Mar",
+    "airport_code": "BRN",
+    "image_search": "Interlaken Switzerland travel"
+  },
+  {
+    "name": "Lucerne",
+    "slug": "lucerne",
+    "country": "Switzerland",
+    "country_slug": "switzerland",
+    "region": "Europe",
+    "lat": 47.0502,
+    "lng": 8.3093,
+    "population": 81592,
+    "safety_level": "safe",
+    "budget_per_day": "130-200",
+    "highlights": [
+      "lake",
+      "bridge",
+      "alps"
+    ],
+    "best_time_to_visit": "Jun-Sep",
+    "airport_code": "ZRH",
+    "image_search": "Lucerne Switzerland travel"
+  },
+  {
+    "name": "Zermatt",
+    "slug": "zermatt",
+    "country": "Switzerland",
+    "country_slug": "switzerland",
+    "region": "Europe",
+    "lat": 46.0207,
+    "lng": 7.7491,
+    "population": 5786,
+    "safety_level": "safe",
+    "budget_per_day": "150-250",
+    "highlights": [
+      "matterhorn",
+      "skiing",
+      "hiking"
+    ],
+    "best_time_to_visit": "Jun-Sep, Dec-Mar",
+    "airport_code": "GVA",
+    "image_search": "Zermatt Switzerland travel"
+  },
+  {
+    "name": "Zurich",
+    "slug": "zurich",
+    "country": "Switzerland",
+    "country_slug": "switzerland",
+    "region": "Europe",
+    "lat": 47.3769,
+    "lng": 8.5417,
+    "population": 415367,
+    "safety_level": "safe",
+    "budget_per_day": "130-200",
+    "highlights": [
+      "finance",
+      "lake",
+      "old town"
+    ],
+    "best_time_to_visit": "Jun-Sep",
+    "airport_code": "ZRH",
+    "image_search": "Zurich Switzerland travel"
+  }
+]

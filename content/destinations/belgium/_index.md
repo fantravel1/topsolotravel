@@ -40,10 +40,22 @@ safety:
     - "Walking alone in unfamiliar areas late at night"
 
 topCities:
+  - name: "Antwerp"
+    url: "/destinations/belgium/antwerp/"
+    description: "Popular destination for solo travelers with great infrastructure."
+    highlights: ["diamonds", "fashion", "beer"]
+  - name: "Bruges"
+    url: "/destinations/belgium/bruges/"
+    description: "Popular destination for solo travelers with great infrastructure."
+    highlights: ["canals", "chocolate", "medieval"]
   - name: "Brussels"
-    url: "/destinations/belgium/"
-    description: "The capital city offers diverse experiences for solo travelers."
-    highlights: ["culture", "food", "history"]
+    url: "/destinations/belgium/brussels/"
+    description: "Popular destination for solo travelers with great infrastructure."
+    highlights: ["grand place", "chocolate", "beer"]
+  - name: "Ghent"
+    url: "/destinations/belgium/ghent/"
+    description: "Popular destination for solo travelers with great infrastructure."
+    highlights: ["canals", "cathedral", "students"]
 
 
 budget:

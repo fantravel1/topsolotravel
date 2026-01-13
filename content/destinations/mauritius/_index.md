@@ -41,9 +41,9 @@ safety:
 
 topCities:
   - name: "Port Louis"
-    url: "/destinations/mauritius/"
-    description: "The capital city offers diverse experiences for solo travelers."
-    highlights: ["culture", "food", "history"]
+    url: "/destinations/mauritius/port-louis/"
+    description: "Popular destination for solo travelers with great infrastructure."
+    highlights: ["beaches", "nature", "food"]
 
 
 budget:

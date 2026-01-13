@@ -40,10 +40,14 @@ safety:
     - "Walking alone in unfamiliar areas late at night"
 
 topCities:
-  - name: "Dodoma"
-    url: "/destinations/tanzania/"
-    description: "The capital city offers diverse experiences for solo travelers."
-    highlights: ["culture", "food", "history"]
+  - name: "Dar es Salaam"
+    url: "/destinations/tanzania/dar-es-salaam/"
+    description: "Popular destination for solo travelers with great infrastructure."
+    highlights: ["beach", "food", "culture"]
+  - name: "Zanzibar"
+    url: "/destinations/tanzania/zanzibar/"
+    description: "Popular destination for solo travelers with great infrastructure."
+    highlights: ["beaches", "stone town", "spices"]
 
 
 budget:

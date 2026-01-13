@@ -1,0 +1,20 @@
+{
+  "name": "Galapagos",
+  "slug": "galapagos",
+  "country": "Ecuador",
+  "country_slug": "ecuador",
+  "region": "Americas",
+  "lat": -0.9538,
+  "lng": -90.9656,
+  "population": 25124,
+  "safety_level": "safe",
+  "budget_per_day": "150-300",
+  "highlights": [
+    "wildlife",
+    "diving",
+    "nature"
+  ],
+  "best_time_to_visit": "Jun-Sep",
+  "airport_code": "GPS",
+  "image_search": "Galapagos Ecuador travel"
+}

@@ -1,0 +1,50 @@
+{
+  "name": "New Caledonia",
+  "slug": "new-caledonia",
+  "official_name": "New Caledonia",
+  "cca2": "",
+  "cca3": "",
+  "region": "Oceania",
+  "subregion": "Melanesia",
+  "region_slug": "oceania",
+  "capital": "Noumea",
+  "population": 285498,
+  "area": 0,
+  "currency": "CFP Franc (XPF)",
+  "languages": [
+    "French"
+  ],
+  "language": "French",
+  "timezone": "UTC+11",
+  "timezones": [
+    "UTC+11"
+  ],
+  "flag_emoji": "",
+  "flag_svg": "",
+  "flag_png": "",
+  "coat_of_arms": "",
+  "maps_google": "",
+  "maps_osm": "",
+  "landlocked": false,
+  "borders": [],
+  "driving_side": "right",
+  "calling_code": "",
+  "safety_level": "safe",
+  "budget_per_day": {
+    "budget": "100-140",
+    "midrange": "180-270",
+    "luxury": "420+"
+  },
+  "best_time_to_visit": "Sep-Nov",
+  "latlng": [
+    0,
+    0
+  ],
+  "capital_latlng": [
+    0,
+    0
+  ],
+  "un_member": true,
+  "independent": true,
+  "featured": false
+}

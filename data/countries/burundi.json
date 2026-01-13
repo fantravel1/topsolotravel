@@ -1,0 +1,50 @@
+{
+  "name": "Burundi",
+  "slug": "burundi",
+  "official_name": "Burundi",
+  "cca2": "",
+  "cca3": "",
+  "region": "Africa",
+  "subregion": "Eastern Africa",
+  "region_slug": "africa",
+  "capital": "Gitega",
+  "population": 11890000,
+  "area": 0,
+  "currency": "Burundian Franc (BIF)",
+  "languages": [
+    "French"
+  ],
+  "language": "French",
+  "timezone": "UTC+2",
+  "timezones": [
+    "UTC+2"
+  ],
+  "flag_emoji": "",
+  "flag_svg": "",
+  "flag_png": "",
+  "coat_of_arms": "",
+  "maps_google": "",
+  "maps_osm": "",
+  "landlocked": false,
+  "borders": [],
+  "driving_side": "right",
+  "calling_code": "",
+  "safety_level": "warning",
+  "budget_per_day": {
+    "budget": "30-45",
+    "midrange": "55-90",
+    "luxury": "150+"
+  },
+  "best_time_to_visit": "Jun-Sep",
+  "latlng": [
+    0,
+    0
+  ],
+  "capital_latlng": [
+    0,
+    0
+  ],
+  "un_member": true,
+  "independent": true,
+  "featured": false
+}

@@ -40,10 +40,10 @@ safety:
     - "Walking alone in unfamiliar areas late at night"
 
 topCities:
-  - name: "Guatemala City"
-    url: "/destinations/guatemala/"
-    description: "The capital city offers diverse experiences for solo travelers."
-    highlights: ["culture", "food", "history"]
+  - name: "Antigua Guatemala"
+    url: "/destinations/guatemala/antigua-guatemala/"
+    description: "Popular destination for solo travelers with great infrastructure."
+    highlights: ["colonial", "volcanoes", "spanish schools"]
 
 
 budget:

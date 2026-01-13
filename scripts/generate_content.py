@@ -535,6 +535,52 @@ def generate_city_content(city: dict) -> str:
     return content
 
 
+def generate_city_safety_content(city: dict) -> str:
+    """Generate safety page content for a city."""
+    name = city["name"]
+    country = city["country"]
+    safety_level = city.get("safety_level", "caution")
+
+    # Determine advisory level
+    advisory_map = {
+        "safe": ("info", 1),
+        "caution": ("info", 2),
+        "warning": ("warning", 3),
+        "danger": ("danger", 4)
+    }
+    advisory_level, advisory_number = advisory_map.get(safety_level, ("info", 2))
+
+    content = SAFETY_TEMPLATE.format(
+        name=f"{name}, {country}",
+        is_country="false",
+        safety_level=safety_level,
+        image_query=f"{name.lower().replace(' ', '+')}+{country.lower().replace(' ', '+')}+safety",
+        advisory_level=advisory_level,
+        advisory_number=advisory_number,
+        advisory_message=f"Exercise {'normal' if safety_level == 'safe' else 'increased'} precautions in {name}.",
+        current_year=datetime.now().year,
+        safety_text=get_safety_text(safety_level),
+        female_level=safety_level,
+        female_rating=get_safety_text(safety_level),
+        night_level="caution" if safety_level == "safe" else safety_level,
+        night_rating="Exercise Caution" if safety_level == "safe" else get_safety_text(safety_level),
+        transport_level=safety_level,
+        transport_rating=get_safety_text(safety_level),
+        safety_overview=f"{name} is {get_safety_desc(safety_level)} for solo travelers visiting {country}.",
+        female_overview=f"Solo female travelers {('generally feel comfortable' if safety_level in ['safe', 'caution'] else 'should take extra precautions')} in {name}.",
+        safety_desc=get_safety_desc(safety_level),
+        faq_answer="Most travelers have positive experiences with standard precautions in this city.",
+        female_faq_answer=f"Solo female travelers {('generally have positive experiences' if safety_level in ['safe', 'caution'] else 'should research and plan carefully')} in {name}.",
+        safety_intro=f"{name} is {get_safety_desc(safety_level)} for solo travelers visiting this popular destination in {country}.",
+        safety_overview_long=f"As a major destination in {country}, {name} presents {('few safety concerns' if safety_level == 'safe' else 'manageable safety considerations')} for prepared travelers. Tourist areas are generally well-patrolled.",
+        female_safety_long=f"Women traveling alone in {name} {('generally report feeling safe' if safety_level in ['safe', 'caution'] else 'should exercise heightened awareness')}, especially in tourist areas and during daylight hours.",
+        health_info="Healthcare facilities are available in the city. Ensure travel insurance covers medical expenses.",
+        transport_safety="Use official transportation services. Metro, buses, and ride-sharing apps are generally safe options."
+    )
+
+    return content
+
+
 def generate_safety_content(country: dict) -> str:
     """Generate safety page content for a country."""
     name = country["name"]
@@ -620,8 +666,9 @@ def generate_all_content():
     print(f"Generated {len(countries)} country pages")
     print(f"Generated {len(countries)} safety pages")
 
-    # Generate city pages
+    # Generate city pages and city safety pages
     city_count = 0
+    city_safety_count = 0
     for city in cities:
         country_slug = city.get("country_slug", "")
         city_slug = city.get("slug", "")
@@ -629,15 +676,25 @@ def generate_all_content():
         if not country_slug or not city_slug:
             continue
 
+        # Generate city destination page
         content = generate_city_content(city)
         filepath = CONTENT_DIR / "destinations" / country_slug / city_slug / "_index.md"
         save_content(content, filepath)
         city_count += 1
 
-    print(f"Generated {city_count} city pages")
+        # Generate city safety page
+        city_safety_content = generate_city_safety_content(city)
+        city_safety_filepath = CONTENT_DIR / "safety" / country_slug / city_slug / "_index.md"
+        save_content(city_safety_content, city_safety_filepath)
+        city_safety_count += 1
 
+    print(f"Generated {city_count} city pages")
+    print(f"Generated {city_safety_count} city safety pages")
+
+    total_safety = len(countries) + city_safety_count
+    print(f"\nTotal safety pages: {total_safety}")
     print("\nContent generation complete!")
-    print(f"Total pages: {len(countries) * 2 + city_count}")
+    print(f"Total pages: {len(countries) + city_count + total_safety}")
 
 
 if __name__ == "__main__":

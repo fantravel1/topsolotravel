@@ -44,6 +44,18 @@ topCities:
     url: "/destinations/netherlands/amsterdam/"
     description: "Popular destination for solo travelers with great infrastructure."
     highlights: ["canals", "museums", "bikes"]
+  - name: "Rotterdam"
+    url: "/destinations/netherlands/rotterdam/"
+    description: "Popular destination for solo travelers with great infrastructure."
+    highlights: ["architecture", "port", "museums"]
+  - name: "The Hague"
+    url: "/destinations/netherlands/the-hague/"
+    description: "Popular destination for solo travelers with great infrastructure."
+    highlights: ["politics", "beach", "museums"]
+  - name: "Utrecht"
+    url: "/destinations/netherlands/utrecht/"
+    description: "Popular destination for solo travelers with great infrastructure."
+    highlights: ["canals", "university", "cafes"]
 
 
 budget:

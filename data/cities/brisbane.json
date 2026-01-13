@@ -1,0 +1,20 @@
+{
+  "name": "Brisbane",
+  "slug": "brisbane",
+  "country": "Australia",
+  "country_slug": "australia",
+  "region": "Oceania",
+  "lat": -27.4698,
+  "lng": 153.0251,
+  "population": 2514184,
+  "safety_level": "safe",
+  "budget_per_day": "85-150",
+  "highlights": [
+    "south bank",
+    "koalas",
+    "gateway"
+  ],
+  "best_time_to_visit": "Apr-Nov",
+  "airport_code": "BNE",
+  "image_search": "Brisbane Australia travel"
+}

@@ -40,10 +40,10 @@ safety:
     - "Walking alone in unfamiliar areas late at night"
 
 topCities:
-  - name: "Podgorica"
-    url: "/destinations/montenegro/"
-    description: "The capital city offers diverse experiences for solo travelers."
-    highlights: ["culture", "food", "history"]
+  - name: "Kotor"
+    url: "/destinations/montenegro/kotor/"
+    description: "Popular destination for solo travelers with great infrastructure."
+    highlights: ["old town", "bay", "walls"]
 
 
 budget:

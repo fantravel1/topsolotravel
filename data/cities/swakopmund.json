@@ -1,0 +1,20 @@
+{
+  "name": "Swakopmund",
+  "slug": "swakopmund",
+  "country": "Namibia",
+  "country_slug": "namibia",
+  "region": "Africa",
+  "lat": -22.6792,
+  "lng": 14.5266,
+  "population": 44725,
+  "safety_level": "safe",
+  "budget_per_day": "55-100",
+  "highlights": [
+    "dunes",
+    "adventure",
+    "coast"
+  ],
+  "best_time_to_visit": "May-Oct",
+  "airport_code": "WVB",
+  "image_search": "Swakopmund Namibia travel"
+}

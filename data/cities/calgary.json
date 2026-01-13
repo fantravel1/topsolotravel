@@ -1,0 +1,20 @@
+{
+  "name": "Calgary",
+  "slug": "calgary",
+  "country": "Canada",
+  "country_slug": "canada",
+  "region": "Americas",
+  "lat": 51.0447,
+  "lng": -114.0719,
+  "population": 1239220,
+  "safety_level": "safe",
+  "budget_per_day": "90-150",
+  "highlights": [
+    "stampede",
+    "rockies",
+    "outdoors"
+  ],
+  "best_time_to_visit": "Jun-Sep",
+  "airport_code": "YYC",
+  "image_search": "Calgary Canada travel"
+}

@@ -38,5 +38,65 @@
     "best_time_to_visit": "Jun-Sep",
     "airport_code": "CGK",
     "image_search": "Jakarta Indonesia travel"
+  },
+  {
+    "name": "Lombok",
+    "slug": "lombok",
+    "country": "Indonesia",
+    "country_slug": "indonesia",
+    "region": "Asia",
+    "lat": -8.65,
+    "lng": 116.3249,
+    "population": 3352000,
+    "safety_level": "caution",
+    "budget_per_day": "30-55",
+    "highlights": [
+      "gili islands",
+      "beaches",
+      "hiking"
+    ],
+    "best_time_to_visit": "Apr-Oct",
+    "airport_code": "LOP",
+    "image_search": "Lombok Indonesia travel"
+  },
+  {
+    "name": "Ubud",
+    "slug": "ubud",
+    "country": "Indonesia",
+    "country_slug": "indonesia",
+    "region": "Asia",
+    "lat": -8.5069,
+    "lng": 115.2624,
+    "population": 30000,
+    "safety_level": "safe",
+    "budget_per_day": "30-60",
+    "highlights": [
+      "rice terraces",
+      "yoga",
+      "art"
+    ],
+    "best_time_to_visit": "Apr-Oct",
+    "airport_code": "DPS",
+    "image_search": "Ubud Indonesia travel"
+  },
+  {
+    "name": "Yogyakarta",
+    "slug": "yogyakarta",
+    "country": "Indonesia",
+    "country_slug": "indonesia",
+    "region": "Asia",
+    "lat": -7.7956,
+    "lng": 110.3695,
+    "population": 388627,
+    "safety_level": "safe",
+    "budget_per_day": "25-50",
+    "highlights": [
+      "borobudur",
+      "prambanan",
+      "batik"
+    ],
+    "best_time_to_visit": "May-Sep",
+    "airport_code": "JOG",
+    "image_search": "Yogyakarta Indonesia travel"
   }
 ]

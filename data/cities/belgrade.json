@@ -1,0 +1,20 @@
+{
+  "name": "Belgrade",
+  "slug": "belgrade",
+  "country": "Serbia",
+  "country_slug": "serbia",
+  "region": "Europe",
+  "lat": 44.7866,
+  "lng": 20.4489,
+  "population": 1378682,
+  "safety_level": "safe",
+  "budget_per_day": "35-65",
+  "highlights": [
+    "nightlife",
+    "history",
+    "food"
+  ],
+  "best_time_to_visit": "May-Sep",
+  "airport_code": "BEG",
+  "image_search": "Belgrade Serbia travel"
+}

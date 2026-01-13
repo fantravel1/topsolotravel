@@ -40,18 +40,22 @@ safety:
     - "Walking alone in unfamiliar areas late at night"
 
 topCities:
-  - name: "Kyoto"
-    url: "/destinations/japan/kyoto/"
+  - name: "Fukuoka"
+    url: "/destinations/japan/fukuoka/"
     description: "Popular destination for solo travelers with great infrastructure."
-    highlights: ["temples", "geisha", "gardens"]
-  - name: "Osaka"
-    url: "/destinations/japan/osaka/"
+    highlights: ["ramen", "temples", "food stalls"]
+  - name: "Hiroshima"
+    url: "/destinations/japan/hiroshima/"
     description: "Popular destination for solo travelers with great infrastructure."
-    highlights: ["street food", "nightlife", "castle"]
-  - name: "Tokyo"
-    url: "/destinations/japan/tokyo/"
+    highlights: ["peace memorial", "miyajima", "okonomiyaki"]
+  - name: "Kanazawa"
+    url: "/destinations/japan/kanazawa/"
     description: "Popular destination for solo travelers with great infrastructure."
-    highlights: ["temples", "food", "technology"]
+    highlights: ["gardens", "geisha", "samurai"]
+  - name: "Kobe"
+    url: "/destinations/japan/kobe/"
+    description: "Popular destination for solo travelers with great infrastructure."
+    highlights: ["beef", "harbor", "sake"]
 
 
 budget:

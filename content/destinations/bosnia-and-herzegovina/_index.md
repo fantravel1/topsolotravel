@@ -40,10 +40,14 @@ safety:
     - "Walking alone in unfamiliar areas late at night"
 
 topCities:
+  - name: "Mostar"
+    url: "/destinations/bosnia-and-herzegovina/mostar/"
+    description: "Popular destination for solo travelers with great infrastructure."
+    highlights: ["bridge", "old town", "diving"]
   - name: "Sarajevo"
-    url: "/destinations/bosnia-and-herzegovina/"
-    description: "The capital city offers diverse experiences for solo travelers."
-    highlights: ["culture", "food", "history"]
+    url: "/destinations/bosnia-and-herzegovina/sarajevo/"
+    description: "Popular destination for solo travelers with great infrastructure."
+    highlights: ["history", "culture", "food"]
 
 
 budget:

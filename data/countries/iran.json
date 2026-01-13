@@ -1,0 +1,50 @@
+{
+  "name": "Iran",
+  "slug": "iran",
+  "official_name": "Iran",
+  "cca2": "",
+  "cca3": "",
+  "region": "Asia",
+  "subregion": "Southern Asia",
+  "region_slug": "asia",
+  "capital": "Tehran",
+  "population": 83990000,
+  "area": 0,
+  "currency": "Iranian Rial (IRR)",
+  "languages": [
+    "Persian"
+  ],
+  "language": "Persian",
+  "timezone": "UTC+3:30",
+  "timezones": [
+    "UTC+3:30"
+  ],
+  "flag_emoji": "",
+  "flag_svg": "",
+  "flag_png": "",
+  "coat_of_arms": "",
+  "maps_google": "",
+  "maps_osm": "",
+  "landlocked": false,
+  "borders": [],
+  "driving_side": "right",
+  "calling_code": "",
+  "safety_level": "caution",
+  "budget_per_day": {
+    "budget": "25-40",
+    "midrange": "50-80",
+    "luxury": "150+"
+  },
+  "best_time_to_visit": "Mar-May, Sep-Nov",
+  "latlng": [
+    0,
+    0
+  ],
+  "capital_latlng": [
+    0,
+    0
+  ],
+  "un_member": true,
+  "independent": true,
+  "featured": false
+}

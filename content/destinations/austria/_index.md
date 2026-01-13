@@ -40,10 +40,22 @@ safety:
     - "Walking alone in unfamiliar areas late at night"
 
 topCities:
+  - name: "Hallstatt"
+    url: "/destinations/austria/hallstatt/"
+    description: "Popular destination for solo travelers with great infrastructure."
+    highlights: ["lake", "mountains", "salt mines"]
+  - name: "Innsbruck"
+    url: "/destinations/austria/innsbruck/"
+    description: "Popular destination for solo travelers with great infrastructure."
+    highlights: ["alps", "skiing", "old town"]
+  - name: "Salzburg"
+    url: "/destinations/austria/salzburg/"
+    description: "Popular destination for solo travelers with great infrastructure."
+    highlights: ["mozart", "sound of music", "alps"]
   - name: "Vienna"
-    url: "/destinations/austria/"
-    description: "The capital city offers diverse experiences for solo travelers."
-    highlights: ["culture", "food", "history"]
+    url: "/destinations/austria/vienna/"
+    description: "Popular destination for solo travelers with great infrastructure."
+    highlights: ["music", "coffee houses", "palaces"]
 
 
 budget:

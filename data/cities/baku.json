@@ -1,0 +1,20 @@
+{
+  "name": "Baku",
+  "slug": "baku",
+  "country": "Azerbaijan",
+  "country_slug": "azerbaijan",
+  "region": "Asia",
+  "lat": 40.4093,
+  "lng": 49.8671,
+  "population": 2300500,
+  "safety_level": "safe",
+  "budget_per_day": "40-80",
+  "highlights": [
+    "old city",
+    "flame towers",
+    "fire temple"
+  ],
+  "best_time_to_visit": "Apr-Jun, Sep-Oct",
+  "airport_code": "GYD",
+  "image_search": "Baku Azerbaijan travel"
+}

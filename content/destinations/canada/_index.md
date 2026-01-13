@@ -40,10 +40,22 @@ safety:
     - "Walking alone in unfamiliar areas late at night"
 
 topCities:
-  - name: "Ottawa"
-    url: "/destinations/canada/"
-    description: "The capital city offers diverse experiences for solo travelers."
-    highlights: ["culture", "food", "history"]
+  - name: "Calgary"
+    url: "/destinations/canada/calgary/"
+    description: "Popular destination for solo travelers with great infrastructure."
+    highlights: ["stampede", "rockies", "outdoors"]
+  - name: "Montreal"
+    url: "/destinations/canada/montreal/"
+    description: "Popular destination for solo travelers with great infrastructure."
+    highlights: ["french culture", "festivals", "food"]
+  - name: "Quebec City"
+    url: "/destinations/canada/quebec-city/"
+    description: "Popular destination for solo travelers with great infrastructure."
+    highlights: ["old town", "history", "french culture"]
+  - name: "Toronto"
+    url: "/destinations/canada/toronto/"
+    description: "Popular destination for solo travelers with great infrastructure."
+    highlights: ["multicultural", "food", "arts"]
 
 
 budget:

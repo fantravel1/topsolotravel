@@ -1,0 +1,20 @@
+{
+  "name": "Sao Paulo",
+  "slug": "sao-paulo",
+  "country": "Brazil",
+  "country_slug": "brazil",
+  "region": "Americas",
+  "lat": -23.5505,
+  "lng": -46.6333,
+  "population": 12252023,
+  "safety_level": "caution",
+  "budget_per_day": "50-100",
+  "highlights": [
+    "food",
+    "nightlife",
+    "museums"
+  ],
+  "best_time_to_visit": "Apr-Oct",
+  "airport_code": "GRU",
+  "image_search": "Sao Paulo Brazil travel"
+}

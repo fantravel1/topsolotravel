@@ -1,0 +1,50 @@
+{
+  "name": "Papua New Guinea",
+  "slug": "papua-new-guinea",
+  "official_name": "Papua New Guinea",
+  "cca2": "",
+  "cca3": "",
+  "region": "Oceania",
+  "subregion": "Melanesia",
+  "region_slug": "oceania",
+  "capital": "Port Moresby",
+  "population": 8950000,
+  "area": 0,
+  "currency": "Papua New Guinean Kina (PGK)",
+  "languages": [
+    "English"
+  ],
+  "language": "English",
+  "timezone": "UTC+10",
+  "timezones": [
+    "UTC+10"
+  ],
+  "flag_emoji": "",
+  "flag_svg": "",
+  "flag_png": "",
+  "coat_of_arms": "",
+  "maps_google": "",
+  "maps_osm": "",
+  "landlocked": false,
+  "borders": [],
+  "driving_side": "right",
+  "calling_code": "",
+  "safety_level": "warning",
+  "budget_per_day": {
+    "budget": "60-90",
+    "midrange": "110-170",
+    "luxury": "280+"
+  },
+  "best_time_to_visit": "May-Oct",
+  "latlng": [
+    0,
+    0
+  ],
+  "capital_latlng": [
+    0,
+    0
+  ],
+  "un_member": true,
+  "independent": true,
+  "featured": false
+}

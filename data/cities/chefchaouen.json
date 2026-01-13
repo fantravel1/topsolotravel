@@ -1,0 +1,20 @@
+{
+  "name": "Chefchaouen",
+  "slug": "chefchaouen",
+  "country": "Morocco",
+  "country_slug": "morocco",
+  "region": "Africa",
+  "lat": 35.1688,
+  "lng": -5.2636,
+  "population": 42786,
+  "safety_level": "safe",
+  "budget_per_day": "30-60",
+  "highlights": [
+    "blue city",
+    "mountains",
+    "crafts"
+  ],
+  "best_time_to_visit": "Mar-May, Sep-Nov",
+  "airport_code": "TNG",
+  "image_search": "Chefchaouen Morocco travel"
+}

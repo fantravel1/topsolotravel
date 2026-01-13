@@ -40,10 +40,18 @@ safety:
     - "Walking alone in unfamiliar areas late at night"
 
 topCities:
+  - name: "Bergen"
+    url: "/destinations/norway/bergen/"
+    description: "Popular destination for solo travelers with great infrastructure."
+    highlights: ["fjords", "bryggen", "nature"]
   - name: "Oslo"
-    url: "/destinations/norway/"
-    description: "The capital city offers diverse experiences for solo travelers."
-    highlights: ["culture", "food", "history"]
+    url: "/destinations/norway/oslo/"
+    description: "Popular destination for solo travelers with great infrastructure."
+    highlights: ["fjords", "museums", "outdoors"]
+  - name: "Tromso"
+    url: "/destinations/norway/tromso/"
+    description: "Popular destination for solo travelers with great infrastructure."
+    highlights: ["northern lights", "arctic", "nature"]
 
 
 budget:

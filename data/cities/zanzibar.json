@@ -1,0 +1,20 @@
+{
+  "name": "Zanzibar",
+  "slug": "zanzibar",
+  "country": "Tanzania",
+  "country_slug": "tanzania",
+  "region": "Africa",
+  "lat": -6.1659,
+  "lng": 39.2026,
+  "population": 1303569,
+  "safety_level": "caution",
+  "budget_per_day": "50-100",
+  "highlights": [
+    "beaches",
+    "stone town",
+    "spices"
+  ],
+  "best_time_to_visit": "Jun-Oct",
+  "airport_code": "ZNZ",
+  "image_search": "Zanzibar Tanzania travel"
+}

@@ -40,14 +40,22 @@ safety:
     - "Walking alone in unfamiliar areas late at night"
 
 topCities:
-  - name: "Edinburgh"
-    url: "/destinations/united-kingdom/edinburgh/"
+  - name: "Bath"
+    url: "/destinations/united-kingdom/bath/"
     description: "Popular destination for solo travelers with great infrastructure."
-    highlights: ["castle", "festivals", "whisky"]
-  - name: "London"
-    url: "/destinations/united-kingdom/london/"
+    highlights: ["roman baths", "architecture", "history"]
+  - name: "Belfast"
+    url: "/destinations/united-kingdom/belfast/"
     description: "Popular destination for solo travelers with great infrastructure."
-    highlights: ["museums", "history", "pubs"]
+    highlights: ["titanic", "history", "nightlife"]
+  - name: "Bristol"
+    url: "/destinations/united-kingdom/bristol/"
+    description: "Popular destination for solo travelers with great infrastructure."
+    highlights: ["street art", "music", "harbourside"]
+  - name: "Cambridge"
+    url: "/destinations/united-kingdom/cambridge/"
+    description: "Popular destination for solo travelers with great infrastructure."
+    highlights: ["university", "punting", "history"]
 
 
 budget:

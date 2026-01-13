@@ -20,6 +20,66 @@
     "image_search": "Busan South Korea travel"
   },
   {
+    "name": "Gyeongju",
+    "slug": "gyeongju",
+    "country": "South Korea",
+    "country_slug": "south-korea",
+    "region": "Asia",
+    "lat": 35.8561,
+    "lng": 129.2247,
+    "population": 264091,
+    "safety_level": "safe",
+    "budget_per_day": "50-90",
+    "highlights": [
+      "temples",
+      "tombs",
+      "history"
+    ],
+    "best_time_to_visit": "Apr-Jun, Sep-Nov",
+    "airport_code": "PUS",
+    "image_search": "Gyeongju South Korea travel"
+  },
+  {
+    "name": "Incheon",
+    "slug": "incheon",
+    "country": "South Korea",
+    "country_slug": "south-korea",
+    "region": "Asia",
+    "lat": 37.4563,
+    "lng": 126.7052,
+    "population": 2942828,
+    "safety_level": "safe",
+    "budget_per_day": "55-100",
+    "highlights": [
+      "chinatown",
+      "beaches",
+      "airport"
+    ],
+    "best_time_to_visit": "Apr-Jun, Sep-Nov",
+    "airport_code": "ICN",
+    "image_search": "Incheon South Korea travel"
+  },
+  {
+    "name": "Jeju Island",
+    "slug": "jeju-island",
+    "country": "South Korea",
+    "country_slug": "south-korea",
+    "region": "Asia",
+    "lat": 33.4996,
+    "lng": 126.5312,
+    "population": 670989,
+    "safety_level": "safe",
+    "budget_per_day": "60-110",
+    "highlights": [
+      "nature",
+      "beaches",
+      "food"
+    ],
+    "best_time_to_visit": "Apr-Jun, Sep-Nov",
+    "airport_code": "CJU",
+    "image_search": "Jeju Island South Korea travel"
+  },
+  {
     "name": "Seoul",
     "slug": "seoul",
     "country": "South Korea",

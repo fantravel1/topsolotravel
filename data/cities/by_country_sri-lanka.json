@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Colombo",
+    "slug": "colombo",
+    "country": "Sri Lanka",
+    "country_slug": "sri-lanka",
+    "region": "Asia",
+    "lat": 6.9271,
+    "lng": 79.8612,
+    "population": 752993,
+    "safety_level": "safe",
+    "budget_per_day": "25-50",
+    "highlights": [
+      "temples",
+      "food",
+      "markets"
+    ],
+    "best_time_to_visit": "Dec-Mar",
+    "airport_code": "CMB",
+    "image_search": "Colombo Sri Lanka travel"
+  },
+  {
+    "name": "Ella",
+    "slug": "ella",
+    "country": "Sri Lanka",
+    "country_slug": "sri-lanka",
+    "region": "Asia",
+    "lat": 6.8667,
+    "lng": 81.05,
+    "population": 5000,
+    "safety_level": "safe",
+    "budget_per_day": "25-45",
+    "highlights": [
+      "nine arch bridge",
+      "hiking",
+      "tea"
+    ],
+    "best_time_to_visit": "Dec-Mar",
+    "airport_code": "CMB",
+    "image_search": "Ella Sri Lanka travel"
+  },
+  {
+    "name": "Kandy",
+    "slug": "kandy",
+    "country": "Sri Lanka",
+    "country_slug": "sri-lanka",
+    "region": "Asia",
+    "lat": 7.2906,
+    "lng": 80.6337,
+    "population": 125400,
+    "safety_level": "safe",
+    "budget_per_day": "25-45",
+    "highlights": [
+      "temple of tooth",
+      "tea",
+      "culture"
+    ],
+    "best_time_to_visit": "Dec-Mar",
+    "airport_code": "CMB",
+    "image_search": "Kandy Sri Lanka travel"
+  }
+]

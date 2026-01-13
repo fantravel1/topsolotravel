@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Bukhara",
+    "slug": "bukhara",
+    "country": "Uzbekistan",
+    "country_slug": "uzbekistan",
+    "region": "Asia",
+    "lat": 39.768,
+    "lng": 64.4556,
+    "population": 280187,
+    "safety_level": "safe",
+    "budget_per_day": "25-45",
+    "highlights": [
+      "old town",
+      "silk road",
+      "madrasas"
+    ],
+    "best_time_to_visit": "Apr-Jun, Sep-Oct",
+    "airport_code": "BHK",
+    "image_search": "Bukhara Uzbekistan travel"
+  },
+  {
+    "name": "Samarkand",
+    "slug": "samarkand",
+    "country": "Uzbekistan",
+    "country_slug": "uzbekistan",
+    "region": "Asia",
+    "lat": 39.6542,
+    "lng": 66.9597,
+    "population": 513572,
+    "safety_level": "safe",
+    "budget_per_day": "25-50",
+    "highlights": [
+      "registan",
+      "silk road",
+      "architecture"
+    ],
+    "best_time_to_visit": "Apr-Jun, Sep-Oct",
+    "airport_code": "SKD",
+    "image_search": "Samarkand Uzbekistan travel"
+  },
+  {
+    "name": "Tashkent",
+    "slug": "tashkent",
+    "country": "Uzbekistan",
+    "country_slug": "uzbekistan",
+    "region": "Asia",
+    "lat": 41.2995,
+    "lng": 69.2401,
+    "population": 2571668,
+    "safety_level": "safe",
+    "budget_per_day": "30-55",
+    "highlights": [
+      "metro",
+      "bazaars",
+      "soviet architecture"
+    ],
+    "best_time_to_visit": "Apr-Jun, Sep-Oct",
+    "airport_code": "TAS",
+    "image_search": "Tashkent Uzbekistan travel"
+  }
+]

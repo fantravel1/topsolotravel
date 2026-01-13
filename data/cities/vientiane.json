@@ -1,0 +1,20 @@
+{
+  "name": "Vientiane",
+  "slug": "vientiane",
+  "country": "Laos",
+  "country_slug": "laos",
+  "region": "Asia",
+  "lat": 17.9757,
+  "lng": 102.6331,
+  "population": 948477,
+  "safety_level": "safe",
+  "budget_per_day": "20-40",
+  "highlights": [
+    "temples",
+    "french colonial",
+    "mekong"
+  ],
+  "best_time_to_visit": "Nov-Feb",
+  "airport_code": "VTE",
+  "image_search": "Vientiane Laos travel"
+}

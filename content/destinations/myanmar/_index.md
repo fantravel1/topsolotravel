@@ -40,10 +40,14 @@ safety:
     - "Walking alone in unfamiliar areas late at night"
 
 topCities:
-  - name: "Naypyidaw"
-    url: "/destinations/myanmar/"
-    description: "The capital city offers diverse experiences for solo travelers."
-    highlights: ["culture", "food", "history"]
+  - name: "Bagan"
+    url: "/destinations/myanmar/bagan/"
+    description: "Popular destination for solo travelers with great infrastructure."
+    highlights: ["temples", "balloons", "sunrise"]
+  - name: "Yangon"
+    url: "/destinations/myanmar/yangon/"
+    description: "Popular destination for solo travelers with great infrastructure."
+    highlights: ["shwedagon", "colonial", "food"]
 
 
 budget:

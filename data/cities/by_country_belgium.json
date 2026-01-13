@@ -1,0 +1,82 @@
+[
+  {
+    "name": "Antwerp",
+    "slug": "antwerp",
+    "country": "Belgium",
+    "country_slug": "belgium",
+    "region": "Europe",
+    "lat": 51.2194,
+    "lng": 4.4025,
+    "population": 523248,
+    "safety_level": "safe",
+    "budget_per_day": "70-120",
+    "highlights": [
+      "diamonds",
+      "fashion",
+      "beer"
+    ],
+    "best_time_to_visit": "Apr-Oct",
+    "airport_code": "ANR",
+    "image_search": "Antwerp Belgium travel"
+  },
+  {
+    "name": "Bruges",
+    "slug": "bruges",
+    "country": "Belgium",
+    "country_slug": "belgium",
+    "region": "Europe",
+    "lat": 51.2093,
+    "lng": 3.2247,
+    "population": 118284,
+    "safety_level": "safe",
+    "budget_per_day": "70-130",
+    "highlights": [
+      "canals",
+      "chocolate",
+      "medieval"
+    ],
+    "best_time_to_visit": "Apr-Oct",
+    "airport_code": "BRU",
+    "image_search": "Bruges Belgium travel"
+  },
+  {
+    "name": "Brussels",
+    "slug": "brussels",
+    "country": "Belgium",
+    "country_slug": "belgium",
+    "region": "Europe",
+    "lat": 50.8503,
+    "lng": 4.3517,
+    "population": 185103,
+    "safety_level": "safe",
+    "budget_per_day": "80-140",
+    "highlights": [
+      "grand place",
+      "chocolate",
+      "beer"
+    ],
+    "best_time_to_visit": "May-Sep",
+    "airport_code": "BRU",
+    "image_search": "Brussels Belgium travel"
+  },
+  {
+    "name": "Ghent",
+    "slug": "ghent",
+    "country": "Belgium",
+    "country_slug": "belgium",
+    "region": "Europe",
+    "lat": 51.0543,
+    "lng": 3.7174,
+    "population": 262219,
+    "safety_level": "safe",
+    "budget_per_day": "60-110",
+    "highlights": [
+      "canals",
+      "cathedral",
+      "students"
+    ],
+    "best_time_to_visit": "Apr-Oct",
+    "airport_code": "BRU",
+    "image_search": "Ghent Belgium travel"
+  }
+]

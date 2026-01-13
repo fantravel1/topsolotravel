@@ -1,0 +1,20 @@
+{
+  "name": "Bilbao",
+  "slug": "bilbao",
+  "country": "Spain",
+  "country_slug": "spain",
+  "region": "Europe",
+  "lat": 43.263,
+  "lng": -2.935,
+  "population": 345821,
+  "safety_level": "safe",
+  "budget_per_day": "60-110",
+  "highlights": [
+    "guggenheim",
+    "pintxos",
+    "basque"
+  ],
+  "best_time_to_visit": "May-Sep",
+  "airport_code": "BIO",
+  "image_search": "Bilbao Spain travel"
+}

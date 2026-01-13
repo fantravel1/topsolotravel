@@ -40,10 +40,22 @@ safety:
     - "Walking alone in unfamiliar areas late at night"
 
 topCities:
+  - name: "Gdansk"
+    url: "/destinations/poland/gdansk/"
+    description: "Popular destination for solo travelers with great infrastructure."
+    highlights: ["old town", "amber", "beaches"]
+  - name: "Krakow"
+    url: "/destinations/poland/krakow/"
+    description: "Popular destination for solo travelers with great infrastructure."
+    highlights: ["old town", "auschwitz", "salt mines"]
   - name: "Warsaw"
-    url: "/destinations/poland/"
-    description: "The capital city offers diverse experiences for solo travelers."
-    highlights: ["culture", "food", "history"]
+    url: "/destinations/poland/warsaw/"
+    description: "Popular destination for solo travelers with great infrastructure."
+    highlights: ["history", "old town", "nightlife"]
+  - name: "Wroclaw"
+    url: "/destinations/poland/wroclaw/"
+    description: "Popular destination for solo travelers with great infrastructure."
+    highlights: ["dwarfs", "bridges", "market"]
 
 
 budget:

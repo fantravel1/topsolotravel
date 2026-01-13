@@ -1,0 +1,20 @@
+{
+  "name": "Vilnius",
+  "slug": "vilnius",
+  "country": "Lithuania",
+  "country_slug": "lithuania",
+  "region": "Europe",
+  "lat": 54.6872,
+  "lng": 25.2797,
+  "population": 574147,
+  "safety_level": "safe",
+  "budget_per_day": "40-75",
+  "highlights": [
+    "old town",
+    "baroque",
+    "hip"
+  ],
+  "best_time_to_visit": "May-Sep",
+  "airport_code": "VNO",
+  "image_search": "Vilnius Lithuania travel"
+}

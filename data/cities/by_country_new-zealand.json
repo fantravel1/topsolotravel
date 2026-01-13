@@ -20,6 +20,66 @@
     "image_search": "Auckland New Zealand travel"
   },
   {
+    "name": "Bay of Islands",
+    "slug": "bay-of-islands",
+    "country": "New Zealand",
+    "country_slug": "new-zealand",
+    "region": "Oceania",
+    "lat": -35.2097,
+    "lng": 174.0019,
+    "population": 4000,
+    "safety_level": "safe",
+    "budget_per_day": "90-160",
+    "highlights": [
+      "islands",
+      "dolphins",
+      "sailing"
+    ],
+    "best_time_to_visit": "Dec-Mar",
+    "airport_code": "AKL",
+    "image_search": "Bay of Islands New Zealand travel"
+  },
+  {
+    "name": "Christchurch",
+    "slug": "christchurch",
+    "country": "New Zealand",
+    "country_slug": "new-zealand",
+    "region": "Oceania",
+    "lat": -43.5321,
+    "lng": 172.6362,
+    "population": 369006,
+    "safety_level": "safe",
+    "budget_per_day": "80-140",
+    "highlights": [
+      "garden city",
+      "rebuild",
+      "gateway south"
+    ],
+    "best_time_to_visit": "Dec-Mar",
+    "airport_code": "CHC",
+    "image_search": "Christchurch New Zealand travel"
+  },
+  {
+    "name": "Milford Sound",
+    "slug": "milford-sound",
+    "country": "New Zealand",
+    "country_slug": "new-zealand",
+    "region": "Oceania",
+    "lat": -44.6414,
+    "lng": 167.8972,
+    "population": 120,
+    "safety_level": "safe",
+    "budget_per_day": "100-180",
+    "highlights": [
+      "fjord",
+      "cruises",
+      "scenery"
+    ],
+    "best_time_to_visit": "Dec-Mar",
+    "airport_code": "ZQN",
+    "image_search": "Milford Sound New Zealand travel"
+  },
+  {
     "name": "Queenstown",
     "slug": "queenstown",
     "country": "New Zealand",
@@ -38,5 +98,65 @@
     "best_time_to_visit": "Dec-Mar (summer), Jun-Aug (ski)",
     "airport_code": "ZQN",
     "image_search": "Queenstown New Zealand travel"
+  },
+  {
+    "name": "Rotorua",
+    "slug": "rotorua",
+    "country": "New Zealand",
+    "country_slug": "new-zealand",
+    "region": "Oceania",
+    "lat": -38.1368,
+    "lng": 176.2497,
+    "population": 57800,
+    "safety_level": "safe",
+    "budget_per_day": "80-140",
+    "highlights": [
+      "geothermal",
+      "maori culture",
+      "adventure"
+    ],
+    "best_time_to_visit": "Dec-Mar",
+    "airport_code": "ROT",
+    "image_search": "Rotorua New Zealand travel"
+  },
+  {
+    "name": "Wanaka",
+    "slug": "wanaka",
+    "country": "New Zealand",
+    "country_slug": "new-zealand",
+    "region": "Oceania",
+    "lat": -44.7003,
+    "lng": 169.132,
+    "population": 13000,
+    "safety_level": "safe",
+    "budget_per_day": "90-160",
+    "highlights": [
+      "lake",
+      "skiing",
+      "hiking"
+    ],
+    "best_time_to_visit": "Dec-Mar, Jun-Aug",
+    "airport_code": "ZQN",
+    "image_search": "Wanaka New Zealand travel"
+  },
+  {
+    "name": "Wellington",
+    "slug": "wellington",
+    "country": "New Zealand",
+    "country_slug": "new-zealand",
+    "region": "Oceania",
+    "lat": -41.2866,
+    "lng": 174.7756,
+    "population": 215400,
+    "safety_level": "safe",
+    "budget_per_day": "85-150",
+    "highlights": [
+      "culture",
+      "coffee",
+      "windy"
+    ],
+    "best_time_to_visit": "Dec-Mar",
+    "airport_code": "WLG",
+    "image_search": "Wellington New Zealand travel"
   }
 ]

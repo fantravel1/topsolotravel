@@ -1,0 +1,20 @@
+{
+  "name": "Denver",
+  "slug": "denver",
+  "country": "United States",
+  "country_slug": "united-states",
+  "region": "Americas",
+  "lat": 39.7392,
+  "lng": -104.9903,
+  "population": 727211,
+  "safety_level": "safe",
+  "budget_per_day": "90-150",
+  "highlights": [
+    "mountains",
+    "beer",
+    "outdoors"
+  ],
+  "best_time_to_visit": "Jun-Sep, Dec-Mar",
+  "airport_code": "DEN",
+  "image_search": "Denver United States travel"
+}

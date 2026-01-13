@@ -334,13 +334,80 @@ def save_countries(countries: list):
     return countries
 
 
+def process_fallback_country(country: dict) -> dict:
+    """Process a fallback country entry into our format."""
+    name = country["name"]
+    name_lower = name.lower()
+
+    return {
+        "name": name,
+        "slug": name_lower.replace(" ", "-").replace("'", ""),
+        "official_name": name,
+        "cca2": "",
+        "cca3": "",
+        "region": country.get("region", ""),
+        "subregion": country.get("subregion", ""),
+        "region_slug": REGION_MAPPING.get(country.get("region", ""), "other"),
+        "capital": country.get("capital", "N/A"),
+        "population": country.get("population", 0),
+        "area": 0,
+        "currency": country.get("currency", "Local currency"),
+        "languages": [country.get("language", "Local language")],
+        "language": country.get("language", "Local language"),
+        "timezone": country.get("timezone", "UTC"),
+        "timezones": [country.get("timezone", "UTC")],
+        "flag_emoji": "",
+        "flag_svg": "",
+        "flag_png": "",
+        "coat_of_arms": "",
+        "maps_google": "",
+        "maps_osm": "",
+        "landlocked": False,
+        "borders": [],
+        "driving_side": "right",
+        "calling_code": "",
+        "safety_level": country.get("safety_level", "caution"),
+        "budget_per_day": country.get("budget", {"budget": "50-80", "midrange": "100-150", "luxury": "200+"}),
+        "best_time_to_visit": country.get("best_time", "Varies by region"),
+        "latlng": [0, 0],
+        "capital_latlng": [0, 0],
+        "un_member": True,
+        "independent": True,
+        "featured": country.get("featured", False)
+    }
+
+
 def main():
     """Main function to fetch and process country data."""
     raw_countries = fetch_countries()
 
     if not raw_countries:
         print("No countries fetched, using fallback data...")
-        return []
+        # Import and use fallback data
+        try:
+            from data_fallback import COUNTRIES as FALLBACK_COUNTRIES
+            processed = []
+            for country in FALLBACK_COUNTRIES:
+                try:
+                    processed_country = process_fallback_country(country)
+                    processed.append(processed_country)
+                except Exception as e:
+                    print(f"Error processing fallback country: {e}")
+                    continue
+
+            # Sort by name
+            processed.sort(key=lambda x: x["name"])
+
+            # Save data
+            save_countries(processed)
+
+            print(f"\nProcessed {len(processed)} countries from fallback data")
+            print(f"Featured countries: {len([c for c in processed if c['featured']])}")
+
+            return processed
+        except ImportError as e:
+            print(f"Could not load fallback data: {e}")
+            return []
 
     # Process all countries
     processed = []

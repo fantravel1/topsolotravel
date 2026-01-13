@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Antigua Guatemala",
+    "slug": "antigua-guatemala",
+    "country": "Guatemala",
+    "country_slug": "guatemala",
+    "region": "Americas",
+    "lat": 14.5586,
+    "lng": -90.7295,
+    "population": 46292,
+    "safety_level": "caution",
+    "budget_per_day": "30-60",
+    "highlights": [
+      "colonial",
+      "volcanoes",
+      "spanish schools"
+    ],
+    "best_time_to_visit": "Nov-Apr",
+    "airport_code": "GUA",
+    "image_search": "Antigua Guatemala Guatemala travel"
+  }
+]

@@ -41,9 +41,21 @@ safety:
 
 topCities:
   - name: "Beijing"
-    url: "/destinations/china/"
-    description: "The capital city offers diverse experiences for solo travelers."
-    highlights: ["culture", "food", "history"]
+    url: "/destinations/china/beijing/"
+    description: "Popular destination for solo travelers with great infrastructure."
+    highlights: ["great wall", "forbidden city", "temples"]
+  - name: "Chengdu"
+    url: "/destinations/china/chengdu/"
+    description: "Popular destination for solo travelers with great infrastructure."
+    highlights: ["pandas", "hotpot", "teahouses"]
+  - name: "Guilin"
+    url: "/destinations/china/guilin/"
+    description: "Popular destination for solo travelers with great infrastructure."
+    highlights: ["karst mountains", "li river", "rice terraces"]
+  - name: "Hangzhou"
+    url: "/destinations/china/hangzhou/"
+    description: "Popular destination for solo travelers with great infrastructure."
+    highlights: ["west lake", "tea", "temples"]
 
 
 budget:

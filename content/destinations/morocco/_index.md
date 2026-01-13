@@ -40,6 +40,18 @@ safety:
     - "Walking alone in unfamiliar areas late at night"
 
 topCities:
+  - name: "Chefchaouen"
+    url: "/destinations/morocco/chefchaouen/"
+    description: "Popular destination for solo travelers with great infrastructure."
+    highlights: ["blue city", "mountains", "crafts"]
+  - name: "Essaouira"
+    url: "/destinations/morocco/essaouira/"
+    description: "Popular destination for solo travelers with great infrastructure."
+    highlights: ["beach", "medina", "windsurfing"]
+  - name: "Fes"
+    url: "/destinations/morocco/fes/"
+    description: "Popular destination for solo travelers with great infrastructure."
+    highlights: ["medina", "tanneries", "riads"]
   - name: "Marrakech"
     url: "/destinations/morocco/marrakech/"
     description: "Popular destination for solo travelers with great infrastructure."

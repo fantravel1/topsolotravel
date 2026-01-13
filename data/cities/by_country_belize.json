@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Caye Caulker",
+    "slug": "caye-caulker",
+    "country": "Belize",
+    "country_slug": "belize",
+    "region": "Americas",
+    "lat": 17.735,
+    "lng": -88.0261,
+    "population": 2003,
+    "safety_level": "safe",
+    "budget_per_day": "55-100",
+    "highlights": [
+      "go slow",
+      "snorkeling",
+      "laid back"
+    ],
+    "best_time_to_visit": "Dec-May",
+    "airport_code": "BZE",
+    "image_search": "Caye Caulker Belize travel"
+  },
+  {
+    "name": "San Ignacio",
+    "slug": "san-ignacio",
+    "country": "Belize",
+    "country_slug": "belize",
+    "region": "Americas",
+    "lat": 17.1592,
+    "lng": -89.0696,
+    "population": 20708,
+    "safety_level": "safe",
+    "budget_per_day": "50-90",
+    "highlights": [
+      "ruins",
+      "caves",
+      "jungle"
+    ],
+    "best_time_to_visit": "Dec-May",
+    "airport_code": "BZE",
+    "image_search": "San Ignacio Belize travel"
+  }
+]

@@ -1,0 +1,20 @@
+{
+  "name": "Gold Coast",
+  "slug": "gold-coast",
+  "country": "Australia",
+  "country_slug": "australia",
+  "region": "Oceania",
+  "lat": -28.0167,
+  "lng": 153.4,
+  "population": 679127,
+  "safety_level": "safe",
+  "budget_per_day": "80-150",
+  "highlights": [
+    "beaches",
+    "theme parks",
+    "surfing"
+  ],
+  "best_time_to_visit": "Apr-Nov",
+  "airport_code": "OOL",
+  "image_search": "Gold Coast Australia travel"
+}

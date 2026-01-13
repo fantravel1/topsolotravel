@@ -1,0 +1,20 @@
+{
+  "name": "Dublin",
+  "slug": "dublin",
+  "country": "Ireland",
+  "country_slug": "ireland",
+  "region": "Europe",
+  "lat": 53.3498,
+  "lng": -6.2603,
+  "population": 544107,
+  "safety_level": "safe",
+  "budget_per_day": "90-150",
+  "highlights": [
+    "pubs",
+    "history",
+    "culture"
+  ],
+  "best_time_to_visit": "May-Sep",
+  "airport_code": "DUB",
+  "image_search": "Dublin Ireland travel"
+}

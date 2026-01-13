@@ -40,10 +40,18 @@ safety:
     - "Walking alone in unfamiliar areas late at night"
 
 topCities:
+  - name: "Aswan"
+    url: "/destinations/egypt/aswan/"
+    description: "Popular destination for solo travelers with great infrastructure."
+    highlights: ["nubian villages", "temples", "feluccas"]
   - name: "Cairo"
-    url: "/destinations/egypt/"
-    description: "The capital city offers diverse experiences for solo travelers."
-    highlights: ["culture", "food", "history"]
+    url: "/destinations/egypt/cairo/"
+    description: "Popular destination for solo travelers with great infrastructure."
+    highlights: ["pyramids", "museum", "bazaar"]
+  - name: "Luxor"
+    url: "/destinations/egypt/luxor/"
+    description: "Popular destination for solo travelers with great infrastructure."
+    highlights: ["temples", "valley of kings", "nile"]
 
 
 budget:

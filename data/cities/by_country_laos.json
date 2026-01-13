@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Luang Prabang",
+    "slug": "luang-prabang",
+    "country": "Laos",
+    "country_slug": "laos",
+    "region": "Asia",
+    "lat": 19.8833,
+    "lng": 102.1333,
+    "population": 55114,
+    "safety_level": "safe",
+    "budget_per_day": "25-45",
+    "highlights": [
+      "temples",
+      "monks",
+      "waterfalls"
+    ],
+    "best_time_to_visit": "Nov-Feb",
+    "airport_code": "LPQ",
+    "image_search": "Luang Prabang Laos travel"
+  },
+  {
+    "name": "Vientiane",
+    "slug": "vientiane",
+    "country": "Laos",
+    "country_slug": "laos",
+    "region": "Asia",
+    "lat": 17.9757,
+    "lng": 102.6331,
+    "population": 948477,
+    "safety_level": "safe",
+    "budget_per_day": "20-40",
+    "highlights": [
+      "temples",
+      "french colonial",
+      "mekong"
+    ],
+    "best_time_to_visit": "Nov-Feb",
+    "airport_code": "VTE",
+    "image_search": "Vientiane Laos travel"
+  }
+]

@@ -40,6 +40,10 @@ safety:
     - "Walking alone in unfamiliar areas late at night"
 
 topCities:
+  - name: "Bogota"
+    url: "/destinations/colombia/bogota/"
+    description: "Popular destination for solo travelers with great infrastructure."
+    highlights: ["museums", "food", "graffiti"]
   - name: "Cartagena"
     url: "/destinations/colombia/cartagena/"
     description: "Popular destination for solo travelers with great infrastructure."

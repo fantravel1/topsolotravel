@@ -1,0 +1,20 @@
+{
+  "name": "Toledo",
+  "slug": "toledo",
+  "country": "Spain",
+  "country_slug": "spain",
+  "region": "Europe",
+  "lat": 39.8628,
+  "lng": -4.0273,
+  "population": 84282,
+  "safety_level": "safe",
+  "budget_per_day": "50-95",
+  "highlights": [
+    "medieval city",
+    "history",
+    "el greco"
+  ],
+  "best_time_to_visit": "Apr-Jun, Sep-Oct",
+  "airport_code": "MAD",
+  "image_search": "Toledo Spain travel"
+}

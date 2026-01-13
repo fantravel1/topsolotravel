@@ -40,6 +40,10 @@ safety:
     - "Walking alone in unfamiliar areas late at night"
 
 topCities:
+  - name: "Da Nang"
+    url: "/destinations/vietnam/da-nang/"
+    description: "Popular destination for solo travelers with great infrastructure."
+    highlights: ["beaches", "marble mountains", "ba na hills"]
   - name: "Hanoi"
     url: "/destinations/vietnam/hanoi/"
     description: "Popular destination for solo travelers with great infrastructure."

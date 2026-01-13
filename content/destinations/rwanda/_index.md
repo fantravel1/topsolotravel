@@ -41,9 +41,9 @@ safety:
 
 topCities:
   - name: "Kigali"
-    url: "/destinations/rwanda/"
-    description: "The capital city offers diverse experiences for solo travelers."
-    highlights: ["culture", "food", "history"]
+    url: "/destinations/rwanda/kigali/"
+    description: "Popular destination for solo travelers with great infrastructure."
+    highlights: ["gorillas", "clean city", "memorial"]
 
 
 budget:

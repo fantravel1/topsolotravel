@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Amman",
+    "slug": "amman",
+    "country": "Jordan",
+    "country_slug": "jordan",
+    "region": "Asia",
+    "lat": 31.9454,
+    "lng": 35.9284,
+    "population": 1812436,
+    "safety_level": "safe",
+    "budget_per_day": "45-80",
+    "highlights": [
+      "citadel",
+      "roman ruins",
+      "food"
+    ],
+    "best_time_to_visit": "Mar-May, Sep-Nov",
+    "airport_code": "AMM",
+    "image_search": "Amman Jordan travel"
+  },
+  {
+    "name": "Petra",
+    "slug": "petra",
+    "country": "Jordan",
+    "country_slug": "jordan",
+    "region": "Asia",
+    "lat": 30.3285,
+    "lng": 35.4444,
+    "population": 35000,
+    "safety_level": "safe",
+    "budget_per_day": "50-90",
+    "highlights": [
+      "treasury",
+      "tombs",
+      "hiking"
+    ],
+    "best_time_to_visit": "Mar-May, Sep-Nov",
+    "airport_code": "AQJ",
+    "image_search": "Petra Jordan travel"
+  }
+]
