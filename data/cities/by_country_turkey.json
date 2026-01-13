@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Istanbul",
+    "slug": "istanbul",
+    "country": "Turkey",
+    "country_slug": "turkey",
+    "region": "Europe",
+    "lat": 41.0082,
+    "lng": 28.9784,
+    "population": 15460000,
+    "safety_level": "caution",
+    "budget_per_day": "40-80",
+    "highlights": [
+      "hagia sophia",
+      "bazaars",
+      "bosphorus"
+    ],
+    "best_time_to_visit": "Apr-May, Sep-Nov",
+    "airport_code": "IST",
+    "image_search": "Istanbul Turkey travel"
+  }
+]

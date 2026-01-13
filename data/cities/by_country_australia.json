@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Melbourne",
+    "slug": "melbourne",
+    "country": "Australia",
+    "country_slug": "australia",
+    "region": "Oceania",
+    "lat": -37.8136,
+    "lng": 144.9631,
+    "population": 5078000,
+    "safety_level": "safe",
+    "budget_per_day": "90-160",
+    "highlights": [
+      "coffee",
+      "laneways",
+      "culture"
+    ],
+    "best_time_to_visit": "Mar-May, Sep-Nov",
+    "airport_code": "MEL",
+    "image_search": "Melbourne Australia travel"
+  },
+  {
+    "name": "Sydney",
+    "slug": "sydney",
+    "country": "Australia",
+    "country_slug": "australia",
+    "region": "Oceania",
+    "lat": -33.8688,
+    "lng": 151.2093,
+    "population": 5312000,
+    "safety_level": "safe",
+    "budget_per_day": "100-170",
+    "highlights": [
+      "opera house",
+      "beaches",
+      "harbour"
+    ],
+    "best_time_to_visit": "Sep-Nov, Mar-May",
+    "airport_code": "SYD",
+    "image_search": "Sydney Australia travel"
+  }
+]

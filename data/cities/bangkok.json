@@ -1,0 +1,20 @@
+{
+  "name": "Bangkok",
+  "slug": "bangkok",
+  "country": "Thailand",
+  "country_slug": "thailand",
+  "region": "Asia",
+  "lat": 13.7563,
+  "lng": 100.5018,
+  "population": 10539000,
+  "safety_level": "caution",
+  "budget_per_day": "35-70",
+  "highlights": [
+    "temples",
+    "street food",
+    "nightlife"
+  ],
+  "best_time_to_visit": "Nov-Feb",
+  "airport_code": "BKK",
+  "image_search": "Bangkok Thailand travel"
+}

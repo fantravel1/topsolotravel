@@ -1,0 +1,20 @@
+{
+  "name": "Seville",
+  "slug": "seville",
+  "country": "Spain",
+  "country_slug": "spain",
+  "region": "Europe",
+  "lat": 37.3891,
+  "lng": -5.9845,
+  "population": 688592,
+  "safety_level": "safe",
+  "budget_per_day": "50-90",
+  "highlights": [
+    "flamenco",
+    "alcazar",
+    "tapas"
+  ],
+  "best_time_to_visit": "Mar-May, Sep-Nov",
+  "airport_code": "SVQ",
+  "image_search": "Seville Spain travel"
+}

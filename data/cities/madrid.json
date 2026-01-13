@@ -1,0 +1,20 @@
+{
+  "name": "Madrid",
+  "slug": "madrid",
+  "country": "Spain",
+  "country_slug": "spain",
+  "region": "Europe",
+  "lat": 40.4168,
+  "lng": -3.7038,
+  "population": 3223334,
+  "safety_level": "safe",
+  "budget_per_day": "60-110",
+  "highlights": [
+    "museums",
+    "nightlife",
+    "tapas"
+  ],
+  "best_time_to_visit": "Apr-Jun, Sep-Oct",
+  "airport_code": "MAD",
+  "image_search": "Madrid Spain travel"
+}

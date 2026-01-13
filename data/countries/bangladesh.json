@@ -1,0 +1,50 @@
+{
+  "name": "Bangladesh",
+  "slug": "bangladesh",
+  "official_name": "Bangladesh",
+  "cca2": "",
+  "cca3": "",
+  "region": "Asia",
+  "subregion": "Southern Asia",
+  "region_slug": "asia",
+  "capital": "Dhaka",
+  "population": 164690000,
+  "area": 0,
+  "currency": "Bangladeshi Taka (BDT)",
+  "languages": [
+    "Bengali"
+  ],
+  "language": "Bengali",
+  "timezone": "UTC+6",
+  "timezones": [
+    "UTC+6"
+  ],
+  "flag_emoji": "",
+  "flag_svg": "",
+  "flag_png": "",
+  "coat_of_arms": "",
+  "maps_google": "",
+  "maps_osm": "",
+  "landlocked": false,
+  "borders": [],
+  "driving_side": "right",
+  "calling_code": "",
+  "safety_level": "caution",
+  "budget_per_day": {
+    "budget": "20-30",
+    "midrange": "35-55",
+    "luxury": "80+"
+  },
+  "best_time_to_visit": "Nov-Feb",
+  "latlng": [
+    0,
+    0
+  ],
+  "capital_latlng": [
+    0,
+    0
+  ],
+  "un_member": true,
+  "independent": true,
+  "featured": false
+}

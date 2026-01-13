@@ -1,0 +1,50 @@
+{
+  "name": "Maldives",
+  "slug": "maldives",
+  "official_name": "Maldives",
+  "cca2": "",
+  "cca3": "",
+  "region": "Asia",
+  "subregion": "Southern Asia",
+  "region_slug": "asia",
+  "capital": "Male",
+  "population": 540540,
+  "area": 0,
+  "currency": "Maldivian Rufiyaa (MVR)",
+  "languages": [
+    "Dhivehi"
+  ],
+  "language": "Dhivehi",
+  "timezone": "UTC+5",
+  "timezones": [
+    "UTC+5"
+  ],
+  "flag_emoji": "",
+  "flag_svg": "",
+  "flag_png": "",
+  "coat_of_arms": "",
+  "maps_google": "",
+  "maps_osm": "",
+  "landlocked": false,
+  "borders": [],
+  "driving_side": "right",
+  "calling_code": "",
+  "safety_level": "safe",
+  "budget_per_day": {
+    "budget": "100-150",
+    "midrange": "200-400",
+    "luxury": "800+"
+  },
+  "best_time_to_visit": "Nov-Apr",
+  "latlng": [
+    0,
+    0
+  ],
+  "capital_latlng": [
+    0,
+    0
+  ],
+  "un_member": true,
+  "independent": true,
+  "featured": false
+}

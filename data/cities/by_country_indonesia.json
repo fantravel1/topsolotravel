@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Bali",
+    "slug": "bali",
+    "country": "Indonesia",
+    "country_slug": "indonesia",
+    "region": "Asia",
+    "lat": -8.4095,
+    "lng": 115.1889,
+    "population": 4225000,
+    "safety_level": "caution",
+    "budget_per_day": "35-70",
+    "highlights": [
+      "temples",
+      "beaches",
+      "yoga"
+    ],
+    "best_time_to_visit": "Apr-Oct",
+    "airport_code": "DPS",
+    "image_search": "Bali Indonesia travel"
+  },
+  {
+    "name": "Jakarta",
+    "slug": "jakarta",
+    "country": "Indonesia",
+    "country_slug": "indonesia",
+    "region": "Asia",
+    "lat": -6.2088,
+    "lng": 106.8456,
+    "population": 10562000,
+    "safety_level": "caution",
+    "budget_per_day": "35-65",
+    "highlights": [
+      "museums",
+      "food",
+      "history"
+    ],
+    "best_time_to_visit": "Jun-Sep",
+    "airport_code": "CGK",
+    "image_search": "Jakarta Indonesia travel"
+  }
+]

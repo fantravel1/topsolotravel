@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Delhi",
+    "slug": "delhi",
+    "country": "India",
+    "country_slug": "india",
+    "region": "Asia",
+    "lat": 28.7041,
+    "lng": 77.1025,
+    "population": 16787941,
+    "safety_level": "caution",
+    "budget_per_day": "25-55",
+    "highlights": [
+      "monuments",
+      "food",
+      "history"
+    ],
+    "best_time_to_visit": "Oct-Mar",
+    "airport_code": "DEL",
+    "image_search": "Delhi India travel"
+  },
+  {
+    "name": "Jaipur",
+    "slug": "jaipur",
+    "country": "India",
+    "country_slug": "india",
+    "region": "Asia",
+    "lat": 26.9124,
+    "lng": 75.7873,
+    "population": 3073350,
+    "safety_level": "caution",
+    "budget_per_day": "25-50",
+    "highlights": [
+      "pink city",
+      "palaces",
+      "shopping"
+    ],
+    "best_time_to_visit": "Oct-Mar",
+    "airport_code": "JAI",
+    "image_search": "Jaipur India travel"
+  },
+  {
+    "name": "Mumbai",
+    "slug": "mumbai",
+    "country": "India",
+    "country_slug": "india",
+    "region": "Asia",
+    "lat": 19.076,
+    "lng": 72.8777,
+    "population": 12442373,
+    "safety_level": "caution",
+    "budget_per_day": "30-60",
+    "highlights": [
+      "gateway",
+      "bollywood",
+      "street food"
+    ],
+    "best_time_to_visit": "Nov-Feb",
+    "airport_code": "BOM",
+    "image_search": "Mumbai India travel"
+  }
+]

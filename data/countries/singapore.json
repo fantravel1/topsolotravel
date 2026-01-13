@@ -1,0 +1,50 @@
+{
+  "name": "Singapore",
+  "slug": "singapore",
+  "official_name": "Singapore",
+  "cca2": "",
+  "cca3": "",
+  "region": "Asia",
+  "subregion": "South-Eastern Asia",
+  "region_slug": "asia",
+  "capital": "Singapore",
+  "population": 5850000,
+  "area": 0,
+  "currency": "Singapore Dollar (SGD)",
+  "languages": [
+    "English"
+  ],
+  "language": "English",
+  "timezone": "UTC+8",
+  "timezones": [
+    "UTC+8"
+  ],
+  "flag_emoji": "",
+  "flag_svg": "",
+  "flag_png": "",
+  "coat_of_arms": "",
+  "maps_google": "",
+  "maps_osm": "",
+  "landlocked": false,
+  "borders": [],
+  "driving_side": "right",
+  "calling_code": "",
+  "safety_level": "safe",
+  "budget_per_day": {
+    "budget": "80-110",
+    "midrange": "140-220",
+    "luxury": "400+"
+  },
+  "best_time_to_visit": "Year-round",
+  "latlng": [
+    0,
+    0
+  ],
+  "capital_latlng": [
+    0,
+    0
+  ],
+  "un_member": true,
+  "independent": true,
+  "featured": true
+}

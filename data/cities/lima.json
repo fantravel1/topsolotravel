@@ -1,0 +1,20 @@
+{
+  "name": "Lima",
+  "slug": "lima",
+  "country": "Peru",
+  "country_slug": "peru",
+  "region": "Americas",
+  "lat": -12.0464,
+  "lng": -77.0428,
+  "population": 10719000,
+  "safety_level": "caution",
+  "budget_per_day": "40-80",
+  "highlights": [
+    "ceviche",
+    "history",
+    "miraflores"
+  ],
+  "best_time_to_visit": "Dec-Apr",
+  "airport_code": "LIM",
+  "image_search": "Lima Peru travel"
+}

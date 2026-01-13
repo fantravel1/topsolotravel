@@ -1,0 +1,50 @@
+{
+  "name": "Qatar",
+  "slug": "qatar",
+  "official_name": "Qatar",
+  "cca2": "",
+  "cca3": "",
+  "region": "Asia",
+  "subregion": "Western Asia",
+  "region_slug": "asia",
+  "capital": "Doha",
+  "population": 2880000,
+  "area": 0,
+  "currency": "Qatari Riyal (QAR)",
+  "languages": [
+    "Arabic"
+  ],
+  "language": "Arabic",
+  "timezone": "UTC+3",
+  "timezones": [
+    "UTC+3"
+  ],
+  "flag_emoji": "",
+  "flag_svg": "",
+  "flag_png": "",
+  "coat_of_arms": "",
+  "maps_google": "",
+  "maps_osm": "",
+  "landlocked": false,
+  "borders": [],
+  "driving_side": "right",
+  "calling_code": "",
+  "safety_level": "safe",
+  "budget_per_day": {
+    "budget": "100-140",
+    "midrange": "180-280",
+    "luxury": "500+"
+  },
+  "best_time_to_visit": "Nov-Apr",
+  "latlng": [
+    0,
+    0
+  ],
+  "capital_latlng": [
+    0,
+    0
+  ],
+  "un_member": true,
+  "independent": true,
+  "featured": false
+}

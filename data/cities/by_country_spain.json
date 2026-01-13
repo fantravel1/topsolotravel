@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Barcelona",
+    "slug": "barcelona",
+    "country": "Spain",
+    "country_slug": "spain",
+    "region": "Europe",
+    "lat": 41.3851,
+    "lng": 2.1734,
+    "population": 1620343,
+    "safety_level": "caution",
+    "budget_per_day": "65-120",
+    "highlights": [
+      "gaudi",
+      "beaches",
+      "tapas"
+    ],
+    "best_time_to_visit": "Apr-Jun, Sep-Oct",
+    "airport_code": "BCN",
+    "image_search": "Barcelona Spain travel"
+  },
+  {
+    "name": "Madrid",
+    "slug": "madrid",
+    "country": "Spain",
+    "country_slug": "spain",
+    "region": "Europe",
+    "lat": 40.4168,
+    "lng": -3.7038,
+    "population": 3223334,
+    "safety_level": "safe",
+    "budget_per_day": "60-110",
+    "highlights": [
+      "museums",
+      "nightlife",
+      "tapas"
+    ],
+    "best_time_to_visit": "Apr-Jun, Sep-Oct",
+    "airport_code": "MAD",
+    "image_search": "Madrid Spain travel"
+  },
+  {
+    "name": "Seville",
+    "slug": "seville",
+    "country": "Spain",
+    "country_slug": "spain",
+    "region": "Europe",
+    "lat": 37.3891,
+    "lng": -5.9845,
+    "population": 688592,
+    "safety_level": "safe",
+    "budget_per_day": "50-90",
+    "highlights": [
+      "flamenco",
+      "alcazar",
+      "tapas"
+    ],
+    "best_time_to_visit": "Mar-May, Sep-Nov",
+    "airport_code": "SVQ",
+    "image_search": "Seville Spain travel"
+  }
+]

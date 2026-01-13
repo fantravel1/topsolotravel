@@ -1,0 +1,50 @@
+{
+  "name": "Nepal",
+  "slug": "nepal",
+  "official_name": "Nepal",
+  "cca2": "",
+  "cca3": "",
+  "region": "Asia",
+  "subregion": "Southern Asia",
+  "region_slug": "asia",
+  "capital": "Kathmandu",
+  "population": 29140000,
+  "area": 0,
+  "currency": "Nepalese Rupee (NPR)",
+  "languages": [
+    "Nepali"
+  ],
+  "language": "Nepali",
+  "timezone": "UTC+5:45",
+  "timezones": [
+    "UTC+5:45"
+  ],
+  "flag_emoji": "",
+  "flag_svg": "",
+  "flag_png": "",
+  "coat_of_arms": "",
+  "maps_google": "",
+  "maps_osm": "",
+  "landlocked": false,
+  "borders": [],
+  "driving_side": "right",
+  "calling_code": "",
+  "safety_level": "caution",
+  "budget_per_day": {
+    "budget": "20-30",
+    "midrange": "40-60",
+    "luxury": "100+"
+  },
+  "best_time_to_visit": "Oct-Nov, Mar-May",
+  "latlng": [
+    0,
+    0
+  ],
+  "capital_latlng": [
+    0,
+    0
+  ],
+  "un_member": true,
+  "independent": true,
+  "featured": false
+}

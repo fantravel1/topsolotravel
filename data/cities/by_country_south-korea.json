@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Busan",
+    "slug": "busan",
+    "country": "South Korea",
+    "country_slug": "south-korea",
+    "region": "Asia",
+    "lat": 35.1796,
+    "lng": 129.0756,
+    "population": 3429000,
+    "safety_level": "safe",
+    "budget_per_day": "55-100",
+    "highlights": [
+      "beaches",
+      "seafood",
+      "temples"
+    ],
+    "best_time_to_visit": "Apr-Jun, Sep-Nov",
+    "airport_code": "PUS",
+    "image_search": "Busan South Korea travel"
+  },
+  {
+    "name": "Seoul",
+    "slug": "seoul",
+    "country": "South Korea",
+    "country_slug": "south-korea",
+    "region": "Asia",
+    "lat": 37.5665,
+    "lng": 126.978,
+    "population": 9776000,
+    "safety_level": "safe",
+    "budget_per_day": "60-110",
+    "highlights": [
+      "k-culture",
+      "food",
+      "technology"
+    ],
+    "best_time_to_visit": "Apr-Jun, Sep-Nov",
+    "airport_code": "ICN",
+    "image_search": "Seoul South Korea travel"
+  }
+]

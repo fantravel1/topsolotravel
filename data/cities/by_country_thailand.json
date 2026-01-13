@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Bangkok",
+    "slug": "bangkok",
+    "country": "Thailand",
+    "country_slug": "thailand",
+    "region": "Asia",
+    "lat": 13.7563,
+    "lng": 100.5018,
+    "population": 10539000,
+    "safety_level": "caution",
+    "budget_per_day": "35-70",
+    "highlights": [
+      "temples",
+      "street food",
+      "nightlife"
+    ],
+    "best_time_to_visit": "Nov-Feb",
+    "airport_code": "BKK",
+    "image_search": "Bangkok Thailand travel"
+  },
+  {
+    "name": "Chiang Mai",
+    "slug": "chiang-mai",
+    "country": "Thailand",
+    "country_slug": "thailand",
+    "region": "Asia",
+    "lat": 18.7883,
+    "lng": 98.9853,
+    "population": 131000,
+    "safety_level": "safe",
+    "budget_per_day": "30-60",
+    "highlights": [
+      "temples",
+      "cooking classes",
+      "digital nomads"
+    ],
+    "best_time_to_visit": "Nov-Feb",
+    "airport_code": "CNX",
+    "image_search": "Chiang Mai Thailand travel"
+  },
+  {
+    "name": "Phuket",
+    "slug": "phuket",
+    "country": "Thailand",
+    "country_slug": "thailand",
+    "region": "Asia",
+    "lat": 7.9519,
+    "lng": 98.3381,
+    "population": 416582,
+    "safety_level": "caution",
+    "budget_per_day": "40-80",
+    "highlights": [
+      "beaches",
+      "islands",
+      "diving"
+    ],
+    "best_time_to_visit": "Nov-Apr",
+    "airport_code": "HKT",
+    "image_search": "Phuket Thailand travel"
+  }
+]

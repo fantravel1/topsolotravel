@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Athens",
+    "slug": "athens",
+    "country": "Greece",
+    "country_slug": "greece",
+    "region": "Europe",
+    "lat": 37.9838,
+    "lng": 23.7275,
+    "population": 664046,
+    "safety_level": "safe",
+    "budget_per_day": "55-100",
+    "highlights": [
+      "acropolis",
+      "history",
+      "islands"
+    ],
+    "best_time_to_visit": "Apr-Jun, Sep-Oct",
+    "airport_code": "ATH",
+    "image_search": "Athens Greece travel"
+  },
+  {
+    "name": "Santorini",
+    "slug": "santorini",
+    "country": "Greece",
+    "country_slug": "greece",
+    "region": "Europe",
+    "lat": 36.3932,
+    "lng": 25.4615,
+    "population": 15550,
+    "safety_level": "safe",
+    "budget_per_day": "80-160",
+    "highlights": [
+      "sunsets",
+      "views",
+      "wine"
+    ],
+    "best_time_to_visit": "Apr-Oct",
+    "airport_code": "JTR",
+    "image_search": "Santorini Greece travel"
+  }
+]

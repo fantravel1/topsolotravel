@@ -1,0 +1,50 @@
+{
+  "name": "Tanzania",
+  "slug": "tanzania",
+  "official_name": "Tanzania",
+  "cca2": "",
+  "cca3": "",
+  "region": "Africa",
+  "subregion": "Eastern Africa",
+  "region_slug": "africa",
+  "capital": "Dodoma",
+  "population": 59730000,
+  "area": 0,
+  "currency": "Tanzanian Shilling (TZS)",
+  "languages": [
+    "Swahili"
+  ],
+  "language": "Swahili",
+  "timezone": "UTC+3",
+  "timezones": [
+    "UTC+3"
+  ],
+  "flag_emoji": "",
+  "flag_svg": "",
+  "flag_png": "",
+  "coat_of_arms": "",
+  "maps_google": "",
+  "maps_osm": "",
+  "landlocked": false,
+  "borders": [],
+  "driving_side": "right",
+  "calling_code": "",
+  "safety_level": "caution",
+  "budget_per_day": {
+    "budget": "45-65",
+    "midrange": "90-150",
+    "luxury": "300+"
+  },
+  "best_time_to_visit": "Jun-Oct",
+  "latlng": [
+    0,
+    0
+  ],
+  "capital_latlng": [
+    0,
+    0
+  ],
+  "un_member": true,
+  "independent": true,
+  "featured": false
+}

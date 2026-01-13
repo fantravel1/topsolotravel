@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Los Angeles",
+    "slug": "los-angeles",
+    "country": "United States",
+    "country_slug": "united-states",
+    "region": "Americas",
+    "lat": 34.0522,
+    "lng": -118.2437,
+    "population": 3979576,
+    "safety_level": "caution",
+    "budget_per_day": "100-180",
+    "highlights": [
+      "beaches",
+      "hollywood",
+      "food"
+    ],
+    "best_time_to_visit": "Mar-May, Sep-Nov",
+    "airport_code": "LAX",
+    "image_search": "Los Angeles United States travel"
+  },
+  {
+    "name": "New York City",
+    "slug": "new-york-city",
+    "country": "United States",
+    "country_slug": "united-states",
+    "region": "Americas",
+    "lat": 40.7128,
+    "lng": -74.006,
+    "population": 8336817,
+    "safety_level": "caution",
+    "budget_per_day": "120-220",
+    "highlights": [
+      "broadway",
+      "museums",
+      "food"
+    ],
+    "best_time_to_visit": "Apr-Jun, Sep-Nov",
+    "airport_code": "JFK",
+    "image_search": "New York City United States travel"
+  },
+  {
+    "name": "San Francisco",
+    "slug": "san-francisco",
+    "country": "United States",
+    "country_slug": "united-states",
+    "region": "Americas",
+    "lat": 37.7749,
+    "lng": -122.4194,
+    "population": 883305,
+    "safety_level": "caution",
+    "budget_per_day": "120-200",
+    "highlights": [
+      "golden gate",
+      "tech",
+      "food"
+    ],
+    "best_time_to_visit": "Sep-Nov",
+    "airport_code": "SFO",
+    "image_search": "San Francisco United States travel"
+  }
+]

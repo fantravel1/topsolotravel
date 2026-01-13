@@ -1,0 +1,20 @@
+{
+  "name": "Paris",
+  "slug": "paris",
+  "country": "France",
+  "country_slug": "france",
+  "region": "Europe",
+  "lat": 48.8566,
+  "lng": 2.3522,
+  "population": 2161000,
+  "safety_level": "caution",
+  "budget_per_day": "90-160",
+  "highlights": [
+    "eiffel tower",
+    "louvre",
+    "cafes"
+  ],
+  "best_time_to_visit": "Apr-Jun, Sep-Oct",
+  "airport_code": "CDG",
+  "image_search": "Paris France travel"
+}

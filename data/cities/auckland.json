@@ -1,0 +1,20 @@
+{
+  "name": "Auckland",
+  "slug": "auckland",
+  "country": "New Zealand",
+  "country_slug": "new-zealand",
+  "region": "Oceania",
+  "lat": -36.8509,
+  "lng": 174.7645,
+  "population": 1657000,
+  "safety_level": "safe",
+  "budget_per_day": "90-150",
+  "highlights": [
+    "harbour",
+    "islands",
+    "wine"
+  ],
+  "best_time_to_visit": "Dec-Mar",
+  "airport_code": "AKL",
+  "image_search": "Auckland New Zealand travel"
+}

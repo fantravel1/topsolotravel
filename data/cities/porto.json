@@ -1,0 +1,20 @@
+{
+  "name": "Porto",
+  "slug": "porto",
+  "country": "Portugal",
+  "country_slug": "portugal",
+  "region": "Europe",
+  "lat": 41.1579,
+  "lng": -8.6291,
+  "population": 237591,
+  "safety_level": "safe",
+  "budget_per_day": "50-90",
+  "highlights": [
+    "port wine",
+    "bridges",
+    "ribeira"
+  ],
+  "best_time_to_visit": "May-Sep",
+  "airport_code": "OPO",
+  "image_search": "Porto Portugal travel"
+}

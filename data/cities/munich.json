@@ -1,0 +1,20 @@
+{
+  "name": "Munich",
+  "slug": "munich",
+  "country": "Germany",
+  "country_slug": "germany",
+  "region": "Europe",
+  "lat": 48.1351,
+  "lng": 11.582,
+  "population": 1472000,
+  "safety_level": "safe",
+  "budget_per_day": "70-130",
+  "highlights": [
+    "beer gardens",
+    "oktoberfest",
+    "alps"
+  ],
+  "best_time_to_visit": "May-Sep",
+  "airport_code": "MUC",
+  "image_search": "Munich Germany travel"
+}

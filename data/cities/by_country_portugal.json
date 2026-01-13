@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Lagos",
+    "slug": "lagos",
+    "country": "Portugal",
+    "country_slug": "portugal",
+    "region": "Europe",
+    "lat": 37.1028,
+    "lng": -8.6732,
+    "population": 31049,
+    "safety_level": "safe",
+    "budget_per_day": "45-85",
+    "highlights": [
+      "beaches",
+      "cliffs",
+      "surfing"
+    ],
+    "best_time_to_visit": "May-Oct",
+    "airport_code": "FAO",
+    "image_search": "Lagos Portugal travel"
+  },
+  {
+    "name": "Lisbon",
+    "slug": "lisbon",
+    "country": "Portugal",
+    "country_slug": "portugal",
+    "region": "Europe",
+    "lat": 38.7223,
+    "lng": -9.1393,
+    "population": 544851,
+    "safety_level": "safe",
+    "budget_per_day": "55-100",
+    "highlights": [
+      "tram 28",
+      "pasteis de nata",
+      "alfama"
+    ],
+    "best_time_to_visit": "Apr-Oct",
+    "airport_code": "LIS",
+    "image_search": "Lisbon Portugal travel"
+  },
+  {
+    "name": "Porto",
+    "slug": "porto",
+    "country": "Portugal",
+    "country_slug": "portugal",
+    "region": "Europe",
+    "lat": 41.1579,
+    "lng": -8.6291,
+    "population": 237591,
+    "safety_level": "safe",
+    "budget_per_day": "50-90",
+    "highlights": [
+      "port wine",
+      "bridges",
+      "ribeira"
+    ],
+    "best_time_to_visit": "May-Sep",
+    "airport_code": "OPO",
+    "image_search": "Porto Portugal travel"
+  }
+]

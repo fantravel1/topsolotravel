@@ -1,0 +1,50 @@
+{
+  "name": "Switzerland",
+  "slug": "switzerland",
+  "official_name": "Switzerland",
+  "cca2": "",
+  "cca3": "",
+  "region": "Europe",
+  "subregion": "Western Europe",
+  "region_slug": "europe",
+  "capital": "Bern",
+  "population": 8650000,
+  "area": 0,
+  "currency": "Swiss Franc (CHF)",
+  "languages": [
+    "German"
+  ],
+  "language": "German",
+  "timezone": "UTC+1",
+  "timezones": [
+    "UTC+1"
+  ],
+  "flag_emoji": "",
+  "flag_svg": "",
+  "flag_png": "",
+  "coat_of_arms": "",
+  "maps_google": "",
+  "maps_osm": "",
+  "landlocked": false,
+  "borders": [],
+  "driving_side": "right",
+  "calling_code": "",
+  "safety_level": "safe",
+  "budget_per_day": {
+    "budget": "120-160",
+    "midrange": "200-300",
+    "luxury": "550+"
+  },
+  "best_time_to_visit": "Jun-Sep, Dec-Mar",
+  "latlng": [
+    0,
+    0
+  ],
+  "capital_latlng": [
+    0,
+    0
+  ],
+  "un_member": true,
+  "independent": true,
+  "featured": true
+}

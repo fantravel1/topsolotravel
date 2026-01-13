@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Kyoto",
+    "slug": "kyoto",
+    "country": "Japan",
+    "country_slug": "japan",
+    "region": "Asia",
+    "lat": 35.0116,
+    "lng": 135.7681,
+    "population": 1475000,
+    "safety_level": "safe",
+    "budget_per_day": "70-130",
+    "highlights": [
+      "temples",
+      "geisha",
+      "gardens"
+    ],
+    "best_time_to_visit": "Mar-May, Oct-Nov",
+    "airport_code": "KIX",
+    "image_search": "Kyoto Japan travel"
+  },
+  {
+    "name": "Osaka",
+    "slug": "osaka",
+    "country": "Japan",
+    "country_slug": "japan",
+    "region": "Asia",
+    "lat": 34.6937,
+    "lng": 135.5023,
+    "population": 2750000,
+    "safety_level": "safe",
+    "budget_per_day": "65-120",
+    "highlights": [
+      "street food",
+      "nightlife",
+      "castle"
+    ],
+    "best_time_to_visit": "Mar-May, Oct-Nov",
+    "airport_code": "KIX",
+    "image_search": "Osaka Japan travel"
+  },
+  {
+    "name": "Tokyo",
+    "slug": "tokyo",
+    "country": "Japan",
+    "country_slug": "japan",
+    "region": "Asia",
+    "lat": 35.6762,
+    "lng": 139.6503,
+    "population": 13960000,
+    "safety_level": "safe",
+    "budget_per_day": "80-150",
+    "highlights": [
+      "temples",
+      "food",
+      "technology"
+    ],
+    "best_time_to_visit": "Mar-May, Oct-Nov",
+    "airport_code": "NRT/HND",
+    "image_search": "Tokyo Japan travel"
+  }
+]

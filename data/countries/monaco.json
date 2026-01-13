@@ -1,0 +1,50 @@
+{
+  "name": "Monaco",
+  "slug": "monaco",
+  "official_name": "Monaco",
+  "cca2": "",
+  "cca3": "",
+  "region": "Europe",
+  "subregion": "Western Europe",
+  "region_slug": "europe",
+  "capital": "Monaco",
+  "population": 39240,
+  "area": 0,
+  "currency": "Euro (EUR)",
+  "languages": [
+    "French"
+  ],
+  "language": "French",
+  "timezone": "UTC+1",
+  "timezones": [
+    "UTC+1"
+  ],
+  "flag_emoji": "",
+  "flag_svg": "",
+  "flag_png": "",
+  "coat_of_arms": "",
+  "maps_google": "",
+  "maps_osm": "",
+  "landlocked": false,
+  "borders": [],
+  "driving_side": "right",
+  "calling_code": "",
+  "safety_level": "safe",
+  "budget_per_day": {
+    "budget": "150-200",
+    "midrange": "300-500",
+    "luxury": "1000+"
+  },
+  "best_time_to_visit": "Year-round",
+  "latlng": [
+    0,
+    0
+  ],
+  "capital_latlng": [
+    0,
+    0
+  ],
+  "un_member": true,
+  "independent": true,
+  "featured": false
+}

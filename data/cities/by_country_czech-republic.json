@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Prague",
+    "slug": "prague",
+    "country": "Czech Republic",
+    "country_slug": "czech-republic",
+    "region": "Europe",
+    "lat": 50.0755,
+    "lng": 14.4378,
+    "population": 1309000,
+    "safety_level": "safe",
+    "budget_per_day": "50-90",
+    "highlights": [
+      "old town",
+      "beer",
+      "architecture"
+    ],
+    "best_time_to_visit": "Apr-Jun, Sep-Oct",
+    "airport_code": "PRG",
+    "image_search": "Prague Czech Republic travel"
+  }
+]

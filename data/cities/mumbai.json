@@ -1,0 +1,20 @@
+{
+  "name": "Mumbai",
+  "slug": "mumbai",
+  "country": "India",
+  "country_slug": "india",
+  "region": "Asia",
+  "lat": 19.076,
+  "lng": 72.8777,
+  "population": 12442373,
+  "safety_level": "caution",
+  "budget_per_day": "30-60",
+  "highlights": [
+    "gateway",
+    "bollywood",
+    "street food"
+  ],
+  "best_time_to_visit": "Nov-Feb",
+  "airport_code": "BOM",
+  "image_search": "Mumbai India travel"
+}

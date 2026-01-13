@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Berlin",
+    "slug": "berlin",
+    "country": "Germany",
+    "country_slug": "germany",
+    "region": "Europe",
+    "lat": 52.52,
+    "lng": 13.405,
+    "population": 3645000,
+    "safety_level": "safe",
+    "budget_per_day": "60-110",
+    "highlights": [
+      "history",
+      "nightlife",
+      "art"
+    ],
+    "best_time_to_visit": "May-Sep",
+    "airport_code": "BER",
+    "image_search": "Berlin Germany travel"
+  },
+  {
+    "name": "Munich",
+    "slug": "munich",
+    "country": "Germany",
+    "country_slug": "germany",
+    "region": "Europe",
+    "lat": 48.1351,
+    "lng": 11.582,
+    "population": 1472000,
+    "safety_level": "safe",
+    "budget_per_day": "70-130",
+    "highlights": [
+      "beer gardens",
+      "oktoberfest",
+      "alps"
+    ],
+    "best_time_to_visit": "May-Sep",
+    "airport_code": "MUC",
+    "image_search": "Munich Germany travel"
+  }
+]

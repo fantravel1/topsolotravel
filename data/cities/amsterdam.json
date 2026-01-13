@@ -1,0 +1,20 @@
+{
+  "name": "Amsterdam",
+  "slug": "amsterdam",
+  "country": "Netherlands",
+  "country_slug": "netherlands",
+  "region": "Europe",
+  "lat": 52.3676,
+  "lng": 4.9041,
+  "population": 872680,
+  "safety_level": "caution",
+  "budget_per_day": "90-150",
+  "highlights": [
+    "canals",
+    "museums",
+    "bikes"
+  ],
+  "best_time_to_visit": "Apr-Sep",
+  "airport_code": "AMS",
+  "image_search": "Amsterdam Netherlands travel"
+}

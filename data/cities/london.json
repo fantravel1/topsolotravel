@@ -1,0 +1,20 @@
+{
+  "name": "London",
+  "slug": "london",
+  "country": "United Kingdom",
+  "country_slug": "united-kingdom",
+  "region": "Europe",
+  "lat": 51.5074,
+  "lng": -0.1278,
+  "population": 8982000,
+  "safety_level": "caution",
+  "budget_per_day": "100-180",
+  "highlights": [
+    "museums",
+    "history",
+    "pubs"
+  ],
+  "best_time_to_visit": "May-Sep",
+  "airport_code": "LHR",
+  "image_search": "London United Kingdom travel"
+}

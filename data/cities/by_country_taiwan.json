@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Taipei",
+    "slug": "taipei",
+    "country": "Taiwan",
+    "country_slug": "taiwan",
+    "region": "Asia",
+    "lat": 25.033,
+    "lng": 121.5654,
+    "population": 2646000,
+    "safety_level": "safe",
+    "budget_per_day": "50-90",
+    "highlights": [
+      "night markets",
+      "temples",
+      "food"
+    ],
+    "best_time_to_visit": "Oct-Apr",
+    "airport_code": "TPE",
+    "image_search": "Taipei Taiwan travel"
+  }
+]

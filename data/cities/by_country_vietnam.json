@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Hanoi",
+    "slug": "hanoi",
+    "country": "Vietnam",
+    "country_slug": "vietnam",
+    "region": "Asia",
+    "lat": 21.0278,
+    "lng": 105.8342,
+    "population": 8054000,
+    "safety_level": "caution",
+    "budget_per_day": "25-50",
+    "highlights": [
+      "old quarter",
+      "street food",
+      "culture"
+    ],
+    "best_time_to_visit": "Oct-Apr",
+    "airport_code": "HAN",
+    "image_search": "Hanoi Vietnam travel"
+  },
+  {
+    "name": "Ho Chi Minh City",
+    "slug": "ho-chi-minh-city",
+    "country": "Vietnam",
+    "country_slug": "vietnam",
+    "region": "Asia",
+    "lat": 10.8231,
+    "lng": 106.6297,
+    "population": 8993000,
+    "safety_level": "caution",
+    "budget_per_day": "25-50",
+    "highlights": [
+      "cu chi tunnels",
+      "street food",
+      "nightlife"
+    ],
+    "best_time_to_visit": "Dec-Apr",
+    "airport_code": "SGN",
+    "image_search": "Ho Chi Minh City Vietnam travel"
+  },
+  {
+    "name": "Hoi An",
+    "slug": "hoi-an",
+    "country": "Vietnam",
+    "country_slug": "vietnam",
+    "region": "Asia",
+    "lat": 15.8801,
+    "lng": 108.338,
+    "population": 120000,
+    "safety_level": "safe",
+    "budget_per_day": "25-45",
+    "highlights": [
+      "ancient town",
+      "tailors",
+      "lanterns"
+    ],
+    "best_time_to_visit": "Feb-May",
+    "airport_code": "DAD",
+    "image_search": "Hoi An Vietnam travel"
+  }
+]

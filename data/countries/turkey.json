@@ -1,0 +1,50 @@
+{
+  "name": "Turkey",
+  "slug": "turkey",
+  "official_name": "Turkey",
+  "cca2": "",
+  "cca3": "",
+  "region": "Europe",
+  "subregion": "Western Asia",
+  "region_slug": "europe",
+  "capital": "Ankara",
+  "population": 84340000,
+  "area": 0,
+  "currency": "Turkish Lira (TRY)",
+  "languages": [
+    "Turkish"
+  ],
+  "language": "Turkish",
+  "timezone": "UTC+3",
+  "timezones": [
+    "UTC+3"
+  ],
+  "flag_emoji": "",
+  "flag_svg": "",
+  "flag_png": "",
+  "coat_of_arms": "",
+  "maps_google": "",
+  "maps_osm": "",
+  "landlocked": false,
+  "borders": [],
+  "driving_side": "right",
+  "calling_code": "",
+  "safety_level": "caution",
+  "budget_per_day": {
+    "budget": "35-50",
+    "midrange": "70-120",
+    "luxury": "200+"
+  },
+  "best_time_to_visit": "Apr-May, Sep-Nov",
+  "latlng": [
+    0,
+    0
+  ],
+  "capital_latlng": [
+    0,
+    0
+  ],
+  "un_member": true,
+  "independent": true,
+  "featured": true
+}

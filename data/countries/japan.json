@@ -1,0 +1,50 @@
+{
+  "name": "Japan",
+  "slug": "japan",
+  "official_name": "Japan",
+  "cca2": "",
+  "cca3": "",
+  "region": "Asia",
+  "subregion": "Eastern Asia",
+  "region_slug": "asia",
+  "capital": "Tokyo",
+  "population": 125800000,
+  "area": 0,
+  "currency": "Japanese Yen (JPY)",
+  "languages": [
+    "Japanese"
+  ],
+  "language": "Japanese",
+  "timezone": "UTC+9",
+  "timezones": [
+    "UTC+9"
+  ],
+  "flag_emoji": "",
+  "flag_svg": "",
+  "flag_png": "",
+  "coat_of_arms": "",
+  "maps_google": "",
+  "maps_osm": "",
+  "landlocked": false,
+  "borders": [],
+  "driving_side": "right",
+  "calling_code": "",
+  "safety_level": "safe",
+  "budget_per_day": {
+    "budget": "70-100",
+    "midrange": "120-180",
+    "luxury": "350+"
+  },
+  "best_time_to_visit": "Mar-May, Oct-Nov",
+  "latlng": [
+    0,
+    0
+  ],
+  "capital_latlng": [
+    0,
+    0
+  ],
+  "un_member": true,
+  "independent": true,
+  "featured": true
+}

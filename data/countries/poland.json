@@ -1,0 +1,50 @@
+{
+  "name": "Poland",
+  "slug": "poland",
+  "official_name": "Poland",
+  "cca2": "",
+  "cca3": "",
+  "region": "Europe",
+  "subregion": "Central Europe",
+  "region_slug": "europe",
+  "capital": "Warsaw",
+  "population": 37950000,
+  "area": 0,
+  "currency": "Polish Zloty (PLN)",
+  "languages": [
+    "Polish"
+  ],
+  "language": "Polish",
+  "timezone": "UTC+1",
+  "timezones": [
+    "UTC+1"
+  ],
+  "flag_emoji": "",
+  "flag_svg": "",
+  "flag_png": "",
+  "coat_of_arms": "",
+  "maps_google": "",
+  "maps_osm": "",
+  "landlocked": false,
+  "borders": [],
+  "driving_side": "right",
+  "calling_code": "",
+  "safety_level": "safe",
+  "budget_per_day": {
+    "budget": "40-60",
+    "midrange": "70-120",
+    "luxury": "200+"
+  },
+  "best_time_to_visit": "May-Sep",
+  "latlng": [
+    0,
+    0
+  ],
+  "capital_latlng": [
+    0,
+    0
+  ],
+  "un_member": true,
+  "independent": true,
+  "featured": false
+}

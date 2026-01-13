@@ -1,0 +1,20 @@
+{
+  "name": "Edinburgh",
+  "slug": "edinburgh",
+  "country": "United Kingdom",
+  "country_slug": "united-kingdom",
+  "region": "Europe",
+  "lat": 55.9533,
+  "lng": -3.1883,
+  "population": 482005,
+  "safety_level": "safe",
+  "budget_per_day": "80-140",
+  "highlights": [
+    "castle",
+    "festivals",
+    "whisky"
+  ],
+  "best_time_to_visit": "May-Sep",
+  "airport_code": "EDI",
+  "image_search": "Edinburgh United Kingdom travel"
+}

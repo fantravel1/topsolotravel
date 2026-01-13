@@ -1,0 +1,50 @@
+{
+  "name": "Jordan",
+  "slug": "jordan",
+  "official_name": "Jordan",
+  "cca2": "",
+  "cca3": "",
+  "region": "Asia",
+  "subregion": "Western Asia",
+  "region_slug": "asia",
+  "capital": "Amman",
+  "population": 10200000,
+  "area": 0,
+  "currency": "Jordanian Dinar (JOD)",
+  "languages": [
+    "Arabic"
+  ],
+  "language": "Arabic",
+  "timezone": "UTC+2",
+  "timezones": [
+    "UTC+2"
+  ],
+  "flag_emoji": "",
+  "flag_svg": "",
+  "flag_png": "",
+  "coat_of_arms": "",
+  "maps_google": "",
+  "maps_osm": "",
+  "landlocked": false,
+  "borders": [],
+  "driving_side": "right",
+  "calling_code": "",
+  "safety_level": "caution",
+  "budget_per_day": {
+    "budget": "50-70",
+    "midrange": "90-140",
+    "luxury": "250+"
+  },
+  "best_time_to_visit": "Mar-May, Sep-Nov",
+  "latlng": [
+    0,
+    0
+  ],
+  "capital_latlng": [
+    0,
+    0
+  ],
+  "un_member": true,
+  "independent": true,
+  "featured": false
+}

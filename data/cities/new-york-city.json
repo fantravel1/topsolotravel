@@ -1,0 +1,20 @@
+{
+  "name": "New York City",
+  "slug": "new-york-city",
+  "country": "United States",
+  "country_slug": "united-states",
+  "region": "Americas",
+  "lat": 40.7128,
+  "lng": -74.006,
+  "population": 8336817,
+  "safety_level": "caution",
+  "budget_per_day": "120-220",
+  "highlights": [
+    "broadway",
+    "museums",
+    "food"
+  ],
+  "best_time_to_visit": "Apr-Jun, Sep-Nov",
+  "airport_code": "JFK",
+  "image_search": "New York City United States travel"
+}

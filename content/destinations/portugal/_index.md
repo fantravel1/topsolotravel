@@ -1,96 +1,144 @@
 ---
 title: "Portugal"
-description: "Complete solo travel guide to Portugal. Safety tips, best cities, budget breakdown, and essential tips for traveling alone in Portugal."
+description: "Complete solo travel guide to Portugal. Safety tips, best cities, budget breakdown, visa info, and essential tips for traveling alone in Portugal."
 region: "Europe"
+subregion: "Southern Europe"
 featured: true
 safetyLevel: "safe"
-heroImage: "/images/destinations/portugal.jpg"
+heroImage: "https://source.unsplash.com/1600x900/?portugal+travel+landscape"
 
 quickFacts:
   capital: "Lisbon"
   currency: "Euro (EUR)"
   language: "Portuguese"
-  timezone: "WET/WEST (UTC+0/+1)"
-  population: "10 million"
-  bestTime: "April-October"
-  budget: "$60-120/day"
-  visaFree: "90 days Schengen"
+  timezone: "UTC+0"
+  population: "10.2 million"
+  bestTime: "Apr-Oct"
+  budget: "$50-90/day"
+  visaFree: "Check requirements"
   safety: "Very Safe"
 
 travelAdvisory:
   level: "info"
   advisoryLevel: 1
   message: "Exercise normal precautions in Portugal."
-  source: "US State Department"
-  date: "2024"
+  source: "Travel Advisory"
+  date: "2026"
 
 safety:
-  overview: "Portugal is one of the safest countries in Europe and the world. Violent crime is rare, and solo travelers consistently report feeling safe throughout the country. The biggest concerns are petty theft in tourist areas."
-  soloFemale: "Portugal is excellent for solo female travelers. Women report feeling safe walking alone at night in most areas. Portuguese people are generally helpful and respectful."
+  overview: "Portugal is generally very safe for solo travelers. Standard travel precautions are recommended for all visitors."
+  soloFemale: "Solo female travelers generally feel safe in Portugal. Standard precautions are advised in tourist areas."
   tips:
-    - "Watch for pickpockets in crowded tourist areas and trams"
-    - "Be cautious in Lisbon's Alfama district at night"
-    - "Keep valuables secure at beaches"
-    - "Use official taxis or ride-sharing apps"
+    - "Keep valuables secure, especially in crowded areas"
+    - "Stay aware of your surroundings, particularly at night"
+    - "Use official transportation services"
+    - "Share your itinerary with someone back home"
+    - "Carry a copy of your passport separately from the original"
   avoid:
-    - "Flashing expensive items in crowded areas"
-    - "Unlicensed tour operators"
+    - "Unlicensed taxis and transportation"
+    - "Displaying expensive jewelry or electronics"
+    - "Walking alone in unfamiliar areas late at night"
 
 topCities:
-  - name: "Lisbon"
-    url: "/destinations/portugal/lisbon/"
-    description: "Europe's coolest capital with historic neighborhoods, incredible food, and vibrant nightlife."
-    highlights: ["Tram 28", "Pastéis de Nata", "Nightlife"]
-    image: "/images/destinations/lisbon.jpg"
-  - name: "Porto"
-    url: "/destinations/portugal/porto/"
-    description: "UNESCO World Heritage city famous for port wine, stunning architecture, and riverside charm."
-    highlights: ["Port wine", "Architecture", "River Douro"]
-    image: "/images/destinations/porto.jpg"
   - name: "Lagos"
     url: "/destinations/portugal/lagos/"
-    description: "Algarve beach town with dramatic cliffs, golden beaches, and a lively backpacker scene."
-    highlights: ["Beaches", "Cliffs", "Surfing"]
-    image: "/images/destinations/lagos.jpg"
+    description: "Popular destination for solo travelers with great infrastructure."
+    highlights: ["beaches", "cliffs", "surfing"]
+  - name: "Lisbon"
+    url: "/destinations/portugal/lisbon/"
+    description: "Popular destination for solo travelers with great infrastructure."
+    highlights: ["tram 28", "pasteis de nata", "alfama"]
+  - name: "Porto"
+    url: "/destinations/portugal/porto/"
+    description: "Popular destination for solo travelers with great infrastructure."
+    highlights: ["port wine", "bridges", "ribeira"]
+
 
 budget:
-  overview: "Portugal is one of Western Europe's most affordable destinations. Budget travelers can manage on $50-60/day, while mid-range travelers enjoy great comfort at $80-120/day."
+  overview: "Portugal offers excellent value options for solo travelers. Budget-conscious travelers can manage on $50/day, while mid-range travelers typically spend $90/day."
   accommodation:
-    budget: "$15-30"
-    midRange: "$50-100"
-    luxury: "$150+"
+    budget: "$20"
+    midRange: "$36"
+    luxury: "$125"
   food:
-    budget: "$15-25"
-    midRange: "$30-50"
-    luxury: "$80+"
+    budget: "$15"
+    midRange: "$27"
+    luxury: "$75"
   transport:
-    budget: "$10-15"
-    midRange: "$20-30"
-    luxury: "$50+"
+    budget: "$10"
+    midRange: "$18"
+    luxury: "$37"
   total:
-    budget: "$50-60"
-    midRange: "$80-120"
-    luxury: "$250+"
+    budget: "$50"
+    midRange: "$90"
+    luxury: "$250"
+
+visa:
+  overview: "Visa requirements for Portugal vary by nationality. Many passport holders enjoy visa-free or visa-on-arrival access."
+  usPassport: "US passport holders should check current visa requirements before traveling."
+  ukPassport: "UK passport holders should verify entry requirements."
+  euPassport: "EU citizens should check Schengen area agreements if applicable."
+
+culture:
+  tips:
+    - "Learn a few basic phrases in the local language"
+    - "Respect local customs and dress codes"
+    - "Be mindful of photography restrictions at religious sites"
+    - "Tipping customs vary - research before your trip"
+  etiquette:
+    - "Greet locals appropriately based on local customs"
+    - "Ask permission before photographing people"
+    - "Dress modestly when visiting religious sites"
+
+transport:
+  overview: "Getting around Portugal is manageable. Major cities have public transportation. Taxis and ride-sharing are widely available."
+  options:
+    - name: "Public Transit"
+      description: "Available in major cities with varying quality and coverage."
+    - name: "Taxis/Ride-sharing"
+      description: "Widely available; use official services or trusted apps."
+    - name: "Domestic Flights"
+      description: "Useful for covering large distances efficiently."
 
 faqs:
   - question: "Is Portugal safe for solo travelers?"
-    answer: "Portugal is one of the safest countries in Europe for solo travelers. It consistently ranks in the top 5 safest countries globally. Violent crime is very rare, and locals are friendly and helpful."
-  - question: "How expensive is Portugal compared to other European countries?"
-    answer: "Portugal is one of Western Europe's most affordable destinations. It's significantly cheaper than France, Spain, or Italy while offering excellent quality food, wine, and accommodation."
-  - question: "Is Portugal good for solo female travelers?"
-    answer: "Portugal is excellent for solo female travelers. Women report feeling very safe, locals are respectful, and there's a strong solo travel community, especially in Lisbon and Lagos."
+    answer: "Portugal is generally very safe for solo travelers. Most visitors have positive experiences with standard precautions."
+  - question: "How much money do I need per day in Portugal?"
+    answer: "Budget travelers can get by on $50/day, mid-range travelers typically spend $90/day, and luxury travelers should budget $250+/day."
   - question: "What's the best time to visit Portugal?"
-    answer: "April to October offers the best weather. Summer (June-August) is busiest and hottest. Shoulder seasons (April-May, September-October) offer great weather with fewer crowds."
+    answer: "The best time to visit Portugal is Apr-Oct. Weather and crowds vary by season."
+  - question: "Do I need a visa for Portugal?"
+    answer: "Visa requirements depend on your nationality. Many countries offer visa-free or visa-on-arrival access. Always verify current requirements before travel."
+  - question: "Is Portugal good for first-time solo travelers?"
+    answer: "Yes, Portugal is excellent for first-time solo travelers due to good infrastructure and welcoming culture."
 ---
 
-Portugal has emerged as one of Europe's favorite destinations for solo travelers. With its warm climate, friendly locals, excellent food and wine, and affordable prices, Portugal offers an ideal blend of culture, adventure, and relaxation.
+Portugal offers incredible experiences for solo travelers. From vibrant cities to rich cultural heritage, there's something for every independent explorer.
 
-## Why Portugal is Perfect for Solo Travelers
+## Why Portugal is Great for Solo Travelers
 
-**Welcoming Culture**: Portuguese people are known for their warmth and hospitality. Solo travelers often report making local friends and feeling welcomed.
+**Welcoming Culture**: Visitors to Portugal often comment on the hospitality of locals.
 
-**Excellent Value**: Your euro goes further in Portugal than almost anywhere else in Western Europe. Great wine for €3, delicious meals for €10, and charming accommodation at reasonable prices.
+**Diverse Experiences**: From cities to countryside, Portugal offers varied experiences.
 
-**Easy to Navigate**: Portugal is compact and well-connected. Trains and buses link major cities efficiently, and both Lisbon and Porto are highly walkable.
+**Solo-Friendly Infrastructure**: Good tourist infrastructure makes solo travel straightforward.
 
-**Digital Nomad Hub**: Lisbon has become Europe's digital nomad capital, making it easy to find co-working spaces, meet like-minded travelers, and work while exploring.
+## Best Experiences for Solo Travelers
+
+- **Explore Local Markets**: Discover authentic local life and cuisine
+- **Walking Tours**: Many cities offer free or affordable walking tours
+- **Cultural Sites**: Museums, temples, and historical landmarks
+- **Local Cuisine**: Try street food and local restaurants
+- **Nature & Outdoors**: Parks, hiking trails, and scenic viewpoints
+
+## Getting Around
+
+Research transportation options before arrival. Major cities typically have public transit, taxis, and ride-sharing options.
+
+## Solo Travel Tips for Portugal
+
+1. **Stay Connected**: Get a local SIM card or ensure your international plan works
+2. **Join Group Tours**: A great way to meet other travelers
+3. **Use Trusted Apps**: Download maps, translation, and transportation apps
+4. **Book Ahead**: Especially during peak season
+5. **Trust Your Instincts**: If something feels off, remove yourself from the situation

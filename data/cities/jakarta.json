@@ -1,0 +1,20 @@
+{
+  "name": "Jakarta",
+  "slug": "jakarta",
+  "country": "Indonesia",
+  "country_slug": "indonesia",
+  "region": "Asia",
+  "lat": -6.2088,
+  "lng": 106.8456,
+  "population": 10562000,
+  "safety_level": "caution",
+  "budget_per_day": "35-65",
+  "highlights": [
+    "museums",
+    "food",
+    "history"
+  ],
+  "best_time_to_visit": "Jun-Sep",
+  "airport_code": "CGK",
+  "image_search": "Jakarta Indonesia travel"
+}

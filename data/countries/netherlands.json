@@ -1,0 +1,50 @@
+{
+  "name": "Netherlands",
+  "slug": "netherlands",
+  "official_name": "Netherlands",
+  "cca2": "",
+  "cca3": "",
+  "region": "Europe",
+  "subregion": "Western Europe",
+  "region_slug": "europe",
+  "capital": "Amsterdam",
+  "population": 17440000,
+  "area": 0,
+  "currency": "Euro (EUR)",
+  "languages": [
+    "Dutch"
+  ],
+  "language": "Dutch",
+  "timezone": "UTC+1",
+  "timezones": [
+    "UTC+1"
+  ],
+  "flag_emoji": "",
+  "flag_svg": "",
+  "flag_png": "",
+  "coat_of_arms": "",
+  "maps_google": "",
+  "maps_osm": "",
+  "landlocked": false,
+  "borders": [],
+  "driving_side": "right",
+  "calling_code": "",
+  "safety_level": "safe",
+  "budget_per_day": {
+    "budget": "80-100",
+    "midrange": "130-190",
+    "luxury": "350+"
+  },
+  "best_time_to_visit": "Apr-Sep",
+  "latlng": [
+    0,
+    0
+  ],
+  "capital_latlng": [
+    0,
+    0
+  ],
+  "un_member": true,
+  "independent": true,
+  "featured": true
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Singapore",
+  "slug": "singapore",
+  "country": "Singapore",
+  "country_slug": "singapore",
+  "region": "Asia",
+  "lat": 1.3521,
+  "lng": 103.8198,
+  "population": 5686000,
+  "safety_level": "safe",
+  "budget_per_day": "80-150",
+  "highlights": [
+    "food",
+    "gardens",
+    "clean"
+  ],
+  "best_time_to_visit": "Year-round",
+  "airport_code": "SIN",
+  "image_search": "Singapore Singapore travel"
+}
