@@ -1,0 +1,53 @@
+{{ define "title" }}{{ .Title }} | {{ .Site.Title }}{{ end }}
+
+{{ define "meta-description" }}{{ with .Description }}{{ . }}{{ else }}{{ with .Params.description }}{{ . }}{{ else }}Explore {{ .Title | lower }} guides for solo travelers. Find tips, recommendations, and essential information for traveling alone.{{ end }}{{ end }}{{ end }}
+
+{{ define "main" }}
+{{/* Hero Section */}}
+<section class="hero hero--destination">
+  {{ with .Params.heroImage }}
+  <div class="hero__bg" style="background-image: url('{{ . }}');"></div>
+  {{ end }}
+  <div class="hero__content">
+    <h1 class="hero__title">{{ .Title }}</h1>
+    {{ with .Description }}
+    <p class="hero__subtitle">{{ . }}</p>
+    {{ else }}
+    {{ with .Params.subtitle }}
+    <p class="hero__subtitle">{{ . }}</p>
+    {{ end }}
+    {{ end }}
+  </div>
+</section>
+
+<div class="container">
+  {{/* Breadcrumb */}}
+  {{ partial "breadcrumb.html" . }}
+
+  {{/* Introduction */}}
+  {{ with .Content }}
+  <div class="content section--sm">
+    {{ . }}
+  </div>
+  {{ end }}
+
+  {{/* Child Pages Grid */}}
+  {{ $pages := .Pages }}
+  {{ if $pages }}
+  <section class="section">
+    <div class="grid grid-cols-1 grid-cols-2 grid-cols-3">
+      {{ range $pages }}
+      {{ partial "card.html" . }}
+      {{ end }}
+    </div>
+  </section>
+  {{ end }}
+
+  {{/* Pagination if needed */}}
+  {{ template "_internal/pagination.html" . }}
+</div>
+{{ end }}
+
+{{ define "schema" }}
+{{ partial "schema/collection.html" . }}
+{{ end }}

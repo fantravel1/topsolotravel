@@ -1,0 +1,189 @@
+{{ define "title" }}{{ .Title }} | {{ .Site.Title }}{{ end }}
+
+{{ define "meta-description" }}{{ with .Params.description }}{{ . }}{{ else }}{{ .Summary | plainify | truncate 160 }}{{ end }}{{ end }}
+
+{{ define "main" }}
+{{/* Hero Section */}}
+<section class="hero hero--destination">
+  {{ with .Params.heroImage }}
+  <div class="hero__bg" style="background-image: url('{{ . }}');"></div>
+  {{ end }}
+  <div class="hero__content">
+    {{ with .Params.tags }}
+    <div class="tags mb-4" style="justify-content: center;">
+      {{ range first 3 . }}
+      <span class="tag" style="background: rgba(255,255,255,0.2); color: white;">{{ . }}</span>
+      {{ end }}
+    </div>
+    {{ end }}
+    <h1 class="hero__title">{{ .Title }}</h1>
+    {{ with .Params.subtitle }}
+    <p class="hero__subtitle">{{ . }}</p>
+    {{ end }}
+  </div>
+</section>
+
+<div class="container">
+  {{/* Breadcrumb */}}
+  {{ partial "breadcrumb.html" . }}
+
+  <div class="page-layout">
+    {{/* Main Content */}}
+    <article class="page-layout__main" itemscope itemtype="https://schema.org/Article">
+      <meta itemprop="headline" content="{{ .Title }}">
+      <meta itemprop="datePublished" content="{{ .Date.Format "2006-01-02" }}">
+      <meta itemprop="dateModified" content="{{ .Lastmod.Format "2006-01-02" }}">
+
+      {{/* Table of Contents */}}
+      {{ if .Params.toc | default true }}
+      {{ if .TableOfContents }}
+      <nav class="toc" aria-label="Table of Contents">
+        <h2 class="toc__title">In This Guide</h2>
+        <div class="toc__list">
+          {{ .TableOfContents }}
+        </div>
+      </nav>
+      {{ end }}
+      {{ end }}
+
+      {{/* Quick Facts (if available) */}}
+      {{ with .Params.quickFacts }}
+      {{ partial "quick-facts.html" . }}
+      {{ end }}
+
+      {{/* Safety Warning (if applicable) */}}
+      {{ with .Params.safetyWarning }}
+      <div class="callout callout--warning">
+        <h3 class="callout__title">Safety Notice</h3>
+        <p>{{ . }}</p>
+      </div>
+      {{ end }}
+
+      {{/* Main Content */}}
+      <div class="content" itemprop="articleBody">
+        {{ .Content }}
+      </div>
+
+      {{/* FAQs Section */}}
+      {{ with .Params.faqs }}
+      <section class="section--sm">
+        <h2>Frequently Asked Questions</h2>
+        <div class="faqs">
+          {{ range . }}
+          <details class="faq">
+            <summary class="faq__question">{{ .question }}</summary>
+            <div class="faq__answer">
+              <p>{{ .answer }}</p>
+            </div>
+          </details>
+          {{ end }}
+        </div>
+      </section>
+      {{ end }}
+
+      {{/* Last Updated */}}
+      <div class="text-muted mt-8" style="font-size: var(--text-sm);">
+        <p>Last updated: {{ .Lastmod.Format "January 2, 2006" }}</p>
+      </div>
+    </article>
+
+    {{/* Sidebar */}}
+    <aside class="page-layout__sidebar">
+      {{/* Safety Widget */}}
+      {{ with .Params.safetyLevel }}
+      <div class="widget">
+        <h3 class="widget__title">Safety Rating</h3>
+        {{ partial "safety-badge.html" (dict "level" . "text" (. | title)) }}
+        <div class="safety-meter safety-meter--{{ . }}" style="margin-top: var(--space-3);">
+          {{ if eq . "safe" }}
+          <div class="safety-meter__bar is-active"></div>
+          <div class="safety-meter__bar is-active"></div>
+          <div class="safety-meter__bar is-active"></div>
+          <div class="safety-meter__bar is-active"></div>
+          <div class="safety-meter__bar is-active"></div>
+          {{ else if eq . "caution" }}
+          <div class="safety-meter__bar is-active"></div>
+          <div class="safety-meter__bar is-active"></div>
+          <div class="safety-meter__bar is-active"></div>
+          <div class="safety-meter__bar"></div>
+          <div class="safety-meter__bar"></div>
+          {{ else if eq . "warning" }}
+          <div class="safety-meter__bar is-active"></div>
+          <div class="safety-meter__bar is-active"></div>
+          <div class="safety-meter__bar"></div>
+          <div class="safety-meter__bar"></div>
+          <div class="safety-meter__bar"></div>
+          {{ else }}
+          <div class="safety-meter__bar is-active"></div>
+          <div class="safety-meter__bar"></div>
+          <div class="safety-meter__bar"></div>
+          <div class="safety-meter__bar"></div>
+          <div class="safety-meter__bar"></div>
+          {{ end }}
+        </div>
+      </div>
+      {{ end }}
+
+      {{/* Related Pages */}}
+      {{ $related := .Site.RegularPages.Related . | first 5 }}
+      {{ with $related }}
+      <div class="widget">
+        <h3 class="widget__title">Related Guides</h3>
+        <ul class="footer__links">
+          {{ range . }}
+          <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+          {{ end }}
+        </ul>
+      </div>
+      {{ end }}
+
+      {{/* Newsletter CTA */}}
+      <div class="widget" style="background: var(--color-primary-bg);">
+        <h3 class="widget__title">Solo Travel Tips</h3>
+        <p style="font-size: var(--text-sm); margin-bottom: var(--space-3);">Get weekly solo travel tips and destination guides.</p>
+        <a href="/newsletter/" class="btn btn--primary btn--block btn--sm">Subscribe Free</a>
+      </div>
+    </aside>
+  </div>
+</div>
+{{ end }}
+
+{{ define "schema" }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "{{ with .Params.schemaType }}{{ . }}{{ else }}TravelGuide{{ end }}",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "{{ .Permalink }}"
+  },
+  "headline": "{{ .Title }}",
+  "description": "{{ with .Params.description }}{{ . }}{{ else }}{{ .Summary | plainify | truncate 160 }}{{ end }}",
+  "image": "{{ with .Params.image }}{{ . | absURL }}{{ else }}{{ .Site.Params.ogImage | absURL }}{{ end }}",
+  "datePublished": "{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}",
+  "dateModified": "{{ .Lastmod.Format "2006-01-02T15:04:05Z07:00" }}",
+  "author": {
+    "@type": "Organization",
+    "name": "{{ .Site.Params.organizationName }}"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "{{ .Site.Params.organizationName }}",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "{{ .Site.Params.organizationLogo | absURL }}"
+    }
+  }
+  {{ with .Params.about }}
+  ,"about": {
+    "@type": "Place",
+    "name": "{{ .name }}",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "{{ .country }}"
+    }
+  }
+  {{ end }}
+}
+</script>
+{{ end }}

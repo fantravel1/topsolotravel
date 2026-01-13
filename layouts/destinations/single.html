@@ -1,0 +1,348 @@
+{{ define "title" }}{{ .Title }} Solo Travel Guide {{ now.Year }} | {{ .Site.Title }}{{ end }}
+
+{{ define "meta-description" }}Complete solo travel guide to {{ .Title }}. Safety tips, best cities, budget breakdown, visa info, and essential tips for traveling alone in {{ .Title }}.{{ end }}
+
+{{ define "og-type" }}article{{ end }}
+
+{{ define "main" }}
+{{/* Hero Section */}}
+<section class="hero hero--destination" style="min-height: 50vh;">
+  {{ with .Params.heroImage }}
+  <div class="hero__bg" style="background-image: url('{{ . }}');"></div>
+  {{ else }}
+  <div class="hero__bg" style="background-image: url('/images/destinations/{{ .File.ContentBaseName }}.jpg');"></div>
+  {{ end }}
+  <div class="hero__content">
+    {{ with .Params.safetyLevel }}
+    <div class="mb-4">
+      {{ partial "safety-badge.html" (dict "level" . "text" (printf "%s for Solo Travelers" (. | title))) }}
+    </div>
+    {{ end }}
+    <h1 class="hero__title">{{ .Title }} Solo Travel Guide</h1>
+    <p class="hero__subtitle">Everything you need to know about traveling alone in {{ .Title }}</p>
+  </div>
+</section>
+
+<div class="container">
+  {{ partial "breadcrumb.html" . }}
+
+  <div class="page-layout">
+    {{/* Main Content */}}
+    <article class="page-layout__main">
+      {{/* Quick Facts */}}
+      {{ with .Params.quickFacts }}
+      {{ partial "quick-facts.html" . }}
+      {{ end }}
+
+      {{/* Safety Alert */}}
+      {{ with .Params.travelAdvisory }}
+      <div class="callout callout--{{ .level | default "info" }}">
+        <h3 class="callout__title">Travel Advisory</h3>
+        <p>{{ .message }}</p>
+        {{ with .source }}<p class="text-muted" style="font-size: var(--text-sm);">Source: {{ . }}</p>{{ end }}
+      </div>
+      {{ end }}
+
+      {{/* Table of Contents */}}
+      <nav class="toc">
+        <h2 class="toc__title">In This Guide</h2>
+        <ul class="toc__list">
+          <li><a href="#overview">Overview</a></li>
+          <li><a href="#safety">Safety for Solo Travelers</a></li>
+          <li><a href="#best-cities">Best Cities for Solo Travel</a></li>
+          <li><a href="#budget">Budget Breakdown</a></li>
+          <li><a href="#visa">Visa Requirements</a></li>
+          <li><a href="#culture">Cultural Tips</a></li>
+          <li><a href="#getting-around">Getting Around</a></li>
+          <li><a href="#faqs">FAQs</a></li>
+        </ul>
+      </nav>
+
+      {{/* Main Content */}}
+      <div class="content">
+        <section id="overview">
+          <h2>Solo Travel in {{ .Title }}</h2>
+          {{ .Content }}
+        </section>
+
+        {{/* Safety Section */}}
+        <section id="safety">
+          <h2>Is {{ .Title }} Safe for Solo Travelers?</h2>
+          {{ with .Params.safety }}
+          <p>{{ .overview }}</p>
+
+          {{ with .soloFemale }}
+          <h3>Solo Female Travelers</h3>
+          <p>{{ . }}</p>
+          {{ end }}
+
+          {{ with .tips }}
+          <h3>Safety Tips</h3>
+          <ul class="list list--check">
+            {{ range . }}
+            <li>{{ . }}</li>
+            {{ end }}
+          </ul>
+          {{ end }}
+
+          {{ with .avoid }}
+          <h3>Areas to Exercise Caution</h3>
+          <ul class="list">
+            {{ range . }}
+            <li>{{ . }}</li>
+            {{ end }}
+          </ul>
+          {{ end }}
+          {{ end }}
+
+          <p><a href="/safety/{{ .File.ContentBaseName }}/" class="btn btn--secondary btn--sm">Full Safety Guide</a></p>
+        </section>
+
+        {{/* Best Cities */}}
+        <section id="best-cities">
+          <h2>Best Cities for Solo Travelers</h2>
+          {{ with .Params.topCities }}
+          <div class="grid grid-cols-1 grid-cols-2 gap-4">
+            {{ range . }}
+            <div class="card">
+              {{ with .image }}<img src="{{ . }}" alt="{{ .name }}" class="card__image" loading="lazy">{{ end }}
+              <div class="card__body">
+                <h3 class="card__title"><a href="{{ .url }}">{{ .name }}</a></h3>
+                <p class="card__excerpt">{{ .description }}</p>
+                {{ with .highlights }}
+                <div class="tags">
+                  {{ range . }}
+                  <span class="tag">{{ . }}</span>
+                  {{ end }}
+                </div>
+                {{ end }}
+              </div>
+            </div>
+            {{ end }}
+          </div>
+          {{ end }}
+        </section>
+
+        {{/* Budget */}}
+        <section id="budget">
+          <h2>Budget Breakdown</h2>
+          {{ with .Params.budget }}
+          <p>{{ .overview }}</p>
+
+          <div class="table-wrapper">
+            <table class="table">
+              <thead>
+                <tr>
+                  <th>Category</th>
+                  <th>Budget</th>
+                  <th>Mid-Range</th>
+                  <th>Luxury</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td>Accommodation (per night)</td>
+                  <td>{{ .accommodation.budget }}</td>
+                  <td>{{ .accommodation.midRange }}</td>
+                  <td>{{ .accommodation.luxury }}</td>
+                </tr>
+                <tr>
+                  <td>Food (per day)</td>
+                  <td>{{ .food.budget }}</td>
+                  <td>{{ .food.midRange }}</td>
+                  <td>{{ .food.luxury }}</td>
+                </tr>
+                <tr>
+                  <td>Transport (per day)</td>
+                  <td>{{ .transport.budget }}</td>
+                  <td>{{ .transport.midRange }}</td>
+                  <td>{{ .transport.luxury }}</td>
+                </tr>
+                <tr>
+                  <td><strong>Daily Total</strong></td>
+                  <td><strong>{{ .total.budget }}</strong></td>
+                  <td><strong>{{ .total.midRange }}</strong></td>
+                  <td><strong>{{ .total.luxury }}</strong></td>
+                </tr>
+              </tbody>
+            </table>
+          </div>
+          {{ end }}
+        </section>
+
+        {{/* Visa */}}
+        <section id="visa">
+          <h2>Visa Requirements</h2>
+          {{ with .Params.visa }}
+          <p>{{ .overview }}</p>
+
+          {{ with .usPassport }}
+          <h3>US Passport Holders</h3>
+          <p>{{ . }}</p>
+          {{ end }}
+
+          {{ with .ukPassport }}
+          <h3>UK Passport Holders</h3>
+          <p>{{ . }}</p>
+          {{ end }}
+
+          {{ with .euPassport }}
+          <h3>EU Passport Holders</h3>
+          <p>{{ . }}</p>
+          {{ end }}
+          {{ end }}
+
+          <p><a href="/visas/" class="btn btn--secondary btn--sm">Check Your Visa Requirements</a></p>
+        </section>
+
+        {{/* Culture */}}
+        <section id="culture">
+          <h2>Cultural Tips for Solo Travelers</h2>
+          {{ with .Params.culture }}
+          {{ with .tips }}
+          <ul class="list list--check">
+            {{ range . }}
+            <li>{{ . }}</li>
+            {{ end }}
+          </ul>
+          {{ end }}
+
+          {{ with .etiquette }}
+          <h3>Local Etiquette</h3>
+          <ul class="list">
+            {{ range . }}
+            <li>{{ . }}</li>
+            {{ end }}
+          </ul>
+          {{ end }}
+          {{ end }}
+        </section>
+
+        {{/* Getting Around */}}
+        <section id="getting-around">
+          <h2>Getting Around {{ .Title }}</h2>
+          {{ with .Params.transport }}
+          <p>{{ .overview }}</p>
+
+          {{ with .options }}
+          <ul class="list">
+            {{ range . }}
+            <li><strong>{{ .name }}:</strong> {{ .description }}</li>
+            {{ end }}
+          </ul>
+          {{ end }}
+          {{ end }}
+        </section>
+
+        {{/* FAQs */}}
+        {{ with .Params.faqs }}
+        <section id="faqs">
+          <h2>Frequently Asked Questions</h2>
+          {{ range . }}
+          <details class="faq" style="margin-bottom: var(--space-3); padding: var(--space-3); background: var(--color-gray-50); border-radius: var(--radius-lg);">
+            <summary style="cursor: pointer; font-weight: var(--font-semibold);">{{ .question }}</summary>
+            <p style="margin-top: var(--space-2);">{{ .answer }}</p>
+          </details>
+          {{ end }}
+        </section>
+        {{ end }}
+      </div>
+
+      <div class="text-muted mt-8" style="font-size: var(--text-sm);">
+        <p>Last updated: {{ .Lastmod.Format "January 2, 2006" }}</p>
+      </div>
+    </article>
+
+    {{/* Sidebar */}}
+    <aside class="page-layout__sidebar">
+      {{/* Safety Widget */}}
+      {{ with .Params.safetyLevel }}
+      <div class="widget">
+        <h3 class="widget__title">Safety Rating</h3>
+        {{ partial "safety-badge.html" (dict "level" . "text" (. | title)) }}
+      </div>
+      {{ end }}
+
+      {{/* Related Guides */}}
+      <div class="widget">
+        <h3 class="widget__title">Related Guides</h3>
+        <ul class="footer__links">
+          <li><a href="/safety/{{ .File.ContentBaseName }}/">{{ .Title }} Safety Guide</a></li>
+          <li><a href="/safety/{{ .File.ContentBaseName }}/solo-female/">Solo Female Safety</a></li>
+          <li><a href="/budget/{{ .File.ContentBaseName }}/">Budget Guide</a></li>
+          <li><a href="/weather/{{ .File.ContentBaseName }}/">Best Time to Visit</a></li>
+        </ul>
+      </div>
+
+      {{/* Child Pages (Cities) */}}
+      {{ $cities := .Pages }}
+      {{ with $cities }}
+      <div class="widget">
+        <h3 class="widget__title">Cities</h3>
+        <ul class="footer__links">
+          {{ range first 10 . }}
+          <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+          {{ end }}
+        </ul>
+      </div>
+      {{ end }}
+    </aside>
+  </div>
+</div>
+{{ end }}
+
+{{ define "schema" }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "TravelGuide",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "{{ .Permalink }}"
+  },
+  "name": "{{ .Title }} Solo Travel Guide",
+  "headline": "{{ .Title }} Solo Travel Guide {{ now.Year }}",
+  "description": "{{ with .Params.description }}{{ . }}{{ else }}Complete solo travel guide to {{ .Title }}. Safety tips, best cities, budget breakdown, and essential information.{{ end }}",
+  "image": "{{ with .Params.heroImage }}{{ . | absURL }}{{ else }}/images/destinations/{{ .File.ContentBaseName }}.jpg{{ end }}",
+  "datePublished": "{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}",
+  "dateModified": "{{ .Lastmod.Format "2006-01-02T15:04:05Z07:00" }}",
+  "author": {
+    "@type": "Organization",
+    "name": "{{ .Site.Params.organizationName }}"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "{{ .Site.Params.organizationName }}",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "{{ .Site.Params.organizationLogo | absURL }}"
+    }
+  },
+  "about": {
+    "@type": "Country",
+    "name": "{{ .Title }}"
+  }
+}
+</script>
+
+{{ with .Params.faqs }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {{ range $i, $faq := . }}{{ if $i }},{{ end }}
+    {
+      "@type": "Question",
+      "name": "{{ $faq.question }}",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "{{ $faq.answer }}"
+      }
+    }
+    {{ end }}
+  ]
+}
+</script>
+{{ end }}
+{{ end }}

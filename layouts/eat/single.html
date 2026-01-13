@@ -1,0 +1,179 @@
+{{ define "title" }}Best Solo Dining in {{ .Title }} {{ now.Year }} | {{ .Site.Title }}{{ end }}
+
+{{ define "meta-description" }}Discover the best restaurants for solo diners in {{ .Title }}. Bar seating, counter dining, and solo-friendly restaurants where eating alone is a pleasure.{{ end }}
+
+{{ define "main" }}
+{{/* Hero */}}
+<section class="hero hero--destination">
+  {{ with .Params.heroImage }}
+  <div class="hero__bg" style="background-image: url('{{ . }}');"></div>
+  {{ end }}
+  <div class="hero__content">
+    <h1 class="hero__title">Solo Dining Guide: {{ .Title }}</h1>
+    <p class="hero__subtitle">The best restaurants for eating alone in {{ .Title }}</p>
+  </div>
+</section>
+
+<div class="container">
+  {{ partial "breadcrumb.html" . }}
+
+  <div class="page-layout">
+    <article class="page-layout__main">
+      {{/* Introduction */}}
+      <div class="content">
+        {{ .Content }}
+      </div>
+
+      {{/* Why Solo Dining Here */}}
+      {{ with .Params.soloDiningCulture }}
+      <section class="section--sm">
+        <h2>Solo Dining Culture in {{ $.Title }}</h2>
+        <p>{{ . }}</p>
+      </section>
+      {{ end }}
+
+      {{/* Restaurant Types */}}
+      <section class="section--sm">
+        <h2>Best Types of Restaurants for Solo Diners</h2>
+
+        {{ with .Params.restaurantTypes }}
+        <div class="grid grid-cols-1 grid-cols-2 gap-4">
+          {{ range . }}
+          <div class="card">
+            <div class="card__body">
+              <h3 class="card__title">{{ .name }}</h3>
+              <p class="card__excerpt">{{ .description }}</p>
+              {{ with .examples }}
+              <div class="tags mt-2">
+                {{ range . }}
+                <span class="tag">{{ . }}</span>
+                {{ end }}
+              </div>
+              {{ end }}
+            </div>
+          </div>
+          {{ end }}
+        </div>
+        {{ end }}
+      </section>
+
+      {{/* Top Restaurants */}}
+      {{ with .Params.restaurants }}
+      <section class="section--sm">
+        <h2>Top Solo-Friendly Restaurants</h2>
+        <div class="grid grid-cols-1 gap-4">
+          {{ range . }}
+          <div class="card card--horizontal">
+            {{ with .image }}
+            <img src="{{ . }}" alt="{{ .name }}" class="card__image" loading="lazy">
+            {{ end }}
+            <div class="card__body">
+              <div class="flex justify-between items-start">
+                <div>
+                  <h3 class="card__title mb-0">{{ .name }}</h3>
+                  <div class="card__meta">{{ .cuisine }} &bull; {{ .priceRange }}</div>
+                </div>
+                {{ with .soloRating }}
+                <span class="tag tag--primary">{{ . }}/5 Solo</span>
+                {{ end }}
+              </div>
+              <p class="card__excerpt">{{ .description }}</p>
+              <div class="tags">
+                {{ if .barSeating }}<span class="tag">Bar Seating</span>{{ end }}
+                {{ if .counterDining }}<span class="tag">Counter Dining</span>{{ end }}
+                {{ if .soloFriendly }}<span class="tag">Solo-Friendly</span>{{ end }}
+                {{ with .neighborhood }}<span class="tag">{{ . }}</span>{{ end }}
+              </div>
+              {{ with .address }}
+              <p class="text-muted mt-2" style="font-size: var(--text-sm);">{{ . }}</p>
+              {{ end }}
+            </div>
+          </div>
+          {{ end }}
+        </div>
+      </section>
+      {{ end }}
+
+      {{/* Solo Dining Tips */}}
+      {{ with .Params.tips }}
+      <section class="section--sm">
+        <h2>Solo Dining Tips for {{ $.Title }}</h2>
+        <ul class="list list--check">
+          {{ range . }}
+          <li>{{ . }}</li>
+          {{ end }}
+        </ul>
+      </section>
+      {{ end }}
+
+      {{/* Best Neighborhoods */}}
+      {{ with .Params.neighborhoods }}
+      <section class="section--sm">
+        <h2>Best Neighborhoods for Solo Dining</h2>
+        <div class="grid grid-cols-1 grid-cols-2 gap-4">
+          {{ range . }}
+          <div class="widget">
+            <h3 class="widget__title">{{ .name }}</h3>
+            <p style="font-size: var(--text-sm);">{{ .description }}</p>
+          </div>
+          {{ end }}
+        </div>
+      </section>
+      {{ end }}
+
+      {{/* FAQs */}}
+      {{ with .Params.faqs }}
+      <section class="section--sm">
+        <h2>FAQs About Solo Dining in {{ $.Title }}</h2>
+        {{ range . }}
+        <details style="margin-bottom: var(--space-3); padding: var(--space-3); background: var(--color-gray-50); border-radius: var(--radius-lg);">
+          <summary style="cursor: pointer; font-weight: var(--font-semibold);">{{ .question }}</summary>
+          <p style="margin-top: var(--space-2);">{{ .answer }}</p>
+        </details>
+        {{ end }}
+      </section>
+      {{ end }}
+
+      <p class="text-muted" style="font-size: var(--text-sm);">Last updated: {{ .Lastmod.Format "January 2, 2006" }}</p>
+    </article>
+
+    {{/* Sidebar */}}
+    <aside class="page-layout__sidebar">
+      <div class="widget">
+        <h3 class="widget__title">Related Guides</h3>
+        <ul class="footer__links">
+          <li><a href="/destinations/{{ .Params.country | urlize }}/{{ .File.ContentBaseName }}/">{{ .Title }} City Guide</a></li>
+          <li><a href="/cafes/{{ .File.ContentBaseName }}/">Cafes in {{ .Title }}</a></li>
+          <li><a href="/nightlife/{{ .File.ContentBaseName }}/">Nightlife in {{ .Title }}</a></li>
+          <li><a href="/stay/{{ .File.ContentBaseName }}/">Where to Stay</a></li>
+        </ul>
+      </div>
+
+      <div class="widget" style="background: var(--color-primary-bg);">
+        <h3 class="widget__title">Quick Tip</h3>
+        <p style="font-size: var(--text-sm);">Counter seating at ramen shops and sushi bars is perfect for solo diners - you'll often get better service and can chat with the chef!</p>
+      </div>
+    </aside>
+  </div>
+</div>
+{{ end }}
+
+{{ define "schema" }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "TravelGuide",
+  "name": "Solo Dining Guide: {{ .Title }}",
+  "description": "{{ with .Params.description }}{{ . }}{{ else }}Discover the best restaurants for solo diners in {{ .Title }}{{ end }}",
+  "url": "{{ .Permalink }}",
+  "about": {
+    "@type": "City",
+    "name": "{{ .Title }}"
+  },
+  "author": {
+    "@type": "Organization",
+    "name": "{{ .Site.Params.organizationName }}"
+  }
+}
+</script>
+{{ end }}

@@ -1,0 +1,82 @@
+{{/* Card Component
+     Usage: {{ partial "card.html" . }}
+     Pass a page object or custom data
+*/}}
+<article class="card{{ with .class }} {{ . }}{{ end }}" itemscope itemtype="https://schema.org/Article">
+  {{ with .image }}
+  <img
+    class="card__image"
+    src="{{ . }}"
+    alt="{{ $.title }}"
+    loading="lazy"
+    decoding="async"
+    itemprop="image"
+  >
+  {{ else }}
+  {{ with .Params.image }}
+  <img
+    class="card__image"
+    src="{{ . }}"
+    alt="{{ $.Title }}"
+    loading="lazy"
+    decoding="async"
+    itemprop="image"
+  >
+  {{ end }}
+  {{ end }}
+
+  <div class="card__body">
+    {{ with .tags }}
+    <div class="tags mb-2">
+      {{ range . }}
+      <span class="tag tag--primary">{{ . }}</span>
+      {{ end }}
+    </div>
+    {{ else }}
+    {{ with .Params.tags }}
+    <div class="tags mb-2">
+      {{ range first 3 . }}
+      <span class="tag tag--primary">{{ . }}</span>
+      {{ end }}
+    </div>
+    {{ end }}
+    {{ end }}
+
+    <h3 class="card__title" itemprop="headline">
+      {{ with .url }}
+      <a href="{{ . }}" itemprop="url">{{ $.title }}</a>
+      {{ else }}
+      <a href="{{ .Permalink }}" itemprop="url">{{ .Title }}</a>
+      {{ end }}
+    </h3>
+
+    {{ with .meta }}
+    <div class="card__meta">
+      {{ . }}
+    </div>
+    {{ else }}
+    {{ if .Params.country }}
+    <div class="card__meta">
+      <span>{{ .Params.country }}</span>
+      {{ with .Params.region }} &bull; <span>{{ . }}</span>{{ end }}
+    </div>
+    {{ end }}
+    {{ end }}
+
+    {{ with .excerpt }}
+    <p class="card__excerpt" itemprop="description">{{ . | truncate 120 }}</p>
+    {{ else }}
+    {{ with .Summary }}
+    <p class="card__excerpt" itemprop="description">{{ . | plainify | truncate 120 }}</p>
+    {{ end }}
+    {{ end }}
+
+    {{ with .safety }}
+    {{ partial "safety-badge.html" . }}
+    {{ else }}
+    {{ with .Params.safetyLevel }}
+    {{ partial "safety-badge.html" (dict "level" . "text" (. | title)) }}
+    {{ end }}
+    {{ end }}
+  </div>
+</article>

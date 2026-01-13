@@ -1,0 +1,245 @@
+{{ define "title" }}{{ .Title }} Travel Budget {{ now.Year }} - Cost of Solo Travel | {{ .Site.Title }}{{ end }}
+
+{{ define "meta-description" }}How much does it cost to travel solo in {{ .Title }}? Daily budget breakdown for accommodation, food, transport, and activities. Budget, mid-range, and luxury options.{{ end }}
+
+{{ define "main" }}
+{{/* Hero */}}
+<section class="hero" style="padding: var(--space-8) var(--space-4);">
+  <div class="hero__content">
+    <h1 class="hero__title">{{ .Title }} Travel Budget</h1>
+    <p class="hero__subtitle">How much does it cost to travel solo in {{ .Title }}?</p>
+    {{ with .Params.dailyBudget }}
+    <div class="mt-4">
+      <span style="font-size: var(--text-3xl); font-weight: bold;">{{ . }}</span>
+      <span style="opacity: 0.8;">/day average</span>
+    </div>
+    {{ end }}
+  </div>
+</section>
+
+<div class="container">
+  {{ partial "breadcrumb.html" . }}
+
+  <div class="page-layout">
+    <article class="page-layout__main">
+      {{/* Budget Summary Cards */}}
+      {{ with .Params.budgetTiers }}
+      <section class="section--sm">
+        <div class="grid grid-cols-1 grid-cols-3 gap-4">
+          {{ range . }}
+          <div class="card text-center" style="{{ if eq .tier "mid-range" }}border: 2px solid var(--color-primary);{{ end }}">
+            <div class="card__body">
+              <span class="tag {{ if eq .tier "budget" }}tag--primary{{ end }}" style="margin-bottom: var(--space-2);">{{ .tier | title }}</span>
+              <h3 style="font-size: var(--text-3xl); margin-bottom: var(--space-1);">{{ .dailyTotal }}</h3>
+              <p class="text-muted">per day</p>
+              <p style="font-size: var(--text-sm);">{{ .description }}</p>
+            </div>
+          </div>
+          {{ end }}
+        </div>
+      </section>
+      {{ end }}
+
+      {{/* Main Content */}}
+      <div class="content">
+        {{ .Content }}
+      </div>
+
+      {{/* Detailed Breakdown Table */}}
+      {{ with .Params.breakdown }}
+      <section class="section--sm">
+        <h2>Detailed Daily Budget Breakdown</h2>
+        <div class="table-wrapper">
+          <table class="table">
+            <thead>
+              <tr>
+                <th>Category</th>
+                <th>Budget</th>
+                <th>Mid-Range</th>
+                <th>Luxury</th>
+              </tr>
+            </thead>
+            <tbody>
+              {{ with .accommodation }}
+              <tr>
+                <td><strong>Accommodation</strong></td>
+                <td>{{ .budget }}</td>
+                <td>{{ .midRange }}</td>
+                <td>{{ .luxury }}</td>
+              </tr>
+              {{ end }}
+              {{ with .food }}
+              <tr>
+                <td><strong>Food & Drinks</strong></td>
+                <td>{{ .budget }}</td>
+                <td>{{ .midRange }}</td>
+                <td>{{ .luxury }}</td>
+              </tr>
+              {{ end }}
+              {{ with .transport }}
+              <tr>
+                <td><strong>Local Transport</strong></td>
+                <td>{{ .budget }}</td>
+                <td>{{ .midRange }}</td>
+                <td>{{ .luxury }}</td>
+              </tr>
+              {{ end }}
+              {{ with .activities }}
+              <tr>
+                <td><strong>Activities</strong></td>
+                <td>{{ .budget }}</td>
+                <td>{{ .midRange }}</td>
+                <td>{{ .luxury }}</td>
+              </tr>
+              {{ end }}
+              {{ with .total }}
+              <tr style="font-weight: bold; background: var(--color-gray-100);">
+                <td><strong>Daily Total</strong></td>
+                <td>{{ .budget }}</td>
+                <td>{{ .midRange }}</td>
+                <td>{{ .luxury }}</td>
+              </tr>
+              {{ end }}
+            </tbody>
+          </table>
+        </div>
+      </section>
+      {{ end }}
+
+      {{/* Accommodation Costs */}}
+      {{ with .Params.accommodationCosts }}
+      <section class="section--sm">
+        <h2>Accommodation Costs</h2>
+        <div class="grid grid-cols-1 grid-cols-2 gap-4">
+          {{ range . }}
+          <div class="widget">
+            <h3 class="widget__title">{{ .type }}</h3>
+            <p style="font-size: var(--text-2xl); font-weight: bold; color: var(--color-primary);">{{ .price }}</p>
+            <p style="font-size: var(--text-sm);">{{ .description }}</p>
+          </div>
+          {{ end }}
+        </div>
+      </section>
+      {{ end }}
+
+      {{/* Food Costs */}}
+      {{ with .Params.foodCosts }}
+      <section class="section--sm">
+        <h2>Food & Dining Costs</h2>
+        <div class="grid grid-cols-2 grid-cols-4 gap-4">
+          {{ range . }}
+          <div class="text-center p-4" style="background: var(--color-gray-50); border-radius: var(--radius-lg);">
+            <span class="quick-fact__label">{{ .item }}</span>
+            <p style="font-size: var(--text-xl); font-weight: bold; margin: var(--space-2) 0 0;">{{ .price }}</p>
+          </div>
+          {{ end }}
+        </div>
+      </section>
+      {{ end }}
+
+      {{/* Money Saving Tips */}}
+      {{ with .Params.savingTips }}
+      <section class="section--sm">
+        <h2>Money-Saving Tips</h2>
+        <ul class="list list--check">
+          {{ range . }}
+          <li>{{ . }}</li>
+          {{ end }}
+        </ul>
+      </section>
+      {{ end }}
+
+      {{/* Currency Info */}}
+      {{ with .Params.currency }}
+      <section class="section--sm">
+        <h2>Currency & Payments</h2>
+        <div class="quick-facts">
+          <div class="quick-facts__grid">
+            <div class="quick-fact">
+              <span class="quick-fact__label">Currency</span>
+              <span class="quick-fact__value">{{ .name }} ({{ .code }})</span>
+            </div>
+            <div class="quick-fact">
+              <span class="quick-fact__label">Exchange Rate</span>
+              <span class="quick-fact__value">{{ .exchangeRate }}</span>
+            </div>
+            <div class="quick-fact">
+              <span class="quick-fact__label">ATMs</span>
+              <span class="quick-fact__value">{{ .atmAvailability }}</span>
+            </div>
+            <div class="quick-fact">
+              <span class="quick-fact__label">Card Acceptance</span>
+              <span class="quick-fact__value">{{ .cardAcceptance }}</span>
+            </div>
+          </div>
+        </div>
+        {{ with .tips }}
+        <h3>Payment Tips</h3>
+        <ul class="list">
+          {{ range . }}
+          <li>{{ . }}</li>
+          {{ end }}
+        </ul>
+        {{ end }}
+      </section>
+      {{ end }}
+
+      {{/* FAQs */}}
+      {{ with .Params.faqs }}
+      <section class="section--sm">
+        <h2>Budget FAQs</h2>
+        {{ range . }}
+        <details style="margin-bottom: var(--space-3); padding: var(--space-3); background: var(--color-gray-50); border-radius: var(--radius-lg);">
+          <summary style="cursor: pointer; font-weight: var(--font-semibold);">{{ .question }}</summary>
+          <p style="margin-top: var(--space-2);">{{ .answer }}</p>
+        </details>
+        {{ end }}
+      </section>
+      {{ end }}
+
+      <p class="text-muted" style="font-size: var(--text-sm);">Prices last updated: {{ .Lastmod.Format "January 2, 2006" }}. Costs are estimates and may vary.</p>
+    </article>
+
+    <aside class="page-layout__sidebar">
+      {{/* Budget Calculator Widget */}}
+      <div class="widget" style="background: var(--color-primary-bg);">
+        <h3 class="widget__title">Trip Cost Estimate</h3>
+        <div class="quick-fact mb-2">
+          <span class="quick-fact__label">1 Week (Budget)</span>
+          <span class="quick-fact__value">{{ .Params.weeklyBudget }}</span>
+        </div>
+        <div class="quick-fact mb-2">
+          <span class="quick-fact__label">2 Weeks (Mid-Range)</span>
+          <span class="quick-fact__value">{{ .Params.twoWeeksMidRange }}</span>
+        </div>
+        <div class="quick-fact">
+          <span class="quick-fact__label">1 Month (Budget)</span>
+          <span class="quick-fact__value">{{ .Params.monthlyBudget }}</span>
+        </div>
+      </div>
+
+      <div class="widget">
+        <h3 class="widget__title">Related Guides</h3>
+        <ul class="footer__links">
+          <li><a href="/destinations/{{ .File.ContentBaseName }}/">{{ .Title }} Travel Guide</a></li>
+          <li><a href="/stay/{{ .File.ContentBaseName }}/">Where to Stay</a></li>
+          <li><a href="/eat/{{ .File.ContentBaseName }}/">Solo Dining Guide</a></li>
+          <li><a href="/transport/{{ .File.ContentBaseName }}/">Getting Around</a></li>
+        </ul>
+      </div>
+    </aside>
+  </div>
+</div>
+{{ end }}
+
+{{ define "schema" }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "TravelGuide",
+  "name": "{{ .Title }} Travel Budget Guide",
+  "description": "{{ with .Params.description }}{{ . }}{{ else }}Complete budget breakdown for solo travelers visiting {{ .Title }}{{ end }}",
+  "url": "{{ .Permalink }}"
+}
+</script>
+{{ end }}

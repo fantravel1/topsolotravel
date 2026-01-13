@@ -1,0 +1,211 @@
+{{ define "title" }}Best Hotels & Hostels for Solo Travelers in {{ .Title }} {{ now.Year }} | {{ .Site.Title }}{{ end }}
+
+{{ define "meta-description" }}Find the best accommodation for solo travelers in {{ .Title }}. Social hostels, hotels without single supplements, and solo-friendly stays.{{ end }}
+
+{{ define "main" }}
+{{/* Hero */}}
+<section class="hero hero--destination">
+  {{ with .Params.heroImage }}
+  <div class="hero__bg" style="background-image: url('{{ . }}');"></div>
+  {{ end }}
+  <div class="hero__content">
+    <h1 class="hero__title">Where to Stay Solo in {{ .Title }}</h1>
+    <p class="hero__subtitle">Best hostels, hotels, and accommodation for solo travelers</p>
+  </div>
+</section>
+
+<div class="container">
+  {{ partial "breadcrumb.html" . }}
+
+  <div class="page-layout">
+    <article class="page-layout__main">
+      <div class="content">
+        {{ .Content }}
+      </div>
+
+      {{/* Accommodation Types */}}
+      <section class="section--sm">
+        <h2>Accommodation Types for Solo Travelers</h2>
+        <div class="grid grid-cols-1 grid-cols-3 gap-4">
+          <div class="card">
+            <div class="card__body text-center">
+              <h3 class="card__title">Social Hostels</h3>
+              <p class="card__excerpt">Great for meeting other travelers. Common areas, organized events, and shared dorms.</p>
+              <span class="tag tag--primary">Budget-Friendly</span>
+            </div>
+          </div>
+          <div class="card">
+            <div class="card__body text-center">
+              <h3 class="card__title">Boutique Hotels</h3>
+              <p class="card__excerpt">Privacy with personality. Many offer single rooms without supplements.</p>
+              <span class="tag tag--primary">Mid-Range</span>
+            </div>
+          </div>
+          <div class="card">
+            <div class="card__body text-center">
+              <h3 class="card__title">Capsule Hotels</h3>
+              <p class="card__excerpt">Efficient, affordable, and uniquely suited for solo travelers.</p>
+              <span class="tag tag--primary">Unique</span>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      {{/* Best Neighborhoods */}}
+      {{ with .Params.neighborhoods }}
+      <section class="section--sm">
+        <h2>Best Neighborhoods for Solo Travelers</h2>
+        <div class="grid grid-cols-1 grid-cols-2 gap-4">
+          {{ range . }}
+          <div class="widget">
+            <h3 class="widget__title">{{ .name }}</h3>
+            <p style="font-size: var(--text-sm); margin-bottom: var(--space-2);">{{ .description }}</p>
+            <div class="tags">
+              {{ range .highlights }}
+              <span class="tag">{{ . }}</span>
+              {{ end }}
+            </div>
+            {{ with .safetyNote }}
+            <p class="text-muted mt-2" style="font-size: var(--text-xs);">{{ . }}</p>
+            {{ end }}
+          </div>
+          {{ end }}
+        </div>
+      </section>
+      {{ end }}
+
+      {{/* Top Accommodation */}}
+      {{ with .Params.accommodation }}
+      <section class="section--sm">
+        <h2>Top Picks for Solo Travelers</h2>
+        {{ range . }}
+        <div class="card card--horizontal mb-4">
+          {{ with .image }}
+          <img src="{{ . }}" alt="{{ .name }}" class="card__image" loading="lazy">
+          {{ end }}
+          <div class="card__body">
+            <div class="flex justify-between items-start flex-wrap gap-2">
+              <div>
+                <h3 class="card__title mb-0">{{ .name }}</h3>
+                <div class="card__meta">{{ .type }} &bull; {{ .neighborhood }}</div>
+              </div>
+              <div class="text-right">
+                {{ with .priceFrom }}
+                <span class="text-primary" style="font-weight: var(--font-bold);">From {{ . }}/night</span>
+                {{ end }}
+              </div>
+            </div>
+            <p class="card__excerpt">{{ .description }}</p>
+            <div class="tags">
+              {{ if .noSingleSupplement }}<span class="tag tag--primary">No Single Supplement</span>{{ end }}
+              {{ if .socialAtmosphere }}<span class="tag">Social Atmosphere</span>{{ end }}
+              {{ if .privateRooms }}<span class="tag">Private Rooms</span>{{ end }}
+              {{ range .amenities }}
+              <span class="tag">{{ . }}</span>
+              {{ end }}
+            </div>
+            {{ with .soloTip }}
+            <p class="mt-2" style="font-size: var(--text-sm); color: var(--color-primary);"><strong>Solo Tip:</strong> {{ . }}</p>
+            {{ end }}
+          </div>
+        </div>
+        {{ end }}
+      </section>
+      {{ end }}
+
+      {{/* Booking Tips */}}
+      {{ with .Params.bookingTips }}
+      <section class="section--sm">
+        <h2>Booking Tips for Solo Travelers</h2>
+        <ul class="list list--check">
+          {{ range . }}
+          <li>{{ . }}</li>
+          {{ end }}
+        </ul>
+      </section>
+      {{ end }}
+
+      {{/* Safety Tips */}}
+      {{ with .Params.safetyTips }}
+      <section class="section--sm">
+        <h2>Safety Tips for Solo Stays</h2>
+        <div class="callout callout--info">
+          <ul class="list mb-0">
+            {{ range . }}
+            <li>{{ . }}</li>
+            {{ end }}
+          </ul>
+        </div>
+      </section>
+      {{ end }}
+
+      {{/* FAQs */}}
+      {{ with .Params.faqs }}
+      <section class="section--sm">
+        <h2>Accommodation FAQs</h2>
+        {{ range . }}
+        <details style="margin-bottom: var(--space-3); padding: var(--space-3); background: var(--color-gray-50); border-radius: var(--radius-lg);">
+          <summary style="cursor: pointer; font-weight: var(--font-semibold);">{{ .question }}</summary>
+          <p style="margin-top: var(--space-2);">{{ .answer }}</p>
+        </details>
+        {{ end }}
+      </section>
+      {{ end }}
+
+      <p class="text-muted" style="font-size: var(--text-sm);">Last updated: {{ .Lastmod.Format "January 2, 2006" }}</p>
+    </article>
+
+    <aside class="page-layout__sidebar">
+      {{/* Price Guide */}}
+      {{ with .Params.priceGuide }}
+      <div class="widget">
+        <h3 class="widget__title">Price Guide</h3>
+        <div class="quick-facts__grid" style="grid-template-columns: 1fr;">
+          <div class="quick-fact">
+            <span class="quick-fact__label">Hostel Dorm</span>
+            <span class="quick-fact__value">{{ .hostelDorm }}</span>
+          </div>
+          <div class="quick-fact">
+            <span class="quick-fact__label">Private Room</span>
+            <span class="quick-fact__value">{{ .privateRoom }}</span>
+          </div>
+          <div class="quick-fact">
+            <span class="quick-fact__label">Budget Hotel</span>
+            <span class="quick-fact__value">{{ .budgetHotel }}</span>
+          </div>
+          <div class="quick-fact">
+            <span class="quick-fact__label">Mid-Range Hotel</span>
+            <span class="quick-fact__value">{{ .midRange }}</span>
+          </div>
+        </div>
+      </div>
+      {{ end }}
+
+      <div class="widget">
+        <h3 class="widget__title">Related Guides</h3>
+        <ul class="footer__links">
+          <li><a href="/destinations/{{ .Params.country | urlize }}/{{ .File.ContentBaseName }}/">{{ .Title }} City Guide</a></li>
+          <li><a href="/safety/{{ .File.ContentBaseName }}/">Safety Guide</a></li>
+          <li><a href="/budget/{{ .File.ContentBaseName }}/">Budget Guide</a></li>
+        </ul>
+      </div>
+    </aside>
+  </div>
+</div>
+{{ end }}
+
+{{ define "schema" }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "TravelGuide",
+  "name": "Where to Stay Solo in {{ .Title }}",
+  "description": "{{ with .Params.description }}{{ . }}{{ else }}Find the best accommodation for solo travelers in {{ .Title }}{{ end }}",
+  "url": "{{ .Permalink }}",
+  "about": {
+    "@type": "City",
+    "name": "{{ .Title }}"
+  }
+}
+</script>
+{{ end }}
