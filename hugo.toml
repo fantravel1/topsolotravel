@@ -29,9 +29,13 @@ disableKinds = ["taxonomy", "term"]
     url = "/day-in/"
     weight = 1
   [[menu.main]]
+    name = "Experiences"
+    url = "/experiences/"
+    weight = 2
+  [[menu.main]]
     name = "Destinations"
     url = "/destinations/"
-    weight = 2
+    weight = 3
   [[menu.main]]
     name = "Safety"
     url = "/safety/"
