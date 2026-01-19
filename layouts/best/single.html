@@ -1,0 +1,208 @@
+{{ define "body-class" }}has-bottom-nav{{ end }}
+
+{{ define "title" }}{{ .Title }} | {{ .Site.Title }}{{ end }}
+
+{{ define "meta-description" }}{{ .Params.description }}{{ end }}
+
+{{ define "schema" }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "{{ .Title }}",
+  "description": "{{ .Params.description }}",
+  "image": "{{ .Params.heroImage }}",
+  "author": {
+    "@type": "Organization",
+    "name": "Top Solo Travel"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Top Solo Travel"
+  },
+  "datePublished": "{{ .Date.Format "2006-01-02" }}",
+  "dateModified": "{{ .Lastmod.Format "2006-01-02" }}"
+}
+</script>
+{{ with .Params.faqs }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {{ range $i, $faq := . }}{{ if $i }},{{ end }}
+    {
+      "@type": "Question",
+      "name": "{{ $faq.question }}",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "{{ $faq.answer }}"
+      }
+    }
+    {{ end }}
+  ]
+}
+</script>
+{{ end }}
+{{ end }}
+
+{{ define "main" }}
+{{/* Immersive Hero */}}
+<div class="hero-immersive">
+  <div class="hero-immersive__bg" style="background-image: url('{{ .Params.heroImage | default "https://images.unsplash.com/photo-1488085061387-422e29b40080?w=1600&q=80" }}');"></div>
+  <div class="hero-immersive__content">
+    {{ with .Params.category }}
+    <span class="hero-immersive__tag">{{ . }}</span>
+    {{ end }}
+    <h1 class="hero-immersive__title">{{ .Title }}</h1>
+    <p class="hero-immersive__subtitle">{{ .Params.tagline | default .Params.description }}</p>
+    {{ with .Params.stats }}
+    <div class="hero-immersive__meta">
+      {{ range . }}
+      <span class="hero-immersive__meta-item">{{ . }}</span>
+      {{ end }}
+    </div>
+    {{ end }}
+  </div>
+</div>
+
+<div class="container">
+  {{/* Quick Answer for AEO */}}
+  {{ with .Params.quickAnswer }}
+  <div class="answer-box">
+    <h2 class="answer-box__question">{{ $.Params.answerQuestion | default "What are the best solo travel destinations?" }}</h2>
+    <div class="answer-box__answer">
+      <p>{{ . | safeHTML }}</p>
+    </div>
+    <div class="answer-box__meta">Based on safety, solo-friendliness, cost, and traveler experiences</div>
+  </div>
+  {{ end }}
+
+  {{/* Featured Snippet List */}}
+  {{ with .Params.topPicks }}
+  <div class="featured-snippet">
+    <h3 class="featured-snippet__title">Top {{ len . }} {{ $.Params.pickType | default "Destinations" }} at a Glance</h3>
+    <ol class="featured-snippet__list">
+      {{ range . }}
+      <li><strong>{{ .name }}</strong>{{ with .country }}, {{ . }}{{ end }} — {{ .reason }}</li>
+      {{ end }}
+    </ol>
+  </div>
+  {{ end }}
+
+  {{/* Destination Cards */}}
+  {{ with .Params.destinations }}
+  <section class="section--sm">
+    {{ range $index, $dest := . }}
+    <article class="moment-card" style="margin-bottom: var(--space-6);">
+      {{ with .image }}
+      <img src="{{ . }}" alt="{{ $dest.name }}" class="moment-card__image" loading="lazy">
+      {{ end }}
+      <div class="moment-card__content">
+        <div style="display: flex; justify-content: space-between; align-items: start; margin-bottom: var(--space-3);">
+          <div>
+            <span class="tag tag--primary" style="margin-bottom: var(--space-2);">#{{ add $index 1 }}</span>
+            <h2 style="margin: var(--space-2) 0;">{{ .name }}{{ with .country }}, {{ . }}{{ end }}</h2>
+          </div>
+          {{ with .budget }}
+          <span class="info-pill">
+            <span class="info-pill__icon">💰</span>
+            <span class="info-pill__value">{{ . }}</span>
+          </span>
+          {{ end }}
+        </div>
+
+        <p style="font-size: var(--text-lg); color: var(--color-gray-700); margin-bottom: var(--space-4);">{{ .description }}</p>
+
+        {{/* Why Solo Travelers Love It */}}
+        {{ with .whySolo }}
+        <div class="solo-friendly">
+          <span class="solo-friendly__badge">Why Solo Travelers Love It</span>
+          <ul class="solo-friendly__list">
+            {{ range . }}
+            <li>{{ . }}</li>
+            {{ end }}
+          </ul>
+        </div>
+        {{ end }}
+
+        {{/* The Experience */}}
+        {{ with .experience }}
+        <blockquote class="moment-card__quote" style="margin: var(--space-4) 0;">{{ . }}</blockquote>
+        {{ end }}
+
+        {{/* Quick Facts */}}
+        {{ with .facts }}
+        <div class="info-pills" style="margin: var(--space-4) 0;">
+          {{ range . }}
+          <span class="info-pill">
+            <span class="info-pill__icon">{{ .icon }}</span>
+            <span class="info-pill__value">{{ .value }}</span>
+          </span>
+          {{ end }}
+        </div>
+        {{ end }}
+
+        {{/* Pro Tip */}}
+        {{ with .tip }}
+        <div class="pro-tip">
+          <div class="pro-tip__icon">💡</div>
+          <div class="pro-tip__content">
+            <div class="pro-tip__label">Solo Tip</div>
+            <p class="pro-tip__text">{{ . }}</p>
+          </div>
+        </div>
+        {{ end }}
+
+        {{/* Link to full guide */}}
+        {{ with .link }}
+        <a href="{{ . }}" class="btn btn--primary" style="margin-top: var(--space-4);">Explore {{ $dest.name }} →</a>
+        {{ end }}
+      </div>
+    </article>
+    {{ end }}
+  </section>
+  {{ end }}
+
+  {{/* Main Content */}}
+  <div class="content">
+    {{ .Content }}
+  </div>
+
+  {{/* FAQs */}}
+  {{ with .Params.faqs }}
+  <section class="section--sm">
+    <h2>Common Questions</h2>
+    {{ range . }}
+    <div class="featured-snippet" style="margin-bottom: var(--space-4);">
+      <h3 class="featured-snippet__title">{{ .question }}</h3>
+      <p>{{ .answer }}</p>
+    </div>
+    {{ end }}
+  </section>
+  {{ end }}
+
+  {{/* Related Lists */}}
+  {{ with .Params.relatedLists }}
+  <section class="scroll-section">
+    <div class="scroll-section__header">
+      <h2 class="scroll-section__title">More Best-Of Lists</h2>
+      <a href="/best/" class="scroll-section__link">See all →</a>
+    </div>
+    <div class="scroll-container">
+      {{ range . }}
+      <a href="{{ .link }}" class="scroll-card" style="text-decoration: none;">
+        <div class="scroll-card__body">
+          <span class="scroll-card__tag">{{ .category | default "Best Of" }}</span>
+          <h3 class="scroll-card__title" style="color: var(--color-gray-900);">{{ .title }}</h3>
+          <p class="scroll-card__subtitle">{{ .subtitle }}</p>
+        </div>
+      </a>
+      {{ end }}
+    </div>
+  </section>
+  {{ end }}
+</div>
+
+{{ partial "bottom-nav.html" . }}
+{{ end }}

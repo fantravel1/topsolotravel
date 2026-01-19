@@ -1,0 +1,81 @@
+{{ define "body-class" }}has-bottom-nav{{ end }}
+
+{{ define "title" }}{{ .Title }} | {{ .Site.Title }}{{ end }}
+
+{{ define "meta-description" }}{{ .Params.description | default "Curated lists of the best destinations and experiences for solo travelers worldwide." }}{{ end }}
+
+{{ define "main" }}
+<div class="hero hero--destination">
+  <div class="hero__content">
+    <h1 class="hero__title">Best Solo Travel</h1>
+    <p class="hero__subtitle">Curated guides to the world's best destinations for traveling alone</p>
+  </div>
+</div>
+
+<div class="container">
+  {{/* AEO Answer Box */}}
+  <div class="answer-box">
+    <h2 class="answer-box__question">Where should solo travelers go?</h2>
+    <div class="answer-box__answer">
+      <p>The best solo travel destinations combine <strong>safety, welcoming culture, and solo-friendly infrastructure</strong>. Our curated lists cover everything from first-timer destinations to budget adventures to life-changing experiences — all chosen specifically for travelers going it alone.</p>
+    </div>
+  </div>
+
+  {{/* Featured Guides Grid */}}
+  <section class="section--sm">
+    <h2>Solo Travel Guides</h2>
+    <div class="grid grid-cols-1" style="gap: var(--space-6);">
+      {{ range .Pages.ByDate.Reverse }}
+      <a href="{{ .Permalink }}" class="card card--horizontal" style="text-decoration: none; overflow: hidden;">
+        {{ with .Params.heroImage }}
+        <img src="{{ . }}" alt="{{ $.Title }}" class="card__image" style="width: 150px; height: 150px; object-fit: cover; flex-shrink: 0;" loading="lazy">
+        {{ end }}
+        <div class="card__body" style="display: flex; flex-direction: column; justify-content: center;">
+          {{ with .Params.category }}
+          <span class="tag tag--primary" style="align-self: start; margin-bottom: var(--space-2);">{{ . }}</span>
+          {{ end }}
+          <h3 class="card__title" style="margin-bottom: var(--space-2);">{{ .Title }}</h3>
+          <p class="card__excerpt" style="margin: 0;">{{ .Params.description | truncate 120 }}</p>
+          {{ with .Params.stats }}
+          <div class="info-pills" style="margin-top: var(--space-3);">
+            {{ range . }}
+            <span class="info-pill" style="font-size: var(--text-xs);">{{ . }}</span>
+            {{ end }}
+          </div>
+          {{ end }}
+        </div>
+      </a>
+      {{ end }}
+    </div>
+  </section>
+
+  {{/* Quick Navigation */}}
+  <section class="section--sm">
+    <h2>Find Your Perfect Trip</h2>
+    <div class="grid grid-cols-2" style="gap: var(--space-4);">
+      <a href="/best/first-time-solo-travel/" class="widget" style="text-decoration: none;">
+        <div style="font-size: 2rem; margin-bottom: var(--space-2);">🌱</div>
+        <h3 class="widget__title">First-Timers</h3>
+        <p style="font-size: var(--text-sm); color: var(--color-gray-600); margin: 0;">Safe, easy destinations to start</p>
+      </a>
+      <a href="/best/cheapest-solo-destinations/" class="widget" style="text-decoration: none;">
+        <div style="font-size: 2rem; margin-bottom: var(--space-2);">💰</div>
+        <h3 class="widget__title">Budget Travel</h3>
+        <p style="font-size: var(--text-sm); color: var(--color-gray-600); margin: 0;">Under $50/day</p>
+      </a>
+      <a href="/best/solo-female-travel-destinations/" class="widget" style="text-decoration: none;">
+        <div style="font-size: 2rem; margin-bottom: var(--space-2);">👩</div>
+        <h3 class="widget__title">Solo Female</h3>
+        <p style="font-size: var(--text-sm); color: var(--color-gray-600); margin: 0;">Safe & welcoming</p>
+      </a>
+      <a href="/best/best-solo-travel-experiences-2026/" class="widget" style="text-decoration: none;">
+        <div style="font-size: 2rem; margin-bottom: var(--space-2);">✨</div>
+        <h3 class="widget__title">Best Experiences</h3>
+        <p style="font-size: var(--text-sm); color: var(--color-gray-600); margin: 0;">Life-changing moments</p>
+      </a>
+    </div>
+  </section>
+</div>
+
+{{ partial "bottom-nav.html" . }}
+{{ end }}
