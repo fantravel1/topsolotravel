@@ -1,0 +1,89 @@
+{{ define "body-class" }}has-bottom-nav{{ end }}
+
+{{ define "title" }}A Day In... — Solo Travel Day-by-Day Experiences | {{ .Site.Title }}{{ end }}
+
+{{ define "meta-description" }}Experience destinations through real solo traveler days. Hour-by-hour guides showing what a day actually looks like in cities around the world.{{ end }}
+
+{{ define "main" }}
+<div class="hero hero--destination">
+  <div class="hero__content">
+    <h1 class="hero__title">A Day In...</h1>
+    <p class="hero__subtitle">What does a real day look like as a solo traveler? Discover hour-by-hour experiences in destinations worldwide.</p>
+  </div>
+</div>
+
+<div class="container">
+  {{/* AEO Answer Box */}}
+  <div class="answer-box">
+    <h2 class="answer-box__question">What are "A Day In" guides?</h2>
+    <div class="answer-box__answer">
+      <p><strong>"A Day In" guides show you exactly what a typical day looks like</strong> as a solo traveler in each destination. Unlike traditional guides, these immersive experiences walk you through each hour — from morning coffee to evening exploration — with real costs, local tips, and authentic moments you'll encounter.</p>
+    </div>
+  </div>
+
+  {{/* Swipeable City Cards */}}
+  <section class="scroll-section">
+    <div class="scroll-section__header">
+      <h2 class="scroll-section__title">Popular Experiences</h2>
+    </div>
+    <div class="scroll-container">
+      {{ range first 10 .Pages }}
+      <a href="{{ .Permalink }}" class="scroll-card">
+        {{ with .Params.heroImage }}
+        <img src="{{ . }}" alt="A day in {{ $.Params.city }}" class="scroll-card__image" loading="lazy">
+        {{ end }}
+        <div class="scroll-card__body">
+          <span class="scroll-card__tag">{{ .Params.dayType | default "Classic Day" }}</span>
+          <h3 class="scroll-card__title">{{ .Params.city }}</h3>
+          <p class="scroll-card__subtitle">{{ .Params.budget | default "$50-80" }}/day • {{ .Params.country }}</p>
+        </div>
+      </a>
+      {{ end }}
+    </div>
+  </section>
+
+  {{/* Grid of All Experiences */}}
+  <section class="section">
+    <h2>All Day-In-The-Life Experiences</h2>
+
+    {{/* Group by region */}}
+    {{ $pages := .Pages }}
+
+    <div class="grid grid-cols-1" style="gap: var(--space-4);">
+      {{ range $pages }}
+      <a href="{{ .Permalink }}" class="card card--horizontal" style="text-decoration: none;">
+        <div class="card__body">
+          <span class="tag tag--primary" style="margin-bottom: var(--space-2);">{{ .Params.country }}</span>
+          <h3 class="card__title" style="margin-bottom: var(--space-1);">A Day in {{ .Params.city }}</h3>
+          <p class="card__excerpt">{{ .Params.tagline | default .Params.description | truncate 100 }}</p>
+          <div class="info-pills">
+            <span class="info-pill">
+              <span class="info-pill__icon">💰</span>
+              <span class="info-pill__value">{{ .Params.budget | default "$50-80" }}</span>
+            </span>
+            <span class="info-pill">
+              <span class="info-pill__icon">🚶</span>
+              <span class="info-pill__value">{{ .Params.walkingTime | default "4-6 hrs" }}</span>
+            </span>
+          </div>
+        </div>
+      </a>
+      {{ end }}
+    </div>
+  </section>
+
+  {{/* Featured Snippet for SEO */}}
+  <div class="featured-snippet">
+    <h3 class="featured-snippet__title">How to Use These Guides</h3>
+    <ol class="featured-snippet__list">
+      <li>Pick a destination you're curious about</li>
+      <li>Read through the hour-by-hour experience</li>
+      <li>Note the local tips and budget breakdown</li>
+      <li>Use it as a template for your own day</li>
+      <li>Adapt based on your pace and interests</li>
+    </ol>
+  </div>
+</div>
+
+{{ partial "bottom-nav.html" . }}
+{{ end }}
