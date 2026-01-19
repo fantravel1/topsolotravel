@@ -1,0 +1,43 @@
+{{ define "main" }}
+<div class="hero-immersive" style="min-height: 50vh;">
+  <div class="hero-immersive__bg" style="background-image: url('{{ .Params.heroImage | default "https://images.unsplash.com/photo-1488085061387-422e29b40080?w=1600&q=80" }}');"></div>
+  <div class="hero-immersive__content" style="max-width: 800px;">
+    <h1 class="hero-immersive__title">{{ .Title }}</h1>
+    <p class="hero-immersive__subtitle">{{ .Description }}</p>
+  </div>
+</div>
+
+<main class="page-content">
+  <section class="section">
+    <div class="container">
+      {{ .Content }}
+
+      {{ if .Pages }}
+      <div class="experience-grid" style="margin-top: 3rem;">
+        {{ range .Pages.ByDate.Reverse }}
+        <a href="{{ .RelPermalink }}" class="experience-card" style="display: block; text-decoration: none; color: inherit; margin-bottom: 2rem; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
+          <div style="position: relative; height: 200px; overflow: hidden;">
+            <img src="{{ .Params.heroImage }}" alt="{{ .Title }}" style="width: 100%; height: 100%; object-fit: cover;" loading="lazy">
+            <div style="position: absolute; bottom: 0; left: 0; right: 0; background: linear-gradient(transparent, rgba(0,0,0,0.8)); padding: 1rem;">
+              <span style="background: var(--accent-color, #e74c3c); color: white; padding: 0.25rem 0.75rem; border-radius: 20px; font-size: 0.75rem; font-weight: 600;">{{ .Params.experienceType }}</span>
+            </div>
+          </div>
+          <div style="padding: 1.25rem;">
+            <h3 style="margin: 0 0 0.5rem 0; font-size: 1.25rem;">{{ .Title }}</h3>
+            <p style="margin: 0 0 1rem 0; color: #666; font-size: 0.9rem; line-height: 1.5;">{{ .Params.tagline }}</p>
+            <div style="display: flex; gap: 1rem; flex-wrap: wrap; font-size: 0.85rem; color: #888;">
+              <span>📍 {{ .Params.location }}</span>
+              <span>⏱️ {{ .Params.duration }}</span>
+              <span>💰 {{ .Params.budget }}</span>
+            </div>
+          </div>
+        </a>
+        {{ end }}
+      </div>
+      {{ end }}
+    </div>
+  </section>
+</main>
+
+{{ partial "bottom-nav.html" . }}
+{{ end }}
