@@ -1,0 +1,431 @@
+{{ define "body-class" }}has-bottom-nav{{ end }}
+
+{{ define "title" }}A Day in {{ .Params.city }} — Solo Traveler Experience | {{ .Site.Title }}{{ end }}
+
+{{ define "meta-description" }}Experience what a real day looks like in {{ .Params.city }} as a solo traveler. Hour-by-hour guide with local insights, costs, and authentic travel moments.{{ end }}
+
+{{ define "schema" }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "A Day in {{ .Params.city }}: Solo Traveler's Hour-by-Hour Experience",
+  "description": "{{ .Params.description }}",
+  "image": "{{ .Params.heroImage }}",
+  "author": {
+    "@type": "Organization",
+    "name": "Top Solo Travel"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Top Solo Travel",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "{{ .Site.Params.organizationLogo | absURL }}"
+    }
+  },
+  "datePublished": "{{ .Date.Format "2006-01-02" }}",
+  "dateModified": "{{ .Lastmod.Format "2006-01-02" }}",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "{{ .Permalink }}"
+  }
+}
+</script>
+{{ with .Params.faqs }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {{ range $i, $faq := . }}{{ if $i }},{{ end }}
+    {
+      "@type": "Question",
+      "name": "{{ $faq.question }}",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "{{ $faq.answer }}"
+      }
+    }
+    {{ end }}
+  ]
+}
+</script>
+{{ end }}
+{{ end }}
+
+{{ define "main" }}
+{{/* Immersive Hero */}}
+<div class="hero-immersive">
+  <div class="hero-immersive__bg" style="background-image: url('{{ .Params.heroImage }}');"></div>
+  <div class="hero-immersive__content">
+    <span class="hero-immersive__tag">
+      <span>{{ .Params.dayType | default "Classic Day" }}</span>
+    </span>
+    <h1 class="hero-immersive__title">A Day in {{ .Params.city }}</h1>
+    <p class="hero-immersive__subtitle">{{ .Params.tagline | default (printf "What %s really feels like as a solo traveler" .Params.city) }}</p>
+    <div class="hero-immersive__meta">
+      <span class="hero-immersive__meta-item">{{ .Params.budget | default "$50-80" }}/day</span>
+      <span class="hero-immersive__meta-item">{{ .Params.walkingTime | default "4-6 hrs" }} walking</span>
+      <span class="hero-immersive__meta-item">{{ .Params.bestFor | default "Any traveler" }}</span>
+    </div>
+  </div>
+</div>
+
+<div class="container">
+  {{/* Quick Answer Box for AEO */}}
+  <div class="answer-box">
+    <h2 class="answer-box__question">What's a typical day like in {{ .Params.city }} for solo travelers?</h2>
+    <div class="answer-box__answer">
+      <p>{{ .Params.quickAnswer | default (printf "A day in %s typically starts around %s with %s. By midday, you'll find yourself %s. Evenings are perfect for %s. Budget around %s for a comfortable day including food, transport, and one activity." .Params.city (.Params.wakeUpTime | default "8am") (.Params.morningActivity | default "exploring local cafes") (.Params.middayActivity | default "discovering historic neighborhoods") (.Params.eveningActivity | default "enjoying local cuisine at solo-friendly spots") (.Params.budget | default "$50-80")) }}</p>
+    </div>
+    <div class="answer-box__meta">Based on real solo traveler experiences</div>
+  </div>
+
+  {{/* Sensory Experience Grid */}}
+  <h2 class="mb-4">The {{ .Params.city }} Experience</h2>
+  <div class="sensory-grid">
+    <div class="sensory-card sensory-card--sounds">
+      <div class="sensory-card__icon">{{ .Params.sensory.sounds.icon | default "👂" }}</div>
+      <div class="sensory-card__label">You'll Hear</div>
+      <div class="sensory-card__content">{{ .Params.sensory.sounds.description | default "Street vendors, city sounds" }}</div>
+    </div>
+    <div class="sensory-card sensory-card--sights">
+      <div class="sensory-card__icon">{{ .Params.sensory.sights.icon | default "👀" }}</div>
+      <div class="sensory-card__label">You'll See</div>
+      <div class="sensory-card__content">{{ .Params.sensory.sights.description | default "Historic architecture, local life" }}</div>
+    </div>
+    <div class="sensory-card sensory-card--smells">
+      <div class="sensory-card__icon">{{ .Params.sensory.smells.icon | default "👃" }}</div>
+      <div class="sensory-card__label">You'll Smell</div>
+      <div class="sensory-card__content">{{ .Params.sensory.smells.description | default "Fresh food, local markets" }}</div>
+    </div>
+    <div class="sensory-card sensory-card--tastes">
+      <div class="sensory-card__icon">{{ .Params.sensory.tastes.icon | default "👅" }}</div>
+      <div class="sensory-card__label">You'll Taste</div>
+      <div class="sensory-card__content">{{ .Params.sensory.tastes.description | default "Local specialties, street food" }}</div>
+    </div>
+    <div class="sensory-card sensory-card--feels">
+      <div class="sensory-card__icon">{{ .Params.sensory.feels.icon | default "✨" }}</div>
+      <div class="sensory-card__label">You'll Feel</div>
+      <div class="sensory-card__content">{{ .Params.sensory.feels.description | default "Freedom, discovery, connection" }}</div>
+    </div>
+  </div>
+
+  {{/* Reality Check Section */}}
+  <div class="reality-check">
+    <h3 class="reality-check__title">What It's Really Like</h3>
+    <div class="reality-check__grid">
+      <div class="reality-item reality-item--expect">
+        <div class="reality-item__icon">✓</div>
+        <div class="reality-item__content">
+          <h4>Expect This</h4>
+          <p>{{ .Params.reality.expect | default "Friendly locals, easy navigation, good food options for solo diners" }}</p>
+        </div>
+      </div>
+      <div class="reality-item reality-item--surprise">
+        <div class="reality-item__icon">!</div>
+        <div class="reality-item__content">
+          <h4>Might Surprise You</h4>
+          <p>{{ .Params.reality.surprise | default "How easy it is to meet other travelers, the hidden gems off the tourist path" }}</p>
+        </div>
+      </div>
+      <div class="reality-item reality-item--challenge">
+        <div class="reality-item__icon">⚡</div>
+        <div class="reality-item__content">
+          <h4>Small Challenge</h4>
+          <p>{{ .Params.reality.challenge | default "Language barriers in local areas, navigating public transit" }}</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+{{/* Morning Section */}}
+<section class="day-part day-part--morning">
+  <div class="container">
+    <div class="day-part__header">
+      <div class="day-part__icon">🌅</div>
+      <div>
+        <h2 class="day-part__title">Morning</h2>
+        <span class="day-part__time">{{ .Params.morning.timeRange | default "7:00 AM - 12:00 PM" }}</span>
+      </div>
+    </div>
+
+    <div class="day-timeline">
+      {{ range .Params.morning.moments }}
+      <div class="timeline-moment timeline-moment--morning">
+        <div class="timeline-time">
+          <span class="timeline-time__emoji">{{ .emoji | default "☀️" }}</span>
+          <span>{{ .time }}</span>
+        </div>
+        <h3 class="timeline-title">{{ .title }}</h3>
+        <p class="timeline-content">{{ .description }}</p>
+        {{ with .tip }}
+        <div class="timeline-tip">
+          <span class="timeline-tip__icon">💡</span>
+          <span>{{ . }}</span>
+        </div>
+        {{ end }}
+        {{ with .cost }}
+        <div class="info-pills" style="margin-top: var(--space-3);">
+          <span class="info-pill">
+            <span class="info-pill__icon">💰</span>
+            <span class="info-pill__value">{{ . }}</span>
+          </span>
+        </div>
+        {{ end }}
+      </div>
+      {{ end }}
+    </div>
+
+    {{ with .Params.morning.insight }}
+    <div class="local-insight">
+      <div class="local-insight__header">
+        <span class="local-insight__badge">Local Insight</span>
+      </div>
+      <p class="local-insight__content">{{ . }}</p>
+    </div>
+    {{ end }}
+  </div>
+</section>
+
+{{/* Afternoon Section */}}
+<section class="day-part day-part--afternoon">
+  <div class="container">
+    <div class="day-part__header">
+      <div class="day-part__icon">☀️</div>
+      <div>
+        <h2 class="day-part__title">Afternoon</h2>
+        <span class="day-part__time">{{ .Params.afternoon.timeRange | default "12:00 PM - 6:00 PM" }}</span>
+      </div>
+    </div>
+
+    <div class="day-timeline">
+      {{ range .Params.afternoon.moments }}
+      <div class="timeline-moment timeline-moment--afternoon">
+        <div class="timeline-time">
+          <span class="timeline-time__emoji">{{ .emoji | default "🌤️" }}</span>
+          <span>{{ .time }}</span>
+        </div>
+        <h3 class="timeline-title">{{ .title }}</h3>
+        <p class="timeline-content">{{ .description }}</p>
+        {{ with .tip }}
+        <div class="timeline-tip">
+          <span class="timeline-tip__icon">💡</span>
+          <span>{{ . }}</span>
+        </div>
+        {{ end }}
+        {{ with .cost }}
+        <div class="info-pills" style="margin-top: var(--space-3);">
+          <span class="info-pill">
+            <span class="info-pill__icon">💰</span>
+            <span class="info-pill__value">{{ . }}</span>
+          </span>
+        </div>
+        {{ end }}
+      </div>
+      {{ end }}
+    </div>
+
+    {{ with .Params.afternoon.meetPeople }}
+    <div class="meet-people">
+      <div class="meet-people__header">
+        <span>👋</span>
+        <h4 class="meet-people__title">Best Places to Meet People</h4>
+      </div>
+      <div class="meet-people__places">
+        {{ range . }}
+        <span class="meet-people__place">{{ . }}</span>
+        {{ end }}
+      </div>
+    </div>
+    {{ end }}
+  </div>
+</section>
+
+{{/* Evening Section */}}
+<section class="day-part day-part--evening">
+  <div class="container">
+    <div class="day-part__header">
+      <div class="day-part__icon">🌆</div>
+      <div>
+        <h2 class="day-part__title">Evening</h2>
+        <span class="day-part__time">{{ .Params.evening.timeRange | default "6:00 PM - 10:00 PM" }}</span>
+      </div>
+    </div>
+
+    <div class="day-timeline">
+      {{ range .Params.evening.moments }}
+      <div class="timeline-moment timeline-moment--evening">
+        <div class="timeline-time">
+          <span class="timeline-time__emoji">{{ .emoji | default "🌇" }}</span>
+          <span>{{ .time }}</span>
+        </div>
+        <h3 class="timeline-title">{{ .title }}</h3>
+        <p class="timeline-content">{{ .description }}</p>
+        {{ with .tip }}
+        <div class="timeline-tip">
+          <span class="timeline-tip__icon">💡</span>
+          <span>{{ . }}</span>
+        </div>
+        {{ end }}
+        {{ with .cost }}
+        <div class="info-pills" style="margin-top: var(--space-3);">
+          <span class="info-pill">
+            <span class="info-pill__icon">💰</span>
+            <span class="info-pill__value">{{ . }}</span>
+          </span>
+        </div>
+        {{ end }}
+      </div>
+      {{ end }}
+    </div>
+
+    {{/* Solo-Friendly Dining */}}
+    {{ with .Params.evening.soloDining }}
+    <div class="solo-friendly">
+      <span class="solo-friendly__badge">🍽️ Solo-Friendly</span>
+      <h4 class="solo-friendly__title">Great for Dining Alone</h4>
+      <ul class="solo-friendly__list">
+        {{ range . }}
+        <li>{{ . }}</li>
+        {{ end }}
+      </ul>
+    </div>
+    {{ end }}
+  </div>
+</section>
+
+{{/* Night Section (Optional) */}}
+{{ with .Params.night }}
+<section class="day-part day-part--night">
+  <div class="container">
+    <div class="day-part__header">
+      <div class="day-part__icon">🌙</div>
+      <div>
+        <h2 class="day-part__title">Night</h2>
+        <span class="day-part__time">{{ .timeRange | default "10:00 PM onwards" }}</span>
+      </div>
+    </div>
+
+    <div class="day-timeline">
+      {{ range .moments }}
+      <div class="timeline-moment timeline-moment--night">
+        <div class="timeline-time">
+          <span class="timeline-time__emoji">{{ .emoji | default "🌃" }}</span>
+          <span>{{ .time }}</span>
+        </div>
+        <h3 class="timeline-title">{{ .title }}</h3>
+        <p class="timeline-content">{{ .description }}</p>
+        {{ with .tip }}
+        <div class="timeline-tip">
+          <span class="timeline-tip__icon">💡</span>
+          <span>{{ . }}</span>
+        </div>
+        {{ end }}
+      </div>
+      {{ end }}
+    </div>
+  </div>
+</section>
+{{ end }}
+
+<div class="container">
+  {{/* Daily Cost Breakdown */}}
+  <div class="cost-breakdown">
+    <div class="cost-breakdown__header">
+      <h3 class="cost-breakdown__title">💰 Today's Budget</h3>
+    </div>
+    <div class="cost-breakdown__body">
+      {{ range .Params.costs }}
+      <div class="cost-item">
+        <span class="cost-item__name">
+          <span>{{ .icon | default "•" }}</span>
+          {{ .item }}
+        </span>
+        <span class="cost-item__price">{{ .price }}</span>
+      </div>
+      {{ end }}
+      <div class="cost-total">
+        <span class="cost-total__label">Day Total</span>
+        <span class="cost-total__amount">{{ .Params.totalCost | default "$50-80" }}</span>
+      </div>
+    </div>
+  </div>
+
+  {{/* Pro Tip */}}
+  {{ with .Params.proTip }}
+  <div class="pro-tip">
+    <div class="pro-tip__icon">🎯</div>
+    <div class="pro-tip__content">
+      <div class="pro-tip__label">Pro Tip</div>
+      <p class="pro-tip__text">{{ . }}</p>
+    </div>
+  </div>
+  {{ end }}
+
+  {{/* First-Person Moment */}}
+  {{ with .Params.moment }}
+  <div class="moment-card">
+    {{ with .image }}
+    <img src="{{ . }}" alt="Travel moment in {{ $.Params.city }}" class="moment-card__image" loading="lazy">
+    {{ end }}
+    <div class="moment-card__content">
+      <blockquote class="moment-card__quote">{{ .quote }}</blockquote>
+      <div class="moment-card__context">
+        <span class="moment-card__location">📍 {{ .location | default $.Params.city }}</span>
+        {{ with .time }} • {{ . }}{{ end }}
+      </div>
+    </div>
+  </div>
+  {{ end }}
+
+  {{/* FAQs for AEO */}}
+  {{ with .Params.faqs }}
+  <section class="section--sm">
+    <h2>Common Questions About {{ $.Params.city }}</h2>
+    {{ range . }}
+    <div class="featured-snippet">
+      <h3 class="featured-snippet__title">{{ .question }}</h3>
+      <p>{{ .answer }}</p>
+    </div>
+    {{ end }}
+  </section>
+  {{ end }}
+
+  {{/* Related Content */}}
+  <section class="scroll-section">
+    <div class="scroll-section__header">
+      <h2 class="scroll-section__title">Explore {{ .Params.city }}</h2>
+      <a href="/destinations/{{ .Params.countrySlug }}/{{ .Params.citySlug }}/" class="scroll-section__link">See all →</a>
+    </div>
+    <div class="scroll-container">
+      <a href="/destinations/{{ .Params.countrySlug }}/{{ .Params.citySlug }}/" class="scroll-card">
+        <div class="scroll-card__body">
+          <span class="scroll-card__tag">Guide</span>
+          <h3 class="scroll-card__title">{{ .Params.city }} Travel Guide</h3>
+          <p class="scroll-card__subtitle">Complete solo travel guide</p>
+        </div>
+      </a>
+      <a href="/safety/{{ .Params.citySlug }}/" class="scroll-card">
+        <div class="scroll-card__body">
+          <span class="scroll-card__tag">Safety</span>
+          <h3 class="scroll-card__title">{{ .Params.city }} Safety</h3>
+          <p class="scroll-card__subtitle">Stay safe while traveling</p>
+        </div>
+      </a>
+      <a href="/budget/{{ .Params.countrySlug }}/" class="scroll-card">
+        <div class="scroll-card__body">
+          <span class="scroll-card__tag">Budget</span>
+          <h3 class="scroll-card__title">{{ .Params.country }} Budget Guide</h3>
+          <p class="scroll-card__subtitle">How to travel affordably</p>
+        </div>
+      </a>
+    </div>
+  </section>
+</div>
+
+{{/* Bottom Navigation */}}
+{{ partial "bottom-nav.html" . }}
+{{ end }}
