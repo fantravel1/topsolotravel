@@ -3297,3 +3297,448 @@ a {
     color: var(--color-gray-200);
   }
 }
+
+/* ==========================================================================
+   MOBILE RESPONSIVENESS FIXES
+   ========================================================================== */
+
+/* --------------------------------------------------------------------------
+   Table Responsiveness for Markdown Content
+   -------------------------------------------------------------------------- */
+.content table {
+  display: block;
+  width: 100%;
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+  margin: var(--space-4) 0;
+  font-size: var(--text-sm);
+}
+
+.content table th,
+.content table td {
+  padding: var(--space-2) var(--space-3);
+  text-align: left;
+  border-bottom: 1px solid var(--color-gray-200);
+  white-space: nowrap;
+}
+
+.content table th {
+  font-weight: var(--font-semibold);
+  background: var(--color-gray-50);
+  color: var(--color-gray-900);
+}
+
+.content table tbody tr:hover {
+  background: var(--color-gray-50);
+}
+
+@media (min-width: 768px) {
+  .content table th,
+  .content table td {
+    padding: var(--space-3) var(--space-4);
+    white-space: normal;
+  }
+}
+
+/* --------------------------------------------------------------------------
+   Touch Target Improvements (Minimum 44px)
+   -------------------------------------------------------------------------- */
+.nav__link {
+  min-height: 44px;
+  display: flex;
+  align-items: center;
+}
+
+.btn {
+  min-height: 44px;
+}
+
+.btn--sm {
+  min-height: 36px;
+}
+
+.tag,
+.badge {
+  min-height: 28px;
+}
+
+/* Larger touch targets for small screens */
+@media (max-width: 767px) {
+  .nav__link {
+    min-height: 48px;
+    padding: var(--space-3) var(--space-4);
+  }
+
+  .breadcrumb__link {
+    padding: var(--space-2);
+    margin: calc(-1 * var(--space-2));
+  }
+
+  /* Info pills need larger touch targets */
+  .info-pill {
+    min-height: 40px;
+    padding: var(--space-2) var(--space-4);
+  }
+
+  /* Tags in a list */
+  .tags .tag {
+    min-height: 36px;
+    padding: var(--space-2) var(--space-3);
+  }
+}
+
+/* --------------------------------------------------------------------------
+   Toast Position Fix (Above Bottom Nav)
+   -------------------------------------------------------------------------- */
+@media (max-width: 767px) {
+  .toast {
+    left: var(--space-4);
+    right: var(--space-4);
+    bottom: calc(80px + env(safe-area-inset-bottom));
+    max-width: none;
+  }
+}
+
+/* --------------------------------------------------------------------------
+   Long Content / Word Breaking
+   -------------------------------------------------------------------------- */
+.content a,
+.card__excerpt,
+.answer-box__answer,
+.timeline-content,
+.local-insight__content,
+.pro-tip__text,
+.featured-snippet__list li {
+  word-wrap: break-word;
+  overflow-wrap: break-word;
+  word-break: break-word;
+  -webkit-hyphens: auto;
+  hyphens: auto;
+}
+
+/* URLs and code blocks */
+.content code,
+.content pre {
+  word-wrap: break-word;
+  overflow-wrap: break-word;
+  white-space: pre-wrap;
+}
+
+/* --------------------------------------------------------------------------
+   Content Layout Improvements
+   -------------------------------------------------------------------------- */
+.content {
+  width: 100%;
+  margin: 0 auto;
+}
+
+/* Page layout improvements for small screens */
+@media (max-width: 767px) {
+  .page-layout {
+    padding: var(--space-4) var(--space-3);
+  }
+
+  .section {
+    padding: var(--space-8) 0;
+  }
+
+  .section--lg {
+    padding: var(--space-12) 0;
+  }
+
+  /* Hero adjustments */
+  .hero {
+    padding: var(--space-8) var(--space-4);
+  }
+
+  .hero__title {
+    font-size: var(--text-2xl);
+  }
+
+  .hero__subtitle {
+    font-size: var(--text-base);
+  }
+
+  /* Immersive hero adjustment */
+  .hero-immersive {
+    min-height: 70vh;
+    padding: var(--space-4);
+  }
+
+  .hero-immersive__title {
+    font-size: var(--text-2xl);
+  }
+}
+
+/* --------------------------------------------------------------------------
+   Grid Responsiveness Fixes
+   -------------------------------------------------------------------------- */
+@media (max-width: 639px) {
+  /* Force single column on small screens for complex grids */
+  .grid-cols-2,
+  .grid-cols-3,
+  .grid-cols-4 {
+    grid-template-columns: 1fr;
+  }
+
+  /* Quick facts should be 2 columns minimum */
+  .quick-facts__grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  /* Sensory grid 2 columns minimum */
+  .sensory-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  /* Stats grid 2 columns */
+  .stats-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  /* Footer single column */
+  .footer__grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+/* --------------------------------------------------------------------------
+   Image and Media Responsiveness
+   -------------------------------------------------------------------------- */
+.content img {
+  max-width: 100%;
+  height: auto;
+  border-radius: var(--radius-lg);
+}
+
+/* Prevent layout shift */
+.card__image,
+.scroll-card__image,
+.moment-card__image {
+  background: var(--color-gray-100);
+}
+
+/* --------------------------------------------------------------------------
+   Form Responsiveness
+   -------------------------------------------------------------------------- */
+@media (max-width: 767px) {
+  .form-input {
+    font-size: 16px; /* Prevents iOS zoom on focus */
+  }
+
+  .search__input {
+    font-size: 16px;
+  }
+}
+
+/* --------------------------------------------------------------------------
+   Spacing Adjustments for Small Screens
+   -------------------------------------------------------------------------- */
+@media (max-width: 767px) {
+  /* Answer box tighter padding */
+  .answer-box {
+    padding: var(--space-4);
+    padding-top: var(--space-6);
+  }
+
+  /* Callouts tighter */
+  .callout {
+    padding: var(--space-3) var(--space-4);
+  }
+
+  /* Pro tip stacked on mobile */
+  .pro-tip {
+    flex-direction: column;
+    gap: var(--space-3);
+  }
+
+  .pro-tip__icon {
+    align-self: flex-start;
+  }
+
+  /* Local insight tighter */
+  .local-insight {
+    padding: var(--space-3) var(--space-4);
+  }
+
+  /* Solo friendly tighter */
+  .solo-friendly {
+    padding: var(--space-3) var(--space-4);
+  }
+
+  /* Reality check tighter */
+  .reality-check {
+    padding: var(--space-4);
+  }
+
+  /* Cost breakdown tighter */
+  .cost-breakdown__body {
+    padding: var(--space-3);
+  }
+
+  .cost-total {
+    margin: var(--space-3) calc(-1 * var(--space-3)) calc(-1 * var(--space-3));
+    padding: var(--space-3);
+  }
+
+  /* Timeline adjustments */
+  .day-timeline {
+    padding-left: var(--space-6);
+  }
+
+  .timeline-moment {
+    padding-left: var(--space-3);
+  }
+
+  .timeline-moment::before {
+    left: calc(-1 * var(--space-6) + 4px);
+    width: 12px;
+    height: 12px;
+  }
+}
+
+/* --------------------------------------------------------------------------
+   Scroll Container Edge Padding
+   -------------------------------------------------------------------------- */
+.scroll-container {
+  padding-left: var(--space-4);
+  padding-right: var(--space-4);
+  margin-left: calc(-1 * var(--space-4));
+  margin-right: calc(-1 * var(--space-4));
+}
+
+/* Last card spacing */
+.scroll-container::after {
+  content: '';
+  flex: 0 0 var(--space-4);
+}
+
+/* --------------------------------------------------------------------------
+   Safe Area Insets (Notched Devices)
+   -------------------------------------------------------------------------- */
+@supports (padding: env(safe-area-inset-bottom)) {
+  .footer {
+    padding-bottom: calc(var(--space-8) + env(safe-area-inset-bottom));
+  }
+
+  /* Header safe area for landscape mode */
+  .header__inner {
+    padding-left: max(var(--space-4), env(safe-area-inset-left));
+    padding-right: max(var(--space-4), env(safe-area-inset-right));
+  }
+
+  /* Page layout safe area */
+  @media (max-width: 767px) {
+    .page-layout {
+      padding-left: max(var(--space-3), env(safe-area-inset-left));
+      padding-right: max(var(--space-3), env(safe-area-inset-right));
+    }
+  }
+}
+
+/* --------------------------------------------------------------------------
+   Landscape Orientation Fixes
+   -------------------------------------------------------------------------- */
+@media (orientation: landscape) and (max-height: 500px) {
+  .hero-immersive {
+    min-height: 100vh;
+  }
+
+  .hero--destination {
+    min-height: 100vh;
+  }
+
+  /* Reduce vertical spacing in landscape */
+  .section {
+    padding: var(--space-6) 0;
+  }
+
+  .day-part {
+    padding: var(--space-6) var(--space-4);
+  }
+}
+
+/* --------------------------------------------------------------------------
+   Hover States for Touch Devices
+   -------------------------------------------------------------------------- */
+@media (hover: none) {
+  /* Remove hover effects on touch devices */
+  .card:hover {
+    transform: none;
+    box-shadow: var(--shadow-md);
+  }
+
+  .card:hover::before {
+    transform: scaleX(0);
+  }
+
+  .card-overlay:hover .card-overlay__image {
+    transform: none;
+  }
+
+  .image-gallery__item:hover img {
+    transform: none;
+  }
+
+  /* Keep focus effects for accessibility */
+  .card:active {
+    transform: translateY(-2px);
+    box-shadow: var(--shadow-lg);
+  }
+}
+
+/* --------------------------------------------------------------------------
+   High Contrast Mode Support
+   -------------------------------------------------------------------------- */
+@media (prefers-contrast: high) {
+  .callout,
+  .answer-box,
+  .pro-tip,
+  .local-insight,
+  .solo-friendly,
+  .timeline-tip {
+    border-width: 3px;
+  }
+
+  .btn--secondary {
+    border-width: 3px;
+  }
+
+  a {
+    text-decoration: underline;
+  }
+}
+
+/* --------------------------------------------------------------------------
+   Print Improvements
+   -------------------------------------------------------------------------- */
+@media print {
+  .scroll-section,
+  .bottom-nav,
+  .fab,
+  .toast {
+    display: none !important;
+  }
+
+  .page-layout {
+    display: block;
+  }
+
+  .page-layout__sidebar {
+    display: none;
+  }
+
+  .content table {
+    display: table;
+    overflow: visible;
+  }
+
+  .day-timeline::before {
+    background: #000;
+  }
+
+  .timeline-moment::before {
+    background: #fff;
+    border-color: #000;
+  }
+}
