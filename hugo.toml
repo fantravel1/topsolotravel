@@ -12,12 +12,12 @@ disableKinds = ["taxonomy", "term"]
   description = "The ultimate guide for solo travelers. Discover destinations, safety tips, dining guides, and practical travel information for traveling alone."
   author = "Top Solo Travel"
   keywords = ["solo travel", "travel alone", "solo traveler", "travel guide", "solo female travel", "backpacking", "digital nomad"]
-  ogImage = "/images/og-default.jpg"
+  ogImage = "/images/og-default.svg"
   twitterHandle = "@topsolotravel"
 
   # Schema.org
   organizationName = "Top Solo Travel"
-  organizationLogo = "/images/logo.png"
+  organizationLogo = "/images/logo.svg"
 
   # Analytics (add your IDs)
   googleAnalytics = ""

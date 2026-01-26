@@ -21,13 +21,15 @@
   <meta name="geo.region" content="{{ with .Params.region }}{{ . }}{{ end }}">
   <meta name="geo.placename" content="{{ with .Params.placename }}{{ . }}{{ end }}">
 
-  {{/* Open Graph / Facebook */}}
+  {{/* Open Graph / Facebook / WhatsApp */}}
   <meta property="og:type" content="{{ block "og-type" . }}{{ if .IsHome }}website{{ else if .IsPage }}article{{ else }}website{{ end }}{{ end }}">
   <meta property="og:url" content="{{ .Permalink }}">
   <meta property="og:title" content="{{ block "og-title" . }}{{ .Title }}{{ end }}">
   <meta property="og:description" content="{{ with .Description }}{{ . }}{{ else }}{{ with .Params.description }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}{{ end }}">
-  <meta property="og:image" content="{{ block "og-image" . }}{{ with .Params.image }}{{ . | absURL }}{{ else }}{{ .Site.Params.ogImage | absURL }}{{ end }}{{ end }}">
-  <meta property="og:image:alt" content="{{ .Title }}">
+  <meta property="og:image" content="{{ block "og-image" . }}{{ with .Params.heroImage }}{{ . | absURL }}{{ else }}{{ with .Params.image }}{{ . | absURL }}{{ else }}{{ .Site.Params.ogImage | absURL }}{{ end }}{{ end }}{{ end }}">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+  <meta property="og:image:alt" content="{{ .Title }} - Top Solo Travel">
   <meta property="og:site_name" content="{{ .Site.Title }}">
   <meta property="og:locale" content="en_US">
   {{ if .IsPage }}
@@ -35,12 +37,13 @@
   <meta property="article:modified_time" content="{{ .Lastmod.Format "2006-01-02T15:04:05Z07:00" }}">
   {{ end }}
 
-  {{/* Twitter */}}
+  {{/* Twitter / X */}}
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:url" content="{{ .Permalink }}">
   <meta name="twitter:title" content="{{ .Title }}">
   <meta name="twitter:description" content="{{ with .Description }}{{ . }}{{ else }}{{ with .Params.description }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}{{ end }}">
-  <meta name="twitter:image" content="{{ with .Params.image }}{{ . | absURL }}{{ else }}{{ .Site.Params.ogImage | absURL }}{{ end }}">
+  <meta name="twitter:image" content="{{ with .Params.heroImage }}{{ . | absURL }}{{ else }}{{ with .Params.image }}{{ . | absURL }}{{ else }}{{ .Site.Params.ogImage | absURL }}{{ end }}{{ end }}">
+  <meta name="twitter:image:alt" content="{{ .Title }} - Top Solo Travel">
   {{ with .Site.Params.twitterHandle }}<meta name="twitter:site" content="{{ . }}">{{ end }}
 
   {{/* Favicons */}}
