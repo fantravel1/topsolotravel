@@ -1,7 +1,6 @@
 baseURL = "https://topsolotravel.com/"
 languageCode = "en-us"
 title = "Top Solo Travel - Your Ultimate Solo Travel Guide"
-theme = ""
 enableRobotsTXT = true
 enableGitInfo = true
 

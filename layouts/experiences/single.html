@@ -150,7 +150,7 @@
         <h3 class="timeline-title">{{ .title }}</h3>
         <p class="timeline-content">{{ .description }}</p>
         {{ with .image }}
-        <img src="{{ . }}" alt="{{ $.title }}" style="width: 100%; border-radius: var(--radius-lg); margin-top: var(--space-3);" loading="lazy">
+        <img src="{{ . }}" alt="Journey moment" style="width: 100%; border-radius: var(--radius-lg); margin-top: var(--space-3);" loading="lazy">
         {{ end }}
         {{ with .tip }}
         <div class="timeline-tip">
@@ -391,7 +391,7 @@
       {{ range . }}
       <a href="{{ .link }}" class="scroll-card" style="text-decoration: none;">
         {{ with .image }}
-        <img src="{{ . }}" alt="{{ $.title }}" class="scroll-card__image" loading="lazy">
+        <img src="{{ . }}" alt="Related experience" class="scroll-card__image" loading="lazy">
         {{ end }}
         <div class="scroll-card__body">
           <span class="scroll-card__tag">{{ .location }}</span>
