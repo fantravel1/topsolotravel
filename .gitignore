@@ -1,0 +1,18 @@
+# Hugo build artifacts
+public/
+resources/_gen/
+.hugo_build.lock
+
+# Hugo binary (downloaded for local testing)
+hugo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+*.swp
+*.swo
+*~
+.idea/
+.vscode/
