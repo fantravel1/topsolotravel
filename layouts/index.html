@@ -57,6 +57,33 @@
   </div>
 </section>
 
+{{/* Experience Deep Dives - NEW */}}
+<section class="scroll-section" style="padding-top: var(--space-8); background: var(--color-gray-50);">
+  <div class="container">
+    <div class="scroll-section__header">
+      <div>
+        <h2 class="scroll-section__title" style="margin-bottom: var(--space-1);">Experience Deep Dives</h2>
+        <p style="color: var(--color-gray-500); font-size: var(--text-sm); margin: 0;">Immersive guides to transformative solo experiences</p>
+      </div>
+      <a href="/experiences/" class="scroll-section__link">See all →</a>
+    </div>
+  </div>
+  <div class="scroll-container" style="padding: 0 var(--space-4);">
+    {{ range first 6 (where .Site.RegularPages "Section" "experiences") }}
+    <a href="{{ .Permalink }}" class="scroll-card" style="text-decoration: none; min-width: 300px;">
+      {{ with .Params.heroImage }}
+      <img src="{{ . }}" alt="{{ $.Title }}" class="scroll-card__image" loading="lazy" style="height: 180px;">
+      {{ end }}
+      <div class="scroll-card__body">
+        <span class="scroll-card__tag">{{ .Params.experienceType | default "Experience" }}</span>
+        <h3 class="scroll-card__title" style="color: var(--color-gray-900); font-size: 1rem;">{{ .Title | replaceRE " Solo Experience" "" }}</h3>
+        <p class="scroll-card__subtitle">{{ .Params.location }} • {{ .Params.budget }}</p>
+      </div>
+    </a>
+    {{ end }}
+  </div>
+</section>
+
 {{/* Featured Destinations */}}
 <section class="section bg-light">
   <div class="container">

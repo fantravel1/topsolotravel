@@ -1,0 +1,409 @@
+{{ define "body-class" }}has-bottom-nav experience-page{{ end }}
+
+{{ define "title" }}{{ .Title }} | Solo Travel Experience | {{ .Site.Title }}{{ end }}
+
+{{ define "meta-description" }}{{ .Params.description }}{{ end }}
+
+{{ define "schema" }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "{{ .Title }}",
+  "description": "{{ .Params.description }}",
+  "image": [
+    {{ range $i, $img := .Params.images }}{{ if $i }},{{ end }}"{{ $img.url }}"{{ end }}
+  ],
+  "author": {
+    "@type": "Organization",
+    "name": "Top Solo Travel"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Top Solo Travel"
+  },
+  "datePublished": "{{ .Date.Format "2006-01-02" }}",
+  "dateModified": "{{ .Lastmod.Format "2006-01-02" }}"
+}
+</script>
+{{ with .Params.faqs }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {{ range $i, $faq := . }}{{ if $i }},{{ end }}
+    {
+      "@type": "Question",
+      "name": "{{ $faq.question }}",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "{{ $faq.answer }}"
+      }
+    }
+    {{ end }}
+  ]
+}
+</script>
+{{ end }}
+{{ end }}
+
+{{ define "main" }}
+{{/* Immersive Hero with Multiple Images */}}
+<div class="hero-immersive" style="min-height: 90vh;">
+  <div class="hero-immersive__bg" style="background-image: url('{{ .Params.heroImage }}');"></div>
+  <div class="hero-immersive__content">
+    <span class="hero-immersive__tag">{{ .Params.experienceType | default "Solo Experience" }}</span>
+    <h1 class="hero-immersive__title">{{ .Title }}</h1>
+    <p class="hero-immersive__subtitle">{{ .Params.tagline }}</p>
+    <div class="hero-immersive__meta">
+      <span class="hero-immersive__meta-item">{{ .Params.location }}</span>
+      <span class="hero-immersive__meta-item">{{ .Params.duration }}</span>
+      <span class="hero-immersive__meta-item">{{ .Params.budget }}</span>
+    </div>
+  </div>
+</div>
+
+<div class="container">
+  {{/* Quick Answer for AEO */}}
+  <div class="answer-box">
+    <h2 class="answer-box__question">{{ .Params.mainQuestion | default (printf "What's it like to experience %s solo?" .Params.experienceName) }}</h2>
+    <div class="answer-box__answer">
+      <p>{{ .Params.quickAnswer | safeHTML }}</p>
+    </div>
+    <div class="answer-box__meta">From solo travelers who've experienced it</div>
+  </div>
+
+  {{/* Key Stats */}}
+  <div class="info-pills" style="justify-content: center; margin: var(--space-6) 0;">
+    {{ range .Params.stats }}
+    <span class="info-pill">
+      <span class="info-pill__icon">{{ .icon }}</span>
+      <span class="info-pill__value">{{ .value }}</span>
+    </span>
+    {{ end }}
+  </div>
+
+  {{/* The Experience Introduction */}}
+  <section class="section--sm">
+    <h2>{{ .Params.introTitle | default "The Experience" }}</h2>
+    <p class="lead">{{ .Params.intro }}</p>
+  </section>
+
+  {{/* Photo Gallery Section */}}
+  {{ with .Params.gallery }}
+  <section class="scroll-section">
+    <div class="scroll-section__header">
+      <h2 class="scroll-section__title">What You'll See</h2>
+    </div>
+    <div class="scroll-container">
+      {{ range . }}
+      <div class="scroll-card" style="flex: 0 0 320px;">
+        <img src="{{ .url }}" alt="{{ .alt }}" class="scroll-card__image" style="height: 220px;" loading="lazy">
+        <div class="scroll-card__body">
+          <p class="scroll-card__subtitle" style="margin: 0;">{{ .caption }}</p>
+          {{ with .credit }}<small style="color: var(--color-gray-400);">{{ . }}</small>{{ end }}
+        </div>
+      </div>
+      {{ end }}
+    </div>
+  </section>
+  {{ end }}
+</div>
+
+{{/* Why Solo Section */}}
+<section class="day-part day-part--morning">
+  <div class="container">
+    <div class="day-part__header">
+      <div class="day-part__icon">{{ .Params.whySoloIcon | default "🎯" }}</div>
+      <div>
+        <h2 class="day-part__title">Why This Is Better Solo</h2>
+      </div>
+    </div>
+
+    <div class="grid grid-cols-1 grid-cols-2" style="gap: var(--space-4);">
+      {{ range .Params.whySolo }}
+      <div class="pro-tip" style="margin: 0;">
+        <div class="pro-tip__icon">{{ .icon | default "✓" }}</div>
+        <div class="pro-tip__content">
+          <div class="pro-tip__label">{{ .title }}</div>
+          <p class="pro-tip__text">{{ .description }}</p>
+        </div>
+      </div>
+      {{ end }}
+    </div>
+  </div>
+</section>
+
+<div class="container">
+  {{/* Hour by Hour / Step by Step */}}
+  {{ with .Params.journey }}
+  <section class="section--sm">
+    <h2>{{ $.Params.journeyTitle | default "The Journey" }}</h2>
+    <div class="day-timeline">
+      {{ range . }}
+      <div class="timeline-moment timeline-moment--{{ .period | default "morning" }}">
+        <div class="timeline-time">
+          <span class="timeline-time__emoji">{{ .emoji | default "📍" }}</span>
+          <span>{{ .time }}</span>
+        </div>
+        <h3 class="timeline-title">{{ .title }}</h3>
+        <p class="timeline-content">{{ .description }}</p>
+        {{ with .image }}
+        <img src="{{ . }}" alt="{{ $.title }}" style="width: 100%; border-radius: var(--radius-lg); margin-top: var(--space-3);" loading="lazy">
+        {{ end }}
+        {{ with .tip }}
+        <div class="timeline-tip">
+          <span class="timeline-tip__icon">💡</span>
+          <span>{{ . }}</span>
+        </div>
+        {{ end }}
+      </div>
+      {{ end }}
+    </div>
+  </section>
+  {{ end }}
+
+  {{/* Sensory Experience */}}
+  {{ with .Params.sensory }}
+  <section class="section--sm">
+    <h2>What You'll Experience</h2>
+    <div class="sensory-grid">
+      {{ with .sounds }}
+      <div class="sensory-card sensory-card--sounds">
+        <div class="sensory-card__icon">👂</div>
+        <div class="sensory-card__label">You'll Hear</div>
+        <div class="sensory-card__content">{{ . }}</div>
+      </div>
+      {{ end }}
+      {{ with .sights }}
+      <div class="sensory-card sensory-card--sights">
+        <div class="sensory-card__icon">👀</div>
+        <div class="sensory-card__label">You'll See</div>
+        <div class="sensory-card__content">{{ . }}</div>
+      </div>
+      {{ end }}
+      {{ with .smells }}
+      <div class="sensory-card sensory-card--smells">
+        <div class="sensory-card__icon">👃</div>
+        <div class="sensory-card__label">You'll Smell</div>
+        <div class="sensory-card__content">{{ . }}</div>
+      </div>
+      {{ end }}
+      {{ with .tastes }}
+      <div class="sensory-card sensory-card--tastes">
+        <div class="sensory-card__icon">👅</div>
+        <div class="sensory-card__label">You'll Taste</div>
+        <div class="sensory-card__content">{{ . }}</div>
+      </div>
+      {{ end }}
+      {{ with .feels }}
+      <div class="sensory-card sensory-card--feels">
+        <div class="sensory-card__icon">✨</div>
+        <div class="sensory-card__label">You'll Feel</div>
+        <div class="sensory-card__content">{{ . }}</div>
+      </div>
+      {{ end }}
+    </div>
+  </section>
+  {{ end }}
+
+  {{/* First-Person Moments */}}
+  {{ with .Params.moments }}
+  <section class="section--sm">
+    <h2>Moments That Stay With You</h2>
+    {{ range . }}
+    <div class="moment-card">
+      {{ with .image }}
+      <img src="{{ . }}" alt="Solo travel moment" class="moment-card__image" loading="lazy">
+      {{ end }}
+      <div class="moment-card__content">
+        <blockquote class="moment-card__quote">{{ .quote }}</blockquote>
+        <div class="moment-card__context">
+          <span class="moment-card__location">📍 {{ .location }}</span>
+          {{ with .time }} • {{ . }}{{ end }}
+        </div>
+      </div>
+    </div>
+    {{ end }}
+  </section>
+  {{ end }}
+</div>
+
+{{/* Practical Section */}}
+<section class="day-part day-part--afternoon">
+  <div class="container">
+    <div class="day-part__header">
+      <div class="day-part__icon">📋</div>
+      <div>
+        <h2 class="day-part__title">Planning Your Experience</h2>
+      </div>
+    </div>
+
+    <div class="grid grid-cols-1 grid-cols-2" style="gap: var(--space-6);">
+      {{/* Cost Breakdown */}}
+      {{ with .Params.costs }}
+      <div class="cost-breakdown">
+        <div class="cost-breakdown__header">
+          <h3 class="cost-breakdown__title">💰 Budget Breakdown</h3>
+        </div>
+        <div class="cost-breakdown__body">
+          {{ range . }}
+          <div class="cost-item">
+            <span class="cost-item__name">
+              <span>{{ .icon | default "•" }}</span>
+              {{ .item }}
+            </span>
+            <span class="cost-item__price">{{ .price }}</span>
+          </div>
+          {{ end }}
+        </div>
+        {{ with $.Params.totalCost }}
+        <div class="cost-total">
+          <span class="cost-total__label">Estimated Total</span>
+          <span class="cost-total__amount">{{ . }}</span>
+        </div>
+        {{ end }}
+      </div>
+      {{ end }}
+
+      {{/* Best Time to Go */}}
+      {{ with .Params.bestTime }}
+      <div>
+        <h3 style="display: flex; align-items: center; gap: var(--space-2); margin-bottom: var(--space-4);">
+          <span>📅</span> Best Time to Go
+        </h3>
+        <div class="widget">
+          <p><strong>Peak Season:</strong> {{ .peak }}</p>
+          <p><strong>Best For Solo:</strong> {{ .solo }}</p>
+          <p><strong>Avoid:</strong> {{ .avoid }}</p>
+          {{ with .tip }}
+          <div class="pro-tip" style="margin-top: var(--space-3);">
+            <div class="pro-tip__icon">💡</div>
+            <div class="pro-tip__content">
+              <p class="pro-tip__text">{{ . }}</p>
+            </div>
+          </div>
+          {{ end }}
+        </div>
+      </div>
+      {{ end }}
+    </div>
+
+    {{/* What to Bring */}}
+    {{ with .Params.packing }}
+    <div style="margin-top: var(--space-6);">
+      <h3 style="display: flex; align-items: center; gap: var(--space-2); margin-bottom: var(--space-4);">
+        <span>🎒</span> What to Bring
+      </h3>
+      <div class="info-pills">
+        {{ range . }}
+        <span class="info-pill">
+          <span class="info-pill__icon">{{ .icon | default "✓" }}</span>
+          <span class="info-pill__value">{{ .item }}</span>
+        </span>
+        {{ end }}
+      </div>
+    </div>
+    {{ end }}
+  </div>
+</section>
+
+<div class="container">
+  {{/* Solo Tips */}}
+  {{ with .Params.soloTips }}
+  <section class="section--sm">
+    <h2>Solo Traveler Tips</h2>
+    {{ range . }}
+    <div class="local-insight" style="margin-bottom: var(--space-4);">
+      <div class="local-insight__header">
+        <span class="local-insight__badge">{{ .category | default "Tip" }}</span>
+        <span class="local-insight__title">{{ .title }}</span>
+      </div>
+      <p class="local-insight__content">{{ .content }}</p>
+    </div>
+    {{ end }}
+  </section>
+  {{ end }}
+
+  {{/* Reality Check */}}
+  {{ with .Params.reality }}
+  <div class="reality-check">
+    <h3 class="reality-check__title">What It's Really Like</h3>
+    <div class="reality-check__grid">
+      {{ with .expect }}
+      <div class="reality-item reality-item--expect">
+        <div class="reality-item__icon">✓</div>
+        <div class="reality-item__content">
+          <h4>Expect This</h4>
+          <p>{{ . }}</p>
+        </div>
+      </div>
+      {{ end }}
+      {{ with .surprise }}
+      <div class="reality-item reality-item--surprise">
+        <div class="reality-item__icon">!</div>
+        <div class="reality-item__content">
+          <h4>Might Surprise You</h4>
+          <p>{{ . }}</p>
+        </div>
+      </div>
+      {{ end }}
+      {{ with .challenge }}
+      <div class="reality-item reality-item--challenge">
+        <div class="reality-item__icon">⚡</div>
+        <div class="reality-item__content">
+          <h4>The Challenge</h4>
+          <p>{{ . }}</p>
+        </div>
+      </div>
+      {{ end }}
+    </div>
+  </div>
+  {{ end }}
+
+  {{/* Main Content */}}
+  <div class="content">
+    {{ .Content }}
+  </div>
+
+  {{/* FAQs */}}
+  {{ with .Params.faqs }}
+  <section class="section--sm">
+    <h2>Common Questions</h2>
+    {{ range . }}
+    <div class="featured-snippet" style="margin-bottom: var(--space-4);">
+      <h3 class="featured-snippet__title">{{ .question }}</h3>
+      <p>{{ .answer }}</p>
+    </div>
+    {{ end }}
+  </section>
+  {{ end }}
+
+  {{/* Related Experiences */}}
+  {{ with .Params.related }}
+  <section class="scroll-section">
+    <div class="scroll-section__header">
+      <h2 class="scroll-section__title">Similar Experiences</h2>
+      <a href="/experiences/" class="scroll-section__link">See all →</a>
+    </div>
+    <div class="scroll-container">
+      {{ range . }}
+      <a href="{{ .link }}" class="scroll-card" style="text-decoration: none;">
+        {{ with .image }}
+        <img src="{{ . }}" alt="{{ $.title }}" class="scroll-card__image" loading="lazy">
+        {{ end }}
+        <div class="scroll-card__body">
+          <span class="scroll-card__tag">{{ .location }}</span>
+          <h3 class="scroll-card__title" style="color: var(--color-gray-900);">{{ .title }}</h3>
+          <p class="scroll-card__subtitle">{{ .budget }}</p>
+        </div>
+      </a>
+      {{ end }}
+    </div>
+  </section>
+  {{ end }}
+</div>
+
+{{ partial "bottom-nav.html" . }}
+{{ end }}
