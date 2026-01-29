@@ -378,6 +378,37 @@ When conditions align, aurora explode across the entire sky - rippling curtains 
 
 ---
 
+## Learn from Aurora Chasers
+
+These creators have captured stunning Northern Lights content and share their best tips.
+
+### Kritika Goel - Iceland Northern Lights
+
+**The video**: Kritika's "Iceland Northern Lights" (720K+ views) captures a successful aurora hunt with cinematic quality.
+
+**Her insider tips**:
+- Book accommodation outside Reykjavik (less light pollution)
+- The Golden Circle has great dark spots near attractions
+- Bring hand warmers for camera batteries
+- Don't just photograph - take time to watch with your eyes
+
+**Watch**: [Iceland Northern Lights](https://youtube.com/kritikagoel) | [@kritikagoel](https://instagram.com/kritikagoel)
+
+---
+
+### Young Adventuress - Arctic Expert
+
+**Why she knows**: Liz leads polar expeditions and has seen more auroras than most. Her New Zealand-based perspective covers both Northern and Southern Lights.
+
+**Her advice**:
+- Southern Lights (Aurora Australis) are just as spectacular but less crowded
+- Svalbard offers 24-hour darkness in winter for extended viewing
+- Group expedition cruises combine aurora with wildlife
+
+**Find her**: [youngadventuress.com](https://www.youngadventuress.com/) | [@youngadventuress](https://instagram.com/youngadventuress)
+
+---
+
 ## The Moment
 
 You're standing in -20°C cold, but you're not shivering - adrenaline and wonder have taken over. The sky begins to glow green, then the glow intensifies, then suddenly the entire northern horizon ripples with curtains of light.

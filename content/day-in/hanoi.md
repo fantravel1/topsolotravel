@@ -297,6 +297,43 @@ Hanoi is generally very safe, even late at night.
 
 ---
 
+## Food Experts: Hanoi Street Food Masters
+
+These creators have documented Hanoi's incredible food scene in detail.
+
+### Mark Wiens - Vietnam Street Food Authority
+
+**Why he's the expert**: Mark Wiens has visited Vietnam 10+ times and filmed hundreds of street food experiences. His Hanoi videos have millions of views collectively.
+
+**His must-try Hanoi foods**:
+- **Bun cha Obama**: The noodles Obama ate with Anthony Bourdain
+- **Bánh cuốn**: Steamed rice rolls with crispy shallots
+- **Bún riêu**: Crab tomato noodle soup (his Vietnamese wife's favorite)
+- **Cháo**: Rice porridge breakfast
+
+**His secret spots** (from videos):
+- Pho Gia Truyen (Bat Dan Street) - legendary pho
+- Xoi Yen (sticky rice, open early morning)
+- Bánh mì 25 (best banh mi in Old Quarter)
+
+**Watch**: His "Ultimate Vietnamese Street Food" playlist covers 100+ dishes.
+
+**Find him**: [YouTube: Mark Wiens](https://youtube.com/markwiens) | [@migrationology](https://instagram.com/migrationology)
+
+---
+
+### Sonny Side (Best Ever Food Review Show)
+
+**Why he's relevant**: Sonny Side's irreverent, entertaining style makes Vietnamese street food accessible for first-timers. His Hanoi episode is one of his most-watched.
+
+**His approach**: Try everything, even the weird stuff. His motto: "Would you eat this for $5?"
+
+**Best for**: Travelers who want entertainment with their food education.
+
+**Watch**: His Hanoi episode covers bia hoi culture, egg coffee, and late-night street food.
+
+---
+
 ## Hanoi's Gift to Solo Travelers
 
 Hanoi doesn't slow down for you. The motorbikes keep coming, the vendors keep calling, the city keeps living exactly as it has for a thousand years. And that's the gift.
