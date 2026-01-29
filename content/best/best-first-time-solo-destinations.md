@@ -339,6 +339,62 @@ What makes a destination perfect for first-time solo travelers?
 
 ---
 
+## Expert Advice for First-Timers
+
+These creators specialize in helping nervous first-time solo travelers take the leap.
+
+### Hey Nadine - Rookie Mistake Prevention
+
+**Why she's perfect for beginners**: Nadine's "15 Rookie Travel Mistakes" video (2.4M+ views) covers exactly what first-timers do wrong - and how to avoid it.
+
+**Her top tips for first trips**:
+- Pack half of what you think you need
+- Don't exchange currency at airports
+- Take photos of your passport and cards
+- Learn two phrases in the local language: "hello" and "thank you"
+
+**Essential videos**:
+- "15 Rookie Travel Mistakes" - What NOT to do
+- "What NOT to Pack" - Lighten your load
+- "Solo Travel Safety Tips" - Stay safe
+
+**Watch**: [youtube.com/heynadine](https://youtube.com/heynadine) | [@heynadine](https://instagram.com/heynadine)
+
+---
+
+### Be My Travel Muse - Building Solo Confidence
+
+**Why she's perfect for beginners**: Kristin Addis wrote the book "Conquering Mountains" specifically about overcoming fear and building confidence as a solo traveler.
+
+**Her philosophy**: Solo travel is a skill you can learn. Start easy, build up.
+
+**Her starter destination picks**:
+- Thailand (her #1 recommendation for true beginners)
+- Portugal (European starter)
+- Costa Rica (adventure with safety net)
+
+**Key insight**: *"Your first trip doesn't have to be to the edge of the earth. It just has to be alone."*
+
+**Find her**: [bemytravelmuse.com](https://www.bemytravelmuse.com/) | [@bemytravelmuse](https://instagram.com/bemytravelmuse)
+
+---
+
+### Solo With Sav - "It's OK to Be Scared"
+
+**Why she's perfect for beginners**: Savanna's entire platform is built around the nervous first-timer. Her mission: "Show women it's okay to be scared and go anyway."
+
+**Her approach**:
+- Acknowledge the fear (it's normal!)
+- Start with weekend trips
+- Build from domestic to international
+- Document your growth
+
+**Best for**: Women who need extra encouragement to take the first step.
+
+**Find her**: [@solowithsav](https://instagram.com/solowithsav)
+
+---
+
 ## Tips for First-Time Solo Travelers
 
 ### Before You Go

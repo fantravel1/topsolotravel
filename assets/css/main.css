@@ -869,15 +869,31 @@ p {
   margin-top: var(--space-8);
   padding-top: var(--space-6);
   text-align: center;
-  font-size: var(--text-xs);
-  color: var(--color-gray-500);
+  font-size: var(--text-sm);
+  color: var(--color-gray-300);
+}
+
+.footer__bottom p {
+  margin-bottom: var(--space-2);
 }
 
 .footer__attribution {
-  margin-top: var(--space-4);
+  margin-top: var(--space-3);
   font-size: var(--text-xs);
-  color: var(--color-gray-600);
+  color: var(--color-gray-400);
   line-height: var(--leading-relaxed);
+}
+
+.footer__attribution a {
+  color: var(--color-gray-300);
+  text-decoration: underline;
+  text-decoration-color: var(--color-gray-600);
+  text-underline-offset: 2px;
+}
+
+.footer__attribution a:hover {
+  color: var(--color-white);
+  text-decoration-color: var(--color-white);
 }
 
 /* --------------------------------------------------------------------------
