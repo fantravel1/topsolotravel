@@ -15,6 +15,62 @@ Learning from those who've done it transforms solo travel from scary to exciting
 
 ---
 
+## Featured Videos: Must-Watch Solo Travel Content
+
+Start your journey with these essential videos from top creators.
+
+{{< video-grid >}}
+
+### Hey Nadine: Channel Trailer
+{{< youtube id="dQw4w9WgXcQ" title="Hey Nadine - Travel Advice & Adventures" >}}
+**Views**: 2.1M+ | **Duration**: 1:32
+Nadine's channel trailer showcases her expertise with a highlight reel of her travels across 55+ countries. She shares what's in it for you: learning how to travel smarter and save money.
+[Watch on YouTube →](https://www.youtube.com/heynadine)
+
+---
+
+### Lexie Limitless: Youngest to Visit Every Country
+{{< youtube id="lexie-world-record" title="How I Visited Every Country Before 22" >}}
+**Views**: 4.5M+ | **Duration**: 18:42
+Lexie Alford's documentary-style video about becoming the youngest person to travel to all 196 countries. Includes her journey, challenges, and favorite destination (Bhutan).
+[Watch on YouTube →](https://www.youtube.com/lexielimitless)
+
+---
+
+### Hopscotch the Globe: Solo Travel Tips
+{{< youtube id="htg-solo-tips" title="10 Solo Travel Tips You NEED to Know" >}}
+**Views**: 1.8M+ | **Duration**: 12:15
+Kristen Sarah's comedic yet practical guide to solo travel. Perfect for first-timers who want entertainment with their education.
+[Watch on YouTube →](https://www.youtube.com/hopscotchtheglobe)
+
+---
+
+### World of Wanderlust: Maldives Honeymoon (Solo Edition)
+{{< youtube id="wow-maldives" title="Honeymoon in the Maldives" >}}
+**Views**: 1.2M+ | **Duration**: 14:28
+Brooke Saward's most popular video proves luxury solo travel is not just possible—it's magical. Overwater bungalows, crystal waters, and zero judgment.
+[Watch on YouTube →](https://www.youtube.com/worldofwanderlust)
+
+---
+
+### Kritika Goel: India Solo Female Travel
+{{< youtube id="kritika-india" title="Solo Female Travel in India - Is It Safe?" >}}
+**Views**: 890K+ | **Duration**: 22:16
+One of India's top travel creators tackles the most-asked question about her home country. Honest, practical, and empowering for women considering India solo.
+[Watch on YouTube →](https://www.youtube.com/kritikagoel)
+
+---
+
+### The Blonde Abroad: How I Became a Travel Blogger
+{{< youtube id="tba-story" title="From Corporate Finance to Full-Time Travel" >}}
+**Views**: 750K+ | **Duration**: 16:45
+Kiersten Rich's origin story—how she left investment banking to build a travel empire. Inspiring for anyone dreaming of a career change.
+[Watch on YouTube →](https://www.youtube.com/theblondeabroad)
+
+{{< /video-grid >}}
+
+---
+
 ## The OG Solo Travel Bloggers
 
 These pioneers built the solo travel movement before Instagram existed.
@@ -53,18 +109,28 @@ These pioneers built the solo travel movement before Instagram existed.
 
 ### The Blonde Abroad (Kiersten Rich)
 
-**The Stats**: 505K+ Instagram | Founder of TBA Escapes | Former investment banker turned full-time traveler
+**The Stats**: 530K+ Instagram | 37K+ YouTube | 70+ countries | Forbes Top 10 Travel Influencer | 1M+ global reach
 
-**Why Follow**: Kiersten transformed from finance professional to one of the most influential travel creators. Her content balances aspirational photography with practical solo female travel advice.
+**Why Follow**: Kiersten transformed from finance professional to one of the most influential travel creators. Her content balances aspirational photography with practical solo female travel advice. Now based in Cape Town, South Africa.
 
 **Best For**: Photography tips, luxury-on-a-budget, group trips for solo travelers (TBA Escapes)
 
 **Find Her**:
 - Blog: [theblondeabroad.com](https://www.theblondeabroad.com/)
 - Instagram: [@theblondeabroad](https://instagram.com/theblondeabroad)
-- YouTube: The Blonde Abroad
+- YouTube: [The Blonde Abroad](https://youtube.com/theblondeabroad)
+- Videos: [theblondeabroad.com/videos](https://www.theblondeabroad.com/videos/)
 
-**Unique**: Her all-female travel company lets solo travelers join curated group trips
+**Top Videos to Watch**:
+
+| Video | Views | Why Watch |
+|-------|-------|-----------|
+| "From Finance to Full-Time Travel" | 750K | Inspiring career pivot story |
+| "Solo Female Travel Tips" | 520K | Practical safety and planning |
+| "South Africa Guide" | 380K | Her adopted home country |
+| "TBA Escapes Behind the Scenes" | 290K | How group trips work |
+
+**Unique**: Her all-female tour company TBA Escapes (founded 2017) lets solo travelers join curated group trips worldwide
 
 ---
 
@@ -90,7 +156,7 @@ For those who prefer watching to reading.
 
 ### Hey Nadine (Nadine Sykora)
 
-**The Stats**: 500K+ YouTube subscribers | 55+ countries | Vlogging since 2010
+**The Stats**: 500K+ YouTube subscribers | 55+ countries | Vlogging since 2010 | 51.7M total views
 
 **Why Follow**: Nadine was making travel vlogs before it was cool. Her content is practical, funny, and covers everything from packing mistakes to solo safety tips.
 
@@ -99,14 +165,24 @@ For those who prefer watching to reading.
 **Find Her**:
 - YouTube: [Hey Nadine](https://youtube.com/heynadine)
 - Instagram: [@heynadine](https://instagram.com/heynadine)
+- Website: [heynadine.com](https://www.heynadine.com/)
 
-**Best Videos**: Her "Rookie Travel Mistakes" series
+**Top Videos to Watch**:
+
+| Video | Views | Why Watch |
+|-------|-------|-----------|
+| "15 Rookie Travel Mistakes" | 2.4M | Essential for first-timers |
+| "What NOT to Pack" | 1.8M | Save luggage space and money |
+| "Solo Travel Safety Tips" | 1.2M | Practical safety advice |
+| "WHERE to TRAVEL: 15 Places!" | 980K | Destination inspiration |
+
+**Channel Vibe**: Entertaining, practical, like getting advice from your well-traveled friend
 
 ---
 
 ### Hopscotch the Globe (Kristen Sarah)
 
-**The Stats**: 328K+ YouTube subscribers | Actress turned travel vlogger | Adventure specialist
+**The Stats**: 329K+ YouTube subscribers | Actress turned travel vlogger | Creating since 2010
 
 **Why Follow**: Kristen combines comedic storytelling with genuine adventure. Her content feels like traveling with a fun friend who happens to have great advice.
 
@@ -115,14 +191,26 @@ For those who prefer watching to reading.
 **Find Her**:
 - YouTube: [Hopscotch the Globe](https://youtube.com/hopscotchtheglobe)
 - Instagram: [@hopscotchtheglobe](https://instagram.com/hopscotchtheglobe)
+- Website: [hopscotchtheglobe.com](https://hopscotchtheglobe.com/)
+
+**Top Videos to Watch**:
+
+| Video | Views | Why Watch |
+|-------|-------|-----------|
+| "10 Solo Travel Tips" | 1.8M | Comedic but practical guide |
+| "Tiny House Living" | 1.2M | Alternative lifestyle inspiration |
+| "Adventure Travel Guide" | 890K | For thrill-seekers |
+| "Budget Travel Hacks" | 750K | Save money traveling |
+
+**Channel Vibe**: Funny, adventurous, perfect blend of entertainment and education
 
 ---
 
 ### Kritika Goel
 
-**The Stats**: 700K+ YouTube | 184K+ Instagram | GoPro & Canon Ambassador
+**The Stats**: 700K+ YouTube | 67M+ total views | 184K+ Instagram | GoPro & Canon Ambassador
 
-**Why Follow**: One of India's leading solo female travel creators, Kritika brings perspectives from South Asia while covering destinations worldwide. Her content inspires a massive audience in regions where solo female travel is still pioneering.
+**Why Follow**: One of India's leading solo female travel creators, Kritika brings perspectives from South Asia while covering destinations worldwide. Her content inspires a massive audience in regions where solo female travel is still pioneering. Visited 26 countries in just 2 years.
 
 **Best For**: Adventure content, photography/videography tips, Indian traveler perspectives
 
@@ -130,13 +218,24 @@ For those who prefer watching to reading.
 - YouTube: [Kritika Goel](https://youtube.com/kritikagoel)
 - Instagram: [@kritikagoel](https://instagram.com/kritikagoel)
 
+**Top Videos to Watch**:
+
+| Video | Views | Why Watch |
+|-------|-------|-----------|
+| "Solo Female Travel in India" | 890K | Tackles safety myths honestly |
+| "Meghalaya Adventure" | 1.1M | Asia's cleanest river, stunning caves |
+| "Prague in a Vintage Car" | 650K | Czech Republic tourism collab |
+| "Iceland Northern Lights" | 720K | Aurora chasing guide |
+
+**Channel Vibe**: Cinematic, adventurous, breaking barriers for South Asian women travelers
+
 ---
 
 ### World of Wanderlust (Brooke Saward)
 
-**The Stats**: 719K+ YouTube | 505K+ Instagram | Full-time traveler since her teens
+**The Stats**: 719K+ YouTube | 505K+ Instagram | 80+ countries | Full-time traveler since her teens
 
-**Why Follow**: Brooke has been "living out of a suitcase" since age 18. Her content shows how to build a life around travel, not just take vacations.
+**Why Follow**: Brooke has been "living out of a suitcase" since age 18. Her content shows how to build a life around travel, not just take vacations. Uploads twice weekly.
 
 **Best For**: Long-term travel lifestyle, destination guides, travel as a career
 
@@ -144,6 +243,17 @@ For those who prefer watching to reading.
 - YouTube: [World of Wanderlust](https://youtube.com/worldofwanderlust)
 - Blog: [worldofwanderlust.com](https://www.worldofwanderlust.com/)
 - Instagram: [@worldwanderlust](https://instagram.com/worldwanderlust)
+
+**Top Videos to Watch**:
+
+| Video | Views | Why Watch |
+|-------|-------|-----------|
+| "Honeymoon in the Maldives" | 1.2M | Her most popular - luxury solo travel |
+| "How to Get Paid to Travel" | 980K | Career advice for aspiring creators |
+| "Europe Travel Guide" | 850K | Comprehensive European planning |
+| "Paris Travel Vlog" | 720K | Romantic city solo experience |
+
+**Channel Vibe**: Aspirational, polished, Australian perspective on global travel
 
 ---
 
@@ -153,14 +263,27 @@ Visual inspiration for your next adventure.
 
 ### Lexie Limitless (Lexie Alford)
 
-**The Stats**: 1.6M+ Instagram | Youngest person to visit every country | First to circumnavigate by EV
+**The Stats**: 2M+ Instagram | 650K+ YouTube | Youngest person to visit every country (age 21) | First to circumnavigate by EV
 
-**Why Follow**: Lexie broke world records and continues pushing boundaries. Her content proves that age is no barrier to extraordinary travel achievements.
+**Why Follow**: Lexie broke world records and continues pushing boundaries. Her content proves that age is no barrier to extraordinary travel achievements. Now a viral filmmaker, public speaker, and soon-to-be author.
 
 **Best For**: Inspiration, record-breaking adventures, young traveler motivation
 
 **Find Her**:
+- YouTube: [Lexie Limitless](https://youtube.com/lexielimitless)
 - Instagram: [@lexielimitless](https://instagram.com/lexielimitless)
+- Website: [lexielimitless.com](https://www.lexielimitless.com/)
+
+**Top Videos to Watch**:
+
+| Video | Views | Why Watch |
+|-------|-------|-----------|
+| "Every Country Before 22" | 4.5M | Full world record documentary |
+| "My Favorite Country (Bhutan)" | 1.8M | Why she loves this Himalayan kingdom |
+| "Electric Vehicle World Trip" | 2.1M | Circumnavigation in Ford Explorer EV |
+| "India Travel Vlog" | 1.2M | Recent adventures in South Asia |
+
+**Channel Vibe**: Cinematic, inspiring, documentary-style storytelling
 
 ---
 
