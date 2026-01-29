@@ -58,6 +58,21 @@ Contrary to honeymoon reputation, the Maldives increasingly welcomes solo travel
 
 **Budget**: $1,000-3,000/night
 
+{{< influencer-tip >}}
+### Expert Insight: World of Wanderlust
+
+**Brooke Saward** proved solo Maldives trips work with her viral "Honeymoon in the Maldives" video (1.2M+ views). Her key takeaways:
+
+- **Don't feel awkward**: Staff are trained for all guest types
+- **Book water villa**: The views are worth it solo
+- **Spa daily**: This is YOUR trip to indulge
+- **Sunset dolphin cruise**: Often the most magical solo moment
+
+*"The Maldives isn't just for couples. It's for anyone who deserves paradise."* — Brooke Saward
+
+**Watch**: [Solo Trip to the Maldives](https://youtube.com/worldofwanderlust) | [@worldwanderlust](https://instagram.com/worldwanderlust)
+{{< /influencer-tip >}}
+
 ---
 
 ## Japan

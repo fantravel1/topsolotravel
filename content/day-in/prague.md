@@ -313,6 +313,42 @@ If you have more time:
 
 ---
 
+## Learn from the Experts: Prague Insiders
+
+These solo travel creators know Prague intimately and share their insider knowledge.
+
+### Adventurous Kate - Prague Resident
+
+**Why she's the expert**: Kate McCulley, the OG solo female travel blogger, moved to Prague and now calls it home. She's written extensively about living here, not just visiting.
+
+**Her Prague tips**:
+- Best neighborhoods for long-term stays
+- How to navigate Czech bureaucracy
+- Local favorites vs tourist traps
+- Seasonal events only residents know about
+
+**Watch/Read**: Her "Living in Prague" series covers everything from finding an apartment to making Czech friends.
+
+**Find her**: [adventurouskate.com](https://www.adventurouskate.com/) | [@adventurouskate](https://instagram.com/adventurouskate)
+
+---
+
+### Kritika Goel - Prague Vintage Car Experience
+
+**The connection**: Kritika partnered with Czech Tourism for an exclusive Prague experience, including a vintage car tour through the city's historic streets.
+
+**Her Prague video** (650K+ views):
+- Vintage car ride through Old Town
+- Hidden courtyards and photo spots
+- Czech beer spa experience (yes, you bathe in beer)
+- Castle views from unique angles
+
+**Why watch**: Her cinematography captures Prague's fairy-tale quality in ways photos can't.
+
+**Find her**: [YouTube: Kritika Goel](https://youtube.com/kritikagoel) | [@kritikagoel](https://instagram.com/kritikagoel)
+
+---
+
 ## Prague's Gift to Solo Travelers
 
 Prague doesn't demand grand gestures. It rewards quiet appreciation - the way morning light hits Gothic spires, the first sip of perfectly poured Pilsner, the echo of your footsteps in empty medieval lanes.
